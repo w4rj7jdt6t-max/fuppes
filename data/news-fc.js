@@ -1,0 +1,211 @@
+window.FUPPES_DATA = window.FUPPES_DATA || {};
+window.FUPPES_DATA["news-fc"] = {
+ "updated": "2026-11-13T12:54:49.691Z",
+ "items": [
+  {
+   "title": "Leihabbruch im Winter: Wildes Gerücht um Moore – und ein Hoffnungsschimmer",
+   "link": "https://geissblog.koeln/2026/11/leihabbruch-im-winter-wildes-geruecht-um-moore-und-ein-hoffnungsschimmer/",
+   "summary": "Mikey Moore ist noch nicht der Unterschiedsspieler, den sich der 1. FC Köln erhofft hat. In England machen nun Gerüchte über einen Leihabbruch im Winter... Der Beitrag Leihabbruch im Winter: Wildes Gerücht um Moore – und ein Hoffnungsschimmer erschien zuerst auf GEISSBLOG .",
+   "source": "GEISSBLOG",
+   "date": "2026-11-13T10:30:00.000Z",
+   "tags": [
+    "Gerücht",
+    "Leihe"
+   ]
+  },
+  {
+   "title": "Risiko dank Jackpot? FC-Spagat für Winter-Transfers – diese Rolle spielt El Mala",
+   "link": "https://geissblog.koeln/2026/11/risiko-dank-jackpot-fc-spagat-fuer-winter-transfers-diese-rolle-spielt-el-mala/",
+   "summary": "Der 1. FC Köln braucht finanziellen Spielraum für Verstärkungen auf dem Winter-Transfermarkt. Finanzchef Philipp Türoff signalisiert seine Bereitschaft. Welche Rolle Said El Mala dabei spielt.... Der Beitrag Risiko dank Jackpot? FC-Spagat für Winter-Transfers – diese Rolle spielt",
+   "source": "GEISSBLOG",
+   "date": "2026-11-12T23:01:00.000Z",
+   "tags": [
+    "Gerücht"
+   ]
+  },
+  {
+   "title": "Dank Transfers und Vermarktung: FC toppt Europapokal-Rekord!",
+   "link": "https://geissblog.koeln/2026/11/dank-transfers-und-vermarktung-fc-toppt-europapokal-rekord/",
+   "summary": "Der 1. FC Köln kann auf der Mitgliederversammlung in der kommenden Woche einen Umsatzrekord präsentieren. Für Finanzchef Philipp Türoff ist das jedoch nur ein weiterer... Der Beitrag Dank Transfers und Vermarktung: FC toppt Europapokal-Rekord! erschien zuerst auf GEISSBLOG .",
+   "source": "GEISSBLOG",
+   "date": "2026-11-12T16:00:00.000Z",
+   "tags": [
+    "Transfer"
+   ]
+  },
+  {
+   "title": "Ex-FC-Trainer derzeit vereinlos: Legat über Baumgart: „Macht immer einen Fehler“",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNEF0b1pDcGQ4UF91Wjh0ZTVnTW9XRzIzWjBRMnVNV0pJb3MxU2RBM2F3YXhPOU9MbXBUUUdiU3hMczNTb0RDb2VyYUNLV2xES0tCRTBnMGtuRGNITU1oN0FrcXk5dm5lb0NzYUltX0oxb0lXN3BmQlhVZFVfUzBxaDRYcXhHUHpGWGxhQTdVSDhQcGUxRHJ0MTFpWUdsVjYtLWRlT3BBUDdiS3pm?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPNEF0b1pDcGQ4UF91Wjh0ZTVnTW9XRzIzWjBRMnVNV0pJb3MxU2RBM2F3YXhPOU9MbXBUUUdiU3hMczNTb0RDb2VyYUNLV2xES0tCRTBnMGtuRGNITU1oN0FrcXk5dm5lb0NzYUltX0oxb0lXN3BmQlhVZFVfUzBxaDRYcXhHUHpGWGxhQTdVSDhQcGUxRHJ0MTFpWUdsVjYtLWRlT3BBUDdiS3",
+   "source": "Express",
+   "date": "2026-11-12T15:08:26.000Z",
+   "tags": [
+    "Verein"
+   ]
+  },
+  {
+   "title": "Neue Nummer: El Mala auch beim DFB auf Poldis Spuren – Kader-Entscheidung gefallen",
+   "link": "https://geissblog.koeln/2026/11/neue-nummer-el-mala-auch-beim-dfb-auf-poldis-spuren-kader-entscheidung-gefallen/",
+   "summary": "Beim 1. FC Köln hat Said El Mala die legendäre Rückennummer 10 von Lukas Podolski übernommen. Bei der Nationalmannschaft gibt es nun ebenfalls eine Parallele:... Der Beitrag Neue Nummer: El Mala auch beim DFB auf Poldis Spuren – Kader-Entscheidung gefallen erschien zuerst auf GEI",
+   "source": "GEISSBLOG",
+   "date": "2026-11-12T13:30:00.000Z",
+   "tags": [
+    "Personal"
+   ]
+  },
+  {
+   "title": "„Wurde laut in der Kabine“: Erster FC-Doppelpack nach Standpauke",
+   "link": "https://geissblog.koeln/2026/11/wurde-laut-in-der-kabine-erster-fc-doppelpack-nach-standpauke/",
+   "summary": "Die Frauen des 1. FC Köln haben RB Leipzig am Montag mit 3:1 geschlagen und kurz vor der Pause einen Rückstand gedreht. Zufrieden war Trainerin... Der Beitrag „Wurde laut in der Kabine“: Erster FC-Doppelpack nach Standpauke erschien zuerst auf GEISSBLOG .",
+   "source": "GEISSBLOG",
+   "date": "2026-11-12T11:30:00.000Z",
+   "tags": [
+    "Verein"
+   ]
+  },
+  {
+   "title": "Nach FC-Kritik: Wagner lädt Podolski ein",
+   "link": "https://geissblog.koeln/2026/11/nach-fc-kritik-wagner-laedt-podolski-ein/",
+   "summary": "Lukas Podolski hat moniert, dass dem 1. FC Köln „eine klare Spielidee“ fehle. Trainer René Wagner reagiert mit einer Einladung an die Vereinslegende. Auch am... Der Beitrag Nach FC-Kritik: Wagner lädt Podolski ein erschien zuerst auf GEISSBLOG .",
+   "source": "GEISSBLOG",
+   "date": "2026-11-11T18:00:00.000Z",
+   "tags": [
+    "Verein"
+   ]
+  },
+  {
+   "title": "Gerüchte um Trainer und Kaderplaner: Wie viel Bewegung droht dem Effzeh wirklich?",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcEYyakYtUU84eVJoaS02MjNNY2Nod0tjRi1NUlpaUmJXVXUyVjFjaFRlbF9fcWlQWHlsb1JWTkwzdmJENkFQQjRiY0tWTndJVEtrYUZJcWRMd0swQlF6Mk1WeG5hTnFRZmdpTjUzdHRDVzVDQkhlbVN0WXppOVdsaEtfVENUa2hzcXZVLVVrVkpCNDRobWV4NEZyaGVzVkZrV1E?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNcEYyakYtUU84eVJoaS02MjNNY2Nod0tjRi1NUlpaUmJXVXUyVjFjaFRlbF9fcWlQWHlsb1JWTkwzdmJENkFQQjRiY0tWTndJVEtrYUZJcWRMd0swQlF6Mk1WeG5hTnFRZmdpTjUzdHRDVzVDQkhlbVN0WXppOVdsaEtfVENUa2hzcXZVLVVrVkpCNDRobWV4NEZyaGVzVkZrV1E?oc=5\" targ",
+   "source": "90min.de",
+   "date": "2026-11-11T11:55:58.000Z",
+   "tags": [
+    "Gerücht",
+    "Verein"
+   ]
+  },
+  {
+   "title": "DFB-Team startet mit Trainings-Doppelschicht - aber ohne El Mala",
+   "link": "https://www.kicker.de/dfb-team-startet-mit-trainings-doppelschicht-aber-ohne-el-mala-1270507/artikel#omrss",
+   "summary": "Die deutsche Nationalmannschaft hat die Vorbereitung auf die wichtigen November-Länderspiele aufgenommen. Beim intensiven Start in Herzogenaurach fehlte Bundestrainer Jürgen Klopp mit Said El Mala nur einer von 24 Nominierten.",
+   "source": "kicker",
+   "date": "2026-11-10T16:37:04.000Z",
+   "tags": [
+    "Personal",
+    "Verein"
+   ]
+  },
+  {
+   "title": "Endspiel für Wagner?: Das sind die Trainer-Szenarien beim 1. FC Köln",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQb3J0MlkyTjZQc0MtbS1uc3RNVGRGZGd0M1lMaHJQdE1TNXlsM25iX3FPc3JsUkZVSGNrTE01YUJlSG9Ca2h5bGMyRmVGX3V4c0pIQjhDNGh4clFMUnRQQXROalRKRW13b3dMSmJZbVQ4bjNGRjE1VjVSemQ5Zzdhckg4c29kaXQ1Y3l6NzFBUWlSWkhpUFlwQ0ZtMmhsbnRPSjlfNGlnSk5ybl9ORDNTRUxUYTJMdnhrYzUyUEc5VUdnQQ?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQb3J0MlkyTjZQc0MtbS1uc3RNVGRGZGd0M1lMaHJQdE1TNXlsM25iX3FPc3JsUkZVSGNrTE01YUJlSG9Ca2h5bGMyRmVGX3V4c0pIQjhDNGh4clFMUnRQQXROalRKRW13b3dMSmJZbVQ4bjNGRjE1VjVSemQ5Zzdhckg4c29kaXQ1Y3l6NzFBUWlSWkhpUFlwQ0ZtMmhsbnRPSjlfNGlnSk5ybl",
+   "source": "Express",
+   "date": "2026-11-10T16:07:08.000Z",
+   "tags": [
+    "Gerücht",
+    "Verein"
+   ]
+  },
+  {
+   "title": "Im Derby vom Feld getragen: Skhiri sorgt für Verletzungsschock beim 1. FC Köln",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMHcyMGVqaTd4T0hSc0hMejVyQm12Q251Sk5YMUZhdmFPbmc3OEtWWTdKNE50X3QyVGFWdVFteEFpOENVazZlUFJnczdvdG1kZWhaR2VPWXBObTZnR1pjX2FoRDhqenI0S0tKLVpOQ19iLWdkR1hSSWFwODhVMWJHMzNZamhWUFNGbFNacUxWUDd0ZkhOaEFFMF83dlpMYWVTQnJBNA?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNMHcyMGVqaTd4T0hSc0hMejVyQm12Q251Sk5YMUZhdmFPbmc3OEtWWTdKNE50X3QyVGFWdVFteEFpOENVazZlUFJnczdvdG1kZWhaR2VPWXBObTZnR1pjX2FoRDhqenI0S0tKLVpOQ19iLWdkR1hSSWFwODhVMWJHMzNZamhWUFNGbFNacUxWUDd0ZkhOaEFFMF83dlpMYWVTQnJBNA?oc=5\" t",
+   "source": "n-tv.de",
+   "date": "2026-11-10T12:53:27.000Z",
+   "tags": [
+    "Personal"
+   ]
+  },
+  {
+   "title": "1. FC Köln - Trainer-Beben? Klare Effzeh-Forderung an Rene Wagner enthüllt",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOY1hhS3Q1QlV4SGgxUURqUVpKMGNmUm9menZBT011ZkJQQXg5WDJ6bWNnT09DdzYza2x3VFBKUGtBQUpqUlNJem1EZzRmWlAwTTFjYTVkZG9mN1lLeVVjZEdDRlNDN2dJeFNzZWdGeTF1VWNmX0ZLamJoeEROVy1hWWh5MC1BTmNsZGdVcjJEWURjTDk2R1FZQl92bFJkZ0pRaTlvQ0pZUFVuMlgzN3hrMkRB?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOY1hhS3Q1QlV4SGgxUURqUVpKMGNmUm9menZBT011ZkJQQXg5WDJ6bWNnT09DdzYza2x3VFBKUGtBQUpqUlNJem1EZzRmWlAwTTFjYTVkZG9mN1lLeVVjZEdDRlNDN2dJeFNzZWdGeTF1VWNmX0ZLamJoeEROVy1hWWh5MC1BTmNsZGdVcjJEWURjTDk2R1FZQl92bFJkZ0pRaTlvQ0pZUFVuMl",
+   "source": "sport.de",
+   "date": "2026-11-10T08:41:00.000Z",
+   "tags": [
+    "Gerücht",
+    "Verein"
+   ]
+  },
+  {
+   "title": "Kessler erhöht den Druck in Köln: \"Dann müssen wir die Punkte holen\"",
+   "link": "https://www.kicker.de/kessler-erhoeht-den-druck-in-koeln-dann-muessen-wir-die-punkte-holen-1270139/artikel#omrss",
+   "summary": "Nach dem 1:2 gegen Bayer Leverkusen monierte Sport-Geschäftsführer Thomas Kessler vor allem die Torausbeute des 1. FC Köln - und sendete eine unmissverständliche Botschaft für die Adventszeit.",
+   "source": "kicker",
+   "date": "2026-11-09T12:48:55.000Z",
+   "tags": [
+    "Verein"
+   ]
+  },
+  {
+   "title": "Transfer? El Mala erklärt Verbleib beim 1. FC Köln",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZXJzMjVxRkRWb0dJRGdJTVRraUMzTGxidWxaOEY1VkFhWHJzRHNSOXhPeElrQnk1bzZJQUlPdlhhaTh6RGxpNjRPTC1CQ0U2TkNhNUJlV2FOemFxb0dtREZBWkZCR24tdTJ2SlRsT1c2LUQtODM1ZnZRVDhJNjFmb1BsR1JHcjRCeVExaUFTdnFZcy1RcVZ5SmFIajU?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQZXJzMjVxRkRWb0dJRGdJTVRraUMzTGxidWxaOEY1VkFhWHJzRHNSOXhPeElrQnk1bzZJQUlPdlhhaTh6RGxpNjRPTC1CQ0U2TkNhNUJlV2FOemFxb0dtREZBWkZCR24tdTJ2SlRsT1c2LUQtODM1ZnZRVDhJNjFmb1BsR1JHcjRCeVExaUFTdnFZcy1RcVZ5SmFIajU?oc=5\" target=\"_bla",
+   "source": "SPORT1",
+   "date": "2026-11-09T09:25:00.000Z",
+   "tags": [
+    "Gerücht"
+   ]
+  },
+  {
+   "title": "\"Freut mich für die beiden\": Wagner lobt El-Mala-Brüder",
+   "link": "https://www.kicker.de/freut-mich-fuer-die-beiden-wagner-lobt-el-mala-brueder-1269933/video#omrss",
+   "summary": "Mit einer Kombination durch die Brüder Malek und Said El Mala gelang Köln gegen Leverkusen der späte Anschlusstreffer. Trainer René Wagner freut sich, auch wenn ihm ein Sieg lieber gewesen wäre.",
+   "source": "kicker",
+   "date": "2026-11-08T20:17:48.000Z",
+   "tags": [
+    "Verein"
+   ]
+  },
+  {
+   "title": "FC-Bosse warten auf El-Mala-Offerte - daran hängt der Deal noch!",
+   "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPQXBsWGNqdEtFb19HZF9tTzVZTi1TcVZCSUxBN3dJNV82RkhGRlRONXotMThSbTdjQkp1NTZZZmRzeDVVNi1USlpudnlVNDQzNGZ3SWlmWmZQMm13OXJxa3VIellLQjR0VUY2UUk5Sno3ejk2MTZ2VXRBb0hOb2d5dnRvdXBRSWlvVHhfdkM1NEVITHpOZDI4YVo1amdQQ2hIRVk3VGJjQTBBalZ4WXk0ZUxTUmwybUFHZWVtWXFxaTQ0ZmxxdUliQlUxMktnSFc0bFlpNHlXd2ZUckNleGtZY2pwUFViMGF1bFZ0UHhwVFRWT0x2TjFjbw?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-AFBVV95cUxPQXBsWGNqdEtFb19HZF9tTzVZTi1TcVZCSUxBN3dJNV82RkhGRlRONXotMThSbTdjQkp1NTZZZmRzeDVVNi1USlpudnlVNDQzNGZ3SWlmWmZQMm13OXJxa3VIellLQjR0VUY2UUk5Sno3ejk2MTZ2VXRBb0hOb2d5dnRvdXBRSWlvVHhfdkM1NEVITHpOZDI4YVo1amdQQ2hIRVk3VGJjQTBBal",
+   "source": "n-tv.de",
+   "date": "2026-11-07T09:38:23.000Z",
+   "tags": [
+    "Transfer"
+   ]
+  },
+  {
+   "title": "\"Dann hätten wir etwas Neues für die Bingo-Karte\": Wagner über Rolle von El Mala",
+   "link": "https://www.kicker.de/dann-haetten-wir-etwas-neues-fuer-die-bingo-karte-wagner-ueber-rolle-von-el-mala-1269294/video#omrss",
+   "summary": "Wie schon im September hat es Said El Mala erneut in den Kader von Jürgen Klopp für die anstehenden Nations-League-Spiele geschafft. Köln-Trainer René Wagner erklärt El Malas veränderte Rolle und freut sich über die Nominierung.",
+   "source": "kicker",
+   "date": "2026-11-06T17:51:57.000Z",
+   "tags": [
+    "Verein"
+   ]
+  },
+  {
+   "title": "\"Normal, dass man nicht direkt reinrutscht\": Wagners Personal-Update vor dem Duell mit Leverkusen",
+   "link": "https://www.kicker.de/normal-dass-man-nicht-direkt-reinrutscht-wagners-personal-update-vor-dem-duell-mit-leverkusen-1269205/artikel#omrss",
+   "summary": "Vor dem \"kleinen Derby\" gegen Bayer Leverkusen hat Kölns Trainer René Wagner wieder mehr personelle Optionen zur Verfügung. Das könnte gerade im Sturm Härtefälle bedeuten.",
+   "source": "kicker",
+   "date": "2026-11-06T13:29:19.000Z",
+   "tags": [
+    "Verein"
+   ]
+  },
+  {
+   "title": "Weniger Verletzte, mehr Festnahmen und mehr Pyro in deutschen Stadien",
+   "link": "https://www.kicker.de/weniger-verletzte-mehr-festnahmen-und-mehr-pyro-in-deutschen-stadien-1269031/artikel#omrss",
+   "summary": "Die Zentrale Informationsstelle Sporteinsätze (ZIS) zur Sicherheit in deutschen Fußball-Stadien hat ihren alljährlichen Bericht veröffentlicht. Allzu signifikante Änderungen im Vergleich zum Vorjahr waren nicht zu verzeichnen.",
+   "source": "kicker",
+   "date": "2026-11-06T11:10:11.000Z",
+   "tags": [
+    "Personal"
+   ]
+  },
+  {
+   "title": "1. FC Köln: Interesse von PSG - Entscheidung um möglichen El-Mala-Transfer gefallen",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVHpxRTFzNUpZNmVtZTlZZHRMWGRlN3hQUUI0ZTl1MWVETm91eFJzR20yakg0OWxwODJDRnNzNHVYQUttUXNBcUF6T0l0NHA5WHowaV80d0IwcWVqLVI2TzFfQXRlZE91X1NWX0FqVl8wMW9QTVMwdTE1STY1bmNPeVF0aTllNkFjem4tUkZVSHlidldQNjl4MTc3NlFpYTk2bDVxaHhCQXlkXzF5eUFKcS1TaGpDcjVYRW5obFBB?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPVHpxRTFzNUpZNmVtZTlZZHRMWGRlN3hQUUI0ZTl1MWVETm91eFJzR20yakg0OWxwODJDRnNzNHVYQUttUXNBcUF6T0l0NHA5WHowaV80d0IwcWVqLVI2TzFfQXRlZE91X1NWX0FqVl8wMW9QTVMwdTE1STY1bmNPeVF0aTllNkFjem4tUkZVSHlidldQNjl4MTc3NlFpYTk2bDVxaHhCQXlkXz",
+   "source": "sport.de",
+   "date": "2026-11-05T21:18:00.000Z",
+   "tags": [
+    "Gerücht"
+   ]
+  }
+ ]
+};
