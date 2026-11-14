@@ -15,17 +15,48 @@ const esc = (s) => String(s ?? "").replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "
 const safeImg = (u) => (typeof u === "string" && /^(https:\/\/|data:image\/)/.test(u) ? u : "");
 
 const mem = new Map();
+/* Nationalteams: einheitliche Flaggen (flagcdn.com), da OpenLigaDB teils fehlende oder http-Links liefert */
+const FLAG_CODES = {
+  "Deutschland": "de", "Niederlande": "nl", "Spanien": "es", "Frankreich": "fr", "Italien": "it", "England": "gb-eng", "Schottland": "gb-sct",
+  "Wales": "gb-wls", "Nordirland": "gb-nir", "Irland": "ie", "Portugal": "pt", "Belgien": "be", "Luxemburg": "lu", "Schweiz": "ch",
+  "Österreich": "at", "Dänemark": "dk", "Norwegen": "no", "Schweden": "se", "Finnland": "fi", "Island": "is", "Polen": "pl",
+  "Tschechien": "cz", "Slowakei": "sk", "Ungarn": "hu", "Slowenien": "si", "Kroatien": "hr", "Serbien": "rs", "Bosnien-Herzegowina": "ba",
+  "Montenegro": "me", "Nordmazedonien": "mk", "Albanien": "al", "Kosovo": "xk", "Griechenland": "gr", "Türkei": "tr", "Bulgarien": "bg",
+  "Rumänien": "ro", "Moldau": "md", "Ukraine": "ua", "Belarus": "by", "Litauen": "lt", "Lettland": "lv", "Estland": "ee", "Georgien": "ge",
+  "Armenien": "am", "Aserbaidschan": "az", "Kasachstan": "kz", "Israel": "il", "Zypern": "cy", "Malta": "mt", "Andorra": "ad",
+  "San Marino": "sm", "Liechtenstein": "li", "Gibraltar": "gi", "Färöer": "fo", "Russland": "ru",
+  "Argentinien": "ar", "Brasilien": "br", "Uruguay": "uy", "Kolumbien": "co", "Ecuador": "ec", "Paraguay": "py", "Chile": "cl", "Peru": "pe",
+  "Bolivien": "bo", "Venezuela": "ve", "USA": "us", "Mexiko": "mx", "Kanada": "ca", "Costa Rica": "cr", "Panama": "pa", "Jamaika": "jm",
+  "Haiti": "ht", "Curaçao": "cw", "Japan": "jp", "Südkorea": "kr", "Australien": "au", "Iran": "ir", "Saudi-Arabien": "sa", "Katar": "qa",
+  "Jordanien": "jo", "Usbekistan": "uz", "Irak": "iq", "Neuseeland": "nz", "Marokko": "ma", "Senegal": "sn", "Ägypten": "eg", "Algerien": "dz",
+  "Tunesien": "tn", "Ghana": "gh", "Nigeria": "ng", "Kamerun": "cm", "Elfenbeinküste": "ci", "Südafrika": "za", "Kap Verde": "cv",
+  "DR Kongo": "cd", "Mali": "ml",
+};
+function fixIcons(d) {
+  if (Array.isArray(d)) { d.forEach(fixIcons); return d; }
+  if (d && typeof d === "object") {
+    if (typeof d.teamName === "string") {
+      const code = FLAG_CODES[d.teamName.trim()];
+      if (code) d.teamIconUrl = `https://flagcdn.com/w80/${code}.png`;
+      else if (/^http:\/\//.test(d.teamIconUrl || "")) d.teamIconUrl = d.teamIconUrl.replace(/^http:/, "https:");
+    }
+    Object.values(d).forEach((v) => { if (v && typeof v === "object") fixIcons(v); });
+  }
+  return d;
+}
+
 async function api(path) {
   if (mem.has(path)) return mem.get(path);
   const key = "fuppes:" + path;
   try {
     const hit = JSON.parse(sessionStorage.getItem(key) || "null");
-    if (hit && Date.now() - hit.t < CACHE_MIN * 60e3) { mem.set(path, Promise.resolve(hit.d)); return hit.d; }
+    if (hit && Date.now() - hit.t < CACHE_MIN * 60e3) { fixIcons(hit.d); mem.set(path, Promise.resolve(hit.d)); return hit.d; }
   } catch (_) { /* Storage nicht verfügbar */ }
   const p = fetch(API + path).then((r) => {
     if (!r.ok) throw new Error("HTTP " + r.status);
     return r.json();
   }).then((d) => {
+    fixIcons(d);
     try { sessionStorage.setItem(key, JSON.stringify({ t: Date.now(), d })); } catch (_) {}
     return d;
   });
