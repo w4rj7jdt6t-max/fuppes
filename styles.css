@@ -428,3 +428,63 @@ dialog.mi[open] { animation: mi-in .22s ease; }
   .mi-head { padding: 18px 16px 20px; }
   .mi-board .hm-team, .mi-board .hm-team.away { flex-direction: column; text-align: center; gap: 6px; }
 }
+
+/* Spielort mit Foto */
+.mi-venue { display: grid; grid-template-columns: minmax(0, 1.4fr) minmax(0, 1fr); gap: 16px; align-items: center; }
+.mi-venue:not(:has(figure)) { grid-template-columns: 1fr; }
+.mi-venue figure { margin: 0; }
+.mi-venue img { display: block; width: 100%; aspect-ratio: 16 / 9; object-fit: cover; border-radius: var(--r-sm); background: var(--soft-2); }
+.mi-venue figcaption { margin-top: 6px; color: var(--muted); font-size: 0.72rem; line-height: 1.35; }
+.mi-venue figcaption a { color: inherit; }
+.mi-cap { margin-top: 10px !important; display: inline-block; padding: 6px 12px; border-radius: 999px; background: var(--surface); font-size: 0.85rem; }
+.mi-cap b { font: 800 1rem/1 var(--f-display); }
+@media (max-width: 620px) { .mi-venue { grid-template-columns: 1fr; } }
+
+/* Turnier-Felder (Nationalelf) */
+.tour-list { display: grid; gap: 8px; margin-top: 14px; }
+.tour-tile {
+  display: flex; align-items: center; gap: 12px; width: 100%; text-align: left; cursor: pointer;
+  padding: 12px 16px; border: 0; border-radius: var(--r); background: var(--accent-soft); color: var(--ink);
+  font: inherit; transition: background .18s ease, transform .18s ease;
+}
+.tour-tile:hover { background: color-mix(in srgb, var(--accent-soft) 70%, var(--accent) 12%); }
+.tour-tile:focus-visible { outline: 3px solid color-mix(in srgb, var(--accent) 45%, transparent); outline-offset: 2px; }
+.tour-ico { font: 1.5rem/1 "Apple Color Emoji", "Segoe UI Emoji", "Noto Color Emoji", sans-serif; }
+.tour-txt { display: grid; gap: 2px; flex: 1; min-width: 0; }
+.tour-txt b { font: 800 1rem/1.2 var(--f-display); }
+.tour-txt small { color: var(--muted); font-size: 0.8rem; }
+.tour-go { color: var(--accent); font: 800 0.88rem/1 var(--f-display); white-space: nowrap; }
+
+/* Turnier-Fenster */
+dialog.mi.wide { width: min(1040px, calc(100vw - 24px)); }
+.tour-title { margin: 8px 0 0; font: 900 clamp(1.4rem, 4vw, 2rem)/1.1 var(--f-display); }
+.tour-body { padding: 18px; }
+.tour-sec { margin: 4px 0 12px; font: 800 1rem/1.2 var(--f-display); color: var(--tab-ink); }
+.tour-body > .tour-sec ~ .tour-sec { margin-top: 22px; }
+.tg-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(min(100%, 300px), 1fr)); gap: 12px; }
+.tg { background: var(--soft); border-radius: var(--r); padding: 12px 14px; }
+.tg h3 { margin: 0 0 8px; font: 800 0.9rem/1.2 var(--f-display); color: var(--tab-ink); }
+.tg-table { width: 100%; border-collapse: separate; border-spacing: 0 3px; font-size: 0.86rem; }
+.tg-table th { color: var(--muted); font-weight: 700; font-size: 0.72rem; text-align: right; padding: 0 6px; }
+.tg-table th:nth-child(2) { text-align: left; }
+.tg-table td { padding: 5px 6px; text-align: right; font-variant-numeric: tabular-nums; background: var(--surface); }
+.tg-table td:first-child { border-radius: 10px 0 0 10px; }
+.tg-table td:last-child { border-radius: 0 10px 10px 0; }
+.tg-table tr:nth-child(-n+2) .tg-pos { color: var(--z-cl); font-weight: 800; }
+.tg-table tr.me td { background: var(--hl); font-weight: 700; }
+.tg-pos { width: 1.6em; text-align: center !important; color: var(--muted); }
+.tg-team { text-align: left !important; }
+.tg-team, .tb-team { display: flex; align-items: center; gap: 8px; min-width: 0; }
+td.tg-team { display: table-cell; }
+.tg-team img, .tb-team img { width: 20px; height: 20px; object-fit: contain; vertical-align: middle; margin-right: 6px; }
+.tb-team img { margin-right: 0; }
+.tb { display: flex; gap: 14px; overflow-x: auto; padding-bottom: 8px; scroll-snap-type: x proximity; }
+.tb-round { flex: 0 0 230px; display: flex; flex-direction: column; scroll-snap-align: start; }
+.tb-ties { flex: 1; display: flex; flex-direction: column; justify-content: space-around; gap: 10px; }
+.tb-round h3 { margin: 0 0 10px; font: 800 0.85rem/1.2 var(--f-display); color: var(--tab-ink); }
+.tb-tie { background: var(--soft); border-radius: var(--r); padding: 8px 10px; display: grid; gap: 4px; }
+.tb-team { justify-content: space-between; font-size: 0.88rem; }
+.tb-team span { flex: 1; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.tb-team.win { font-weight: 800; }
+.tb-team.me span { color: var(--accent); }
+.tb-legs { color: var(--muted); font-size: 0.72rem; }

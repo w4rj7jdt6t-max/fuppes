@@ -77,5 +77,6 @@ window.FUPPES_STADIEN = {
 /* Länderspiele: Spielort je Datum (Berlin), da OpenLigaDB keinen Ort liefert */
 window.FUPPES_NT_ORTE = {
   "2026-09-24": ["Johan Cruijff ArenA", "Amsterdam", 55865],
+  "2026-11-13": ["Rajko-Mitić-Stadion", "Belgrad", 51755],
   "2026-11-16": ["Olympiastadion", "Berlin", 74475],
 };

@@ -302,10 +302,71 @@ async function spielinfo() {
   return out;
 }
 
+/* ------------------------------------------------------------------ TV-Sender pro Spiel */
+
+const OLDB = "https://api.openligadb.de";
+const seasonNow = () => { const d = new Date(); return d.getMonth() >= 6 ? d.getFullYear() : d.getFullYear() - 1; };
+const BROADCASTERS = [
+  ["Sky", /\bSky\b|\bWOW\b|Sky Go/i], ["DAZN", /\bDAZN\b/i], ["RTL", /\bRTL\b/], ["ARD", /\bARD\b|Das Erste|Sportschau/],
+  ["ZDF", /\bZDF\b/], ["Sat.1", /Sat\.?\s?1\b/i], ["ProSieben", /ProSieben|Pro ?7(?! ?MAXX)/i], ["Prime Video", /Prime Video|Amazon Prime/i],
+  ["MagentaTV", /Magenta ?TV/i], ["Nitro", /\bNitro\b/], ["Sport1", /\bSport1\b/i],
+];
+const KICKER_FEEDS = ["fussball", "bundesliga", "nationalmannschaft", "dfb-pokal", "champions-league", "europa-league"]
+  .map((f) => ({ url: `https://newsfeed.kicker.de/news/${f}`, name: "kicker" }));
+const SKIP_WORDS = new Set(["borussia", "eintracht", "verein", "sport", "club", "1846", "1907", "olympique", "real", "united"]);
+const tokens = (t) => {
+  if (t.teamName === "Deutschland") return ["deutschland", "dfb"];
+  const ws = [t.shortName, ...t.teamName.split(/[\s.\-\/]+/)].filter((w) => w && w.length >= 4 && !SKIP_WORDS.has(w.toLowerCase()));
+  return [...new Set(ws.map((w) => w.toLowerCase()))];
+};
+const mentions = (text, t) => tokens(t).some((w) => text.toLowerCase().includes(w));
+
+async function tv() {
+  const S = seasonNow();
+  const lists = await Promise.allSettled(["bl1", "dfb", "DFBN", "ucl", `uel${S}`, `uecl${S}`].map((l) => get(`${OLDB}/getmatchdata/${l}/${S}`).then(JSON.parse)));
+  const table = JSON.parse(await get(`${OLDB}/getbltable/bl1/${S}`).catch(() => "[]"));
+  const german = new Set(table.map((t) => t.teamName));
+  const now = Date.now();
+  const relevant = lists.flatMap((r, i) => (r.status === "fulfilled" ? r.value.map((m) => ({ m, i })) : []))
+    .filter(({ m, i }) => {
+      const t = new Date(m.matchDateTimeUTC).getTime();
+      if (t < now - 3 * 864e5 || t > now + 12 * 864e5) return false;
+      if (i === 2) return true;                                         // Nationalelf
+      if (i <= 1) return m.team1.teamId === 65 || m.team2.teamId === 65; // FC
+      return german.has(m.team1.teamName) || german.has(m.team2.teamName);
+    }).map(({ m }) => m);
+
+  const kicker = (await collect(KICKER_FEEDS)).filter((i) => /überträgt|live im tv|im tv|stream/i.test(i.title));
+  const out = [];
+  for (const m of relevant) {
+    const nm = (t) => ((t.shortName || "").length > 3 ? t.shortName : t.teamName);
+    const q = `${nm(m.team1)} ${nm(m.team2)} live TV`;
+    let items = [];
+    try { items = parseRss(await get(gnews(`${q} when:10d`)), "Google News"); } catch (e) { console.warn("⚠ TV-Suche:", q, e.message); }
+    const votes = new Map(), evidence = [];
+    for (const it of items) {
+      const t = it.title;
+      if (!mentions(t, m.team1) || !mentions(t, m.team2)) continue;
+      const found = BROADCASTERS.filter(([, rx]) => rx.test(t)).map(([n]) => n);
+      if (!found.length || /österreich|schweiz|austria|\bAT\b|\bCH\b/i.test(t)) continue; // nur deutsche Sender
+      if (/\boder\b/i.test(t) && found.length > 1) continue;            // „RTL, ARD oder ZDF?“ = Frage, keine Antwort
+      found.forEach((n) => votes.set(n, (votes.get(n) || 0) + 1));
+      if (evidence.length < 3) evidence.push({ title: t, source: it.source, link: it.link });
+    }
+    const max = Math.max(0, ...votes.values());
+    let channels = [...votes].filter(([, n]) => n >= Math.max(1, max / 2)).sort((a, b) => b[1] - a[1]).map(([n]) => n);
+    if (max === 1 && channels.length > 1) channels = [];                // widersprüchlich, lieber nichts
+    const k = kicker.find((i) => mentions(i.title, m.team1) && mentions(i.title, m.team2) && Math.abs(new Date(i.date) - new Date(m.matchDateTimeUTC)) < 8 * 864e5);
+    out.push({ matchID: m.matchID, kick: m.matchDateTimeUTC, team1: m.team1.teamName, team2: m.team2.teamName, channels, evidence, kicker: k ? k.link.replace(/#omrss$/, "") : null });
+    await new Promise((r) => setTimeout(r, 400));
+  }
+  return { matches: out };
+}
+
 /* ------------------------------------------------------------------ Start */
 
 await mkdir(DATA, { recursive: true });
-const jobs = { "vorverkauf.json": vorverkauf, "news-fc.json": newsFC, "transfers.json": transfers, "spielinfo.json": spielinfo };
+const jobs = { "vorverkauf.json": vorverkauf, "news-fc.json": newsFC, "transfers.json": transfers, "spielinfo.json": spielinfo, "tv.json": tv };
 let failed = 0;
 for (const [file, job] of Object.entries(jobs)) {
   try {

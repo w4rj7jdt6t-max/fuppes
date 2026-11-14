@@ -298,6 +298,7 @@ async function loadNationalelf() {
     ? matches.map((m) => matchRow(m, { me: GER, comp: true })).join("")
     : '<p class="empty">Keine Länderspiele erfasst.</p>';
 
+  renderTournaments();
   const tEl = $("#nt-table");
   try {
     const table = await api(`/getbltable/nla/${SEASON}`);
@@ -612,50 +613,83 @@ function compOf(m) {
   return "";
 }
 
-/* Übertragung nach Rechtelage 2026/27 (Sendeplatz-Regeln) */
-function tvFor(m) {
+/* Übertragung: 1. pro Spiel aus Medienberichten (data/tv.js, vom Update-Skript), 2. sonst Sendeplatz-Regeln 2026/27 */
+const STREAMS = {
+  "Sky": "Sky Sport · WOW · Sky Go", "DAZN": "DAZN", "RTL": "RTL · RTL+", "RTL+": "RTL+", "ARD": "Das Erste · ARD Mediathek",
+  "ZDF": "ZDF · ZDF-Mediathek", "Sat.1": "Sat.1 · Joyn", "ProSieben": "ProSieben · Joyn", "Prime Video": "Prime Video",
+  "MagentaTV": "MagentaTV", "Nitro": "Nitro · RTL+", "Sport1": "Sport1",
+};
+function tvRule(m) {
   const p = berlinParts(kick(m));
   const hm = `${p.hour}:${p.minute}`;
-  const c = compOf(m);
   const names = `${m.team1.teamName} ${m.team2.teamName}`;
-  const dayKey = berlinKey(kick(m));
-  const sat1 = { "2026-12-18": "Bayern", "2027-01-08": "Dortmund" };
-  switch (c) {
-    case "bl1": {
-      const extra = sat1[dayKey] && names.includes(sat1[dayKey]) ? [["Sat.1", "parallel live im Free-TV"]] : [];
-      if (p.weekday === "Fr.") return [["Sky", "Freitagsspiel"], ...extra];
-      if (p.weekday === "Sa." && hm === "15:30") return [["Sky", "Einzelspiel (auch Multiview)"], ["DAZN", "Konferenz"], ...extra];
-      if (p.weekday === "Sa.") return [["Sky", hm === "18:30" ? "Topspiel der Woche" : "Samstagsspiel"], ...extra];
+  const sat1 = { "2026-12-18": "Bayern", "2027-01-08": "Dortmund" }[berlinKey(kick(m))];
+  const free = sat1 && names.includes(sat1) ? [["Sat.1", "zusätzlich im Free-TV"]] : [];
+  switch (compOf(m)) {
+    case "bl1":
+      if (p.weekday === "Fr.") return [["Sky", "Freitagsspiel"], ...free];
+      if (p.weekday === "Sa." && hm === "15:30") return [["Sky", "Einzelspiel"], ["DAZN", "nur in der Konferenz"], ...free];
+      if (p.weekday === "Sa.") return [["Sky", hm === "18:30" ? "Topspiel der Woche" : "Samstagsspiel"], ...free];
       if (p.weekday === "So.") return [["DAZN", "Sonntagsspiel"]];
-      return [["Sky", "Englische Woche: Einzelspiel"], ["DAZN", "Konferenz bzw. Einzelspiel je nach Ansetzung"]];
-    }
+      return [["Sky", "Einzelspiel (Englische Woche)"], ["DAZN", "Konferenz"]];
     case "bl2": return [["Sky", "Einzelspiel und Konferenz"]];
-    case "dfb": return [["Sky", "alle Spiele live"], ["RTL+", "überträgt das Sky-Signal"], ["ARD / ZDF / RTL", "ausgewählte Spiele im Free-TV"]];
-    case "nt": return [["ARD, ZDF oder RTL", "Länderspiele laufen immer live im Free-TV"], ["RTL+ / ARD- & ZDF-Mediathek", "Stream"]];
-    case "ucl": return p.weekday === "Di." && hm === "21:00"
-      ? [["Prime Video", "möglicher Dienstags-Topspielplatz"], ["DAZN", "alle übrigen Spiele"]]
-      : [["DAZN", "fast alle Spiele"], ["Prime Video", "nur das Dienstags-Topspiel"]];
-    case "uel": case "uecl": return [["RTL+", "alle Spiele"], ["RTL / Nitro", "ein Spiel pro Spieltag im Free-TV"], ["Sky", "einzelne Spiele mit deutscher Beteiligung"]];
+    case "dfb": return [["Sky", "alle Spiele"], ["RTL+", "überträgt das Sky-Signal"]];
+    case "ucl": return p.weekday === "Di." && hm === "21:00" ? [["DAZN", "oder"], ["Prime Video", "Dienstags-Topspiel"]] : [["DAZN", "Champions League"]];
+    case "uel": case "uecl": return [["RTL+", "alle Spiele"]];
     case "pl": return [["Sky", "Premier League"]];
     default: return [];
   }
 }
+function tvFor(m, tvData) {
+  const hit = (tvData?.matches || []).find((x) => String(x.matchID) === String(m.matchID)
+    || (x.team1 === m.team1.teamName && x.team2 === m.team2.teamName && sameBerlinDay(new Date(x.kick), kick(m))));
+  if (hit?.channels?.length) return { rows: hit.channels.map((c) => [c, ""]), how: "report", hit };
+  return { rows: tvRule(m), how: "rule", hit };
+}
+function tvHTML(m, tvData) {
+  const { rows, how, hit } = tvFor(m, tvData);
+  const kickerLink = hit?.kicker ? `<p class="mi-hint"><a href="${esc(safeLink(hit.kicker))}" target="_blank" rel="noopener">Bei kicker nachlesen ↗</a></p>` : "";
+  if (!rows.length) {
+    const nt = compOf(m) === "nt";
+    return `${NO_INFO}${nt ? '<p class="mi-hint">Der Sender steht noch nicht fest. Länderspiele laufen immer live im Free-TV (ARD, ZDF oder RTL).</p>' : ""}${kickerLink}`;
+  }
+  const list = `<ul class="mi-tv">${rows.map(([n, x]) => `<li><b>${esc(STREAMS[n] || n)}</b>${x ? `<span>${esc(x)}</span>` : ""}</li>`).join("")}</ul>`;
+  const ev = hit?.evidence?.[0];
+  const src = how === "report"
+    ? `<p class="mi-hint">Laut Berichten zum Spiel${ev ? `, z. B. <a href="${esc(safeLink(ev.link))}" target="_blank" rel="noopener">${esc(ev.source)} ↗</a>` : ""}.</p>`
+    : `<p class="mi-hint">Nach Sendeplatz und Rechtelage 2026/27.</p>`;
+  return list + src + kickerLink;
+}
 
+function stadiumEntry(name) {
+  const n = (name || "").toLowerCase().replace(/\s+/g, " ").trim();
+  if (!n) return null;
+  const all = [...Object.values(window.FUPPES_STADIEN || {}), ...Object.values(window.FUPPES_NT_ORTE || {})];
+  return all.find(([st]) => st.toLowerCase() === n) || all.find(([st]) => n.includes(st.toLowerCase()) || st.toLowerCase().includes(n)) || null;
+}
 function venueFor(m, fcInfo) {
   const S = window.FUPPES_STADIEN || {};
-  const capOf = (name) => {
-    const n = (name || "").toLowerCase().replace(/\s+/g, " ").trim();
-    const hit = Object.values(S).find(([st]) => st.toLowerCase() === n || n.includes(st.toLowerCase()) || st.toLowerCase().includes(n));
-    return hit ? hit[2] : null;
-  };
-  if (fcInfo?.stadium) return { stadium: fcInfo.stadium, city: fcInfo.city, cap: capOf(fcInfo.stadium) };
-  if (m.location?.locationStadium) return { stadium: m.location.locationStadium.trim(), city: m.location.locationCity, cap: capOf(m.location.locationStadium) };
+  const mk = (stadium, city) => { const e = stadiumEntry(stadium); return { stadium, city: city || e?.[1], cap: e?.[2] ?? null, key: e?.[0] }; };
+  if (fcInfo?.stadium) return mk(fcInfo.stadium, fcInfo.city);
+  if (m.location?.locationStadium) return mk(m.location.locationStadium.trim(), m.location.locationCity);
   if (compOf(m) === "nt") {
     const o = (window.FUPPES_NT_ORTE || {})[berlinKey(kick(m))];
-    return o ? { stadium: o[0], city: o[1], cap: o[2] } : null;
+    return o ? { stadium: o[0], city: o[1], cap: o[2], key: o[0] } : null;
   }
   const h = S[m.team1.teamName.trim()];
-  return h ? { stadium: h[0], city: h[1], cap: h[2] } : null;
+  return h ? { stadium: h[0], city: h[1], cap: h[2], key: h[0] } : null;
+}
+function venueHTML(v, pics) {
+  if (!v) return NO_INFO;
+  const pic = v.key && pics?.bilder?.[v.key];
+  return `<div class="mi-venue">
+    ${pic ? `<figure><img src="${esc(safeImg(pic.img))}" alt="${esc(v.stadium)}" loading="lazy" onerror="this.closest('figure').remove()">
+      <figcaption>Foto: <a href="${esc(safeLink(pic.page))}" target="_blank" rel="noopener">${esc(pic.artist || "Wikimedia Commons")}</a>${pic.license ? ` · ${esc(pic.license)}` : ""}</figcaption></figure>` : ""}
+    <div class="mi-venue-txt">
+      <p class="mi-big">${esc(v.stadium)}</p><p>${esc(v.city || "")}</p>
+      <p class="mi-cap">${v.cap ? `<b>${fmtNum(v.cap)}</b> Plätze` : "Fassungsvermögen: keine Information"}</p>
+    </div>
+  </div>`;
 }
 
 const GENERIC = new Set(["borussia", "eintracht", "fußball", "verein", "sport", "club", "1846", "1907"]);
@@ -687,14 +721,13 @@ async function openMatch(mid) {
   const m = MATCHES.get(String(mid));
   if (!m) return;
   const dlg = $("#match-dlg");
+  dlg.classList.remove("wide");
   const d = kick(m), s = score(m);
   const img = (t) => (safeImg(t.teamIconUrl) ? `<img src="${esc(safeImg(t.teamIconUrl))}" alt="" onerror="this.remove()">` : "");
   const center = s.state !== "open" && s.h != null ? `${s.h}:${s.a}` : fmtTime(d);
-  let info = null;
-  try { info = await localJSON("spielinfo"); } catch (_) {}
+  const [info, tvData, pics] = await Promise.all(["spielinfo", "tv", "stadionbilder"].map((n) => localJSON(n).catch(() => null)));
   const fcInfo = (involves(m, KOELN_ID) || involves(m, KOELN_NAME)) ? (info?.fc || []).find((f) => sameBerlinDay(new Date(f.start), d)) : null;
   const v = venueFor(m, fcInfo);
-  const tv = tvFor(m);
   const press = pressFor(m, info);
   const md = m.group?.groupOrderID;
   const ref = compOf(m) === "bl1" ? (info?.referees || []).find((r) => r.matchday === md) : null;
@@ -709,10 +742,9 @@ async function openMatch(mid) {
       </div>
     </div>
     <div class="mi-grid">
-      <section class="mi-box"><h3>📍 Spielort</h3>${v ? `<p class="mi-big">${esc(v.stadium)}</p><p>${esc(v.city || "")}</p>` : NO_INFO}</section>
-      <section class="mi-box"><h3>🏟️ Fassungsvermögen</h3>${v?.cap ? `<p class="mi-big">${fmtNum(v.cap)}</p><p>Plätze</p>` : NO_INFO}</section>
+      <section class="mi-box wide"><h3>🏟️ Spielort</h3>${venueHTML(v, pics)}</section>
       <section class="mi-box"><h3>🧑‍⚖️ Schiedsrichter</h3>${NO_INFO}${ref ? `<p class="mi-hint"><a href="${esc(safeLink(ref.link))}" target="_blank" rel="noopener">Ansetzungen zum ${esc(md)}. Spieltag ↗</a></p>` : ""}</section>
-      <section class="mi-box"><h3>📺 Übertragung</h3>${tv.length ? `<ul class="mi-tv">${tv.map(([n, x]) => `<li><b>${esc(n)}</b><span>${esc(x)}</span></li>`).join("")}</ul><p class="mi-hint">Nach Sendeplatz und Rechtelage 2026/27, kurzfristige Änderungen möglich.</p>` : NO_INFO}</section>
+      <section class="mi-box"><h3>📺 Übertragung</h3>${tvHTML(m, tvData)}</section>
       <section class="mi-box wide"><h3>📋 Aufstellung</h3>${lineupHTML(m, fcInfo)}</section>
       <section class="mi-box wide"><h3>🎙️ Pressekonferenzen</h3>${press.length ? press.map((p) => `
         <div class="mi-pk">
@@ -735,6 +767,132 @@ document.addEventListener("keydown", (e) => {
   if ((e.key === "Enter" || e.key === " ") && e.target.matches?.("[data-mid]")) { e.preventDefault(); openMatch(e.target.dataset.mid); }
 });
 $("#match-dlg")?.addEventListener("click", (e) => { if (e.target.id === "match-dlg" || e.target.closest(".mi-close")) e.currentTarget.close(); });
+
+/* ---------- Turniere: Nations League, EM, WM — alle Gruppen bzw. Turnierbaum ---------- */
+const isGroupName = (n) => /^(gruppe|group|liga [a-d] ?gruppe)/i.test(n || "");
+
+async function findTournaments() {
+  const list = [{ shortcut: "nla", season: SEASON, title: `Nations League ${SEASON}/${String(SEASON + 1).slice(2)}` }];
+  try {
+    const leagues = await api("/getavailableleagues");
+    const year = new Date().getFullYear();
+    const best = new Map();
+    leagues.filter((l) => l.sport?.sportName === "Fußball")
+      .filter((l) => /\b(EURO|EM|Europameisterschaft|WM|Weltmeisterschaft|World Cup)\b/i.test(l.leagueName) && !/frauen|women|klub|club|\bu ?-?\d{2}\b|karten|test|mueller|xlife|dfb-/i.test(`${l.leagueName} ${l.leagueShortcut}`))
+      .forEach((l) => {
+        const y = +((l.leagueName.match(/20\d\d/) || [])[0] || l.leagueSeason);
+        if (y < year) return;
+        const kind = /WM|Welt|World/i.test(l.leagueName) ? "WM" : "EM";
+        const k = kind + y;
+        if (!best.has(k)) best.set(k, []);
+        best.get(k).push({ shortcut: l.leagueShortcut, season: l.leagueSeason, title: `${kind} ${y}` });
+      });
+    for (const cands of best.values()) {
+      // die Variante mit den meisten Spielen nehmen; nur laufende oder kommende Turniere
+      const withData = await Promise.all(cands.map(async (c) => ({ c, ms: await api(`/getmatchdata/${c.shortcut}/${c.season}`).catch(() => []) })));
+      const pick = withData.sort((a, b) => b.ms.length - a.ms.length)[0];
+      if (pick?.ms.length && pick.ms.some((m) => kick(m).getTime() > Date.now() - 30 * 864e5)) list.push(pick.c);
+    }
+  } catch (_) { /* nur Nations League */ }
+  return list;
+}
+
+function phaseOf(matches) {
+  const ko = matches.filter((m) => !isGroupName(m.group?.groupName));
+  const groups = matches.filter((m) => isGroupName(m.group?.groupName));
+  if (ko.length) {
+    const open = ko.filter((m) => score(m).state !== "done").sort(byKick)[0];
+    return open ? `K.-o.-Runde · ${open.group.groupName}` : "Turnier beendet";
+  }
+  if (!groups.length) return "Spielplan folgt";
+  return groups.every((m) => score(m).state === "done") ? "Gruppenphase beendet" : `Gruppenphase · ${new Set(groups.map((m) => m.group.groupName)).size} Gruppen`;
+}
+
+function groupStandings(ms) {
+  const T = new Map();
+  const row = (t) => { if (!T.has(t.teamName)) T.set(t.teamName, { t, sp: 0, s: 0, u: 0, n: 0, tore: 0, gegen: 0, pkt: 0 }); return T.get(t.teamName); };
+  ms.forEach((m) => {
+    const a = row(m.team1), b = row(m.team2), s = score(m);
+    if (s.state !== "done" || s.h == null) return;
+    a.sp++; b.sp++; a.tore += s.h; a.gegen += s.a; b.tore += s.a; b.gegen += s.h;
+    if (s.h > s.a) { a.s++; b.n++; a.pkt += 3; } else if (s.h < s.a) { b.s++; a.n++; b.pkt += 3; } else { a.u++; b.u++; a.pkt++; b.pkt++; }
+  });
+  return [...T.values()].sort((x, y) => y.pkt - x.pkt || (y.tore - y.gegen) - (x.tore - x.gegen) || y.tore - x.tore || x.t.teamName.localeCompare(y.t.teamName));
+}
+
+const teamMini = (t) => `${safeImg(t.teamIconUrl) ? `<img src="${esc(safeImg(t.teamIconUrl))}" alt="" loading="lazy" onerror="this.remove()">` : ""}<span>${esc(t.teamName)}</span>`;
+
+function groupsHTML(matches) {
+  const by = new Map();
+  matches.filter((m) => isGroupName(m.group?.groupName)).forEach((m) => { const g = m.group.groupName; if (!by.has(g)) by.set(g, []); by.get(g).push(m); });
+  return [...by].sort((a, b) => a[0].localeCompare(b[0])).map(([g, ms]) => `
+    <section class="tg">
+      <h3>${esc(g)}</h3>
+      <table class="tg-table"><thead><tr><th></th><th>Team</th><th>Sp</th><th>Diff</th><th>Pkt</th></tr></thead><tbody>
+      ${groupStandings(ms).map((r, i) => `<tr class="${r.t.teamName === "Deutschland" ? "me" : ""}"><td class="tg-pos">${i + 1}</td><td class="tg-team">${teamMini(r.t)}</td><td>${r.sp}</td><td>${r.tore - r.gegen > 0 ? "+" : ""}${r.tore - r.gegen}</td><td><b>${r.pkt}</b></td></tr>`).join("")}
+      </tbody></table>
+    </section>`).join("");
+}
+
+function bracketHTML(matches) {
+  const ko = matches.filter((m) => !isGroupName(m.group?.groupName)).sort(byKick);
+  if (!ko.length) return "";
+  const rounds = new Map();
+  ko.forEach((m) => { const r = m.group?.groupName || "K.-o.-Runde"; if (!rounds.has(r)) rounds.set(r, new Map()); const pair = [m.team1.teamName, m.team2.teamName].sort().join("|"); const ties = rounds.get(r); if (!ties.has(pair)) ties.set(pair, []); ties.get(pair).push(m); });
+  const tie = (legs) => {
+    const [a, b] = [legs[0].team1, legs[0].team2];
+    let ga = 0, gb = 0, any = false;
+    const lines = legs.map((m) => { const s = score(m); if (s.h != null) { any = true; const aHome = m.team1.teamName === a.teamName; ga += aHome ? s.h : s.a; gb += aHome ? s.a : s.h; return `${s.h}:${s.a}`; } return `${fmtDay(kick(m))} ${fmtTime(kick(m))}`; });
+    const done = legs.every((m) => score(m).state === "done");
+    const win = done && ga !== gb ? (ga > gb ? a.teamName : b.teamName) : null;
+    return `<div class="tb-tie">
+      <div class="tb-team ${win === a.teamName ? "win" : ""} ${a.teamName === "Deutschland" ? "me" : ""}">${teamMini(a)}<b>${any ? ga : ""}</b></div>
+      <div class="tb-team ${win === b.teamName ? "win" : ""} ${b.teamName === "Deutschland" ? "me" : ""}">${teamMini(b)}<b>${any ? gb : ""}</b></div>
+      <div class="tb-legs">${legs.length > 1 ? lines.map((l, i) => `${i ? "Rück" : "Hin"} ${esc(l)}`).join(" · ") : esc(fmtDay(kick(legs[0])))}</div>
+    </div>`;
+  };
+  return `<div class="tb">${[...rounds].map(([r, ties]) => `<div class="tb-round"><h3>${esc(r)}</h3><div class="tb-ties">${[...ties.values()].map(tie).join("")}</div></div>`).join("")}</div>`;
+}
+
+async function openTournament(t) {
+  const dlg = $("#match-dlg");
+  $("#mi-body").innerHTML = '<p class="loading" style="padding:28px">Lade Turnier …</p>';
+  dlg.classList.add("wide");
+  if (!dlg.open) dlg.showModal();
+  try {
+    const matches = await api(`/getmatchdata/${t.shortcut}/${t.season}`);
+    const ko = bracketHTML(matches), gr = groupsHTML(matches);
+    $("#mi-body").innerHTML = `
+      <div class="mi-head"><div class="hm-meta"><span>${esc(phaseOf(matches))}</span></div><h2 class="tour-title">${esc(t.title)}</h2></div>
+      <div class="tour-body">
+        ${ko ? `<h3 class="tour-sec">Turnierbaum</h3>${ko}` : ""}
+        ${gr ? `${ko ? '<h3 class="tour-sec">Gruppenphase</h3>' : ""}<div class="tg-grid">${gr}</div>` : ""}
+        ${!ko && !gr ? '<p class="mi-none">keine Information</p>' : ""}
+        ${t.shortcut === "nla" && !ko ? '<p class="mi-hint">Gruppenerste und -zweite erreichen das Viertelfinale (Hin- und Rückspiel), die Gruppenletzten steigen in Liga B ab. Sobald die K.-o.-Runde angesetzt ist, erscheint hier der Turnierbaum.</p>' : ""}
+      </div>`;
+  } catch (e) { $("#mi-body").innerHTML = `<p class="mi-none" style="padding:28px">Turnierdaten gerade nicht erreichbar.</p>`; }
+}
+
+async function renderTournaments() {
+  const el = $("#nt-tournaments");
+  if (!el) return;
+  const list = await findTournaments();
+  const tiles = await Promise.all(list.map(async (t) => {
+    const ms = await api(`/getmatchdata/${t.shortcut}/${t.season}`).catch(() => []);
+    return `<button class="tour-tile" type="button" data-tour="${esc(JSON.stringify(t))}">
+      <span class="tour-ico" aria-hidden="true">${/WM/.test(t.title) ? "🌎" : /EM/.test(t.title) ? "🇪🇺" : "🏆"}</span>
+      <span class="tour-txt"><b>${esc(t.title)}</b><small>${esc(phaseOf(ms))}</small></span>
+      <span class="tour-go">${ms.some((m) => !isGroupName(m.group?.groupName)) ? "Turnierbaum" : "Alle Gruppen"} ›</span>
+    </button>`;
+  }));
+  const hasBig = list.some((t) => /EM|WM/.test(t.title));
+  el.innerHTML = tiles.join("") + (hasBig ? "" : '<p class="note">EM 2028 und WM 2030 erscheinen hier automatisch, sobald der Spielplan feststeht.</p>');
+}
+document.addEventListener("click", (e) => {
+  const b = e.target.closest("[data-tour]");
+  if (b) openTournament(JSON.parse(b.dataset.tour));
+});
+$("#match-dlg")?.addEventListener("close", (e) => e.currentTarget.classList.remove("wide"));
 
 /* ---------- Routing ---------- */
 const VIEWS = {

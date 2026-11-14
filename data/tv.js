@@ -1,0 +1,103 @@
+window.FUPPES_DATA = window.FUPPES_DATA || {};
+window.FUPPES_DATA["tv"] = {
+ "updated": "2026-11-14T14:59:38.768Z",
+ "matches": [
+  {
+   "matchID": 83237,
+   "kick": "2026-11-20T19:30:00Z",
+   "team1": "FC Bayern München",
+   "team2": "1. FC Köln",
+   "channels": [],
+   "evidence": [],
+   "kicker": null
+  },
+  {
+   "matchID": 85296,
+   "kick": "2026-11-13T19:45:00Z",
+   "team1": "Serbien",
+   "team2": "Deutschland",
+   "channels": [
+    "RTL"
+   ],
+   "evidence": [
+    {
+     "title": "Gegen Serbien muss für Deutschland ein Sieg her! Alle Infos zum Nations-League-Spiel bei RTL und RTL+",
+     "source": "RTL.de",
+     "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQSjVueG9rSkd3ZmpwdmduY19lQXdFNVNaak5xTDVTUkE1NnByMUlLUUR3UFRHMGZlX0FVaW12djJ6Y0VZeDAzVUZGV2c5UEtNaFNmS0V2U1dhOGl1TTBnMWR0cEpPUHBIVzd1elhNQ2t2RGFBTTlXWFRabzZoMUFDQkFwMzIyRnFlYUtDNHhnQmcydHRUX1hlcS1vUzJUNURXeVd6THRqY2pkQW1jNHFCdV81UnQzc1NhbDdzWmVDZExKVmdxWHFIbm5McGNqdUhWTVBzRTVjWTBwMnU5?oc=5"
+    },
+    {
+     "title": "Serbien - Deutschland: Die Übertragung der Nations League auf DAZN in Österreich✅",
+     "source": "DAZN",
+     "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNYWZZSzhiOWFZWEd5OHNBOGlmVTlZZnRCeEowQUg1SVl3Vy1XR1R0ZlYyaFFaajBmYmtkaXRuMWh5RFpOVHFuZlozTEVCdy1PeW11c1pDWGpDS3BxZk40Sy15clEwaE5hbndXVTllQUNWYi1wTWJCcXFDVm1vOVZIZnZfcnVDMXRsT19PZGNLc21XQUlrbFVfNnphSV9fVFQxUF9hT3RIMEhfVWpHSU44a3JVRmN0b2RWMFd2S0NYMWpDaE1Dc3RHdGNGdmlJdFZvNDZycGZ6dEdrT3JuLXY4WA?oc=5"
+    },
+    {
+     "title": "Serbien gegen Deutschland heute gratis im Live-Stream: So seht ihr die Nations-League-Partie ohne RTL+",
+     "source": "Netzwelt",
+     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPUERuRHNremFSRGkzX1V2Y0ZJMktPQk43TFBTWlc5bGJCN3pfLWZpMkRZdHRBTXFtTlY5T2Rtcnk0Z0xnZ3VnN1NQbVRIUXpvV2JEdXA2VUpQOE5SSk14bE9fY29wYWFEYXRHSUhsTkVsT0RhRFY3ZmFleW54cW5mMW5qenJvaFI1alJEWVNWeFVxNWczanVHa0dIcy1uVlIwSGgxemlrRVh2bkMxcjJ2U1NlNTByOWZlTG9VZkxGSXF0VXhsUXNEazU5RWZuQUVW?oc=5"
+    }
+   ],
+   "kicker": null
+  },
+  {
+   "matchID": 85297,
+   "kick": "2026-11-16T19:45:00Z",
+   "team1": "Deutschland",
+   "team2": "Niederlande",
+   "channels": [],
+   "evidence": [],
+   "kicker": null
+  },
+  {
+   "matchID": 87464,
+   "kick": "2026-11-24T20:00:00Z",
+   "team1": "FC Arsenal",
+   "team2": "Borussia Dortmund",
+   "channels": [],
+   "evidence": [],
+   "kicker": null
+  },
+  {
+   "matchID": 87467,
+   "kick": "2026-11-24T20:00:00Z",
+   "team1": "RB Leipzig",
+   "team2": "RC Lens",
+   "channels": [
+    "DAZN"
+   ],
+   "evidence": [
+    {
+     "title": "RB Leipzig - Lens Live Stream | Jetzt Anmelden | DAZN DE",
+     "source": "DAZN",
+     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPR2RmeDAtVFpMM2wwQVQyUWtEeVVJZjZKVWVUdWE2UkZTbEx1eHJKOEtrQl9wcTJ2VEdRODhYYkFlZzBwQjJwUUdyaDJ3X3NkXzdPUEtnNzFEb3V6OGJrVUwzaVpRaVJiSGZfb045ZlZNWjBjNkdsa1RmcVo5ZWdoN09xTHlqeE9XWi1zQw?oc=5"
+    }
+   ],
+   "kicker": null
+  },
+  {
+   "matchID": 87471,
+   "kick": "2026-11-25T20:00:00Z",
+   "team1": "Inter Mailand",
+   "team2": "VfB Stuttgart",
+   "channels": [
+    "DAZN"
+   ],
+   "evidence": [
+    {
+     "title": "Inter - VfB Stuttgart Live Stream | Jetzt Anmelden | DAZN DE",
+     "source": "DAZN",
+     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQel9Va0t0djBKU3VvT211SlRWVG1uNzBRblNHVWpXcE9EQVN4WkZYOEJNN08yQUQ3RVZGVHVSdEdTVEVnRnB5SzN1MHVYOHRUeFF4b1dUQUV2cnFMQ2RSdW9ob3ZZYzIzSzZVMHpJSk1wb0lBX0l2NjVDOGdwZjQ4MnJSc3lJbjdBQnl5TA?oc=5"
+    }
+   ],
+   "kicker": null
+  },
+  {
+   "matchID": 87475,
+   "kick": "2026-11-25T20:00:00Z",
+   "team1": "Lille OSC",
+   "team2": "FC Bayern München",
+   "channels": [],
+   "evidence": [],
+   "kicker": null
+  }
+ ]
+};
