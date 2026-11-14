@@ -1,4 +1,4 @@
-/* Layout: soft, pillowy surfaces. Sticky pill tab bar with grey line icons; one view per tab;
+/* Layout: soft, pillowy surfaces. Sticky pill tab bar with colour emoji; one view per tab;
    panels float on a tinted ground with diffuse shadows instead of hairlines. */
 :root {
   --bg: #f7f0e1;            /* warm ivory */
@@ -7,7 +7,8 @@
   --soft-2: #f1dbd4;
   --ink: #2e2621;           /* warmes Dunkelbraun statt Schwarz */
   --muted: #7d7064;
-  --icon: #9d9185;          /* einheitliches Grau der Tab-Symbole, leicht warm */
+  --tab-ink: #8c4f45;       /* Tab-Schrift: warmes, gedämpftes Ziegelbraun */
+  --tab-ink-on: #b83f36;    /* aktiver Tab: Effzeh-Rot */
   --accent: #c4473f;        /* Effzeh-Rot, gedämpft (Ziegel) */
   --accent-soft: #f3d4cc;
   --board: #f6e0d9;         /* Anzeigetafel: helles, warmes Rot */
@@ -41,7 +42,7 @@
 }
 @media (prefers-color-scheme: dark) {
   :root:not([data-theme="light"]) {
-    --bg: #1d1915; --surface: #2a2220; --soft: #342926; --soft-2: #3f312d; --ink: #f2eadf; --muted: #b3a597; --icon: #a09385;
+    --bg: #1d1915; --surface: #2a2220; --soft: #342926; --soft-2: #3f312d; --ink: #f2eadf; --muted: #b3a597; --tab-ink: #d9a196; --tab-ink-on: #f08a7c;
     --accent: #e07466; --accent-soft: #42261f; --board: #4a3530; --board-ink: #f7efe4; --board-muted: #cdbba7; --board-chip: rgba(255, 245, 230, .1); --on-color: #1d1915;
     --win: #7db58e; --draw: #8f8478; --loss: #e07466;
     --z-cl: #8eaed0; --z-el: #e2b06c; --z-ecl: #8cc0a3; --z-rel: #dcbd6a; --z-down: #df7c70; --hl: #4a2f29;
@@ -52,7 +53,7 @@
   }
 }
 :root[data-theme="dark"] {
-  --bg: #1d1915; --surface: #2a2220; --soft: #342926; --soft-2: #3f312d; --ink: #f2eadf; --muted: #b3a597; --icon: #a09385;
+  --bg: #1d1915; --surface: #2a2220; --soft: #342926; --soft-2: #3f312d; --ink: #f2eadf; --muted: #b3a597; --tab-ink: #d9a196; --tab-ink-on: #f08a7c;
   --accent: #e07466; --accent-soft: #42261f; --board: #4a3530; --board-ink: #f7efe4; --board-muted: #cdbba7; --board-chip: rgba(255, 245, 230, .1); --on-color: #1d1915;
   --win: #7db58e; --draw: #8f8478; --loss: #e07466;
   --z-cl: #8eaed0; --z-el: #e2b06c; --z-ecl: #8cc0a3; --z-rel: #dcbd6a; --z-down: #df7c70; --hl: #4a2f29;
@@ -93,7 +94,7 @@ button { font: inherit; color: inherit; }
 .wordmark .dot { color: var(--accent); }
 .tagline { margin: 0; color: var(--muted); font: 700 0.95rem/1 var(--f-display); letter-spacing: 0.02em; }
 
-/* ---------- Tabs: weiche Pillen mit grauen Symbolen ---------- */
+/* ---------- Tabs: weiche Pillen mit farbigen Emoji ---------- */
 .tabs {
   position: sticky; top: env(safe-area-inset-top, 0px); z-index: 20;
   padding-block: 8px;
@@ -105,19 +106,19 @@ button { font: inherit; color: inherit; }
 .tabs a {
   flex: none; display: inline-flex; align-items: center; gap: 10px;
   padding: 10px 20px 10px 14px; border-radius: 999px;
-  font: 800 1.08rem/1 var(--f-display); text-decoration: none; color: var(--muted);
+  font: 800 1.08rem/1 var(--f-display); letter-spacing: .01em;
+  text-decoration: none; color: var(--tab-ink);
   transition: background .2s ease, color .2s ease, box-shadow .2s ease;
 }
-.tabs a:hover { background: var(--surface); color: var(--ink); }
-.tabs a[aria-selected="true"] { background: var(--surface); color: var(--ink); box-shadow: var(--shadow-sm); }
+.tabs a:hover { background: var(--surface); color: var(--tab-ink-on); }
+.tabs a[aria-selected="true"] { background: var(--surface); color: var(--tab-ink-on); box-shadow: var(--shadow-sm); }
 .ico {
-  width: 30px; height: 30px; flex: none;
-  fill: var(--icon); stroke: var(--icon); stroke-width: .6; stroke-linejoin: round;
+  flex: none; display: inline-block; width: 1.2em; text-align: center;
+  font: 400 1.55rem/1 "Apple Color Emoji", "Segoe UI Emoji", "Noto Color Emoji", sans-serif;
 }
-.ico .s { fill: none; stroke-width: 2.4; stroke-linecap: round; }
 @media (max-width: 620px) {
   .tabs a { padding: 9px 16px 9px 12px; font-size: 1rem; gap: 8px; }
-  .ico { width: 26px; height: 26px; }
+  .ico { font-size: 1.35rem; }
 }
 
 /* ---------- Ansichten ---------- */
@@ -369,5 +370,3 @@ table.tbl { width: 100%; border-collapse: separate; border-spacing: 0 3px; font-
 .radar-rule { margin: -8px 0 12px; }
 
 @media (prefers-reduced-motion: reduce) { * { transition: none !important; } }
-.ico mask * { stroke: none; }
-.ico mask g[stroke] * { stroke: #000; }
