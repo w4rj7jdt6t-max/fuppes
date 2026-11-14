@@ -1,6 +1,6 @@
 window.FUPPES_DATA = window.FUPPES_DATA || {};
 window.FUPPES_DATA["transfers"] = {
- "updated": "2026-11-14T16:52:48.839Z",
+ "updated": "2026-11-14T18:57:11.215Z",
  "rules": {
   "minFeeMio": 20,
   "topClubs": [
@@ -44,6 +44,34 @@ window.FUPPES_DATA["transfers"] = {
  },
  "items": [
   {
+   "title": "Kommentatoren-Legende schwärmt von DFB-Juwel Gruda – und warnt vor einem Wechsel zum FC Bayern",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPb2UtSzMwTFJsbzIzcXVta0l1bEpGRFhqLWo2bXBVV1ZNb1BMVzFWenYtR1Z1YkladnRPZHByZWZaemVFSWc4ZzBVQTM3ZmRzdmRkVEpmVzlhUzhOUzNGNWMySGdLNHFMYnp1Y2czR0hoNHhTQmQ1MmNjcFNxQmFYZEw1RUMxMU5uQks3QlhJNUdYcEVtS2VhMjJhT2JhYnJLMTlJWEdPQVkyUm9LT0E0?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPb2UtSzMwTFJsbzIzcXVta0l1bEpGRFhqLWo2bXBVV1ZNb1BMVzFWenYtR1Z1YkladnRPZHByZWZaemVFSWc4ZzBVQTM3ZmRzdmRkVEpmVzlhUzhOUzNGNWMySGdLNHFMYnp1Y2czR0hoNHhTQmQ1MmNjcFNxQmFYZEw1RUMxMU5uQks3QlhJNUdYcEVtS2VhMjJhT2JhYnJLMTlJWEdPQVkyUm",
+   "source": "Frankfurter Rundschau",
+   "date": "2026-11-14T17:49:02.000Z",
+   "fee": null,
+   "clubs": [
+    "Bayern"
+   ],
+   "tags": [
+    "Transfer"
+   ]
+  },
+  {
+   "title": "FC Barcelona vor Verlängerung mit Flick-Debütant",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNE1HZ2RSQlozRFJnX0ZlR0k2TjZQVFF0WTVqejByV0xHa1QzcEpfdTAzUU1HNUZUNnU2bFBPaG54ODRrUDZHQkk1cWdsdzhUS1lwRk03a214SnJ6UDdIQmZ6WjhTWHd4RDNnYU9pZ0g2UndyVHdEdTdfVHZadDhXcm9yV21jRlhKSldVTmh3?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNNE1HZ2RSQlozRFJnX0ZlR0k2TjZQVFF0WTVqejByV0xHa1QzcEpfdTAzUU1HNUZUNnU2bFBPaG54ODRrUDZHQkk1cWdsdzhUS1lwRk03a214SnJ6UDdIQmZ6WjhTWHd4RDNnYU9pZ0g2UndyVHdEdTdfVHZadDhXcm9yV21jRlhKSldVTmh3?oc=5\" target=\"_blank\">FC Barcelona vo",
+   "source": "fussballdaten.de",
+   "date": "2026-11-14T16:49:00.000Z",
+   "fee": null,
+   "clubs": [
+    "Barcelona"
+   ],
+   "tags": [
+    "Vertrag"
+   ]
+  },
+  {
    "title": "Transfer-Paukenschlag um Star des VfB Stuttgart? \"Heftiger Kampf\" erwartet",
    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQlhuRzNQQ3dSZXdSSkJsX2RMVnd1TjR0Um5ndGJUcDhvTGpJd3FJQS1CY3p1X3QxRWxZTnJlOU9xY2VJaHJyNFhBcmJVWWVHZHphQkJyU3Y3aVVPMnZMT0VlV253SjZaQkFJMG1pWGdDN3BOeVFjelhMNkNMNUVXYnRjTnBtZERZVE5SazJkLU9vdml6TFI5cll1VFZnRXNabTdnOUM5eEJXaTdoTmc?oc=5",
    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPQlhuRzNQQ3dSZXdSSkJsX2RMVnd1TjR0Um5ndGJUcDhvTGpJd3FJQS1CY3p1X3QxRWxZTnJlOU9xY2VJaHJyNFhBcmJVWWVHZHphQkJyU3Y3aVVPMnZMT0VlV253SjZaQkFJMG1pWGdDN3BOeVFjelhMNkNMNUVXYnRjTnBtZERZVE5SazJkLU9vdml6TFI5cll1VFZnRXNabTdnOUM5eEJXaT",
@@ -81,21 +109,6 @@ window.FUPPES_DATA["transfers"] = {
    "fee": null,
    "clubs": [
     "BVB"
-   ],
-   "tags": [
-    "Transfer"
-   ]
-  },
-  {
-   "title": "STUTTGART DEFENDER LINK! ISAK TRANSFER INVESTIGATION + VVD DEAL CALM! Liverpool Latest Transfer News",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQeEIxcWxNWWdMeGlrTkJaNGpzSkdxcmZYcFloa0pUYUoxeUpaTW1KTXVsUjNXdUwwQTkwTXhBQ1Q2eWY3ZW5udllvdVpZTm83NkRaWXV6REpjNjJaVjhsbVFQR2swZGlZb1otN0EtZnhyQm92Mmprald0Qmw1bkhhZVdXc0dBX2FpZDhheFlZNHAxYTRONnpiLUxDcHM0c3dpa2JoR3RfVTZVbXNhOW5XWkxVVUg5SG5nTDJfaHZkOUlDbUxLR3czNWpFZTJDbkJmUHZNRw?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxQeEIxcWxNWWdMeGlrTkJaNGpzSkdxcmZYcFloa0pUYUoxeUpaTW1KTXVsUjNXdUwwQTkwTXhBQ1Q2eWY3ZW5udllvdVpZTm83NkRaWXV6REpjNjJaVjhsbVFQR2swZGlZb1otN0EtZnhyQm92Mmprald0Qmw1bkhhZVdXc0dBX2FpZDhheFlZNHAxYTRONnpiLUxDcHM0c3dpa2JoR3RfVTZVbX",
-   "source": "OneFootball",
-   "date": "2026-11-14T06:04:40.000Z",
-   "fee": null,
-   "clubs": [
-    "Stuttgart",
-    "Liverpool"
    ],
    "tags": [
     "Transfer"
@@ -165,20 +178,6 @@ window.FUPPES_DATA["transfers"] = {
    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxPMS1hdTh5dkZPYndIQzVYd29OUGFwQXp0YTZEU25Pa3hTNmF5VjJmcHhCdGEyM2pESE90bVZLYVg3YktEdzdrbmpTOTVYQ19HcnZFT0ZadFZSQnY2RWlsTi1lajAtalpuVVQ0dm9mVzdkR1NsQXZFSncyXzBnNlpla2FjbHd4Ukl1bkMyQzBUZjNJWEtfZTBLRGptTlBvaVRDVWdaWFpqRnVPRX",
    "source": "SPOX.com",
    "date": "2026-11-13T17:21:11.000Z",
-   "fee": null,
-   "clubs": [
-    "BVB"
-   ],
-   "tags": [
-    "Gerücht"
-   ]
-  },
-  {
-   "title": "BVB: Neuer Interessent für Bensebaini",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPXy1fWF9aSVZPWGd1d2tYQjdBNDJnRVdnaUxYUWxhWk9zaVJiS0E1VENxTmtGVFY4RTRUc3hrdUxGNDhaVGJpMFB6b0tadWRzWjA5bFF4RGpkN25jVjJ0ZTZhQ01jczJuc3NMYTVranMtTlRyNi0yWjQ4YzZWM3B3UktzZTBZSWQzZ3hBM0d3QlVTRTNoVUdz?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPXy1fWF9aSVZPWGd1d2tYQjdBNDJnRVdnaUxYUWxhWk9zaVJiS0E1VENxTmtGVFY4RTRUc3hrdUxGNDhaVGJpMFB6b0tadWRzWjA5bFF4RGpkN25jVjJ0ZTZhQ01jczJuc3NMYTVranMtTlRyNi0yWjQ4YzZWM3B3UktzZTBZSWQzZ3hBM0d3QlVTRTNoVUdz?oc=5\" target=\"_blank\">BVB",
-   "source": "Fussball Transfers",
-   "date": "2026-11-13T17:15:00.000Z",
    "fee": null,
    "clubs": [
     "BVB"

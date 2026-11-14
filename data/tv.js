@@ -1,6 +1,6 @@
 window.FUPPES_DATA = window.FUPPES_DATA || {};
 window.FUPPES_DATA["tv"] = {
- "updated": "2026-11-14T16:52:50.064Z",
+ "updated": "2026-11-14T18:57:12.358Z",
  "matches": [
   {
    "matchID": 83237,
@@ -95,6 +95,15 @@ window.FUPPES_DATA["tv"] = {
    "kick": "2026-11-25T20:00:00Z",
    "team1": "Lille OSC",
    "team2": "FC Bayern München",
+   "channels": [],
+   "evidence": [],
+   "kicker": null
+  },
+  {
+   "matchID": 87750,
+   "kick": "2026-11-26T17:45:00Z",
+   "team1": "Dinamo Zagreb",
+   "team2": "Bayer 04 Leverkusen",
    "channels": [],
    "evidence": [],
    "kicker": null
