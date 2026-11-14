@@ -1,6 +1,6 @@
 window.FUPPES_DATA = window.FUPPES_DATA || {};
 window.FUPPES_DATA["transfers"] = {
- "updated": "2026-11-14T14:29:56.786Z",
+ "updated": "2026-11-14T14:53:46.690Z",
  "rules": {
   "minFeeMio": 20,
   "topClubs": [
@@ -270,6 +270,20 @@ window.FUPPES_DATA["transfers"] = {
    ]
   },
   {
+   "title": "Nicht zum ersten Mal: FC Bayern München hat wohl erneut Interesse an einem DFB-Hoffnungsträger",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxObjQ5ZVBpRmRfdFo0MmtKaVZoYjlpbTl3NTg2em1FRE9jbU5yLTVlUFI4dnI4QmcyT2ZzQnpDVElaakl6S2psTlVpank0TVdma1Y3NFVvMWozcEpoZXVGTmM0SHJvMzJOQUFUOG41YUZoamZlaUViWWxIbm5UUHY2TUpHTXJGME9kcXV6bmd0UjJmRlB6WlVjeExFMXJ6bUNaeDVuNkNWVGRUREgxQWJ1YUJQQ0JtWXpvdFdKTk15QWRGZTRDUUpBNFJBYWRjY2Y0RVdFU3F1NU81UkIzOHBvVmhrSQ?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxObjQ5ZVBpRmRfdFo0MmtKaVZoYjlpbTl3NTg2em1FRE9jbU5yLTVlUFI4dnI4QmcyT2ZzQnpDVElaakl6S2psTlVpank0TVdma1Y3NFVvMWozcEpoZXVGTmM0SHJvMzJOQUFUOG41YUZoamZlaUViWWxIbm5UUHY2TUpHTXJGME9kcXV6bmd0UjJmRlB6WlVjeExFMXJ6bUNaeDVuNkNWVGRURE",
+   "source": "Goal.com",
+   "date": "2026-11-13T05:06:13.000Z",
+   "fee": null,
+   "clubs": [
+    "Bayern"
+   ],
+   "tags": [
+    "Gerücht"
+   ]
+  },
+  {
    "title": "Trotz dreier Probleme: Bayern-Gerücht um Karius wird heißer",
    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcDBvNDJRRzJidzV1YnQzdEcwVVhtd1JhR2M5YlNCSU5IU2tRM080SGsycGYzZF94OEFTY0pILTI0VC1HVW1wc09QNG5iQVpxSmgwQ2dySjJoUk1QdUNSQjJyalNsb21Zam9FQUtNZzV4S0NMcUxKYUlVM0p2bEl3SUEtUmVoUFVtcnFkdkhIVmpQTVNtcl9BcE96cl9fcjFzLTZqRVJlTmh4dHpzRklveUpfaUo0QQ?oc=5",
    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQcDBvNDJRRzJidzV1YnQzdEcwVVhtd1JhR2M5YlNCSU5IU2tRM080SGsycGYzZF94OEFTY0pILTI0VC1HVW1wc09QNG5iQVpxSmgwQ2dySjJoUk1QdUNSQjJyalNsb21Zam9FQUtNZzV4S0NMcUxKYUlVM0p2bEl3SUEtUmVoUFVtcnFkdkhIVmpQTVNtcl9BcE96cl9fcjFzLTZqRVJlTmh4dH",
@@ -364,20 +378,6 @@ window.FUPPES_DATA["transfers"] = {
    "clubs": [
     "Bayern",
     "FCB"
-   ],
-   "tags": [
-    "Gerücht"
-   ]
-  },
-  {
-   "title": "Empfehlung von Ex-England-Stürmer: Holt FC Bayern überraschenden Neuzugang?",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTDBoRDkydmdsZ1BDZkRCQWVJVUJvTE5PbHU1N2ZNbk13cUp2eUU3QjA2eUJsYXYzTFdZSnRkeEJ3djA1RjVDcW5jcmF3S1cyZjZXbjd1SkNOdnhXQzBOREJmNWVSbHRVNER3dzJWQXptTmx1U0FrOHJXcWhXemR1UmJoOWo4aFI2eFdxNHBaeTNHVGh5cEgxUWNocFBDcmhYZVdkQTBGWmNtdDhlNE5MNGF6a3B4Zw?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNTDBoRDkydmdsZ1BDZkRCQWVJVUJvTE5PbHU1N2ZNbk13cUp2eUU3QjA2eUJsYXYzTFdZSnRkeEJ3djA1RjVDcW5jcmF3S1cyZjZXbjd1SkNOdnhXQzBOREJmNWVSbHRVNER3dzJWQXptTmx1U0FrOHJXcWhXemR1UmJoOWo4aFI2eFdxNHBaeTNHVGh5cEgxUWNocFBDcmhYZVdkQTBGWmNtdD",
-   "source": "Merkur",
-   "date": "2026-11-12T14:49:11.000Z",
-   "fee": null,
-   "clubs": [
-    "Bayern"
    ],
    "tags": [
     "Gerücht"
