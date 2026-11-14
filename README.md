@@ -19,6 +19,11 @@ Reines HTML/CSS/JS ohne Build-Schritt.
 | FC-Vorverkaufsstarts | offizieller FC-Kalender „Vorverkäufe abonnieren“ (calovo) | `scripts/update-data.mjs` → `data/vorverkauf.json` |
 | Transfers & Personal (FC) | kicker-Teamfeed, GEISSBLOG, Google News | `scripts/update-data.mjs` → `data/news-fc.json` |
 | Transfer-Radar | Transfermarkt, kicker, Google News; gefiltert auf Top-Klubs oder Ablöse ≥ 20 Mio. € | `scripts/update-data.mjs` → `data/transfers.json` |
+| Spiel-Fenster: Aufstellungen & Spielort (FC) | offizieller FC-Spielplan-Kalender (calovo) | `scripts/update-data.mjs` → `data/spielinfo.json` |
+| Spiel-Fenster: Pressekonferenzen | YouTube-Kanäle von 1. FC Köln und DFB | `scripts/update-data.mjs` → `data/spielinfo.json` |
+| Spiel-Fenster: Schiedsrichter-Ansetzungen (Link) | bundesliga.com über Google News | `scripts/update-data.mjs` → `data/spielinfo.json` |
+| Spiel-Fenster: Stadion, Kapazität | `stadien.js` (von Hand gepflegt) | statisch |
+| Spiel-Fenster: Übertragung | Sendeplatz-Regeln nach Rechtelage 2026/27 in `app.js` (`tvFor`) | statisch |
 
 Kalender und News-Feeds erlauben keinen direkten Abruf aus dem Browser (CORS). Deshalb holt das Skript sie ab und legt sie
 als JSON in `data/`. Die Liste der Top-Klubs und die Mindestablöse stehen oben im Skript.

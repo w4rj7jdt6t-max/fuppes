@@ -247,10 +247,65 @@ async function transfers() {
   return { rules: { minFeeMio: MIN_FEE_MIO, topClubs: TOP_CLUBS }, items };
 }
 
+/* ------------------------------------------------------------------ Spielinfos */
+
+const FC_ICS = "https://i.cal.to/ical/34/fckoeln/bundesliga-spielplan/12345.12345-54321.ics";
+const YT = (id) => `https://www.youtube.com/feeds/videos.xml?channel_id=${id}`;
+const YT_CHANNELS = { fc: "UCQZhvmm636X6I5rrnLFBp1w", dfb: "UCfMo0xj-sbdzHuzxvKdu1hw" };
+
+// Aufstellungen + Spielort aus dem offiziellen FC-Spielplan-Kalender
+function fcMatchInfo(e) {
+  const [stadium = "", city = ""] = e.location.split(",").map((x) => x.replace(/\(Stadion\)/, "").trim());
+  const head = e.description.split("\n")[0];
+  const blocks = e.description.split(/\n\n+/);
+  const lineups = [];
+  for (let i = 0; i < blocks.length; i++) {
+    const m = blocks[i].match(/^([^\n]+):\n([^\n]+,[^\n]+)$/);
+    if (m && m[1] !== "Tore") lineups.push({ team: m[1].trim(), players: m[2].split(/,\s*/).map((x) => x.trim()).filter(Boolean) });
+  }
+  const goals = (e.description.match(/Tore:\n([\s\S]*?)(\n\n|$)/) || [, ""])[1].split("\n").map((x) => x.trim()).filter(Boolean);
+  return { start: e.start, title: e.summary.replace(/^\*\s*/, "").split("|")[0].trim(), result: /\d+:\d+/.test(head) ? head : null, stadium, city, lineups, goals };
+}
+
+// Pressekonferenzen von den offiziellen YouTube-Kanälen
+function parseYt(xml, who) {
+  return [...xml.matchAll(/<entry>([\s\S]*?)<\/entry>/g)].map(([, e]) => {
+    const tag = (t) => { const m = e.match(new RegExp(`<${t}\\b[^>]*>([\\s\\S]*?)<\\/${t}>`)); return m ? m[1] : ""; };
+    const id = tag("yt:videoId");
+    const title = decode(tag("title"));
+    const raw = tag("media:description").replace(/&amp;/g, "&").replace(/&quot;/g, '"').replace(/&#39;/g, "'").replace(/&lt;/g, "<").replace(/&gt;/g, ">");
+    const desc = raw.split(/\n\s*_{3,}|Alle offiziellen|Abonniere|Abonnieren/)[0].replace(/\s+/g, " ").trim();
+    const quotes = [...`${title} ${desc}`.matchAll(/[„"“]([^„"“”]{8,160})[“"”]/g)].map((q) => q[1].trim());
+    return { who, id, title, date: tag("published"), url: `https://www.youtube.com/watch?v=${id}`, summary: desc.slice(0, 320), quotes: [...new Set(quotes)].slice(0, 3) };
+  }).filter((v) => v.id && /pressekonferenz|\bPK\b|medienrunde/i.test(v.title));
+}
+
+async function spielinfo() {
+  const out = { fc: [], press: [], referees: [] };
+  const [ics, ytFc, ytDfb, refs] = await Promise.allSettled([
+    get(FC_ICS), get(YT(YT_CHANNELS.fc)), get(YT(YT_CHANNELS.dfb)),
+    get(gnews("Schiedsrichter-Ansetzungen Spieltag site:bundesliga.com when:30d")),
+  ]);
+  if (ics.status === "fulfilled") out.fc = parseIcs(ics.value).filter((e) => e.start).map(fcMatchInfo);
+  else console.warn("⚠ FC-Spielplan:", ics.reason.message);
+  for (const [r, who] of [[ytFc, "fc"], [ytDfb, "dfb"]]) {
+    if (r.status === "fulfilled") out.press.push(...parseYt(r.value, who));
+    else console.warn("⚠ YouTube", who, r.reason.message);
+  }
+  if (refs.status === "fulfilled") {
+    out.referees = parseRss(refs.value, "Google News")
+      .map((i) => ({ ...i, matchday: +((i.title.match(/am (\d+)\. Spieltag/) || [])[1] || 0) }))
+      .filter((i) => i.matchday)
+      .map(({ summary, ...i }) => i);
+  }
+  if (!out.fc.length && !out.press.length) throw new Error("keine Spielinfos geladen");
+  return out;
+}
+
 /* ------------------------------------------------------------------ Start */
 
 await mkdir(DATA, { recursive: true });
-const jobs = { "vorverkauf.json": vorverkauf, "news-fc.json": newsFC, "transfers.json": transfers };
+const jobs = { "vorverkauf.json": vorverkauf, "news-fc.json": newsFC, "transfers.json": transfers, "spielinfo.json": spielinfo };
 let failed = 0;
 for (const [file, job] of Object.entries(jobs)) {
   try {
@@ -260,7 +315,8 @@ for (const [file, job] of Object.entries(jobs)) {
     // Zusätzlich als Skript, damit die Seite auch per Doppelklick (file://) ohne Server läuft
     const key = file.replace(/\.json$/, "");
     await writeFile(join(DATA, key + ".js"), `window.FUPPES_DATA = window.FUPPES_DATA || {};\nwindow.FUPPES_DATA[${JSON.stringify(key)}] = ${json};\n`);
-    console.log(`✓ ${file}: ${data.items.length} Einträge`);
+    const n = Object.values(data).filter(Array.isArray).reduce((a, x) => a + x.length, 0);
+    console.log(`✓ ${file}: ${n} Einträge`);
   } catch (e) {
     failed++;
     console.error(`✗ ${file}:`, e.message); // alte Datei bleibt bestehen

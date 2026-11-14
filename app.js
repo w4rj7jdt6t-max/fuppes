@@ -88,6 +88,7 @@ function teamCell(t, cls = "") {
 
 /** opts: {me: id|name, comp: bool} */
 function matchRow(m, opts = {}) {
+  MATCHES.set(String(m.matchID), m);
   const s = score(m);
   const d = kick(m);
   let cls = "pending", txt = fmtTime(d);
@@ -99,7 +100,7 @@ function matchRow(m, opts = {}) {
   const me1 = opts.me && isTeam(m.team1, opts.me) ? "me" : "";
   const me2 = opts.me && isTeam(m.team2, opts.me) ? "me" : "";
   const hl1 = opts.hl?.(m.team1) ? "me" : "", hl2 = opts.hl?.(m.team2) ? "me" : "";
-  return `<div class="m">
+  return `<div class="m" ${clickable(m)}>
     <div class="m-when">${esc(fmtDay(d))}${s.state !== "open" ? "<br>" + esc(fmtTime(d)) : ""}</div>
     ${teamCell(m.team1, `home ${me1 || hl1}`)}
     <div class="m-score ${cls}"${s.state === "live" ? ' title="läuft"' : ""}>${esc(txt)}</div>
@@ -108,8 +109,16 @@ function matchRow(m, opts = {}) {
   </div>`;
 }
 
+/* Alle angezeigten Spiele, damit ein Klick das Spiel-Fenster öffnen kann */
+const MATCHES = new Map();
+const clickable = (m, hint = "Spielinfos öffnen") => `data-mid="${esc(m.matchID)}" tabindex="0" role="button" title="${esc(hint)}"`;
+
 function heroMatch(el, m, label) {
+  ["data-mid", "tabindex", "role", "title"].forEach((a) => el.removeAttribute(a));
   if (!m) { el.innerHTML = `<p class="loading">Aktuell ist kein Spiel angesetzt.</p>`; return; }
+  Object.assign(el.dataset, { mid: m.matchID });
+  el.tabIndex = 0; el.setAttribute("role", "button"); el.title = "Mehr zu diesem Spiel";
+  MATCHES.set(String(m.matchID), m);
   const d = kick(m), s = score(m);
   const nm = (t) => ((t.shortName || "").length > 3 ? t.shortName : t.teamName);
   const img = (t) => (safeImg(t.teamIconUrl) ? `<img src="${esc(safeImg(t.teamIconUrl))}" alt="" onerror="this.remove()">` : "");
@@ -123,7 +132,8 @@ function heroMatch(el, m, label) {
       <div class="hm-center">${center}</div>
       <div class="hm-team away">${img(m.team2)}<span>${esc(nm(m.team2))}</span></div>
     </div>
-    ${s.state === "open" ? `<div class="hm-count" data-kick="${d.getTime()}"></div>` : ""}`;
+    ${s.state === "open" ? `<div class="hm-count" data-kick="${d.getTime()}"></div>` : ""}
+    <p class="hm-more">Tippen für Aufstellung, TV, Pressekonferenzen &amp; Stadion</p>`;
   tickCountdowns();
 }
 
@@ -436,7 +446,7 @@ const nameShort = (t) => ((t.shortName || "").length > 3 ? t.shortName : t.teamN
 function matchEvent(m, cat) {
   const s = score(m);
   return {
-    id: `${cat}-${m.matchID}`, cat, start: kick(m),
+    id: `${cat}-${m.matchID}`, cat, start: kick(m), mid: (MATCHES.set(String(m.matchID), m), m.matchID),
     title: `${nameShort(m.team1)} – ${nameShort(m.team2)}`,
     sub: compName(m),
     result: s.state !== "open" && s.h != null ? `${s.h}:${s.a}` : null,
@@ -498,7 +508,7 @@ function shortLimit(t) {
 
 function eventHTML(e, { date = false } = {}) {
   const time = fmtTime(e.start);
-  return `<div class="ev ${e.cat}">
+  return `<div class="ev ${e.cat}${e.mid ? " click" : ""}" ${e.mid ? `data-mid="${esc(e.mid)}" tabindex="0" role="button" title="Spielinfos öffnen"` : ""}>
     <div class="ev-time">${esc(e.result || time)}</div>
     <div class="ev-body">
       <div class="ev-title">${e.link ? `<a href="${esc(safeLink(e.link))}" target="_blank" rel="noopener">${esc(e.title)}</a>` : esc(e.title)}</div>
@@ -581,6 +591,150 @@ async function loadHome() {
     renderMine();
   } catch (e) { fail($("#cal-day"), e); }
 }
+
+/* ---------- Spiel-Fenster: Aufstellung, TV, Pressekonferenzen, Schiedsrichter, Stadion ---------- */
+const NO_INFO = '<p class="mi-none">keine Information</p>';
+const berlinParts = (d) => Object.fromEntries(new Intl.DateTimeFormat("de-DE", { ...tz, weekday: "short", hour: "2-digit", minute: "2-digit", hourCycle: "h23" })
+  .formatToParts(d).map((p) => [p.type, p.value]));
+const sameBerlinDay = (a, b) => berlinKey(a) === berlinKey(b);
+const fmtNum = (n) => Number(n).toLocaleString("de-DE");
+
+function compOf(m) {
+  const l = (m.leagueShortcut || "").toLowerCase();
+  if (l === "bl1") return "bl1";
+  if (l === "bl2") return "bl2";
+  if (l === "dfb") return "dfb";
+  if (l === "dfbn" || l === "nla") return "nt";
+  if (l === "ucl") return "ucl";
+  if (l.startsWith("uecl")) return "uecl";
+  if (l.startsWith("uel")) return "uel";
+  if (l === "pl") return "pl";
+  return "";
+}
+
+/* Übertragung nach Rechtelage 2026/27 (Sendeplatz-Regeln) */
+function tvFor(m) {
+  const p = berlinParts(kick(m));
+  const hm = `${p.hour}:${p.minute}`;
+  const c = compOf(m);
+  const names = `${m.team1.teamName} ${m.team2.teamName}`;
+  const dayKey = berlinKey(kick(m));
+  const sat1 = { "2026-12-18": "Bayern", "2027-01-08": "Dortmund" };
+  switch (c) {
+    case "bl1": {
+      const extra = sat1[dayKey] && names.includes(sat1[dayKey]) ? [["Sat.1", "parallel live im Free-TV"]] : [];
+      if (p.weekday === "Fr.") return [["Sky", "Freitagsspiel"], ...extra];
+      if (p.weekday === "Sa." && hm === "15:30") return [["Sky", "Einzelspiel (auch Multiview)"], ["DAZN", "Konferenz"], ...extra];
+      if (p.weekday === "Sa.") return [["Sky", hm === "18:30" ? "Topspiel der Woche" : "Samstagsspiel"], ...extra];
+      if (p.weekday === "So.") return [["DAZN", "Sonntagsspiel"]];
+      return [["Sky", "Englische Woche: Einzelspiel"], ["DAZN", "Konferenz bzw. Einzelspiel je nach Ansetzung"]];
+    }
+    case "bl2": return [["Sky", "Einzelspiel und Konferenz"]];
+    case "dfb": return [["Sky", "alle Spiele live"], ["RTL+", "überträgt das Sky-Signal"], ["ARD / ZDF / RTL", "ausgewählte Spiele im Free-TV"]];
+    case "nt": return [["ARD, ZDF oder RTL", "Länderspiele laufen immer live im Free-TV"], ["RTL+ / ARD- & ZDF-Mediathek", "Stream"]];
+    case "ucl": return p.weekday === "Di." && hm === "21:00"
+      ? [["Prime Video", "möglicher Dienstags-Topspielplatz"], ["DAZN", "alle übrigen Spiele"]]
+      : [["DAZN", "fast alle Spiele"], ["Prime Video", "nur das Dienstags-Topspiel"]];
+    case "uel": case "uecl": return [["RTL+", "alle Spiele"], ["RTL / Nitro", "ein Spiel pro Spieltag im Free-TV"], ["Sky", "einzelne Spiele mit deutscher Beteiligung"]];
+    case "pl": return [["Sky", "Premier League"]];
+    default: return [];
+  }
+}
+
+function venueFor(m, fcInfo) {
+  const S = window.FUPPES_STADIEN || {};
+  const capOf = (name) => {
+    const n = (name || "").toLowerCase().replace(/\s+/g, " ").trim();
+    const hit = Object.values(S).find(([st]) => st.toLowerCase() === n || n.includes(st.toLowerCase()) || st.toLowerCase().includes(n));
+    return hit ? hit[2] : null;
+  };
+  if (fcInfo?.stadium) return { stadium: fcInfo.stadium, city: fcInfo.city, cap: capOf(fcInfo.stadium) };
+  if (m.location?.locationStadium) return { stadium: m.location.locationStadium.trim(), city: m.location.locationCity, cap: capOf(m.location.locationStadium) };
+  if (compOf(m) === "nt") {
+    const o = (window.FUPPES_NT_ORTE || {})[berlinKey(kick(m))];
+    return o ? { stadium: o[0], city: o[1], cap: o[2] } : null;
+  }
+  const h = S[m.team1.teamName.trim()];
+  return h ? { stadium: h[0], city: h[1], cap: h[2] } : null;
+}
+
+const GENERIC = new Set(["borussia", "eintracht", "fußball", "verein", "sport", "club", "1846", "1907"]);
+const teamWords = (t) => [t.shortName, ...t.teamName.split(/[\s.\-]+/)].filter((w) => w && w.length >= 4 && !GENERIC.has(w.toLowerCase())).map((w) => w.toLowerCase());
+
+function pressFor(m, info) {
+  if (!info?.press) return [];
+  const k = kick(m).getTime();
+  const isFC = involves(m, KOELN_ID) || involves(m, KOELN_NAME);
+  const isGer = compOf(m) === "nt";
+  if (!isFC && !isGer) return [];
+  const opp = isFC ? (isTeam(m.team1, KOELN_ID) || isTeam(m.team1, KOELN_NAME) ? m.team2 : m.team1) : null;
+  const words = opp ? teamWords(opp) : [];
+  return info.press.filter((v) => {
+    const t = new Date(v.date).getTime();
+    if (isFC) return v.who === "fc" && t > k - 6 * 864e5 && t < k + 1.5 * 864e5 && words.some((w) => v.title.toLowerCase().includes(w));
+    return v.who === "dfb" && /nationalmannschaft/i.test(v.title) && t > k - 7 * 864e5 && t < k + 1.5 * 864e5;
+  }).sort((a, b) => new Date(a.date) - new Date(b.date));
+}
+
+function lineupHTML(m, fcInfo) {
+  const ls = fcInfo?.lineups || [];
+  if (!ls.length) return NO_INFO + (score(m).state === "open" ? '<p class="mi-hint">Die Aufstellung kommt kurz vor dem Anpfiff.</p>' : "");
+  return `<div class="mi-lineups">${ls.map((l) => `<div><h4>${esc(l.team)}</h4><ol>${l.players.map((p) => `<li>${esc(p)}</li>`).join("")}</ol></div>`).join("")}</div>
+    ${fcInfo.goals?.length ? `<p class="mi-goals"><b>Tore:</b> ${fcInfo.goals.map(esc).join(" · ")}</p>` : ""}`;
+}
+
+async function openMatch(mid) {
+  const m = MATCHES.get(String(mid));
+  if (!m) return;
+  const dlg = $("#match-dlg");
+  const d = kick(m), s = score(m);
+  const img = (t) => (safeImg(t.teamIconUrl) ? `<img src="${esc(safeImg(t.teamIconUrl))}" alt="" onerror="this.remove()">` : "");
+  const center = s.state !== "open" && s.h != null ? `${s.h}:${s.a}` : fmtTime(d);
+  let info = null;
+  try { info = await localJSON("spielinfo"); } catch (_) {}
+  const fcInfo = (involves(m, KOELN_ID) || involves(m, KOELN_NAME)) ? (info?.fc || []).find((f) => sameBerlinDay(new Date(f.start), d)) : null;
+  const v = venueFor(m, fcInfo);
+  const tv = tvFor(m);
+  const press = pressFor(m, info);
+  const md = m.group?.groupOrderID;
+  const ref = compOf(m) === "bl1" ? (info?.referees || []).find((r) => r.matchday === md) : null;
+
+  $("#mi-body").innerHTML = `
+    <div class="mi-head">
+      <div class="hm-meta"><span>${esc(compName(m))}</span><span>${esc(fmtLongDay(d))}, ${esc(fmtTime(d))} Uhr</span></div>
+      <div class="mi-board">
+        <div class="hm-team">${img(m.team1)}<span>${esc(m.team1.teamName)}</span></div>
+        <div class="mi-score">${esc(center)}${s.state === "live" ? '<small>läuft</small>' : ""}</div>
+        <div class="hm-team away">${img(m.team2)}<span>${esc(m.team2.teamName)}</span></div>
+      </div>
+    </div>
+    <div class="mi-grid">
+      <section class="mi-box"><h3>📍 Spielort</h3>${v ? `<p class="mi-big">${esc(v.stadium)}</p><p>${esc(v.city || "")}</p>` : NO_INFO}</section>
+      <section class="mi-box"><h3>🏟️ Fassungsvermögen</h3>${v?.cap ? `<p class="mi-big">${fmtNum(v.cap)}</p><p>Plätze</p>` : NO_INFO}</section>
+      <section class="mi-box"><h3>🧑‍⚖️ Schiedsrichter</h3>${NO_INFO}${ref ? `<p class="mi-hint"><a href="${esc(safeLink(ref.link))}" target="_blank" rel="noopener">Ansetzungen zum ${esc(md)}. Spieltag ↗</a></p>` : ""}</section>
+      <section class="mi-box"><h3>📺 Übertragung</h3>${tv.length ? `<ul class="mi-tv">${tv.map(([n, x]) => `<li><b>${esc(n)}</b><span>${esc(x)}</span></li>`).join("")}</ul><p class="mi-hint">Nach Sendeplatz und Rechtelage 2026/27, kurzfristige Änderungen möglich.</p>` : NO_INFO}</section>
+      <section class="mi-box wide"><h3>📋 Aufstellung</h3>${lineupHTML(m, fcInfo)}</section>
+      <section class="mi-box wide"><h3>🎙️ Pressekonferenzen</h3>${press.length ? press.map((p) => `
+        <div class="mi-pk">
+          <a href="${esc(safeLink(p.url))}" target="_blank" rel="noopener">▶ ${esc(p.title)}</a>
+          <div class="nw-meta"><span>${esc(fmtDay(new Date(p.date)))}</span><span>YouTube · ${p.who === "fc" ? "1. FC Köln" : "DFB"}</span></div>
+          ${p.quotes?.length ? p.quotes.map((q) => `<blockquote>„${esc(q)}“</blockquote>`).join("") : ""}
+          ${p.summary ? `<p>${esc(p.summary)}</p>` : ""}
+        </div>`).join("") : NO_INFO}</section>
+    </div>`;
+  if (!dlg.open) dlg.showModal();
+  dlg.scrollTop = 0;
+}
+
+document.addEventListener("click", (e) => {
+  if (e.target.closest("a, button")) return;
+  const el = e.target.closest("[data-mid]");
+  if (el) openMatch(el.dataset.mid);
+});
+document.addEventListener("keydown", (e) => {
+  if ((e.key === "Enter" || e.key === " ") && e.target.matches?.("[data-mid]")) { e.preventDefault(); openMatch(e.target.dataset.mid); }
+});
+$("#match-dlg")?.addEventListener("click", (e) => { if (e.target.id === "match-dlg" || e.target.closest(".mi-close")) e.currentTarget.close(); });
 
 /* ---------- Routing ---------- */
 const VIEWS = {

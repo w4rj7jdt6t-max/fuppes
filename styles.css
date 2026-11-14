@@ -370,3 +370,61 @@ table.tbl { width: 100%; border-collapse: separate; border-spacing: 0 3px; font-
 .radar-rule { margin: -8px 0 12px; }
 
 @media (prefers-reduced-motion: reduce) { * { transition: none !important; } }
+
+/* ---------- Klickbare Spiele + Spiel-Fenster ---------- */
+[data-mid] { cursor: pointer; transition: background .18s ease, box-shadow .18s ease, transform .18s ease; }
+.m[data-mid]:hover, .ev.click:hover { background: var(--soft-2); }
+.m[data-mid]:hover .m-score.pending { color: var(--accent); }
+[data-mid]:focus-visible { outline: 3px solid color-mix(in srgb, var(--accent) 45%, transparent); outline-offset: 2px; }
+.hero-match[data-mid]:hover { box-shadow: var(--shadow), 0 0 0 3px color-mix(in srgb, var(--accent) 18%, transparent); }
+.hm-more { margin: 14px 0 0; color: var(--board-muted); font-size: 0.8rem; font-weight: 600; }
+
+dialog.mi {
+  width: min(760px, calc(100vw - 24px)); max-height: calc(100dvh - 32px);
+  padding: 0; border: 0; border-radius: var(--r-lg);
+  background: var(--surface); color: var(--ink);
+  box-shadow: 0 30px 80px -30px rgba(80, 30, 20, .45);
+  overflow: auto; overscroll-behavior: contain;
+}
+dialog.mi::backdrop { background: color-mix(in srgb, #3a2520 34%, transparent); backdrop-filter: blur(4px); -webkit-backdrop-filter: blur(4px); }
+dialog.mi[open] { animation: mi-in .22s ease; }
+@keyframes mi-in { from { opacity: 0; transform: translateY(10px) scale(.98); } }
+.mi-close {
+  position: sticky; top: 12px; float: right; margin: 12px 12px 0 0; z-index: 2;
+  width: 38px; height: 38px; border: 0; border-radius: 999px; cursor: pointer;
+  background: var(--soft); color: var(--muted); font: 700 1rem/1 var(--f-body);
+}
+.mi-close:hover { background: var(--accent-soft); color: var(--accent); }
+.mi-head { background: var(--board); color: var(--board-ink); padding: 22px 24px 24px; }
+.mi-board { display: grid; grid-template-columns: minmax(0, 1fr) auto minmax(0, 1fr); align-items: center; gap: 14px; margin-top: 16px; }
+.mi-board .hm-team img { width: 48px; height: 48px; }
+.mi-board .hm-team span { font-size: clamp(1.05rem, 3vw, 1.45rem); }
+.mi-score { font: 900 clamp(1.8rem, 5vw, 2.5rem)/1 var(--f-display); text-align: center; font-variant-numeric: tabular-nums; }
+.mi-score small { display: block; font-size: .75rem; color: var(--accent); margin-top: 4px; }
+.mi-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 12px; padding: 18px; }
+.mi-box { background: var(--soft); border-radius: var(--r); padding: 14px 16px; min-width: 0; }
+.mi-box.wide { grid-column: 1 / -1; }
+.mi-box h3 { margin: 0 0 10px; font: 800 0.86rem/1.2 var(--f-display); color: var(--tab-ink); }
+.mi-box p { margin: 0; }
+.mi-big { font: 800 1.15rem/1.25 var(--f-display); }
+.mi-none { color: var(--muted); font-style: italic; }
+.mi-hint { margin-top: 8px !important; color: var(--muted); font-size: 0.8rem; }
+.mi-hint a, .mi-pk a { color: var(--accent); font-weight: 700; text-decoration: none; }
+.mi-hint a:hover, .mi-pk a:hover { text-decoration: underline; }
+.mi-tv { list-style: none; margin: 0; padding: 0; display: grid; gap: 6px; }
+.mi-tv li { display: flex; flex-wrap: wrap; gap: 2px 8px; align-items: baseline; }
+.mi-tv b { font-weight: 800; }
+.mi-tv span { color: var(--muted); font-size: 0.85rem; }
+.mi-lineups { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 14px; }
+.mi-lineups h4 { margin: 0 0 6px; font: 800 0.9rem/1.2 var(--f-display); }
+.mi-lineups ol { margin: 0; padding-left: 1.4em; display: grid; gap: 2px; font-size: 0.88rem; }
+.mi-goals { margin-top: 12px !important; font-size: 0.85rem; }
+.mi-pk + .mi-pk { margin-top: 12px; padding-top: 12px; border-top: 0; box-shadow: 0 -1px 0 var(--soft-2); }
+.mi-pk blockquote { margin: 8px 0 0; padding: 8px 12px; border-radius: var(--r-sm); background: var(--surface); font: 700 0.92rem/1.4 var(--f-display); }
+.mi-pk p { margin-top: 6px !important; color: var(--muted); font-size: 0.85rem; }
+@media (max-width: 620px) {
+  .mi-grid { grid-template-columns: 1fr; padding: 12px; }
+  .mi-lineups { grid-template-columns: 1fr; }
+  .mi-head { padding: 18px 16px 20px; }
+  .mi-board .hm-team, .mi-board .hm-team.away { flex-direction: column; text-align: center; gap: 6px; }
+}
