@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T20:50:22.244Z",
+ "updated": "2026-11-14T22:49:02.188Z",
  "matches": [
   {
    "matchID": 83237,
@@ -77,16 +77,8 @@
    "kick": "2026-11-25T20:00:00Z",
    "team1": "Inter Mailand",
    "team2": "VfB Stuttgart",
-   "channels": [
-    "DAZN"
-   ],
-   "evidence": [
-    {
-     "title": "Inter - VfB Stuttgart Live Stream | Jetzt Anmelden | DAZN DE",
-     "source": "DAZN",
-     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQel9Va0t0djBKU3VvT211SlRWVG1uNzBRblNHVWpXcE9EQVN4WkZYOEJNN08yQUQ3RVZGVHVSdEdTVEVnRnB5SzN1MHVYOHRUeFF4b1dUQUV2cnFMQ2RSdW9ob3ZZYzIzSzZVMHpJSk1wb0lBX0l2NjVDOGdwZjQ4MnJSc3lJbjdBQnl5TA?oc=5"
-    }
-   ],
+   "channels": [],
+   "evidence": [],
    "kicker": null
   },
   {

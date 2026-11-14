@@ -1,6 +1,6 @@
 window.FUPPES_DATA = window.FUPPES_DATA || {};
 window.FUPPES_DATA["news-fc"] = {
- "updated": "2026-11-14T20:50:19.953Z",
+ "updated": "2026-11-14T22:48:59.709Z",
  "items": [
   {
    "title": "GEISSTALK: Jetzt spricht Kessler über Wagner, El Mala und Wintertransfers",

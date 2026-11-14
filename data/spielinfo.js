@@ -1,6 +1,6 @@
 window.FUPPES_DATA = window.FUPPES_DATA || {};
 window.FUPPES_DATA["spielinfo"] = {
- "updated": "2026-11-14T20:50:21.775Z",
+ "updated": "2026-11-14T22:49:01.748Z",
  "fc": [
   {
    "start": "2025-11-22T17:30:00.000Z",
@@ -1892,15 +1892,6 @@ window.FUPPES_DATA["spielinfo"] = {
    "date": "2026-11-12T18:34:08+00:00",
    "url": "https://www.youtube.com/watch?v=2yrZgmHaSsw",
    "summary": "Viel Spaß mit der DFB Pressekonferenz mit Jürgen Klopp & Florian Wirtz vor den anstehenden Partien in der UEFA Nations League.",
-   "quotes": []
-  },
-  {
-   "who": "dfb",
-   "id": "Z5zfcdUyeUg",
-   "title": "RE-LIVE | Pressekonferenz der Nationalmannschaft mit Philipp Treu und Derry Scherhant",
-   "date": "2026-11-11T11:58:59+00:00",
-   "url": "https://www.youtube.com/watch?v=Z5zfcdUyeUg",
-   "summary": "Viel Spaß mit der DFB Pressekonferenz mit Phillip Treu und Derry Scherhant vor den anstehenden Partien in der UEFA Nations League.",
    "quotes": []
   }
  ],
