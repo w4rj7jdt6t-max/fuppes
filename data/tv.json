@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T18:57:12.358Z",
+ "updated": "2026-11-14T20:50:22.244Z",
  "matches": [
   {
    "matchID": 83237,
@@ -42,8 +42,16 @@
    "kick": "2026-11-16T19:45:00Z",
    "team1": "Deutschland",
    "team2": "Niederlande",
-   "channels": [],
-   "evidence": [],
+   "channels": [
+    "ARD"
+   ],
+   "evidence": [
+    {
+     "title": "ARD live am Montag: Wer zeigt Deutschland gegen die Niederlande?",
+     "source": "News zur deutschen Nationalmannschaft",
+     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYXFrOGVTNXBqRnE4TDZKbFdObHBlWWpTZVBVUWp3LWxyR0F5NVowUmdzQkVGaHN6Wm9GeGJ4MGFrRzhVZW5GbzRjZDlCSmFrbU9JSFJ5eE95V2VYN3N0VEJvTHhxbzBkLWRyWUJtV0FyTzhzQUxlU0xiQ2dKZmJpN2xNeXhDQzZQa0lQZWtwLVJMemVMc2dvdmNYSU1EZU9BSUVIcDlBWXV2QQ?oc=5"
+    }
+   ],
    "kicker": null
   },
   {
@@ -60,16 +68,8 @@
    "kick": "2026-11-24T20:00:00Z",
    "team1": "RB Leipzig",
    "team2": "RC Lens",
-   "channels": [
-    "DAZN"
-   ],
-   "evidence": [
-    {
-     "title": "RB Leipzig - Lens Live Stream | Jetzt Anmelden | DAZN DE",
-     "source": "DAZN",
-     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPR2RmeDAtVFpMM2wwQVQyUWtEeVVJZjZKVWVUdWE2UkZTbEx1eHJKOEtrQl9wcTJ2VEdRODhYYkFlZzBwQjJwUUdyaDJ3X3NkXzdPUEtnNzFEb3V6OGJrVUwzaVpRaVJiSGZfb045ZlZNWjBjNkdsa1RmcVo5ZWdoN09xTHlqeE9XWi1zQw?oc=5"
-    }
-   ],
+   "channels": [],
+   "evidence": [],
    "kicker": null
   },
   {
@@ -103,6 +103,24 @@
    "kick": "2026-11-26T17:45:00Z",
    "team1": "Dinamo Zagreb",
    "team2": "Bayer 04 Leverkusen",
+   "channels": [],
+   "evidence": [],
+   "kicker": null
+  },
+  {
+   "matchID": 87754,
+   "kick": "2026-11-26T20:00:00Z",
+   "team1": "TSG Hoffenheim",
+   "team2": "Sturm Graz",
+   "channels": [],
+   "evidence": [],
+   "kicker": null
+  },
+  {
+   "matchID": 88350,
+   "kick": "2026-11-26T20:00:00Z",
+   "team1": "SC Freiburg",
+   "team2": "FC Twente Enschede",
    "channels": [],
    "evidence": [],
    "kicker": null

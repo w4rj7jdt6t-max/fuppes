@@ -1,6 +1,6 @@
 window.FUPPES_DATA = window.FUPPES_DATA || {};
 window.FUPPES_DATA["news-fc"] = {
- "updated": "2026-11-14T18:57:09.812Z",
+ "updated": "2026-11-14T20:50:19.953Z",
  "items": [
   {
    "title": "GEISSTALK: Jetzt spricht Kessler über Wagner, El Mala und Wintertransfers",
@@ -88,16 +88,6 @@ window.FUPPES_DATA["news-fc"] = {
    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPNEF0b1pDcGQ4UF91Wjh0ZTVnTW9XRzIzWjBRMnVNV0pJb3MxU2RBM2F3YXhPOU9MbXBUUUdiU3hMczNTb0RDb2VyYUNLV2xES0tCRTBnMGtuRGNITU1oN0FrcXk5dm5lb0NzYUltX0oxb0lXN3BmQlhVZFVfUzBxaDRYcXhHUHpGWGxhQTdVSDhQcGUxRHJ0MTFpWUdsVjYtLWRlT3BBUDdiS3",
    "source": "Express",
    "date": "2026-11-12T15:08:26.000Z",
-   "tags": [
-    "Verein"
-   ]
-  },
-  {
-   "title": "Kein Feierverbot am 11.11.: Trainer Wagner feiert als Cowboy – und appelliert an FC-Profis",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMFhEQkJDXzFKQlBaZnJsMUJHQ0dPQUxlalM2VnFoVXBZZXU0ZENrQXhTZE9RbzdueU9xalJJMnNYelloTmlEeVJvSlpnM01xT09YV3FTMmJDdFh4ei1PSk1jc25Tdk1kQzJ2NkRoaGxjT1JER3hFemZ3VUhLVV9KVHBURlRTOUg1bVV1eFU2emhyRW5wd3ZfNU1yb1Z6Y0h3MmctM1VzRFFVRkZKUnAySnBZZzhTSzFfT1p5SGVRUEQ?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMFhEQkJDXzFKQlBaZnJsMUJHQ0dPQUxlalM2VnFoVXBZZXU0ZENrQXhTZE9RbzdueU9xalJJMnNYelloTmlEeVJvSlpnM01xT09YV3FTMmJDdFh4ei1PSk1jc25Tdk1kQzJ2NkRoaGxjT1JER3hFemZ3VUhLVV9KVHBURlRTOUg1bVV1eFU2emhyRW5wd3ZfNU1yb1Z6Y0h3MmctM1VzRFFVRk",
-   "source": "Kölnische Rundschau",
-   "date": "2026-11-11T10:27:41.000Z",
    "tags": [
     "Verein"
    ]
@@ -201,6 +191,16 @@ window.FUPPES_DATA["news-fc"] = {
    "summary": "Wie schon im September hat es Said El Mala erneut in den Kader von Jürgen Klopp für die anstehenden Nations-League-Spiele geschafft. Köln-Trainer René Wagner erklärt El Malas veränderte Rolle und freut sich über die Nominierung.",
    "source": "kicker",
    "date": "2026-11-06T17:51:57.000Z",
+   "tags": [
+    "Verein"
+   ]
+  },
+  {
+   "title": "\"Normal, dass man nicht direkt reinrutscht\": Wagners Personal-Update vor dem Duell mit Leverkusen",
+   "link": "https://www.kicker.de/normal-dass-man-nicht-direkt-reinrutscht-wagners-personal-update-vor-dem-duell-mit-leverkusen-1269205/artikel#omrss",
+   "summary": "Vor dem \"kleinen Derby\" gegen Bayer Leverkusen hat Kölns Trainer René Wagner wieder mehr personelle Optionen zur Verfügung. Das könnte gerade im Sturm Härtefälle bedeuten.",
+   "source": "kicker",
+   "date": "2026-11-06T13:29:19.000Z",
    "tags": [
     "Verein"
    ]
