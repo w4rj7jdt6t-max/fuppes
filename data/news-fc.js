@@ -1,6 +1,6 @@
 window.FUPPES_DATA = window.FUPPES_DATA || {};
 window.FUPPES_DATA["news-fc"] = {
- "updated": "2026-11-14T14:53:45.468Z",
+ "updated": "2026-11-14T16:52:47.390Z",
  "items": [
   {
    "title": "Köln-Boss nimmt Trainer Wagner in die Pflicht",

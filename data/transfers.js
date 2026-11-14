@@ -1,6 +1,6 @@
 window.FUPPES_DATA = window.FUPPES_DATA || {};
 window.FUPPES_DATA["transfers"] = {
- "updated": "2026-11-14T14:53:46.690Z",
+ "updated": "2026-11-14T16:52:48.839Z",
  "rules": {
   "minFeeMio": 20,
   "topClubs": [
@@ -44,6 +44,21 @@ window.FUPPES_DATA["transfers"] = {
  },
  "items": [
   {
+   "title": "Transfer-Paukenschlag um Star des VfB Stuttgart? \"Heftiger Kampf\" erwartet",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQlhuRzNQQ3dSZXdSSkJsX2RMVnd1TjR0Um5ndGJUcDhvTGpJd3FJQS1CY3p1X3QxRWxZTnJlOU9xY2VJaHJyNFhBcmJVWWVHZHphQkJyU3Y3aVVPMnZMT0VlV253SjZaQkFJMG1pWGdDN3BOeVFjelhMNkNMNUVXYnRjTnBtZERZVE5SazJkLU9vdml6TFI5cll1VFZnRXNabTdnOUM5eEJXaTdoTmc?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPQlhuRzNQQ3dSZXdSSkJsX2RMVnd1TjR0Um5ndGJUcDhvTGpJd3FJQS1CY3p1X3QxRWxZTnJlOU9xY2VJaHJyNFhBcmJVWWVHZHphQkJyU3Y3aVVPMnZMT0VlV253SjZaQkFJMG1pWGdDN3BOeVFjelhMNkNMNUVXYnRjTnBtZERZVE5SazJkLU9vdml6TFI5cll1VFZnRXNabTdnOUM5eEJXaT",
+   "source": "sport.de",
+   "date": "2026-11-14T16:13:00.000Z",
+   "fee": null,
+   "clubs": [
+    "Stuttgart",
+    "VfB"
+   ],
+   "tags": [
+    "Gerücht"
+   ]
+  },
+  {
    "title": "Transfer-Ticker: Überraschende Wende bei ManUnited?",
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdWpzb2tXTEVnNEE1cmswTWZiUTEtTVE0M2pzQno2M1NIMmlpdDRuRW5jdVlfTUJ1dmpXS3RtbVpvY1R1QWU2bzFqemRBVWJzUGxEbU81Vm9MRVkwVW03SHVfNmxzQlM3YjZnVWFKT2tNbnBJUVhVbFZKNUxOY0hwR1RxQTRTT3VYaERHTTA0cGNaMUNwbkkyb3VMUjY?oc=5",
    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPdWpzb2tXTEVnNEE1cmswTWZiUTEtTVE0M2pzQno2M1NIMmlpdDRuRW5jdVlfTUJ1dmpXS3RtbVpvY1R1QWU2bzFqemRBVWJzUGxEbU81Vm9MRVkwVW03SHVfNmxzQlM3YjZnVWFKT2tNbnBJUVhVbFZKNUxOY0hwR1RxQTRTT3VYaERHTTA0cGNaMUNwbkkyb3VMUjY?oc=5\" target=\"_bla",
@@ -66,6 +81,21 @@ window.FUPPES_DATA["transfers"] = {
    "fee": null,
    "clubs": [
     "BVB"
+   ],
+   "tags": [
+    "Transfer"
+   ]
+  },
+  {
+   "title": "STUTTGART DEFENDER LINK! ISAK TRANSFER INVESTIGATION + VVD DEAL CALM! Liverpool Latest Transfer News",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQeEIxcWxNWWdMeGlrTkJaNGpzSkdxcmZYcFloa0pUYUoxeUpaTW1KTXVsUjNXdUwwQTkwTXhBQ1Q2eWY3ZW5udllvdVpZTm83NkRaWXV6REpjNjJaVjhsbVFQR2swZGlZb1otN0EtZnhyQm92Mmprald0Qmw1bkhhZVdXc0dBX2FpZDhheFlZNHAxYTRONnpiLUxDcHM0c3dpa2JoR3RfVTZVbXNhOW5XWkxVVUg5SG5nTDJfaHZkOUlDbUxLR3czNWpFZTJDbkJmUHZNRw?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxQeEIxcWxNWWdMeGlrTkJaNGpzSkdxcmZYcFloa0pUYUoxeUpaTW1KTXVsUjNXdUwwQTkwTXhBQ1Q2eWY3ZW5udllvdVpZTm83NkRaWXV6REpjNjJaVjhsbVFQR2swZGlZb1otN0EtZnhyQm92Mmprald0Qmw1bkhhZVdXc0dBX2FpZDhheFlZNHAxYTRONnpiLUxDcHM0c3dpa2JoR3RfVTZVbX",
+   "source": "OneFootball",
+   "date": "2026-11-14T06:04:40.000Z",
+   "fee": null,
+   "clubs": [
+    "Stuttgart",
+    "Liverpool"
    ],
    "tags": [
     "Transfer"
@@ -187,6 +217,20 @@ window.FUPPES_DATA["transfers"] = {
    ]
   },
   {
+   "title": "Plant der FC Bayern überraschenden Transfer-Coup von deutschem Nationalspieler?",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVmZEU3N6Z3hCc094dFlMQ3ZJaEhnelNWWkxjcnlsY19xVm9IXzFvaFJnMHpHbHFfZ0JoeFpBNFFTMGZla1M3OThQY0lvSmVnSDZyQUxCTXYyMlpPdVc0M1hheEZfUkktblBCWGRHbnU1YjJuckJjWDQzdEFCb2dvMEJhQXEzMlROcE9rLUFmQTlkcXY5QTRMb3lOVDRMSVhHRm83dTh3?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPVmZEU3N6Z3hCc094dFlMQ3ZJaEhnelNWWkxjcnlsY19xVm9IXzFvaFJnMHpHbHFfZ0JoeFpBNFFTMGZla1M3OThQY0lvSmVnSDZyQUxCTXYyMlpPdVc0M1hheEZfUkktblBCWGRHbnU1YjJuckJjWDQzdEFCb2dvMEJhQXEzMlROcE9rLUFmQTlkcXY5QTRMb3lOVDRMSVhHRm83dTh3?oc=5\"",
+   "source": "Merkur",
+   "date": "2026-11-13T11:16:34.000Z",
+   "fee": null,
+   "clubs": [
+    "Bayern"
+   ],
+   "tags": [
+    "Gerücht"
+   ]
+  },
+  {
    "title": "60 Millionen: Neue Transfer-Spur bei Jeltsch",
    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQnYtQS1FMGhiWk0wQldIVEttVVM0eG5wSDIxMV9GMXM3RTNnZlc5TWk5M2dMQXFhc0tJcHRwTFpZVnIyS3F6T0NIaDlGcnROZGlVc2lqR2xfYTd6V1pqSDNTOGJFaFRnY2FNanFVZ084M3E3Z2gydWJsbFhOMXJ0REpIUXAxMGF4QlRzbll4SmpPZXVXaUJlZUZvd2ppMk0?oc=5",
    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOQnYtQS1FMGhiWk0wQldIVEttVVM0eG5wSDIxMV9GMXM3RTNnZlc5TWk5M2dMQXFhc0tJcHRwTFpZVnIyS3F6T0NIaDlGcnROZGlVc2lqR2xfYTd6V1pqSDNTOGJFaFRnY2FNanFVZ084M3E3Z2gydWJsbFhOMXJ0REpIUXAxMGF4QlRzbll4SmpPZXVXaUJlZUZvd2ppMk0?oc=5\" target=\"",
@@ -239,20 +283,6 @@ window.FUPPES_DATA["transfers"] = {
    "tags": [
     "Gerücht",
     "Vertrag"
-   ]
-  },
-  {
-   "title": "Mega-Wechsel bei Haaland möglich – Man City sucht Nachfolger",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMnNwQ2o1bFhVVWQwMWdCdzZMdTJpakxCVVZzOHRnUHlZbzhKcUxaNTZ0OGsyVDlRU1hFZ1d5c3UwZ19MS3h0NUQ5VHVILXRUMEYxaDZQNlZlNFgxZlJHV2FTRXhReUFyQkZBbXdXeFF6VktEdlJ2c29WWEM2bjlKT3ZfSVd2VlFkOXVDWHFuRnkyTVoz?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPMnNwQ2o1bFhVVWQwMWdCdzZMdTJpakxCVVZzOHRnUHlZbzhKcUxaNTZ0OGsyVDlRU1hFZ1d5c3UwZ19MS3h0NUQ5VHVILXRUMEYxaDZQNlZlNFgxZlJHV2FTRXhReUFyQkZBbXdXeFF6VktEdlJ2c29WWEM2bjlKT3ZfSVd2VlFkOXVDWHFuRnkyTVoz?oc=5\" target=\"_blank\">Mega-We",
-   "source": "fussballdaten.de",
-   "date": "2026-11-13T08:35:00.000Z",
-   "fee": null,
-   "clubs": [
-    "Man City"
-   ],
-   "tags": [
-    "Transfer"
    ]
   },
   {
@@ -349,35 +379,6 @@ window.FUPPES_DATA["transfers"] = {
    "fee": null,
    "clubs": [
     "Liverpool"
-   ],
-   "tags": [
-    "Gerücht"
-   ]
-  },
-  {
-   "title": "Mbappé wirbt bei Olise für Transfer zu Real Madrid",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNeEpmazB5UW1abTlOcHh6UkxlNXQ0RmRrMk1TUml1T2lRTEhndG5QUjM1WlFiZGZ0YVNWSzdMbUNIeUY1VUxXYVFCVDJYQzV6NUd5ZmJtMDVqM0NlOVF2MkJZOEV3OEl0QTBKWkRYNndYU25hdmc2VnhxQ3o1cEdOVHdyNHNfZEZreDZCWk5B?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNeEpmazB5UW1abTlOcHh6UkxlNXQ0RmRrMk1TUml1T2lRTEhndG5QUjM1WlFiZGZ0YVNWSzdMbUNIeUY1VUxXYVFCVDJYQzV6NUd5ZmJtMDVqM0NlOVF2MkJZOEV3OEl0QTBKWkRYNndYU25hdmc2VnhxQ3o1cEdOVHdyNHNfZEZreDZCWk5B?oc=5\" target=\"_blank\">Mbappé wirbt be",
-   "source": "fussballdaten.de",
-   "date": "2026-11-12T15:31:00.000Z",
-   "fee": null,
-   "clubs": [
-    "Real Madrid"
-   ],
-   "tags": [
-    "Transfer"
-   ]
-  },
-  {
-   "title": "FC Bayern: Mega-Deal wohl perfekt! FCB-Star Olise kassiert Millionen",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPc3FtVEg5a0lTYldzVk50UE9HR1pwRzZvR2Q2U2NoMUJOR25xbWx0dkV5YS1DRUtjUVNXSHloaDJGcE5FaVVETFkyelVfbXI5VDRaRks3UWNweUxZbndTS1FUNmN2RWxtMGdOWlY2LXRqQjRhemF4OEhZN2pyTHZSaEltSnJ4bjRKa0J0OTRTZmk?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPc3FtVEg5a0lTYldzVk50UE9HR1pwRzZvR2Q2U2NoMUJOR25xbWx0dkV5YS1DRUtjUVNXSHloaDJGcE5FaVVETFkyelVfbXI5VDRaRks3UWNweUxZbndTS1FUNmN2RWxtMGdOWlY2LXRqQjRhemF4OEhZN2pyTHZSaEltSnJ4bjRKa0J0OTRTZmk?oc=5\" target=\"_blank\">FC Bayern: M",
-   "source": "DerWesten",
-   "date": "2026-11-12T15:26:54.000Z",
-   "fee": null,
-   "clubs": [
-    "Bayern",
-    "FCB"
    ],
    "tags": [
     "Gerücht"
