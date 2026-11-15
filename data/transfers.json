@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T05:06:04.826Z",
+ "updated": "2026-11-15T07:19:00.037Z",
  "rules": {
   "minFeeMio": 20,
   "topClubs": [
@@ -42,6 +42,20 @@
   ]
  },
  "items": [
+  {
+   "title": "Transfer-Ticker: 80 Millionen für einen Bundesliga-Star? FC Bayern schaut wohl ebenfalls hin",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQOUZ2MmZHSUs0dXVTNjFZYU1RdG5iZ2JfVjJ1bm04UlpPX0hCY3A5TTI2dDZDVTZqbFFwOTJPZkt4LTBZTGlPNmdBd19TSzhQd2lHM1dzUjUwQXBrbU80NDJ5dHFvWklxNkU3bDRoSWdqMVc3dmlSTDR5TDBINTh5QmxvM2Vxb2NzS09OYURrR2VadDBvUm1UV0c5MW5aLTZnbFdaSlFmQWNEVTN6amYtUUVqbXMxM2hCUkFOcTBPMXVpeDVQSm91TQ?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQOUZ2MmZHSUs0dXVTNjFZYU1RdG5iZ2JfVjJ1bm04UlpPX0hCY3A5TTI2dDZDVTZqbFFwOTJPZkt4LTBZTGlPNmdBd19TSzhQd2lHM1dzUjUwQXBrbU80NDJ5dHFvWklxNkU3bDRoSWdqMVc3dmlSTDR5TDBINTh5QmxvM2Vxb2NzS09OYURrR2VadDBvUm1UV0c5MW5aLTZnbFdaSlFmQWNEVT",
+   "source": "sport.de",
+   "date": "2026-11-15T06:41:00.000Z",
+   "fee": 80,
+   "clubs": [
+    "Bayern"
+   ],
+   "tags": [
+    "Gerücht"
+   ]
+  },
   {
    "title": "Kommentatoren-Legende schwärmt von DFB-Juwel Gruda – und warnt vor einem Wechsel zum FC Bayern",
    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPb2UtSzMwTFJsbzIzcXVta0l1bEpGRFhqLWo2bXBVV1ZNb1BMVzFWenYtR1Z1YkladnRPZHByZWZaemVFSWc4ZzBVQTM3ZmRzdmRkVEpmVzlhUzhOUzNGNWMySGdLNHFMYnp1Y2czR0hoNHhTQmQ1MmNjcFNxQmFYZEw1RUMxMU5uQks3QlhJNUdYcEVtS2VhMjJhT2JhYnJLMTlJWEdPQVkyUm9LT0E0?oc=5",
@@ -114,18 +128,17 @@
    ]
   },
   {
-   "title": "Ibrahim Maza vor Verlängerung bei Bayer 04 Leverkusen: Neuer Deal bis 2031 ohne Ausstiegsklausel",
-   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNRXZ3a0N1UHUzcGNmRHpXNTFhaWVrTDlrT3Y2STVyejNaX3hxcFNHRnUyX3BZbUc0Q2dvMW1qcHltQnZuZmh3bktxNFVEX01mSkFnQU81c0plSnhGRER0OWhDWkM3NkRydUV5cVF6b0xUSm44VXhLNHA3WHVLam9WR1l4eFBybzQ5VDNBVU9CZDhsNDRnYk0xVElDeW1uUVd1QkJ1WEVpd1l2c1B1Szcwdlh4VEpmSC1lMFpYMnNaTjhiUmRhMGdncS14cTRBaGw0QXh6bTkzV1pGa3I1T01J?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxNRXZ3a0N1UHUzcGNmRHpXNTFhaWVrTDlrT3Y2STVyejNaX3hxcFNHRnUyX3BZbUc0Q2dvMW1qcHltQnZuZmh3bktxNFVEX01mSkFnQU81c0plSnhGRER0OWhDWkM3NkRydUV5cVF6b0xUSm44VXhLNHA3WHVLam9WR1l4eFBybzQ5VDNBVU9CZDhsNDRnYk0xVElDeW1uUVd1QkJ1WEVpd1l2c1",
-   "source": "Sky.de",
-   "date": "2026-11-13T20:05:00.000Z",
+   "title": "FC Bayern | Enthüllt: Olise-Transfer ein Tuschel-Thema bei Frankreich",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTlctUl94b0xzQjdLVFRRME9vd3RHS3NQR250V2tVMVhwMXNOaFBxZkRKcXJPQ2lzSm5hZHloTXI5MUQ2WTV2YVNCc0tVYVhLek1Dc2thRTBoM0RWTlVHSGZvaUliWWllZ295SW54YlBSMHc0VExBZlFIY1YteHF0YXdVVTZOMEVhWnFET0lGR25MY0txNTctMGxBdERXd1oybnp6R2NhMU9pUQ?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTlctUl94b0xzQjdLVFRRME9vd3RHS3NQR250V2tVMVhwMXNOaFBxZkRKcXJPQ2lzSm5hZHloTXI5MUQ2WTV2YVNCc0tVYVhLek1Dc2thRTBoM0RWTlVHSGZvaUliWWllZ295SW54YlBSMHc0VExBZlFIY1YteHF0YXdVVTZOMEVhWnFET0lGR25MY0txNTctMGxBdERXd1oybnp6R2NhMU9pUQ",
+   "source": "sport.de",
+   "date": "2026-11-14T06:29:00.000Z",
    "fee": null,
    "clubs": [
-    "Leverkusen",
-    "Bayer 04"
+    "Bayern"
    ],
    "tags": [
-    "Vertrag"
+    "Transfer"
    ]
   },
   {
@@ -155,20 +168,6 @@
    ],
    "tags": [
     "Gerücht"
-   ]
-  },
-  {
-   "title": "Der Sport-Tag: Olise-Abgang vom FC Bayern Tuschel-Thema bei Frankreichs Nationalteam",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcXZSZ2lOcjV2ZGVlTUt0MWk0ZnZDQi1kcXNfMlYzR2N3NzVNX1VYeWNGLW1qRlNSbEQ0OE05bG5hOFpHdDZFRnJmajlLclRjd2pkN1dBclZ2MDhsLW4zbkFpUDdBNEY1Yl85SUFXcVdKUkFINk4zbDlGZ24yN0ZvRWIydlVrZW5OdkJheGtRQjRPbS1GSUVzdW1CcEMwQVR6cF9pX0N0SG5OVUpJUXhSaHg3cjFPN1ZyeUJsMDJDa2pQZVk?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcXZSZ2lOcjV2ZGVlTUt0MWk0ZnZDQi1kcXNfMlYzR2N3NzVNX1VYeWNGLW1qRlNSbEQ0OE05bG5hOFpHdDZFRnJmajlLclRjd2pkN1dBclZ2MDhsLW4zbkFpUDdBNEY1Yl85SUFXcVdKUkFINk4zbDlGZ24yN0ZvRWIydlVrZW5OdkJheGtRQjRPbS1GSUVzdW1CcEMwQVR6cF9pX0N0SG5OVU",
-   "source": "n-tv.de",
-   "date": "2026-11-13T17:59:14.000Z",
-   "fee": null,
-   "clubs": [
-    "Bayern"
-   ],
-   "tags": [
-    "Transfer"
    ]
   },
   {
@@ -298,6 +297,20 @@
    ]
   },
   {
+   "title": "Nicht zum ersten Mal: FC Bayern München hat wohl erneut Interesse an einem DFB-Hoffnungsträger",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxObjQ5ZVBpRmRfdFo0MmtKaVZoYjlpbTl3NTg2em1FRE9jbU5yLTVlUFI4dnI4QmcyT2ZzQnpDVElaakl6S2psTlVpank0TVdma1Y3NFVvMWozcEpoZXVGTmM0SHJvMzJOQUFUOG41YUZoamZlaUViWWxIbm5UUHY2TUpHTXJGME9kcXV6bmd0UjJmRlB6WlVjeExFMXJ6bUNaeDVuNkNWVGRUREgxQWJ1YUJQQ0JtWXpvdFdKTk15QWRGZTRDUUpBNFJBYWRjY2Y0RVdFU3F1NU81UkIzOHBvVmhrSQ?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxObjQ5ZVBpRmRfdFo0MmtKaVZoYjlpbTl3NTg2em1FRE9jbU5yLTVlUFI4dnI4QmcyT2ZzQnpDVElaakl6S2psTlVpank0TVdma1Y3NFVvMWozcEpoZXVGTmM0SHJvMzJOQUFUOG41YUZoamZlaUViWWxIbm5UUHY2TUpHTXJGME9kcXV6bmd0UjJmRlB6WlVjeExFMXJ6bUNaeDVuNkNWVGRURE",
+   "source": "Goal.com",
+   "date": "2026-11-13T05:06:13.000Z",
+   "fee": null,
+   "clubs": [
+    "Bayern"
+   ],
+   "tags": [
+    "Gerücht"
+   ]
+  },
+  {
    "title": "Trotz dreier Probleme: Bayern-Gerücht um Karius wird heißer",
    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcDBvNDJRRzJidzV1YnQzdEcwVVhtd1JhR2M5YlNCSU5IU2tRM080SGsycGYzZF94OEFTY0pILTI0VC1HVW1wc09QNG5iQVpxSmgwQ2dySjJoUk1QdUNSQjJyalNsb21Zam9FQUtNZzV4S0NMcUxKYUlVM0p2bEl3SUEtUmVoUFVtcnFkdkhIVmpQTVNtcl9BcE96cl9fcjFzLTZqRVJlTmh4dHpzRklveUpfaUo0QQ?oc=5",
    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQcDBvNDJRRzJidzV1YnQzdEcwVVhtd1JhR2M5YlNCSU5IU2tRM080SGsycGYzZF94OEFTY0pILTI0VC1HVW1wc09QNG5iQVpxSmgwQ2dySjJoUk1QdUNSQjJyalNsb21Zam9FQUtNZzV4S0NMcUxKYUlVM0p2bEl3SUEtUmVoUFVtcnFkdkhIVmpQTVNtcl9BcE96cl9fcjFzLTZqRVJlTmh4dH",
@@ -324,20 +337,6 @@
    "tags": [
     "Gerücht",
     "Leihe"
-   ]
-  },
-  {
-   "title": "Liverpool-Wechsel? So teuer wird Vuskovic",
-   "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPcEowdjR0R2ItU1JWdkMtVlB2S0RfZkQ5YmRMZEZVYXF4M2VQQjlHUjZySkJ2QjdWeGtodF94ei1qR3ZYcDZQRllockZ1b1ZwLVlxRk1XbGh0VWRKOXRFOVl5QVNzMHZ3a2JINXZZVXkxRUxyZWFEWVN6bTdSUm1GZjNub1h4bGZUdWhhV2NnVXpyZXJSWEVtcHhubzJpV1hKdWpLNlNybnlUNi1ZSVZMbVNHQXk4RGRWNVhWTzN3WTZDaUJtUUJENTlxWUZFMWhsZmVTeFdDOHFRak5mSm1uM3p5bDFXeHh6Z2R1QUZMLW9kWmpabWpITGlxUFhNVDQ3SUpyM3I2Y0tEc0wyeVpZTTJGN1FhR2ZJcUE?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgJBVV95cUxPcEowdjR0R2ItU1JWdkMtVlB2S0RfZkQ5YmRMZEZVYXF4M2VQQjlHUjZySkJ2QjdWeGtodF94ei1qR3ZYcDZQRllockZ1b1ZwLVlxRk1XbGh0VWRKOXRFOVl5QVNzMHZ3a2JINXZZVXkxRUxyZWFEWVN6bTdSUm1GZjNub1h4bGZUdWhhV2NnVXpyZXJSWEVtcHhubzJpV1hKdWpLNlNybnlUNi",
-   "source": "n-tv.de",
-   "date": "2026-11-12T17:30:00.000Z",
-   "fee": null,
-   "clubs": [
-    "Liverpool"
-   ],
-   "tags": [
-    "Gerücht"
    ]
   },
   {
