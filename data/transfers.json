@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T10:55:30.893Z",
+ "updated": "2026-11-15T13:07:01.050Z",
  "rules": {
   "minFeeMio": 20,
   "topClubs": [
@@ -43,12 +43,69 @@
  },
  "items": [
   {
-   "title": "Vor Debüt: Mohya erklärt Entscheidung für DFB – Bayern-Interesse „schöne Bestätigung“",
-   "link": "https://www.transfermarkt.de/vor-debut-mohya-erklart-entscheidung-fur-dfb-bayern-interesse-schone-bestatigung-quot-/view/news/490606",
-   "summary": "Wenn Deutschland am Montagabend gegen die Niederlande zum letzten Gruppenspiel in der Nations League antritt, wird Wael Mohya zum ersten Mal im Kader der A-Nationalmannschaft stehen. Der Profi von...",
+   "title": "Mohya erklärt Entscheidung für DFB – Bayern-Interesse „schöne Bestätigung“",
+   "link": "https://www.transfermarkt.de/mohya-erklart-entscheidung-fur-dfb-bayern-interesse-schone-bestatigung-quot-/view/news/490606",
+   "summary": "Dieser Artikel erschien erstmals am 15. November um 10:47 Uhr und wurde nach der erneuten Streichung aus dem Kader aktualisiert. Wenn Deutschland am Montagabend gegen die Niederlande zum letzten...",
    "source": "Transfermarkt",
-   "date": "2026-11-15T09:47:41.000Z",
+   "date": "2026-11-15T11:50:09.000Z",
    "fee": null,
+   "clubs": [
+    "Bayern"
+   ],
+   "tags": [
+    "Gerücht"
+   ]
+  },
+  {
+   "title": "Ist Stiller ein Kandidat für die Modric-Nachfolge bei Milan?",
+   "link": "https://www.kicker.de/ist-stiller-ein-kandidat-fuer-die-modric-nachfolge-bei-milan-1271736/artikel#omrss",
+   "summary": "Es gibt keine Jahreszeit, in der es keine Gerüchte über einen Wechsel von Angelo Stiller gibt. Jedoch bisher ohne Ergebnis. Aktuell wird der Stuttgarter mit der AC Mailand in Verbindung gebracht.",
+   "source": "kicker",
+   "date": "2026-11-15T11:21:08.000Z",
+   "fee": null,
+   "clubs": [
+    "AC Mailand",
+    "Milan"
+   ],
+   "tags": [
+    "Gerücht"
+   ]
+  },
+  {
+   "title": "Fußball-Transfergerüchte heute: Unmoralisches Angebot für Arda Güler - Milan findet Modric-Erben in der Bundesliga",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE00bGQ5dXl0U2N6Wm43dE9SUFVEcEZsSEcwZVB1VVByaGN6MnFzUVA4cnhoQnhXd3BkVEdzNUltNWN0RVp2dTNNOHRUaXlkOUg2Q2o5dS1jaVFyZzhGZHZSanFDMTI4TDJKbEx3bGhKMnA?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE00bGQ5dXl0U2N6Wm43dE9SUFVEcEZsSEcwZVB1VVByaGN6MnFzUVA4cnhoQnhXd3BkVEdzNUltNWN0RVp2dTNNOHRUaXlkOUg2Q2o5dS1jaVFyZzhGZHZSanFDMTI4TDJKbEx3bGhKMnA?oc=5\" target=\"_blank\">Fußball-Transfergerüchte heute: Unmoralisches Angebot fü",
+   "source": "90min.de",
+   "date": "2026-11-15T11:19:21.000Z",
+   "fee": null,
+   "clubs": [
+    "Milan"
+   ],
+   "tags": [
+    "Gerücht"
+   ]
+  },
+  {
+   "title": "Bayern-Interesse? Mohya wird deutlich",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9pNzBheE4ydkN1TnZJcXllMHBIRlZ6bVlNZU5rdHlhbDVVXzZQVXdxTkIzMXdyNF8xel9PRkUzZXVUNElTVUVjOGJiQkFvM3YwN1FOZnFDcHZycXR2V0xmOW5TcEZFX3RocFdPT3UzM2RvZ2NWR01IUmtUTQ?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE9pNzBheE4ydkN1TnZJcXllMHBIRlZ6bVlNZU5rdHlhbDVVXzZQVXdxTkIzMXdyNF8xel9PRkUzZXVUNElTVUVjOGJiQkFvM3YwN1FOZnFDcHZycXR2V0xmOW5TcEZFX3RocFdPT3UzM2RvZ2NWR01IUmtUTQ?oc=5\" target=\"_blank\">Bayern-Interesse? Mohya wird deutlich</a>",
+   "source": "fussballdaten.de",
+   "date": "2026-11-15T11:10:00.000Z",
+   "fee": null,
+   "clubs": [
+    "Bayern"
+   ],
+   "tags": [
+    "Gerücht"
+   ]
+  },
+  {
+   "title": "Transfer-Ticker: 80 Millionen für einen Bundesliga-Star? FC Bayern schaut wohl ebenfalls hin",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQOUZ2MmZHSUs0dXVTNjFZYU1RdG5iZ2JfVjJ1bm04UlpPX0hCY3A5TTI2dDZDVTZqbFFwOTJPZkt4LTBZTGlPNmdBd19TSzhQd2lHM1dzUjUwQXBrbU80NDJ5dHFvWklxNkU3bDRoSWdqMVc3dmlSTDR5TDBINTh5QmxvM2Vxb2NzS09OYURrR2VadDBvUm1UV0c5MW5aLTZnbFdaSlFmQWNEVTN6amYtUUVqbXMxM2hCUkFOcTBPMXVpeDVQSm91TQ?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQOUZ2MmZHSUs0dXVTNjFZYU1RdG5iZ2JfVjJ1bm04UlpPX0hCY3A5TTI2dDZDVTZqbFFwOTJPZkt4LTBZTGlPNmdBd19TSzhQd2lHM1dzUjUwQXBrbU80NDJ5dHFvWklxNkU3bDRoSWdqMVc3dmlSTDR5TDBINTh5QmxvM2Vxb2NzS09OYURrR2VadDBvUm1UV0c5MW5aLTZnbFdaSlFmQWNEVT",
+   "source": "sport.de",
+   "date": "2026-11-15T11:02:00.000Z",
+   "fee": 80,
    "clubs": [
     "Bayern"
    ],
@@ -70,20 +127,6 @@
    "tags": [
     "Fix",
     "Personal"
-   ]
-  },
-  {
-   "title": "Transfer-Ticker: 80 Millionen für einen Bundesliga-Star? FC Bayern schaut wohl ebenfalls hin",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQOUZ2MmZHSUs0dXVTNjFZYU1RdG5iZ2JfVjJ1bm04UlpPX0hCY3A5TTI2dDZDVTZqbFFwOTJPZkt4LTBZTGlPNmdBd19TSzhQd2lHM1dzUjUwQXBrbU80NDJ5dHFvWklxNkU3bDRoSWdqMVc3dmlSTDR5TDBINTh5QmxvM2Vxb2NzS09OYURrR2VadDBvUm1UV0c5MW5aLTZnbFdaSlFmQWNEVTN6amYtUUVqbXMxM2hCUkFOcTBPMXVpeDVQSm91TQ?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQOUZ2MmZHSUs0dXVTNjFZYU1RdG5iZ2JfVjJ1bm04UlpPX0hCY3A5TTI2dDZDVTZqbFFwOTJPZkt4LTBZTGlPNmdBd19TSzhQd2lHM1dzUjUwQXBrbU80NDJ5dHFvWklxNkU3bDRoSWdqMVc3dmlSTDR5TDBINTh5QmxvM2Vxb2NzS09OYURrR2VadDBvUm1UV0c5MW5aLTZnbFdaSlFmQWNEVT",
-   "source": "sport.de",
-   "date": "2026-11-15T06:41:00.000Z",
-   "fee": 80,
-   "clubs": [
-    "Bayern"
-   ],
-   "tags": [
-    "Gerücht"
    ]
   },
   {
@@ -186,6 +229,21 @@
    ]
   },
   {
+   "title": "Ibrahim Maza vor Verlängerung bei Bayer 04 Leverkusen: Neuer Deal bis 2031 ohne Ausstiegsklausel",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNRXZ3a0N1UHUzcGNmRHpXNTFhaWVrTDlrT3Y2STVyejNaX3hxcFNHRnUyX3BZbUc0Q2dvMW1qcHltQnZuZmh3bktxNFVEX01mSkFnQU81c0plSnhGRER0OWhDWkM3NkRydUV5cVF6b0xUSm44VXhLNHA3WHVLam9WR1l4eFBybzQ5VDNBVU9CZDhsNDRnYk0xVElDeW1uUVd1QkJ1WEVpd1l2c1B1Szcwdlh4VEpmSC1lMFpYMnNaTjhiUmRhMGdncS14cTRBaGw0QXh6bTkzV1pGa3I1T01J?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxNRXZ3a0N1UHUzcGNmRHpXNTFhaWVrTDlrT3Y2STVyejNaX3hxcFNHRnUyX3BZbUc0Q2dvMW1qcHltQnZuZmh3bktxNFVEX01mSkFnQU81c0plSnhGRER0OWhDWkM3NkRydUV5cVF6b0xUSm44VXhLNHA3WHVLam9WR1l4eFBybzQ5VDNBVU9CZDhsNDRnYk0xVElDeW1uUVd1QkJ1WEVpd1l2c1",
+   "source": "Sky.de",
+   "date": "2026-11-13T20:05:00.000Z",
+   "fee": null,
+   "clubs": [
+    "Leverkusen",
+    "Bayer 04"
+   ],
+   "tags": [
+    "Vertrag"
+   ]
+  },
+  {
    "title": "Verlängert Maza bis 2031? Leverkusen bessert Angebot nach",
    "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNUy1uaWpXbEdZa2hPdkpjV3VNbzZRVFpyNXpZemtGVVJndmUybXZuUlFZOWN1UEtlaHQ1cDc2THhYdnJBZVYxQ2tWNXl4bkdDVmlvTWw1VHdQOW9pTE5yem1WZXZPTnI0Q0w0NGZXVGl3R2FzUHVHNUQzRmF2X2x0dVg2MFRGdU16a1NOdU5aV2xSNTRRNVI4ZkdjOC1kX0luQk11LWp2NDhSVmh0YXgzOTAtTmR4Y1BuRjJEd29tS0R1cDJ4aW8wN3JEeGlZeUhsQUlFeVlqUUZOQWc1cW1kempndE5fd0drVXFyTkpqQWd5Vk94Uk43Nw?oc=5",
    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-AFBVV95cUxNUy1uaWpXbEdZa2hPdkpjV3VNbzZRVFpyNXpZemtGVVJndmUybXZuUlFZOWN1UEtlaHQ1cDc2THhYdnJBZVYxQ2tWNXl4bkdDVmlvTWw1VHdQOW9pTE5yem1WZXZPTnI0Q0w0NGZXVGl3R2FzUHVHNUQzRmF2X2x0dVg2MFRGdU16a1NOdU5aV2xSNTRRNVI4ZkdjOC1kX0luQk11LWp2NDhSVm",
@@ -198,6 +256,20 @@
    "tags": [
     "Gerücht",
     "Vertrag"
+   ]
+  },
+  {
+   "title": "90-Millionen-Transfer? Ligarivalen an Chelsea-Star interessiert",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZEJHWUswSkdHMmxzaGx1blVvOGRwS2ZQX0NZYTA3TW5zRklmdWRFN3FKWDFIMUVrU3dSYUgzWlQ3Yl9oTGFnX3FKX2hSbW4tSEY5aFZyWlMyc2lveGJOaUtnYTRtaWp0aDBMVFdQNk1uU3pYV2t4VktwZUIxc2JPam1WYmgyRTg?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNZEJHWUswSkdHMmxzaGx1blVvOGRwS2ZQX0NZYTA3TW5zRklmdWRFN3FKWDFIMUVrU3dSYUgzWlQ3Yl9oTGFnX3FKX2hSbW4tSEY5aFZyWlMyc2lveGJOaUtnYTRtaWp0aDBMVFdQNk1uU3pYV2t4VktwZUIxc2JPam1WYmgyRTg?oc=5\" target=\"_blank\">90-Millionen-Transfer? L",
+   "source": "fussballdaten.de",
+   "date": "2026-11-13T18:15:00.000Z",
+   "fee": null,
+   "clubs": [
+    "Chelsea"
+   ],
+   "tags": [
+    "Gerücht"
    ]
   },
   {
@@ -309,78 +381,6 @@
    ],
    "tags": [
     "Gerücht"
-   ]
-  },
-  {
-   "title": "Zukunft bei Bayern? So reagiert Upamecano – Vertrag läuft bis 2030",
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQMDlaN1IyeVhEZ2dMVnJXOC1UdXFIdS1QRjNpRk5IcHJFUVY2NVpkRFNhMWctYXVyakhNMkRtM21jMHc2c19xTVZtWmc3Wkt1V2k2cTFPTlYwVWRKQk9GaHZsQ2VxajgwZVhuSFA2YTEyczNLWXZwcTRSamd0Z256Y3dlODd6SmM1UGNUbFFHa195S3JmcmphaVpYYUplUzY0ekktQmdGR3VNNWVYbTFUSHFGUVJPMUZmU0E5UXQ0M3JGa0F5OU5wb0NtZ1pJS3hYSGo1N0tIY2xIMzA?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxQMDlaN1IyeVhEZ2dMVnJXOC1UdXFIdS1QRjNpRk5IcHJFUVY2NVpkRFNhMWctYXVyakhNMkRtM21jMHc2c19xTVZtWmc3Wkt1V2k2cTFPTlYwVWRKQk9GaHZsQ2VxajgwZVhuSFA2YTEyczNLWXZwcTRSamd0Z256Y3dlODd6SmM1UGNUbFFHa195S3JmcmphaVpYYUplUzY0ekktQmdGR3VNNW",
-   "source": "Sport Bild",
-   "date": "2026-11-13T08:39:19.000Z",
-   "fee": null,
-   "clubs": [
-    "Bayern"
-   ],
-   "tags": [
-    "Gerücht",
-    "Vertrag"
-   ]
-  },
-  {
-   "title": "Wechsel zum FC Bayern? Ex-HSV-Star offenbar zu teuer",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOR3NITlhaZTRtalZXcmw0aDV0aTdDSHEwbzhSaHZhVjhkd1FMSWU0REkwdGV6enlhS3p1SjE0VDZWU2pKRU9yU2VzM3dicngyNjZ1d2lhRDJMWUt0aUNXalo5XzJYRS1KM2JPa1o1ZjVVM092U2JpT01RX3Y0c1pDY0hGWWVBd3Jwc3VQWkNrMGtXeGVKMDFn?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOR3NITlhaZTRtalZXcmw0aDV0aTdDSHEwbzhSaHZhVjhkd1FMSWU0REkwdGV6enlhS3p1SjE0VDZWU2pKRU9yU2VzM3dicngyNjZ1d2lhRDJMWUt0aUNXalo5XzJYRS1KM2JPa1o1ZjVVM092U2JpT01RX3Y0c1pDY0hGWWVBd3Jwc3VQWkNrMGtXeGVKMDFn?oc=5\" target=\"_blank\">Wec",
-   "source": "sport.de",
-   "date": "2026-11-13T06:18:00.000Z",
-   "fee": null,
-   "clubs": [
-    "Bayern"
-   ],
-   "tags": [
-    "Gerücht"
-   ]
-  },
-  {
-   "title": "Nicht zum ersten Mal: FC Bayern München hat wohl erneut Interesse an einem DFB-Hoffnungsträger",
-   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxObjQ5ZVBpRmRfdFo0MmtKaVZoYjlpbTl3NTg2em1FRE9jbU5yLTVlUFI4dnI4QmcyT2ZzQnpDVElaakl6S2psTlVpank0TVdma1Y3NFVvMWozcEpoZXVGTmM0SHJvMzJOQUFUOG41YUZoamZlaUViWWxIbm5UUHY2TUpHTXJGME9kcXV6bmd0UjJmRlB6WlVjeExFMXJ6bUNaeDVuNkNWVGRUREgxQWJ1YUJQQ0JtWXpvdFdKTk15QWRGZTRDUUpBNFJBYWRjY2Y0RVdFU3F1NU81UkIzOHBvVmhrSQ?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxObjQ5ZVBpRmRfdFo0MmtKaVZoYjlpbTl3NTg2em1FRE9jbU5yLTVlUFI4dnI4QmcyT2ZzQnpDVElaakl6S2psTlVpank0TVdma1Y3NFVvMWozcEpoZXVGTmM0SHJvMzJOQUFUOG41YUZoamZlaUViWWxIbm5UUHY2TUpHTXJGME9kcXV6bmd0UjJmRlB6WlVjeExFMXJ6bUNaeDVuNkNWVGRURE",
-   "source": "Goal.com",
-   "date": "2026-11-13T05:06:13.000Z",
-   "fee": null,
-   "clubs": [
-    "Bayern"
-   ],
-   "tags": [
-    "Gerücht"
-   ]
-  },
-  {
-   "title": "Trotz dreier Probleme: Bayern-Gerücht um Karius wird heißer",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcDBvNDJRRzJidzV1YnQzdEcwVVhtd1JhR2M5YlNCSU5IU2tRM080SGsycGYzZF94OEFTY0pILTI0VC1HVW1wc09QNG5iQVpxSmgwQ2dySjJoUk1QdUNSQjJyalNsb21Zam9FQUtNZzV4S0NMcUxKYUlVM0p2bEl3SUEtUmVoUFVtcnFkdkhIVmpQTVNtcl9BcE96cl9fcjFzLTZqRVJlTmh4dHpzRklveUpfaUo0QQ?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQcDBvNDJRRzJidzV1YnQzdEcwVVhtd1JhR2M5YlNCSU5IU2tRM080SGsycGYzZF94OEFTY0pILTI0VC1HVW1wc09QNG5iQVpxSmgwQ2dySjJoUk1QdUNSQjJyalNsb21Zam9FQUtNZzV4S0NMcUxKYUlVM0p2bEl3SUEtUmVoUFVtcnFkdkhIVmpQTVNtcl9BcE96cl9fcjFzLTZqRVJlTmh4dH",
-   "source": "Fussball Transfers",
-   "date": "2026-11-12T20:56:00.000Z",
-   "fee": null,
-   "clubs": [
-    "Bayern"
-   ],
-   "tags": [
-    "Gerücht"
-   ]
-  },
-  {
-   "title": "Kaum Spielzeit bei Real: Chelsea-Leihe für Trent Alexander-Arnold?",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTEZQcHhtVlR0bEJfelFkdlJ4a01wS2p6eWFDMlk1bzBYRGMyLXhQSndfYjE4MGZfclZPTFc0S2c3V0s1RmhEZEpnRkx4dWdXQUxHTUxveUZ5VXcxWjlHOTRpcjI4MWU2QllFbnFwOTFCZUktUlZ0OWdRM0F3TnVncFdvbkVtS0h6Y3FxTG9UeVF5MXJyMEVFU3FacVQyZjg?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOTEZQcHhtVlR0bEJfelFkdlJ4a01wS2p6eWFDMlk1bzBYRGMyLXhQSndfYjE4MGZfclZPTFc0S2c3V0s1RmhEZEpnRkx4dWdXQUxHTUxveUZ5VXcxWjlHOTRpcjI4MWU2QllFbnFwOTFCZUktUlZ0OWdRM0F3TnVncFdvbkVtS0h6Y3FxTG9UeVF5MXJyMEVFU3FacVQyZjg?oc=5\" target=\"",
-   "source": "Fussball Europa",
-   "date": "2026-11-12T18:59:01.000Z",
-   "fee": null,
-   "clubs": [
-    "Chelsea"
-   ],
-   "tags": [
-    "Gerücht",
-    "Leihe"
    ]
   }
  ]
