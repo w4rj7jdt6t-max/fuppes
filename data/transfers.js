@@ -1,6 +1,6 @@
 window.FUPPES_DATA = window.FUPPES_DATA || {};
 window.FUPPES_DATA["transfers"] = {
- "updated": "2026-11-15T13:07:01.050Z",
+ "updated": "2026-11-15T14:54:45.564Z",
  "rules": {
   "minFeeMio": 20,
   "topClubs": [
@@ -44,6 +44,49 @@ window.FUPPES_DATA["transfers"] = {
  },
  "items": [
   {
+   "title": "Maza soll bei Bayer Leverkusen verlängern – Deutliche Gehaltserhöhung",
+   "link": "https://www.transfermarkt.de/rolfes-bestatigt-gesprache-mit-maza-60-mehr-gehalt-amp-millionenbonus-fur-verlangerung/view/news/490568",
+   "summary": "Dieser Artikel erschien erstmals am 13. November und wurde mit Stimmen von Simon Rolfes aktualisiert. Sp&auml;testens in dieser Saison ist Ibrahim Maza zu den Leistungstr&auml;gern von Bayer...",
+   "source": "Transfermarkt",
+   "date": "2026-11-15T14:16:38.000Z",
+   "fee": null,
+   "clubs": [
+    "Leverkusen"
+   ],
+   "tags": [
+    "Vertrag"
+   ]
+  },
+  {
+   "title": "Rolfes bestätigt geplante Vertragsverlängerung mit Maza",
+   "link": "https://www.kicker.de/rolfes-bestaetigt-geplante-vertragsverlaengerung-mit-maza-1271623/artikel#omrss",
+   "summary": "Im Sommer 2025 kam Ibrahim Maza zu Bayer 04 Leverkusen und hat sich zum absoluten Leistungsträger und legitimen Wirtz-Nachfolger gemausert. Als Anerkennung dafür möchte der Klub mit dem Spielmacher vorzeitig verlängern. Manager Simon Rolfes bestätigt laufende Vertragsgespräche.",
+   "source": "kicker",
+   "date": "2026-11-15T13:36:56.000Z",
+   "fee": null,
+   "clubs": [
+    "Leverkusen",
+    "Bayer 04"
+   ],
+   "tags": [
+    "Vertrag"
+   ]
+  },
+  {
+   "title": "Kehls plötzlich wichtige BVB-Transfers | „Ancelotti, pack deine Koffer“",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdGJZUk9YdjdLUWl3a3oyRnN3bXR6UEVCS3lYNXNkRXdKYUdaZjFjTW5WbHBjaU4xM3NCWk5JTkJHUEZlTWd4U2hXS3lUZWRjUDJVb2VGSUlLSHFoRThQM29wT1RHM05xVHBtVjBYdklKaVdfRmZhdm14ZUg1R0R3ekJkcldvZnItaUZ3R0Z6NmNobzlIRk4tWk1IMjlQYnBMQWJUMTVmd203U1dGMGswTg?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQdGJZUk9YdjdLUWl3a3oyRnN3bXR6UEVCS3lYNXNkRXdKYUdaZjFjTW5WbHBjaU4xM3NCWk5JTkJHUEZlTWd4U2hXS3lUZWRjUDJVb2VGSUlLSHFoRThQM29wT1RHM05xVHBtVjBYdklKaVdfRmZhdm14ZUg1R0R3ekJkcldvZnItaUZ3R0Z6NmNobzlIRk4tWk1IMjlQYnBMQWJUMTVmd203U1",
+   "source": "Fussball Transfers",
+   "date": "2026-11-15T11:53:00.000Z",
+   "fee": null,
+   "clubs": [
+    "BVB"
+   ],
+   "tags": [
+    "Transfer"
+   ]
+  },
+  {
    "title": "Mohya erklärt Entscheidung für DFB – Bayern-Interesse „schöne Bestätigung“",
    "link": "https://www.transfermarkt.de/mohya-erklart-entscheidung-fur-dfb-bayern-interesse-schone-bestatigung-quot-/view/news/490606",
    "summary": "Dieser Artikel erschien erstmals am 15. November um 10:47 Uhr und wurde nach der erneuten Streichung aus dem Kader aktualisiert. Wenn Deutschland am Montagabend gegen die Niederlande zum letzten...",
@@ -55,6 +98,20 @@ window.FUPPES_DATA["transfers"] = {
    ],
    "tags": [
     "Gerücht"
+   ]
+  },
+  {
+   "title": "Gehaltserhöhung und Unterschriftsbonus: Ibrahim Maza soll bei Bayer Leverkusen verlängern",
+   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPdmdFejhtb0d6UE9jdW1pS2thV2VvanBsdmF2QnJUeE1zYVlUX01IaXpaV0c2VmpURm56MEoyWVZ2RjM0VkJ4Vk81Z1RmN196VV9CU1duazlfaVdOMzB3dnRCQVpseTFrR25wRWI2Skc2aGZQSVZSUF8xRW9SaXhPNmI1VU5ONGpINWZxNnhWMUdJdWgweXZ3SWZoSUN0cW1ZejJyT2d1a0tTa0RWeGpYMDB0bU5iRmpjejRsTVllZ0htVjVseXB1UUZNNkhETHE5clVodEZWcXd3OEtsV2RseHlnYTJmdXc?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxPdmdFejhtb0d6UE9jdW1pS2thV2VvanBsdmF2QnJUeE1zYVlUX01IaXpaV0c2VmpURm56MEoyWVZ2RjM0VkJ4Vk81Z1RmN196VV9CU1duazlfaVdOMzB3dnRCQVpseTFrR25wRWI2Skc2aGZQSVZSUF8xRW9SaXhPNmI1VU5ONGpINWZxNnhWMUdJdWgweXZ3SWZoSUN0cW1ZejJyT2d1a0tTa0",
+   "source": "SPOX.com",
+   "date": "2026-11-15T11:43:52.000Z",
+   "fee": null,
+   "clubs": [
+    "Leverkusen"
+   ],
+   "tags": [
+    "Vertrag"
    ]
   },
   {
@@ -128,20 +185,6 @@ window.FUPPES_DATA["transfers"] = {
    "tags": [
     "Fix",
     "Personal"
-   ]
-  },
-  {
-   "title": "Kommentatoren-Legende schwärmt von DFB-Juwel Gruda – und warnt vor einem Wechsel zum FC Bayern",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPb2UtSzMwTFJsbzIzcXVta0l1bEpGRFhqLWo2bXBVV1ZNb1BMVzFWenYtR1Z1YkladnRPZHByZWZaemVFSWc4ZzBVQTM3ZmRzdmRkVEpmVzlhUzhOUzNGNWMySGdLNHFMYnp1Y2czR0hoNHhTQmQ1MmNjcFNxQmFYZEw1RUMxMU5uQks3QlhJNUdYcEVtS2VhMjJhT2JhYnJLMTlJWEdPQVkyUm9LT0E0?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPb2UtSzMwTFJsbzIzcXVta0l1bEpGRFhqLWo2bXBVV1ZNb1BMVzFWenYtR1Z1YkladnRPZHByZWZaemVFSWc4ZzBVQTM3ZmRzdmRkVEpmVzlhUzhOUzNGNWMySGdLNHFMYnp1Y2czR0hoNHhTQmQ1MmNjcFNxQmFYZEw1RUMxMU5uQks3QlhJNUdYcEVtS2VhMjJhT2JhYnJLMTlJWEdPQVkyUm",
-   "source": "Frankfurter Rundschau",
-   "date": "2026-11-14T17:49:02.000Z",
-   "fee": null,
-   "clubs": [
-    "Bayern"
-   ],
-   "tags": [
-    "Transfer"
    ]
   },
   {
@@ -331,20 +374,6 @@ window.FUPPES_DATA["transfers"] = {
    ]
   },
   {
-   "title": "Plant der FC Bayern überraschenden Transfer-Coup von deutschem Nationalspieler?",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVmZEU3N6Z3hCc094dFlMQ3ZJaEhnelNWWkxjcnlsY19xVm9IXzFvaFJnMHpHbHFfZ0JoeFpBNFFTMGZla1M3OThQY0lvSmVnSDZyQUxCTXYyMlpPdVc0M1hheEZfUkktblBCWGRHbnU1YjJuckJjWDQzdEFCb2dvMEJhQXEzMlROcE9rLUFmQTlkcXY5QTRMb3lOVDRMSVhHRm83dTh3?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPVmZEU3N6Z3hCc094dFlMQ3ZJaEhnelNWWkxjcnlsY19xVm9IXzFvaFJnMHpHbHFfZ0JoeFpBNFFTMGZla1M3OThQY0lvSmVnSDZyQUxCTXYyMlpPdVc0M1hheEZfUkktblBCWGRHbnU1YjJuckJjWDQzdEFCb2dvMEJhQXEzMlROcE9rLUFmQTlkcXY5QTRMb3lOVDRMSVhHRm83dTh3?oc=5\"",
-   "source": "Merkur",
-   "date": "2026-11-13T11:16:00.000Z",
-   "fee": null,
-   "clubs": [
-    "Bayern"
-   ],
-   "tags": [
-    "Gerücht"
-   ]
-  },
-  {
    "title": "60 Millionen: Neue Transfer-Spur bei Jeltsch",
    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQnYtQS1FMGhiWk0wQldIVEttVVM0eG5wSDIxMV9GMXM3RTNnZlc5TWk5M2dMQXFhc0tJcHRwTFpZVnIyS3F6T0NIaDlGcnROZGlVc2lqR2xfYTd6V1pqSDNTOGJFaFRnY2FNanFVZ084M3E3Z2gydWJsbFhOMXJ0REpIUXAxMGF4QlRzbll4SmpPZXVXaUJlZUZvd2ppMk0?oc=5",
    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOQnYtQS1FMGhiWk0wQldIVEttVVM0eG5wSDIxMV9GMXM3RTNnZlc5TWk5M2dMQXFhc0tJcHRwTFpZVnIyS3F6T0NIaDlGcnROZGlVc2lqR2xfYTd6V1pqSDNTOGJFaFRnY2FNanFVZ084M3E3Z2gydWJsbFhOMXJ0REpIUXAxMGF4QlRzbll4SmpPZXVXaUJlZUZvd2ppMk0?oc=5\" target=\"",
@@ -352,34 +381,6 @@ window.FUPPES_DATA["transfers"] = {
    "date": "2026-11-13T10:53:03.000Z",
    "fee": 60,
    "clubs": [],
-   "tags": [
-    "Gerücht"
-   ]
-  },
-  {
-   "title": "Verwirrung um spannende Transfer-Gerüchte beim FC Bayern",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWDgyaW51V1ZiaFlzMFhVTzZyVW5WVGNLc1c5U3gwdUxpNEhUMElhcmEzSXpMYm0yLWR4R0ZYY1ZQc1pydjRxODlVS2l1MndDc3I0YmRCdGszeWZLQ05xMFZwZm1YVndhbk5lYnVaM0FyZVRETzFlX3NZS0ZVc1dLR1VDeS05OHphZ2VsUHZFRDN6V3JJcmlCeFdjMA?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOWDgyaW51V1ZiaFlzMFhVTzZyVW5WVGNLc1c5U3gwdUxpNEhUMElhcmEzSXpMYm0yLWR4R0ZYY1ZQc1pydjRxODlVS2l1MndDc3I0YmRCdGszeWZLQ05xMFZwZm1YVndhbk5lYnVaM0FyZVRETzFlX3NZS0ZVc1dLR1VDeS05OHphZ2VsUHZFRDN6V3JJcmlCeFdjMA?oc=5\" target=\"_blan",
-   "source": "sport.de",
-   "date": "2026-11-13T10:11:00.000Z",
-   "fee": null,
-   "clubs": [
-    "Bayern"
-   ],
-   "tags": [
-    "Gerücht"
-   ]
-  },
-  {
-   "title": "Der teuerste Verteidiger der Geschichte! FC Liverpool arbeitet angeblich \"konkret\" an einem historischen Transfer",
-   "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPQWdaNEdlQldZYUc2eXpMbG9OanJ2QjNpSFA2YnlqSjBJVnkwT3NhMmk2SE5sSDhYVFJYQmFZTXQzSXljU2J2LTNhUEpSR3VMWnE4X2FQOWtlY05UTUxkYnY1aXk4OHpnWU90bUx5U1M4eDIzTzYyMTFzU0V0YnRFaWt4ay1kYkhxX0FSMF85SEhYNzcyTVlxb0w5a3BwOGd5Q3UzT1lYNTEzV0RJRFpNUzFXWXZqZFptQ3FFMUtUTVNhdnFNMmJNX0J2NEprdnh2Vlh6TEI1djNYa0NkUWp6YmNHbDJ0aENxdVloZzA2SE5SWTVkSkpQeQ?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-AFBVV95cUxPQWdaNEdlQldZYUc2eXpMbG9OanJ2QjNpSFA2YnlqSjBJVnkwT3NhMmk2SE5sSDhYVFJYQmFZTXQzSXljU2J2LTNhUEpSR3VMWnE4X2FQOWtlY05UTUxkYnY1aXk4OHpnWU90bUx5U1M4eDIzTzYyMTFzU0V0YnRFaWt4ay1kYkhxX0FSMF85SEhYNzcyTVlxb0w5a3BwOGd5Q3UzT1lYNTEzV0",
-   "source": "SPOX.com",
-   "date": "2026-11-13T09:23:00.000Z",
-   "fee": null,
-   "clubs": [
-    "Liverpool"
-   ],
    "tags": [
     "Gerücht"
    ]

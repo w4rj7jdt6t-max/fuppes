@@ -1,6 +1,6 @@
 window.FUPPES_DATA = window.FUPPES_DATA || {};
 window.FUPPES_DATA["news-fc"] = {
- "updated": "2026-11-15T13:06:59.505Z",
+ "updated": "2026-11-15T14:54:42.328Z",
  "items": [
   {
    "title": "Trainer-Entlassung in Köln? FC macht Wagner-Entscheidung offiziell",
