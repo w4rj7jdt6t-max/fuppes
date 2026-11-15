@@ -1,6 +1,6 @@
 window.FUPPES_DATA = window.FUPPES_DATA || {};
 window.FUPPES_DATA["news-fc"] = {
- "updated": "2026-11-15T01:21:45.401Z",
+ "updated": "2026-11-15T02:58:52.637Z",
  "items": [
   {
    "title": "Kesslers Sicht auf die Trainerfrage: „Keiner kann eine Jobgarantie geben“",
