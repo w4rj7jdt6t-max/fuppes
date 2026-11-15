@@ -1,6 +1,6 @@
 window.FUPPES_DATA = window.FUPPES_DATA || {};
 window.FUPPES_DATA["spielinfo"] = {
- "updated": "2026-11-15T07:19:00.667Z",
+ "updated": "2026-11-15T08:59:13.865Z",
  "fc": [
   {
    "start": "2025-11-22T17:30:00.000Z",
@@ -1853,7 +1853,48 @@ window.FUPPES_DATA["spielinfo"] = {
    "goals": []
   }
  ],
- "press": [],
+ "press": [
+  {
+   "who": "fc",
+   "id": "GlEa1quXd04",
+   "title": "„Das muss uns Mut geben\" - Pressekonferenz nach Leverkusen | 1. FC Köln - Bayer 04 1:2",
+   "date": "2026-11-08T22:14:48+00:00",
+   "url": "https://www.youtube.com/watch?v=GlEa1quXd04",
+   "summary": "René Wagner und Carles Martínez Novell nach dem rheinischen Duell in der PK. #KOEB04 #effzeh",
+   "quotes": [
+    "Das muss uns Mut geben"
+   ]
+  },
+  {
+   "who": "fc",
+   "id": "cRrkIXhAhWE",
+   "title": "Pressekonferenz vor Leverkusen | 1. FC Köln",
+   "date": "2026-11-06T13:15:50+00:00",
+   "url": "https://www.youtube.com/watch?v=cRrkIXhAhWE",
+   "summary": "Der 1. FC Köln trifft am 9. Spieltag der Bundesliga-Saison 2026/27 auf Bayer 04 Leverkusen. Das Spiel findet am Sonntag, 08. November 2026, um 15.30 Uhr im RheinEnergieSTADION statt. Im Vorfeld der Partie beantwortet Cheftrainer René Wagner in der Pressekonferenz am Freitag, 06. November 2026, um 13.30 Uhr die Fragen d",
+   "quotes": []
+  },
+  {
+   "who": "fc",
+   "id": "6EKYDJkxcdA",
+   "title": "„Gerechtes Unentschieden“ - Pressekonferenz nach Union | 1. FC Union Berlin - 1. FC Köln 1:1",
+   "date": "2026-11-01T18:29:52+00:00",
+   "url": "https://www.youtube.com/watch?v=6EKYDJkxcdA",
+   "summary": "Nach dem 1:1-Unentschieden im Auswärtsspiel beim 1. FC Union Berlin sprechen die beiden Cheftrainer Mauro Lustrinelli und René Wagner mit der Presse.",
+   "quotes": [
+    "Gerechtes Unentschieden"
+   ]
+  },
+  {
+   "who": "dfb",
+   "id": "2yrZgmHaSsw",
+   "title": "RE-LIVE | Pressekonferenz der Nationalmannschaft mit Jürgen Klopp & Florian Wirtz",
+   "date": "2026-11-12T18:34:08+00:00",
+   "url": "https://www.youtube.com/watch?v=2yrZgmHaSsw",
+   "summary": "Viel Spaß mit der DFB Pressekonferenz mit Jürgen Klopp & Florian Wirtz vor den anstehenden Partien in der UEFA Nations League.",
+   "quotes": []
+  }
+ ],
  "referees": [
   {
    "title": "Die Schiedsrichter-Ansetzungen am 9. Spieltag",
