@@ -1,6 +1,6 @@
 window.FUPPES_DATA = window.FUPPES_DATA || {};
 window.FUPPES_DATA["spielinfo"] = {
- "updated": "2026-11-15T16:53:09.137Z",
+ "updated": "2026-11-15T18:58:03.868Z",
  "fc": [
   {
    "start": "2025-11-22T17:30:00.000Z",
@@ -1884,6 +1884,15 @@ window.FUPPES_DATA["spielinfo"] = {
    "quotes": [
     "Gerechtes Unentschieden"
    ]
+  },
+  {
+   "who": "dfb",
+   "id": "G1Ors50hq_I",
+   "title": "RE-LIVE | Pressekonferenz der Nationalmannschaft mit Jürgen Klopp und Kai Havertz",
+   "date": "2026-11-15T18:03:43+00:00",
+   "url": "https://www.youtube.com/watch?v=G1Ors50hq_I",
+   "summary": "Viel Spaß mit der DFB Pressekonferenz mit Jürgen Klopp und Kai Havertz vor der anstehenden Partie in der UEFA Nations League.",
+   "quotes": []
   },
   {
    "who": "dfb",

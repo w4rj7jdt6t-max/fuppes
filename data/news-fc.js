@@ -1,6 +1,6 @@
 window.FUPPES_DATA = window.FUPPES_DATA || {};
 window.FUPPES_DATA["news-fc"] = {
- "updated": "2026-11-15T16:53:07.267Z",
+ "updated": "2026-11-15T18:58:02.002Z",
  "items": [
   {
    "title": "Trainer-Entlassung in Köln? FC macht Wagner-Entscheidung offiziell",
@@ -51,16 +51,6 @@ window.FUPPES_DATA["news-fc"] = {
    "date": "2026-11-14T14:00:00.000Z",
    "tags": [
     "Verein"
-   ]
-  },
-  {
-   "title": "„Nur Frage von Wochen“: Insider prophezeit Kaminskis Rückkehr",
-   "link": "https://geissblog.koeln/2026/11/nur-frage-von-wochen-insider-prophezeit-kaminskis-rueckkehr/",
-   "summary": "Jakub Kaminski hat bei Benfica Lissabon weiterhin einen äußerst schweren Stand. Seit seinem Abschied vom 1. FC Köln ist der Pole überwiegend Zuschauer und wird... Der Beitrag „Nur Frage von Wochen“: Insider prophezeit Kaminskis Rückkehr erschien zuerst auf GEISSBLOG .",
-   "source": "GEISSBLOG",
-   "date": "2026-11-14T13:30:00.000Z",
-   "tags": [
-    "Personal"
    ]
   },
   {
@@ -202,6 +192,16 @@ window.FUPPES_DATA["news-fc"] = {
    "summary": "Wie schon im September hat es Said El Mala erneut in den Kader von Jürgen Klopp für die anstehenden Nations-League-Spiele geschafft. Köln-Trainer René Wagner erklärt El Malas veränderte Rolle und freut sich über die Nominierung.",
    "source": "kicker",
    "date": "2026-11-06T17:51:57.000Z",
+   "tags": [
+    "Verein"
+   ]
+  },
+  {
+   "title": "\"Normal, dass man nicht direkt reinrutscht\": Wagners Personal-Update vor dem Duell mit Leverkusen",
+   "link": "https://www.kicker.de/normal-dass-man-nicht-direkt-reinrutscht-wagners-personal-update-vor-dem-duell-mit-leverkusen-1269205/artikel#omrss",
+   "summary": "Vor dem \"kleinen Derby\" gegen Bayer Leverkusen hat Kölns Trainer René Wagner wieder mehr personelle Optionen zur Verfügung. Das könnte gerade im Sturm Härtefälle bedeuten.",
+   "source": "kicker",
+   "date": "2026-11-06T13:29:19.000Z",
    "tags": [
     "Verein"
    ]

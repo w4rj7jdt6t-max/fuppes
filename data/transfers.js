@@ -1,6 +1,6 @@
 window.FUPPES_DATA = window.FUPPES_DATA || {};
 window.FUPPES_DATA["transfers"] = {
- "updated": "2026-11-15T16:53:08.557Z",
+ "updated": "2026-11-15T18:58:03.286Z",
  "rules": {
   "minFeeMio": 20,
   "topClubs": [
@@ -129,20 +129,6 @@ window.FUPPES_DATA["transfers"] = {
    ]
   },
   {
-   "title": "Gehaltserhöhung und Unterschriftsbonus: Ibrahim Maza soll bei Bayer Leverkusen verlängern",
-   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPdmdFejhtb0d6UE9jdW1pS2thV2VvanBsdmF2QnJUeE1zYVlUX01IaXpaV0c2VmpURm56MEoyWVZ2RjM0VkJ4Vk81Z1RmN196VV9CU1duazlfaVdOMzB3dnRCQVpseTFrR25wRWI2Skc2aGZQSVZSUF8xRW9SaXhPNmI1VU5ONGpINWZxNnhWMUdJdWgweXZ3SWZoSUN0cW1ZejJyT2d1a0tTa0RWeGpYMDB0bU5iRmpjejRsTVllZ0htVjVseXB1UUZNNkhETHE5clVodEZWcXd3OEtsV2RseHlnYTJmdXc?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxPdmdFejhtb0d6UE9jdW1pS2thV2VvanBsdmF2QnJUeE1zYVlUX01IaXpaV0c2VmpURm56MEoyWVZ2RjM0VkJ4Vk81Z1RmN196VV9CU1duazlfaVdOMzB3dnRCQVpseTFrR25wRWI2Skc2aGZQSVZSUF8xRW9SaXhPNmI1VU5ONGpINWZxNnhWMUdJdWgweXZ3SWZoSUN0cW1ZejJyT2d1a0tTa0",
-   "source": "SPOX.com",
-   "date": "2026-11-15T11:43:52.000Z",
-   "fee": null,
-   "clubs": [
-    "Leverkusen"
-   ],
-   "tags": [
-    "Vertrag"
-   ]
-  },
-  {
    "title": "Ist Stiller ein Kandidat für die Modric-Nachfolge bei Milan?",
    "link": "https://www.kicker.de/ist-stiller-ein-kandidat-fuer-die-modric-nachfolge-bei-milan-1271736/artikel#omrss",
    "summary": "Es gibt keine Jahreszeit, in der es keine Gerüchte über einen Wechsel von Angelo Stiller gibt. Jedoch bisher ohne Ergebnis. Aktuell wird der Stuttgarter mit der AC Mailand in Verbindung gebracht.",
@@ -230,14 +216,15 @@ window.FUPPES_DATA["transfers"] = {
    ]
   },
   {
-   "title": "Transfer-Ticker: Überraschende Wende bei ManUnited?",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdWpzb2tXTEVnNEE1cmswTWZiUTEtTVE0M2pzQno2M1NIMmlpdDRuRW5jdVlfTUJ1dmpXS3RtbVpvY1R1QWU2bzFqemRBVWJzUGxEbU81Vm9MRVkwVW03SHVfNmxzQlM3YjZnVWFKT2tNbnBJUVhVbFZKNUxOY0hwR1RxQTRTT3VYaERHTTA0cGNaMUNwbkkyb3VMUjY?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPdWpzb2tXTEVnNEE1cmswTWZiUTEtTVE0M2pzQno2M1NIMmlpdDRuRW5jdVlfTUJ1dmpXS3RtbVpvY1R1QWU2bzFqemRBVWJzUGxEbU81Vm9MRVkwVW03SHVfNmxzQlM3YjZnVWFKT2tNbnBJUVhVbFZKNUxOY0hwR1RxQTRTT3VYaERHTTA0cGNaMUNwbkkyb3VMUjY?oc=5\" target=\"_bla",
+   "title": "Transfer-Paukenschlag um Star des VfB Stuttgart? \"Heftiger Kampf\" erwartet",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQlhuRzNQQ3dSZXdSSkJsX2RMVnd1TjR0Um5ndGJUcDhvTGpJd3FJQS1CY3p1X3QxRWxZTnJlOU9xY2VJaHJyNFhBcmJVWWVHZHphQkJyU3Y3aVVPMnZMT0VlV253SjZaQkFJMG1pWGdDN3BOeVFjelhMNkNMNUVXYnRjTnBtZERZVE5SazJkLU9vdml6TFI5cll1VFZnRXNabTdnOUM5eEJXaTdoTmc?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPQlhuRzNQQ3dSZXdSSkJsX2RMVnd1TjR0Um5ndGJUcDhvTGpJd3FJQS1CY3p1X3QxRWxZTnJlOU9xY2VJaHJyNFhBcmJVWWVHZHphQkJyU3Y3aVVPMnZMT0VlV253SjZaQkFJMG1pWGdDN3BOeVFjelhMNkNMNUVXYnRjTnBtZERZVE5SazJkLU9vdml6TFI5cll1VFZnRXNabTdnOUM5eEJXaT",
    "source": "sport.de",
-   "date": "2026-11-14T12:27:00.000Z",
+   "date": "2026-11-14T16:13:00.000Z",
    "fee": null,
    "clubs": [
-    "ManUnited"
+    "Stuttgart",
+    "VfB"
    ],
    "tags": [
     "Gerücht"
@@ -344,6 +331,20 @@ window.FUPPES_DATA["transfers"] = {
    ]
   },
   {
+   "title": "BVB: Neuer Interessent für Bensebaini",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPXy1fWF9aSVZPWGd1d2tYQjdBNDJnRVdnaUxYUWxhWk9zaVJiS0E1VENxTmtGVFY4RTRUc3hrdUxGNDhaVGJpMFB6b0tadWRzWjA5bFF4RGpkN25jVjJ0ZTZhQ01jczJuc3NMYTVranMtTlRyNi0yWjQ4YzZWM3B3UktzZTBZSWQzZ3hBM0d3QlVTRTNoVUdz?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPXy1fWF9aSVZPWGd1d2tYQjdBNDJnRVdnaUxYUWxhWk9zaVJiS0E1VENxTmtGVFY4RTRUc3hrdUxGNDhaVGJpMFB6b0tadWRzWjA5bFF4RGpkN25jVjJ0ZTZhQ01jczJuc3NMYTVranMtTlRyNi0yWjQ4YzZWM3B3UktzZTBZSWQzZ3hBM0d3QlVTRTNoVUdz?oc=5\" target=\"_blank\">BVB",
+   "source": "Fussball Transfers",
+   "date": "2026-11-13T17:15:00.000Z",
+   "fee": null,
+   "clubs": [
+    "BVB"
+   ],
+   "tags": [
+    "Gerücht"
+   ]
+  },
+  {
    "title": "BVB plant ersten Winter-Transfer",
    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTFJ0YkVaaDBKLUJxUzRyNEN3RGpCSThSWUFMNTlKTkJfSnpKWThfNjNNcHlJOXFjcmhaVHFOMTNUNWNJeXRsbDFfWEJXNG9STjJHZ09aby1jQXpGQUlRbElSYjU1WTNZOEVBTzlBWUNxVmo3ZHpnQVlHVl92X2x2NjBVeU9sN1A1YXhOUldxR2s?oc=5",
    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPTFJ0YkVaaDBKLUJxUzRyNEN3RGpCSThSWUFMNTlKTkJfSnpKWThfNjNNcHlJOXFjcmhaVHFOMTNUNWNJeXRsbDFfWEJXNG9STjJHZ09aby1jQXpGQUlRbElSYjU1WTNZOEVBTzlBWUNxVmo3ZHpnQVlHVl92X2x2NjBVeU9sN1A1YXhOUldxR2s?oc=5\" target=\"_blank\">BVB plant er",
@@ -358,21 +359,6 @@ window.FUPPES_DATA["transfers"] = {
    ]
   },
   {
-   "title": "Reaktion auf Kritik: BVB verlängert Rheinmetall-Vertrag nicht",
-   "link": "https://www.kicker.de/reaktion-auf-kritik-bvb-verlaengert-rheinmetall-vertrag-nicht-1269652/artikel#omrss",
-   "summary": "Borussia Dortmund wird den Sponsoringvertrag mit dem Rüstungskonzern Rheinmetall auslaufen lassen. Damit reagiert der Klub auch auf den Unmut, den viele Mitglieder über einen längeren Zeitraum kundgetan haben.",
-   "source": "kicker",
-   "date": "2026-11-13T12:53:57.000Z",
-   "fee": null,
-   "clubs": [
-    "Dortmund",
-    "BVB"
-   ],
-   "tags": [
-    "Vertrag"
-   ]
-  },
-  {
    "title": "60 Millionen: Neue Transfer-Spur bei Jeltsch",
    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQnYtQS1FMGhiWk0wQldIVEttVVM0eG5wSDIxMV9GMXM3RTNnZlc5TWk5M2dMQXFhc0tJcHRwTFpZVnIyS3F6T0NIaDlGcnROZGlVc2lqR2xfYTd6V1pqSDNTOGJFaFRnY2FNanFVZ084M3E3Z2gydWJsbFhOMXJ0REpIUXAxMGF4QlRzbll4SmpPZXVXaUJlZUZvd2ppMk0?oc=5",
    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOQnYtQS1FMGhiWk0wQldIVEttVVM0eG5wSDIxMV9GMXM3RTNnZlc5TWk5M2dMQXFhc0tJcHRwTFpZVnIyS3F6T0NIaDlGcnROZGlVc2lqR2xfYTd6V1pqSDNTOGJFaFRnY2FNanFVZ084M3E3Z2gydWJsbFhOMXJ0REpIUXAxMGF4QlRzbll4SmpPZXVXaUJlZUZvd2ppMk0?oc=5\" target=\"",
@@ -380,6 +366,20 @@ window.FUPPES_DATA["transfers"] = {
    "date": "2026-11-13T10:53:03.000Z",
    "fee": 60,
    "clubs": [],
+   "tags": [
+    "Gerücht"
+   ]
+  },
+  {
+   "title": "Verwirrung um spannende Transfer-Gerüchte beim FC Bayern",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWDgyaW51V1ZiaFlzMFhVTzZyVW5WVGNLc1c5U3gwdUxpNEhUMElhcmEzSXpMYm0yLWR4R0ZYY1ZQc1pydjRxODlVS2l1MndDc3I0YmRCdGszeWZLQ05xMFZwZm1YVndhbk5lYnVaM0FyZVRETzFlX3NZS0ZVc1dLR1VDeS05OHphZ2VsUHZFRDN6V3JJcmlCeFdjMA?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOWDgyaW51V1ZiaFlzMFhVTzZyVW5WVGNLc1c5U3gwdUxpNEhUMElhcmEzSXpMYm0yLWR4R0ZYY1ZQc1pydjRxODlVS2l1MndDc3I0YmRCdGszeWZLQ05xMFZwZm1YVndhbk5lYnVaM0FyZVRETzFlX3NZS0ZVc1dLR1VDeS05OHphZ2VsUHZFRDN6V3JJcmlCeFdjMA?oc=5\" target=\"_blan",
+   "source": "sport.de",
+   "date": "2026-11-13T10:11:00.000Z",
+   "fee": null,
+   "clubs": [
+    "Bayern"
+   ],
    "tags": [
     "Gerücht"
    ]
