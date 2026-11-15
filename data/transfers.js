@@ -1,6 +1,6 @@
 window.FUPPES_DATA = window.FUPPES_DATA || {};
 window.FUPPES_DATA["transfers"] = {
- "updated": "2026-11-15T18:58:03.286Z",
+ "updated": "2026-11-15T20:51:15.538Z",
  "rules": {
   "minFeeMio": 20,
   "topClubs": [
@@ -43,6 +43,21 @@ window.FUPPES_DATA["transfers"] = {
   ]
  },
  "items": [
+  {
+   "title": "Eintracht Frankfurt: Sommer-Transfer von KSC-Senkrechtstarter?",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPai1Rd1BvcFZvSjdmSDJ0bEFMWFpQTjZ6M25YSVhmMXVBTnZVSDhnLVY0Yk9qYUgtQXp0N0x2djFScUp5b3Fzd19FOTVtOTgyZUw3MndoWGlRLWNyUklVTjNlVjJ5QzlYOWZFZHEzcjcxZ29peWU3NVNBUDhvc2tZQTNEODR1YXpyVE85dktLT3BZN1JNMWc?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPai1Rd1BvcFZvSjdmSDJ0bEFMWFpQTjZ6M25YSVhmMXVBTnZVSDhnLVY0Yk9qYUgtQXp0N0x2djFScUp5b3Fzd19FOTVtOTgyZUw3MndoWGlRLWNyUklVTjNlVjJ5QzlYOWZFZHEzcjcxZ29peWU3NVNBUDhvc2tZQTNEODR1YXpyVE85dktLT3BZN1JNMWc?oc=5\" target=\"_blank\">Eint",
+   "source": "fussballdaten.de",
+   "date": "2026-11-15T18:53:00.000Z",
+   "fee": null,
+   "clubs": [
+    "Eintracht Frankfurt",
+    "Frankfurt"
+   ],
+   "tags": [
+    "Gerücht"
+   ]
+  },
   {
    "title": "100-Millionen-Angebote für Barcelona-Spieler - Schlüsselspieler unter Hansi Flick",
    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNa0xubDFHcVFoOFZSZ05fM1J5elNjQndyYXZfblVBeUFhVFl2SUUzTE5GR1ZwaXdVUnJ5OUpMZzJzUFFEV3hxUkFIYTZhWHBLWUhtaC1NWUhteFlfeWhjTlZ2cVNOUnFvT251ajhXc0l3a3I2a09WdG84bTJScUVrWDdlSVh6VzM5NjAzOEE2R2xmUHI3aTc2Q1lxT2tWa2NN?oc=5",
@@ -98,20 +113,6 @@ window.FUPPES_DATA["transfers"] = {
    ],
    "tags": [
     "Vertrag"
-   ]
-  },
-  {
-   "title": "Kehls plötzlich wichtige BVB-Transfers | „Ancelotti, pack deine Koffer“",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdGJZUk9YdjdLUWl3a3oyRnN3bXR6UEVCS3lYNXNkRXdKYUdaZjFjTW5WbHBjaU4xM3NCWk5JTkJHUEZlTWd4U2hXS3lUZWRjUDJVb2VGSUlLSHFoRThQM29wT1RHM05xVHBtVjBYdklKaVdfRmZhdm14ZUg1R0R3ekJkcldvZnItaUZ3R0Z6NmNobzlIRk4tWk1IMjlQYnBMQWJUMTVmd203U1dGMGswTg?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQdGJZUk9YdjdLUWl3a3oyRnN3bXR6UEVCS3lYNXNkRXdKYUdaZjFjTW5WbHBjaU4xM3NCWk5JTkJHUEZlTWd4U2hXS3lUZWRjUDJVb2VGSUlLSHFoRThQM29wT1RHM05xVHBtVjBYdklKaVdfRmZhdm14ZUg1R0R3ekJkcldvZnItaUZ3R0Z6NmNobzlIRk4tWk1IMjlQYnBMQWJUMTVmd203U1",
-   "source": "Fussball Transfers",
-   "date": "2026-11-15T11:53:00.000Z",
-   "fee": null,
-   "clubs": [
-    "BVB"
-   ],
-   "tags": [
-    "Transfer"
    ]
   },
   {

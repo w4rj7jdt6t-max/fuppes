@@ -1,6 +1,6 @@
 window.FUPPES_DATA = window.FUPPES_DATA || {};
 window.FUPPES_DATA["news-fc"] = {
- "updated": "2026-11-15T18:58:02.002Z",
+ "updated": "2026-11-15T20:51:13.975Z",
  "items": [
   {
    "title": "Trainer-Entlassung in Köln? FC macht Wagner-Entscheidung offiziell",
@@ -167,21 +167,21 @@ window.FUPPES_DATA["news-fc"] = {
    ]
   },
   {
-   "title": "Mega-Transfer in Sicht – Podolski sieht Vorteile für Köln",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZXB2RERXQ0V0aEJqUE5BbGhqQVgtRVlOT1Jhdk1qYTlZR3BfcDVjTEQ5M3V4dVZidkhQdEpNRUd0eHN6eTFQdmdBbEM4Tm9Xc0NpZVp6VEZZY2FlSXBmdWJVYzk3SGFOejRzeTJjejUwYmVqclZ0djk1TmJTSTBTbHZjZHZScW9EdS1VUw?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxOZXB2RERXQ0V0aEJqUE5BbGhqQVgtRVlOT1Jhdk1qYTlZR3BfcDVjTEQ5M3V4dVZidkhQdEpNRUd0eHN6eTFQdmdBbEM4Tm9Xc0NpZVp6VEZZY2FlSXBmdWJVYzk3SGFOejRzeTJjejUwYmVqclZ0djk1TmJTSTBTbHZjZHZScW9EdS1VUw?oc=5\" target=\"_blank\">Mega-Transfer in ",
-   "source": "fussballdaten.de",
-   "date": "2026-11-07T11:02:00.000Z",
-   "tags": [
-    "Transfer"
-   ]
-  },
-  {
    "title": "FC-Bosse warten auf El-Mala-Offerte - daran hängt der Deal noch!",
    "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPQXBsWGNqdEtFb19HZF9tTzVZTi1TcVZCSUxBN3dJNV82RkhGRlRONXotMThSbTdjQkp1NTZZZmRzeDVVNi1USlpudnlVNDQzNGZ3SWlmWmZQMm13OXJxa3VIellLQjR0VUY2UUk5Sno3ejk2MTZ2VXRBb0hOb2d5dnRvdXBRSWlvVHhfdkM1NEVITHpOZDI4YVo1amdQQ2hIRVk3VGJjQTBBalZ4WXk0ZUxTUmwybUFHZWVtWXFxaTQ0ZmxxdUliQlUxMktnSFc0bFlpNHlXd2ZUckNleGtZY2pwUFViMGF1bFZ0UHhwVFRWT0x2TjFjbw?oc=5",
    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-AFBVV95cUxPQXBsWGNqdEtFb19HZF9tTzVZTi1TcVZCSUxBN3dJNV82RkhGRlRONXotMThSbTdjQkp1NTZZZmRzeDVVNi1USlpudnlVNDQzNGZ3SWlmWmZQMm13OXJxa3VIellLQjR0VUY2UUk5Sno3ejk2MTZ2VXRBb0hOb2d5dnRvdXBRSWlvVHhfdkM1NEVITHpOZDI4YVo1amdQQ2hIRVk3VGJjQTBBal",
    "source": "n-tv.de",
    "date": "2026-11-07T09:38:23.000Z",
+   "tags": [
+    "Transfer"
+   ]
+  },
+  {
+   "title": "Mega-Transfer in Sicht – Podolski sieht Vorteile für Köln",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZXB2RERXQ0V0aEJqUE5BbGhqQVgtRVlOT1Jhdk1qYTlZR3BfcDVjTEQ5M3V4dVZidkhQdEpNRUd0eHN6eTFQdmdBbEM4Tm9Xc0NpZVp6VEZZY2FlSXBmdWJVYzk3SGFOejRzeTJjejUwYmVqclZ0djk1TmJTSTBTbHZjZHZScW9EdS1VUw?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxOZXB2RERXQ0V0aEJqUE5BbGhqQVgtRVlOT1Jhdk1qYTlZR3BfcDVjTEQ5M3V4dVZidkhQdEpNRUd0eHN6eTFQdmdBbEM4Tm9Xc0NpZVp6VEZZY2FlSXBmdWJVYzk3SGFOejRzeTJjejUwYmVqclZ0djk1TmJTSTBTbHZjZHZScW9EdS1VUw?oc=5\" target=\"_blank\">Mega-Transfer in ",
+   "source": "fussballdaten.de",
+   "date": "2026-11-07T08:00:00.000Z",
    "tags": [
     "Transfer"
    ]
