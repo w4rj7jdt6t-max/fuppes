@@ -1,7 +1,18 @@
 window.FUPPES_DATA = window.FUPPES_DATA || {};
 window.FUPPES_DATA["news-fc"] = {
- "updated": "2026-11-15T08:59:10.544Z",
+ "updated": "2026-11-15T10:55:29.503Z",
  "items": [
+  {
+   "title": "Trainer-Entlassung in Köln? FC macht Wagner-Entscheidung offiziell",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxONlBMcFk2ejJ2eXVvRVRocGo0d0twU0E2dDFYWWxsN3J4bWE3THZGRG4zR3Jvel9kMlNhZHdSS3R2VTYxOEx1dlFET1dNMi1OcEZkQmlfZGNrMXJ2NXZwTTJ3QmZ0WUpDQjhocFE5Um83TWVPZ0tQR3BmcF9zMkdvRll5cnVCanp0cVBJckx6cFhLNkV1VUo2S1NPVlVZNjA?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxONlBMcFk2ejJ2eXVvRVRocGo0d0twU0E2dDFYWWxsN3J4bWE3THZGRG4zR3Jvel9kMlNhZHdSS3R2VTYxOEx1dlFET1dNMi1OcEZkQmlfZGNrMXJ2NXZwTTJ3QmZ0WUpDQjhocFE5Um83TWVPZ0tQR3BmcF9zMkdvRll5cnVCanp0cVBJckx6cFhLNkV1VUo2S1NPVlVZNjA?oc=5\" target=\"",
+   "source": "fussballdaten.de",
+   "date": "2026-11-15T09:54:00.000Z",
+   "tags": [
+    "Gerücht",
+    "Verein"
+   ]
+  },
   {
    "title": "Kesslers Sicht auf die Trainerfrage: „Keiner kann eine Jobgarantie geben“",
    "link": "https://geissblog.koeln/2026/11/kesslers-sicht-in-der-trainerfrage-keiner-kann-eine-jobgarantie-geben/",
@@ -60,16 +71,6 @@ window.FUPPES_DATA["news-fc"] = {
    "date": "2026-11-14T10:11:00.000Z",
    "tags": [
     "Verein"
-   ]
-  },
-  {
-   "title": "Transfergerüchte: Blitz-Abgänge beim 1. FC Köln & Werder Bremen?",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQalA3ZnpScm1xTUVBVDdiNmNsS2xVV3hfcFgtbGt5cWNRYmxZNGJlOU9GZ082R09kMG0tTy0wZkZ3WEczWXF4LXdKMHJPLXcyX0h4czgxc2NQQ0hhdkxPdzBCWnpPUFF6Nm5FT0JrS2Rrb2VBRldBaElWNGdaVElkYlREbGg2dzVWM01GMTFqMFQ3OUFr?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQalA3ZnpScm1xTUVBVDdiNmNsS2xVV3hfcFgtbGt5cWNRYmxZNGJlOU9GZ082R09kMG0tTy0wZkZ3WEczWXF4LXdKMHJPLXcyX0h4czgxc2NQQ0hhdkxPdzBCWnpPUFF6Nm5FT0JrS2Rrb2VBRldBaElWNGdaVElkYlREbGg2dzVWM01GMTFqMFQ3OUFr?oc=5\" target=\"_blank\">Transfe",
-   "source": "ComunioMagazin",
-   "date": "2026-11-13T16:06:51.000Z",
-   "tags": [
-    "Gerücht"
    ]
   },
   {
