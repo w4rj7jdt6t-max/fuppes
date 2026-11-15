@@ -1,6 +1,6 @@
 window.FUPPES_DATA = window.FUPPES_DATA || {};
 window.FUPPES_DATA["transfers"] = {
- "updated": "2026-11-15T14:54:45.564Z",
+ "updated": "2026-11-15T16:53:08.557Z",
  "rules": {
   "minFeeMio": 20,
   "topClubs": [
@@ -43,6 +43,34 @@ window.FUPPES_DATA["transfers"] = {
   ]
  },
  "items": [
+  {
+   "title": "100-Millionen-Angebote für Barcelona-Spieler - Schlüsselspieler unter Hansi Flick",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNa0xubDFHcVFoOFZSZ05fM1J5elNjQndyYXZfblVBeUFhVFl2SUUzTE5GR1ZwaXdVUnJ5OUpMZzJzUFFEV3hxUkFIYTZhWHBLWUhtaC1NWUhteFlfeWhjTlZ2cVNOUnFvT251ajhXc0l3a3I2a09WdG84bTJScUVrWDdlSVh6VzM5NjAzOEE2R2xmUHI3aTc2Q1lxT2tWa2NN?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNa0xubDFHcVFoOFZSZ05fM1J5elNjQndyYXZfblVBeUFhVFl2SUUzTE5GR1ZwaXdVUnJ5OUpMZzJzUFFEV3hxUkFIYTZhWHBLWUhtaC1NWUhteFlfeWhjTlZ2cVNOUnFvT251ajhXc0l3a3I2a09WdG84bTJScUVrWDdlSVh6VzM5NjAzOEE2R2xmUHI3aTc2Q1lxT2tWa2NN?oc=5\" target=",
+   "source": "fussballdaten.de",
+   "date": "2026-11-15T15:52:00.000Z",
+   "fee": null,
+   "clubs": [
+    "Barcelona"
+   ],
+   "tags": [
+    "Transfer"
+   ]
+  },
+  {
+   "title": "Wechsel zum FC Bayern? Ödegaard verrät seinen Plan",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNeU02el9sTWxSOVJYZmJheFpiRVVycnVHcS1YbnVma29laUhUdjFEb3lyTGpUU244amNUUDVtWW5ZUHhXYmpNV2ZNd3EyY0k0UXhsZGVZTmx1VmtYZWQyX3JaRnJmdThSQU84X3loSjMyVUM0MnExVjIxYXR6NXJldGR4M0s0bE5YYVhSelhZSnRCMlU?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNeU02el9sTWxSOVJYZmJheFpiRVVycnVHcS1YbnVma29laUhUdjFEb3lyTGpUU244amNUUDVtWW5ZUHhXYmpNV2ZNd3EyY0k0UXhsZGVZTmx1VmtYZWQyX3JaRnJmdThSQU84X3loSjMyVUM0MnExVjIxYXR6NXJldGR4M0s0bE5YYVhSelhZSnRCMlU?oc=5\" target=\"_blank\">Wechsel ",
+   "source": "sport.de",
+   "date": "2026-11-15T14:43:00.000Z",
+   "fee": null,
+   "clubs": [
+    "Bayern"
+   ],
+   "tags": [
+    "Gerücht"
+   ]
+  },
   {
    "title": "Maza soll bei Bayer Leverkusen verlängern – Deutliche Gehaltserhöhung",
    "link": "https://www.transfermarkt.de/rolfes-bestatigt-gesprache-mit-maza-60-mehr-gehalt-amp-millionenbonus-fur-verlangerung/view/news/490568",
@@ -202,21 +230,6 @@ window.FUPPES_DATA["transfers"] = {
    ]
   },
   {
-   "title": "Transfer-Paukenschlag um Star des VfB Stuttgart? \"Heftiger Kampf\" erwartet",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQlhuRzNQQ3dSZXdSSkJsX2RMVnd1TjR0Um5ndGJUcDhvTGpJd3FJQS1CY3p1X3QxRWxZTnJlOU9xY2VJaHJyNFhBcmJVWWVHZHphQkJyU3Y3aVVPMnZMT0VlV253SjZaQkFJMG1pWGdDN3BOeVFjelhMNkNMNUVXYnRjTnBtZERZVE5SazJkLU9vdml6TFI5cll1VFZnRXNabTdnOUM5eEJXaTdoTmc?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPQlhuRzNQQ3dSZXdSSkJsX2RMVnd1TjR0Um5ndGJUcDhvTGpJd3FJQS1CY3p1X3QxRWxZTnJlOU9xY2VJaHJyNFhBcmJVWWVHZHphQkJyU3Y3aVVPMnZMT0VlV253SjZaQkFJMG1pWGdDN3BOeVFjelhMNkNMNUVXYnRjTnBtZERZVE5SazJkLU9vdml6TFI5cll1VFZnRXNabTdnOUM5eEJXaT",
-   "source": "sport.de",
-   "date": "2026-11-14T16:13:00.000Z",
-   "fee": null,
-   "clubs": [
-    "Stuttgart",
-    "VfB"
-   ],
-   "tags": [
-    "Gerücht"
-   ]
-  },
-  {
    "title": "Transfer-Ticker: Überraschende Wende bei ManUnited?",
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdWpzb2tXTEVnNEE1cmswTWZiUTEtTVE0M2pzQno2M1NIMmlpdDRuRW5jdVlfTUJ1dmpXS3RtbVpvY1R1QWU2bzFqemRBVWJzUGxEbU81Vm9MRVkwVW03SHVfNmxzQlM3YjZnVWFKT2tNbnBJUVhVbFZKNUxOY0hwR1RxQTRTT3VYaERHTTA0cGNaMUNwbkkyb3VMUjY?oc=5",
    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPdWpzb2tXTEVnNEE1cmswTWZiUTEtTVE0M2pzQno2M1NIMmlpdDRuRW5jdVlfTUJ1dmpXS3RtbVpvY1R1QWU2bzFqemRBVWJzUGxEbU81Vm9MRVkwVW03SHVfNmxzQlM3YjZnVWFKT2tNbnBJUVhVbFZKNUxOY0hwR1RxQTRTT3VYaERHTTA0cGNaMUNwbkkyb3VMUjY?oc=5\" target=\"_bla",
@@ -322,20 +335,6 @@ window.FUPPES_DATA["transfers"] = {
    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxPMS1hdTh5dkZPYndIQzVYd29OUGFwQXp0YTZEU25Pa3hTNmF5VjJmcHhCdGEyM2pESE90bVZLYVg3YktEdzdrbmpTOTVYQ19HcnZFT0ZadFZSQnY2RWlsTi1lajAtalpuVVQ0dm9mVzdkR1NsQXZFSncyXzBnNlpla2FjbHd4Ukl1bkMyQzBUZjNJWEtfZTBLRGptTlBvaVRDVWdaWFpqRnVPRX",
    "source": "SPOX.com",
    "date": "2026-11-13T17:21:11.000Z",
-   "fee": null,
-   "clubs": [
-    "BVB"
-   ],
-   "tags": [
-    "Gerücht"
-   ]
-  },
-  {
-   "title": "BVB: Neuer Interessent für Bensebaini",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPXy1fWF9aSVZPWGd1d2tYQjdBNDJnRVdnaUxYUWxhWk9zaVJiS0E1VENxTmtGVFY4RTRUc3hrdUxGNDhaVGJpMFB6b0tadWRzWjA5bFF4RGpkN25jVjJ0ZTZhQ01jczJuc3NMYTVranMtTlRyNi0yWjQ4YzZWM3B3UktzZTBZSWQzZ3hBM0d3QlVTRTNoVUdz?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPXy1fWF9aSVZPWGd1d2tYQjdBNDJnRVdnaUxYUWxhWk9zaVJiS0E1VENxTmtGVFY4RTRUc3hrdUxGNDhaVGJpMFB6b0tadWRzWjA5bFF4RGpkN25jVjJ0ZTZhQ01jczJuc3NMYTVranMtTlRyNi0yWjQ4YzZWM3B3UktzZTBZSWQzZ3hBM0d3QlVTRTNoVUdz?oc=5\" target=\"_blank\">BVB",
-   "source": "Fussball Transfers",
-   "date": "2026-11-13T17:15:00.000Z",
    "fee": null,
    "clubs": [
     "BVB"

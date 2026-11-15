@@ -1,6 +1,6 @@
 window.FUPPES_DATA = window.FUPPES_DATA || {};
 window.FUPPES_DATA["news-fc"] = {
- "updated": "2026-11-15T14:54:42.328Z",
+ "updated": "2026-11-15T16:53:07.267Z",
  "items": [
   {
    "title": "Trainer-Entlassung in Köln? FC macht Wagner-Entscheidung offiziell",
@@ -71,16 +71,6 @@ window.FUPPES_DATA["news-fc"] = {
    "date": "2026-11-14T10:20:06.000Z",
    "tags": [
     "Transfer"
-   ]
-  },
-  {
-   "title": "Kuriose Transfer-Geschichte: Wie ein Strauß Rosen Kessler im El-Mala-Poker rettete",
-   "link": "https://geissblog.koeln/2026/11/kuriose-transfer-geschichte-wie-ein-strauss-rosen-kessler-im-el-mala-poker-rettete/",
-   "summary": "Thomas Kessler zu Gast im GEISSTALK: Der Geschäftsführer Sport spricht in der dritten Folge des Talk-Formats über die wichtigsten Fragen und Personalien rund um den... Der Beitrag Kuriose Transfer-Geschichte: Wie ein Strauß Rosen Kessler im El-Mala-Poker rettete erschien zuerst a",
-   "source": "GEISSBLOG",
-   "date": "2026-11-14T10:11:00.000Z",
-   "tags": [
-    "Verein"
    ]
   },
   {
@@ -204,6 +194,16 @@ window.FUPPES_DATA["news-fc"] = {
    "date": "2026-11-07T09:38:23.000Z",
    "tags": [
     "Transfer"
+   ]
+  },
+  {
+   "title": "\"Dann hätten wir etwas Neues für die Bingo-Karte\": Wagner über Rolle von El Mala",
+   "link": "https://www.kicker.de/dann-haetten-wir-etwas-neues-fuer-die-bingo-karte-wagner-ueber-rolle-von-el-mala-1269294/video#omrss",
+   "summary": "Wie schon im September hat es Said El Mala erneut in den Kader von Jürgen Klopp für die anstehenden Nations-League-Spiele geschafft. Köln-Trainer René Wagner erklärt El Malas veränderte Rolle und freut sich über die Nominierung.",
+   "source": "kicker",
+   "date": "2026-11-06T17:51:57.000Z",
+   "tags": [
+    "Verein"
    ]
   }
  ]
