@@ -1,6 +1,6 @@
 window.FUPPES_DATA = window.FUPPES_DATA || {};
 window.FUPPES_DATA["news-fc"] = {
- "updated": "2026-11-16T20:59:52.392Z",
+ "updated": "2026-11-16T22:58:14.326Z",
  "items": [
   {
    "title": "\"Wäre absurd\": Köln-Boss mit Transfer-Klartext zu El Mala",

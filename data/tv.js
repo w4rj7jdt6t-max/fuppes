@@ -1,6 +1,6 @@
 window.FUPPES_DATA = window.FUPPES_DATA || {};
 window.FUPPES_DATA["tv"] = {
- "updated": "2026-11-16T20:59:55.334Z",
+ "updated": "2026-11-16T22:58:16.683Z",
  "matches": [
   {
    "matchID": 83237,
@@ -26,26 +26,27 @@ window.FUPPES_DATA["tv"] = {
    "team1": "Deutschland",
    "team2": "Niederlande",
    "channels": [
+    "ARD",
     "ZDF"
    ],
    "evidence": [
     {
+     "title": "Vorschau: Sportschau • UEFA Nations League: Deutschland - Niederlande",
+     "source": "ARD Mediathek",
+     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5jWFl6LTJ6MXFLNWdVcXltamI2djZBNTVPQmpvOWJoYVRjcURacUZVSUdJNTJ5Z2ZlUkVUS2VUSG5aa2JDeEdIaE9HOVlCUlVwV0Z0T2l4SHpNOGtLaTNTOWlKaERINHc1eTg4dWhhMmh5Zw?oc=5"
+    },
+    {
+     "title": "!$√[TV/Übertragung!]@! Deutschland – Niederlande jetzt Fußball heute WM ZDF live im TV - UB",
+     "source": "Universitat de Barcelona",
+     "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQUG1OcVNXdFByOUlEV1FkV3JUV0dfdlJCR3lfb2FkT1RXakpEeFh1U3UzUXZ1Sl9VemhqWTBrYWRTdkJMUlpZZTF4aFZjdmxaYW82VzdKekV5T2IyS20zNG1KMmZLRW1LQkxIcmpYemlGODMxSEpIcy1JV20teFpoaFFjVGVJV24tUGFjTm1aM1pETU5hcXJycG1tSnI5YlEtNE92M3IybVhSaU1fM1h6aGhzZkhEQUVCT2Zock9VZXpLaklvWno5R2lFZS1xYlJ5OVhYb1JuMWxlMTg3Zi1JWWVIczlGSHc1ZVp2Tmx5Wjg1QnJtQV95R2h0RUtldUJvcHRvN3hPYkE5bU5EVDlITDZzNEMwNm5TN1E?oc=5"
+    },
+    {
      "title": "Deutschland Niederlande kostenlos live streamen: Nations League heute in der ARD live",
      "source": "dslweb",
      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQMXo1dEhhdENKZEdWR0N1aWhxVFVPXzh3dlFMSmFKbC1XbnJRR3RVV3lMUS1CZ2NwanY2ZEYzcVBMdTNMcmhCS2VMLTRpckVrckdrd0pmekZkbGJja0dKNDNLb0FtSTFNbGZGdlZ1Z0ZLLUtOWERsX0s3WHFpcFNmNXJuU2tIcXFONDgwRFdDU3lBNF9PTndoNkN4Ykl6UGxrV2FqRC1qVENLOHp0c3FMZm4zUUxhYXllTUE?oc=5"
-    },
-    {
-     "title": "♦️~🎃~\"♻️@@@@ Niederlande – Deutschland jetzt Fußball heute WM ZDF live im TV - UB",
-     "source": "Universitat de Barcelona",
-     "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOUGlCUlMwRDE2UDFlQ1Jnc0M5ZmRPWDNEYjg2c015eWc2ZXpJd29Ia1U0bHFsRnB0VXFxUDBCWm5NeGVTeVJsc3dqYnVuMFoxRjc1R3ctVDZodGprTnBNQndGUHlYY1gyRGlaWDAzOUNjYlFHNS1FaTlLRThtcklzNDFXVWxZZU9KUWVZblVxTnkwTjgxaVY4V1l5SnpLbWd1Rzg5R0JXZXJtTHRnZ1NrWEh1QnlvbnZVMmpfeHktaXJJS25BbHE2WHRZaW1HYWpXSGpid25LTGp5dHFfNWlPcXBDdUU2by1xWjUwOF80NFNpS01Sbl8wZXZza3laX1NSSWhUNXdYU3o1V0ZlQ0NaR0E4MGs2M1pxbFE?oc=5"
-    },
-    {
-     "title": "!$√[TV/Übertragung!]@! Deutschland – Niederlande jetzt Fußball heute WM ZDF live im TV",
-     "source": "Universitat de Barcelona",
-     "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNWlF4OGViNldPWWE3OUhzUFZHS05WMWNGRU4xYWdKb0Etc0g4blMtc2phcnJLYmJUczZRX1VmTUZwcVJRcE1uNDZ0NnRIdTFzZUw1d3pOTGV1MWR6eks1NEZJeFlvQ0U0dV9aWWxPckRvSFhzdlZheEtjbzhrVFp5ckZaYV8wTE83blp5TXhsS0NZWGdmUGxGcmhLdmJOTmJtYm02S2VBN3oydWhuQ3B2SHpiYWc1SmlidU8yZkZfLVlPNzg0YTRYc2pGTGVOMzcxend6V1dGRkl1UmpMQ2otTXJQbENWSzBCMHkwTW55UndzbkhpU3ViV3V4UXNVMW5MZDZlRzVKSnpoaEstQTNFal9QRmVsOFVxa2c?oc=5"
     }
    ],
-   "kicker": "https://www.kicker.de/wer-uebertraegt-deutschland-gegen-niederlande-heute-live-im-free-tv-und-stream-1271472/artikel"
+   "kicker": null
   },
   {
    "matchID": 87464,
