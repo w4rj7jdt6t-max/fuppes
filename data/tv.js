@@ -1,6 +1,6 @@
 window.FUPPES_DATA = window.FUPPES_DATA || {};
 window.FUPPES_DATA["tv"] = {
- "updated": "2026-11-16T19:10:30.395Z",
+ "updated": "2026-11-16T20:59:55.334Z",
  "matches": [
   {
    "matchID": 83237,
@@ -21,33 +21,6 @@ window.FUPPES_DATA["tv"] = {
    "kicker": null
   },
   {
-   "matchID": 85296,
-   "kick": "2026-11-13T19:45:00Z",
-   "team1": "Serbien",
-   "team2": "Deutschland",
-   "channels": [
-    "RTL"
-   ],
-   "evidence": [
-    {
-     "title": "Gegen Serbien muss für Deutschland ein Sieg her! Alle Infos zum Nations-League-Spiel bei RTL und RTL+",
-     "source": "RTL.de",
-     "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQSjVueG9rSkd3ZmpwdmduY19lQXdFNVNaak5xTDVTUkE1NnByMUlLUUR3UFRHMGZlX0FVaW12djJ6Y0VZeDAzVUZGV2c5UEtNaFNmS0V2U1dhOGl1TTBnMWR0cEpPUHBIVzd1elhNQ2t2RGFBTTlXWFRabzZoMUFDQkFwMzIyRnFlYUtDNHhnQmcydHRUX1hlcS1vUzJUNURXeVd6THRqY2pkQW1jNHFCdV81UnQzc1NhbDdzWmVDZExKVmdxWHFIbm5McGNqdUhWTVBzRTVjWTBwMnU5?oc=5"
-    },
-    {
-     "title": "Serbien gegen Deutschland heute gratis im Live-Stream: So seht ihr die Nations-League-Partie ohne RTL+",
-     "source": "Netzwelt",
-     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPUERuRHNremFSRGkzX1V2Y0ZJMktPQk43TFBTWlc5bGJCN3pfLWZpMkRZdHRBTXFtTlY5T2Rtcnk0Z0xnZ3VnN1NQbVRIUXpvV2JEdXA2VUpQOE5SSk14bE9fY29wYWFEYXRHSUhsTkVsT0RhRFY3ZmFleW54cW5mMW5qenJvaFI1alJEWVNWeFVxNWczanVHa0dIcy1uVlIwSGgxemlrRVh2bkMxcjJ2U1NlNTByOWZlTG9VZkxGSXF0VXhsUXNEazU5RWZuQUVW?oc=5"
-    },
-    {
-     "title": "Serbien - Deutschland Live Stream | Jetzt Anmelden | DAZN DE",
-     "source": "DAZN",
-     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOX3U1bXVOR09MZFZVUmVLVVRZdWJKR2ljREUyUC1JVm9rU0ZadVROVnhxTVNWMEUtYVVxakRRenpNa3Z5anRqcE5MbmVaTUoyUFlMdVRCemQybExrQnMzZjJrSlM1YUJjRWxaTi13S0ZtTUUtaDBQYTBhSzA4cXdSLTN0Z1FzN0pSU1UtcA?oc=5"
-    }
-   ],
-   "kicker": null
-  },
-  {
    "matchID": 85297,
    "kick": "2026-11-16T19:45:00Z",
    "team1": "Deutschland",
@@ -57,14 +30,19 @@ window.FUPPES_DATA["tv"] = {
    ],
    "evidence": [
     {
-     "title": "!+[STream]HIER IST*! Deutschland gegen Niederlande jetzt Fußball heute WM ZDF live im TV",
-     "source": "Universitat de Barcelona",
-     "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOVVlNY09hcXRBb243TTFkdFlOUHN2NU14WmxmMFhFaXZ4YU00c1F5TjVSdXlEbFY2UEhEN29QXzZLM0RqMUIzSVhPTVBURnlncXM4SE1VLVY5alhvbjBBTDZZS3doaEttX0x0VDdTa29Lb2VDWFpjUFhzY0R6SG41WGxxd1dLdW0zOWVDLXJqUW5XU1B1ZS1LeV9aaDZZUFpGQUgwZnFkVk5JV3UzTGhIMjhmTklVYkVqbGFVTXJiUWRTQUpDU3NjeXVQVkZMVUJWU3hRLV9qRWMxZWZ5LXpGMWYzRGRiQ1Yzam9kbzJ0QW96bnNUMUZqdUNCbFJxQ000SGtQWW5SeVYyeVd0cGF6c1VXNG95MjVRVXc?oc=5"
+     "title": "Deutschland Niederlande kostenlos live streamen: Nations League heute in der ARD live",
+     "source": "dslweb",
+     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQMXo1dEhhdENKZEdWR0N1aWhxVFVPXzh3dlFMSmFKbC1XbnJRR3RVV3lMUS1CZ2NwanY2ZEYzcVBMdTNMcmhCS2VMLTRpckVrckdrd0pmekZkbGJja0dKNDNLb0FtSTFNbGZGdlZ1Z0ZLLUtOWERsX0s3WHFpcFNmNXJuU2tIcXFONDgwRFdDU3lBNF9PTndoNkN4Ykl6UGxrV2FqRC1qVENLOHp0c3FMZm4zUUxhYXllTUE?oc=5"
     },
     {
-     "title": "♦️~🎃~\"♻️@@@@ Niederlande – Deutschland jetzt Fußball heute WM ZDF live im TV",
+     "title": "♦️~🎃~\"♻️@@@@ Niederlande – Deutschland jetzt Fußball heute WM ZDF live im TV - UB",
      "source": "Universitat de Barcelona",
      "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOUGlCUlMwRDE2UDFlQ1Jnc0M5ZmRPWDNEYjg2c015eWc2ZXpJd29Ia1U0bHFsRnB0VXFxUDBCWm5NeGVTeVJsc3dqYnVuMFoxRjc1R3ctVDZodGprTnBNQndGUHlYY1gyRGlaWDAzOUNjYlFHNS1FaTlLRThtcklzNDFXVWxZZU9KUWVZblVxTnkwTjgxaVY4V1l5SnpLbWd1Rzg5R0JXZXJtTHRnZ1NrWEh1QnlvbnZVMmpfeHktaXJJS25BbHE2WHRZaW1HYWpXSGpid25LTGp5dHFfNWlPcXBDdUU2by1xWjUwOF80NFNpS01Sbl8wZXZza3laX1NSSWhUNXdYU3o1V0ZlQ0NaR0E4MGs2M1pxbFE?oc=5"
+    },
+    {
+     "title": "!$√[TV/Übertragung!]@! Deutschland – Niederlande jetzt Fußball heute WM ZDF live im TV",
+     "source": "Universitat de Barcelona",
+     "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNWlF4OGViNldPWWE3OUhzUFZHS05WMWNGRU4xYWdKb0Etc0g4blMtc2phcnJLYmJUczZRX1VmTUZwcVJRcE1uNDZ0NnRIdTFzZUw1d3pOTGV1MWR6eks1NEZJeFlvQ0U0dV9aWWxPckRvSFhzdlZheEtjbzhrVFp5ckZaYV8wTE83blp5TXhsS0NZWGdmUGxGcmhLdmJOTmJtYm02S2VBN3oydWhuQ3B2SHpiYWc1SmlidU8yZkZfLVlPNzg0YTRYc2pGTGVOMzcxend6V1dGRkl1UmpMQ2otTXJQbENWSzBCMHkwTW55UndzbkhpU3ViV3V4UXNVMW5MZDZlRzVKSnpoaEstQTNFal9QRmVsOFVxa2c?oc=5"
     }
    ],
    "kicker": "https://www.kicker.de/wer-uebertraegt-deutschland-gegen-niederlande-heute-live-im-free-tv-und-stream-1271472/artikel"

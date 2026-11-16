@@ -1,6 +1,6 @@
 window.FUPPES_DATA = window.FUPPES_DATA || {};
 window.FUPPES_DATA["transfers"] = {
- "updated": "2026-11-16T19:10:29.193Z",
+ "updated": "2026-11-16T20:59:53.890Z",
  "rules": {
   "minFeeMio": 20,
   "topClubs": [
@@ -43,6 +43,76 @@ window.FUPPES_DATA["transfers"] = {
   ]
  },
  "items": [
+  {
+   "title": "Tresoldi & Gruda im Bayern-Blickfeld – Holt United Thiaw? | Transfer Update XXL",
+   "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1NMldJNU9zNHZkVGxEVW9ZS21yM0x1OHFrdkRlVFIxTElVbVV6N2YydDJ4YnBGdmlDeGJQcUppNDBzNFZkUVE?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiRkFVX3lxTE1NMldJNU9zNHZkVGxEVW9ZS21yM0x1OHFrdkRlVFIxTElVbVV6N2YydDJ4YnBGdmlDeGJQcUppNDBzNFZkUVE?oc=5\" target=\"_blank\">Tresoldi & Gruda im Bayern-Blickfeld – Holt United Thiaw? | Transfer Update XXL</a>&nbsp;&nbsp;<font color=\"#6f6",
+   "source": "Sky.de",
+   "date": "2026-11-16T20:08:00.000Z",
+   "fee": null,
+   "clubs": [
+    "Bayern"
+   ],
+   "tags": [
+    "Gerücht"
+   ]
+  },
+  {
+   "title": "Wechselt Gruda zum FC Bayern? RB Leipzig trifft wichtige Entscheidung",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOeDAwOUdZcThYUmVOdFhXdTlSSWZULWJrZ19BaEQxZU9Dc05RTFM2Zl9obGNSNlhOREdyV1FtOEc1WGszbEtVbkhXNmhRRGNlVk5lNks1QmxHbC1pb2xrNDlPYUN1MHVjUzNScmNaaE1pMm1aQ1djS3lVNnpuSHBaU0hvbEZiMGhvR2lTV0trSWI2ZHpS?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOeDAwOUdZcThYUmVOdFhXdTlSSWZULWJrZ19BaEQxZU9Dc05RTFM2Zl9obGNSNlhOREdyV1FtOEc1WGszbEtVbkhXNmhRRGNlVk5lNks1QmxHbC1pb2xrNDlPYUN1MHVjUzNScmNaaE1pMm1aQ1djS3lVNnpuSHBaU0hvbEZiMGhvR2lTV0trSWI2ZHpS?oc=5\" target=\"_blank\">Wechsel",
+   "source": "fussballdaten.de",
+   "date": "2026-11-16T20:05:00.000Z",
+   "fee": null,
+   "clubs": [
+    "Bayern",
+    "RB Leipzig",
+    "Leipzig"
+   ],
+   "tags": [
+    "Gerücht"
+   ]
+  },
+  {
+   "title": "Bayer Leverkusen: Neuer Transfer-Plan bei Maza",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNDlMWTJJS2JOSzgwRDFxNEttOFRpbEp0YVpBejlXd09YV2VVMExJWmJzb0czRTU4ZVN2ZWZ2ZHNqVDdTQjMxX2dfT0dBdU9pN0JyRHVfUFFuS21fYnhDWXdCUnFxU29NRFk5c3JPV0FwWVpiVm5BdGlRNmF1QTBEYllFWTBEMGhBOU1r?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNDlMWTJJS2JOSzgwRDFxNEttOFRpbEp0YVpBejlXd09YV2VVMExJWmJzb0czRTU4ZVN2ZWZ2ZHNqVDdTQjMxX2dfT0dBdU9pN0JyRHVfUFFuS21fYnhDWXdCUnFxU29NRFk5c3JPV0FwWVpiVm5BdGlRNmF1QTBEYllFWTBEMGhBOU1r?oc=5\" target=\"_blank\">Bayer Leverkusen: N",
+   "source": "Fussball Transfers",
+   "date": "2026-11-16T19:35:00.000Z",
+   "fee": null,
+   "clubs": [
+    "Leverkusen"
+   ],
+   "tags": [
+    "Transfer"
+   ]
+  },
+  {
+   "title": "5 Namen, 5 Wahrheiten - Die aktuellen FC Bayern-Transfergerüchte im Realitäts-Check",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUlVuaUpSSGNzUVNkT3p3UDlBMEVfTHVvVmNUYzVYYm5ZN1JZYXR4N184MHRES0ZKdVY5enZCRE5JYVZHQmNxMkNobVVfekJzVENUU0VGZjB6ZU1acG51TFdIa0R6WFZqd1N3ZmlCak56aTU0R3hZRlBlMUo5ZjNBZDVhdV90dEVhUmhZMUk2RWxwam1QSWtnVzJsdHdZUENaU2ZN?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPUlVuaUpSSGNzUVNkT3p3UDlBMEVfTHVvVmNUYzVYYm5ZN1JZYXR4N184MHRES0ZKdVY5enZCRE5JYVZHQmNxMkNobVVfekJzVENUU0VGZjB6ZU1acG51TFdIa0R6WFZqd1N3ZmlCak56aTU0R3hZRlBlMUo5ZjNBZDVhdV90dEVhUmhZMUk2RWxwam1QSWtnVzJsdHdZUENaU2ZN?oc=5\" tar",
+   "source": "90min.de",
+   "date": "2026-11-16T19:30:16.000Z",
+   "fee": null,
+   "clubs": [
+    "Bayern"
+   ],
+   "tags": [
+    "Gerücht"
+   ]
+  },
+  {
+   "title": "Mindestens 80 Millionen Euro Ablöse im Gespräch: Transferhammer um Malick Thiaw?",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNbDEyNFgzaURQN1hCa3VjYVYzQ1VBbE44OWtqenJIOW1SQ0JGbnJSV210SG1MRTJDU0J6Rkl6eFp2c01kTm1VcDZqUzdaMTZjY1RsWVJoZHY0UnkxbG9MQjRPMktUS05pU2FWaU44VElsNlNoQ29jQ3hoSjZXaVFzY1cxZ3JWd2ZRc1g4N0ZKVzluNjQ0NkZlLWJtM3YtOE9rU00zMWl6VWdVSWxOdFJfYV9nR1RUV2xEYnkxMzNkczZKcjJyS2x2Q25KSmN1RVE?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxNbDEyNFgzaURQN1hCa3VjYVYzQ1VBbE44OWtqenJIOW1SQ0JGbnJSV210SG1MRTJDU0J6Rkl6eFp2c01kTm1VcDZqUzdaMTZjY1RsWVJoZHY0UnkxbG9MQjRPMktUS05pU2FWaU44VElsNlNoQ29jQ3hoSjZXaVFzY1cxZ3JWd2ZRc1g4N0ZKVzluNjQ0NkZlLWJtM3YtOE9rU00zMWl6VWdVSW",
+   "source": "Goal.com",
+   "date": "2026-11-16T19:23:06.000Z",
+   "fee": 80,
+   "clubs": [],
+   "tags": [
+    "Gerücht"
+   ]
+  },
   {
    "title": "BVB wegen Schlotterbeck-Gehalt in der Klemme – Anton fand erstes Angebot zu niedrig",
    "link": "https://www.transfermarkt.de/-bild-quot-bvb-wegen-schlotterbeck-gehalt-in-der-klemme-anton-fand-erstes-angebot-zu-niedrig/view/news/490701",
@@ -172,20 +242,6 @@ window.FUPPES_DATA["transfers"] = {
    ]
   },
   {
-   "title": "FC Bayern: Neues Preisschild und neuer Interessent für Kim",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNzhQUGlQUVoteWJIbWJtM1gtNEE5VDdSeFhTNUZpNldFNkR3VWlKbWdWRlR5bmU4elFQcWlaNTVtVE5ONmIwY0FORmpkaENQMUZKLS1RTXNaSktPa1RuX0M1ZEIwOC1jSURJcGhTLS0wWHlYb0xyNlVTcVVHam5JVFYtVDVkMnFBMHBMSm52aGZFRE5HT0xmcjFqbXJHZHIwbm9uUV9KWENIVkRScFN5N01VZw?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNNzhQUGlQUVoteWJIbWJtM1gtNEE5VDdSeFhTNUZpNldFNkR3VWlKbWdWRlR5bmU4elFQcWlaNTVtVE5ONmIwY0FORmpkaENQMUZKLS1RTXNaSktPa1RuX0M1ZEIwOC1jSURJcGhTLS0wWHlYb0xyNlVTcVVHam5JVFYtVDVkMnFBMHBMSm52aGZFRE5HT0xmcjFqbXJHZHIwbm9uUV9KWENIVk",
-   "source": "Fussball Transfers",
-   "date": "2026-11-16T15:26:12.000Z",
-   "fee": null,
-   "clubs": [
-    "Bayern"
-   ],
-   "tags": [
-    "Gerücht"
-   ]
-  },
-  {
    "title": "Chatzialexiou wechselt früher vom 1. FC Nürnberg zu Eintracht Frankfurt",
    "link": "https://www.transfermarkt.de/-ubergang-nun-geregelt-quot-chatzialexiou-wechselt-fruher-von-nurnberg-nach-frankfurt/view/news/490686",
    "summary": "Joti Chatzialexiou verl&auml;sst den 1. FC N&uuml;rnberg fr&uuml;her als bislang angek&uuml;ndigt. Statt am 31. Januar endet der Vertrag des 50-J&auml;hrigen nun am 30. November beim Zweitligisten....",
@@ -231,6 +287,20 @@ window.FUPPES_DATA["transfers"] = {
    ]
   },
   {
+   "title": "Achter Klub in neun Jahren? Ex-BVB-Star Emre Mor vor nächstem Wechsel",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdWY3aGJHeXdyd0E4dDJETjYxaG11R2JFdDBxc0lqUkdmWnJoOXo3S3Btc2tyLTBKODlmbGQ1WjBScE9LSVF2M0lHTTVKNHZVRnpoQUlRaWpxTUs3SXJmN3NPNFhjOXlhMldXUnotSGNKa0RIbkpfejhhOGZzT0M1OU1KSHZMWXR0dDhvOGxMdWNVb1cxdkFLcHNBMnV3UQ?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNdWY3aGJHeXdyd0E4dDJETjYxaG11R2JFdDBxc0lqUkdmWnJoOXo3S3Btc2tyLTBKODlmbGQ1WjBScE9LSVF2M0lHTTVKNHZVRnpoQUlRaWpxTUs3SXJmN3NPNFhjOXlhMldXUnotSGNKa0RIbkpfejhhOGZzT0M1OU1KSHZMWXR0dDhvOGxMdWNVb1cxdkFLcHNBMnV3UQ?oc=5\" target=\"_",
+   "source": "fussballdaten.de",
+   "date": "2026-11-16T13:10:00.000Z",
+   "fee": null,
+   "clubs": [
+    "BVB"
+   ],
+   "tags": [
+    "Gerücht"
+   ]
+  },
+  {
    "title": "Drei Deals? FC Bayern prüft Winter-Transfers",
    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQY21yVkgtb3JoeXpSa3NuUkFyVUYySjIxLXVjMnNDYmV4Y3VMcVdQb1dNYVdDZlV4TUszLThkOHJsbE9maWEzUnVhbmNPQkktUWhUSnhGa1ZZNmNsZi1tdEFNQ2tYXzFzLVhNclNVZFRSZVJNN3lHX3VNdnpRUWR3bEVQRnJILXp2VHFvN3lpTWFZRUU?oc=5",
    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQY21yVkgtb3JoeXpSa3NuUkFyVUYySjIxLXVjMnNDYmV4Y3VMcVdQb1dNYVdDZlV4TUszLThkOHJsbE9maWEzUnVhbmNPQkktUWhUSnhGa1ZZNmNsZi1tdEFNQ2tYXzFzLVhNclNVZFRSZVJNN3lHX3VNdnpRUWR3bEVQRnJILXp2VHFvN3lpTWFZRUU?oc=5\" target=\"_blank\">Drei Dea",
@@ -273,6 +343,20 @@ window.FUPPES_DATA["transfers"] = {
    ]
   },
   {
+   "title": "Transfer-Überraschung? FC Bayern nimmt \"erste Kontakte\" auf",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNXzRQYjdQYTZfbWlrV3hqWDliM0UxNzNHZVZTdl9lNWVWclJuNWtqMjVYT3NxYi1WNy1QMUszR2F4b2loUDdpbEMzQURZYVVBNkplRzFrTkF3Umo2UXJhOWM0ajZUOUdJQzIzWnJKQm93RHVQU2hzdzlIeFBBcXVSbXR3MktsR2htQl9EbTdzcWdmczR4eUZ4TXVvbw?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNXzRQYjdQYTZfbWlrV3hqWDliM0UxNzNHZVZTdl9lNWVWclJuNWtqMjVYT3NxYi1WNy1QMUszR2F4b2loUDdpbEMzQURZYVVBNkplRzFrTkF3Umo2UXJhOWM0ajZUOUdJQzIzWnJKQm93RHVQU2hzdzlIeFBBcXVSbXR3MktsR2htQl9EbTdzcWdmczR4eUZ4TXVvbw?oc=5\" target=\"_blan",
+   "source": "sport.de",
+   "date": "2026-11-16T10:32:00.000Z",
+   "fee": null,
+   "clubs": [
+    "Bayern"
+   ],
+   "tags": [
+    "Gerücht"
+   ]
+  },
+  {
    "title": "FC Bayern vor überraschendem Blitz-Transfer?",
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUkdTVnNXTXJ1RTlIOHhGOHZJZ3Y3WmZXeUtMSWNVVnd0N2ltcWNiNzdQLU5XWUlyajdVcWVPN3ZWSW1jWTIzLTc3SUpLV21ZTFRvbnFZX1pWQXZEUkZIa2VCZVVwZXAyaU1Ka29hdWxiSi1ZQ1NaSlZqbGI1RzhaalBCVktBSHliWmQ4YVhDQzR6RHR6ODZuVUl1TkI?oc=5",
    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQUkdTVnNXTXJ1RTlIOHhGOHZJZ3Y3WmZXeUtMSWNVVnd0N2ltcWNiNzdQLU5XWUlyajdVcWVPN3ZWSW1jWTIzLTc3SUpLV21ZTFRvbnFZX1pWQXZEUkZIa2VCZVVwZXAyaU1Ka29hdWxiSi1ZQ1NaSlZqbGI1RzhaalBCVktBSHliWmQ4YVhDQzR6RHR6ODZuVUl1TkI?oc=5\" target=\"_bla",
@@ -295,92 +379,6 @@ window.FUPPES_DATA["transfers"] = {
    "fee": null,
    "clubs": [
     "BVB"
-   ],
-   "tags": [
-    "Transfer"
-   ]
-  },
-  {
-   "title": "Transfer-Ticker: BVB in Dreikampf verwickelt",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWmtKQ0FZOERhYTB0WkUwbW9IQTlCd0lfWHpIbVFnS0VfN2N4dEFQOUxvY3hYcVFhNVBFYWZVdTRrc2N6bVBuRW1JWHpPRXlSM3hsbHhRT1RZZ3NKcE1PcGdfcmp5T3NsRDlGSW5zeUFYUU5CemkyelVORjZPWFE4UXFkZ21vN0lv?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWmtKQ0FZOERhYTB0WkUwbW9IQTlCd0lfWHpIbVFnS0VfN2N4dEFQOUxvY3hYcVFhNVBFYWZVdTRrc2N6bVBuRW1JWHpPRXlSM3hsbHhRT1RZZ3NKcE1PcGdfcmp5T3NsRDlGSW5zeUFYUU5CemkyelVORjZPWFE4UXFkZ21vN0lv?oc=5\" target=\"_blank\">Transfer-Ticker: BVB in",
-   "source": "sport.de",
-   "date": "2026-11-16T09:25:00.000Z",
-   "fee": null,
-   "clubs": [
-    "BVB"
-   ],
-   "tags": [
-    "Transfer"
-   ]
-  },
-  {
-   "title": "Fußball-Transfergerüchte heute: Arsenal-Kapitän lockt Leipzig-Star – Gunners bei Vini Jr. überzeugt",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1JV05XMXdqcFhhZFBjN2xGX2RzT2ZYTU14eF9Qc2wzTFdJcV80WDFtd01mNzJiUU55VDNBeFVtcmEyNGNKb2k1R3Q1bzRmelpEMUp1WlRTTHlpNUdFZEw0dEVnUWR0TktCbXhQNlRSSU8?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE1JV05XMXdqcFhhZFBjN2xGX2RzT2ZYTU14eF9Qc2wzTFdJcV80WDFtd01mNzJiUU55VDNBeFVtcmEyNGNKb2k1R3Q1bzRmelpEMUp1WlRTTHlpNUdFZEw0dEVnUWR0TktCbXhQNlRSSU8?oc=5\" target=\"_blank\">Fußball-Transfergerüchte heute: Arsenal-Kapitän lockt Le",
-   "source": "90min.de",
-   "date": "2026-11-16T08:32:33.000Z",
-   "fee": null,
-   "clubs": [
-    "Leipzig",
-    "Arsenal"
-   ],
-   "tags": [
-    "Gerücht"
-   ]
-  },
-  {
-   "title": "Drei Winter-Transfers beim FC Bayern?",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1uRm9Fdlg2dFQ1QlBOQ0kzcmEzbG56QkFtUXpKdjhuZEwybHNrRDJxWElUMjAwbVhnNEJhUjlEX0lrYTd2MUNHOHlTeHVxcTM5YUM0NjNSSGJBbW5kTVVkV3hFd2VLSjAtY0xENHhZVG9Eb05hQVZMMmlCd3QzMkU?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1uRm9Fdlg2dFQ1QlBOQ0kzcmEzbG56QkFtUXpKdjhuZEwybHNrRDJxWElUMjAwbVhnNEJhUjlEX0lrYTd2MUNHOHlTeHVxcTM5YUM0NjNSSGJBbW5kTVVkV3hFd2VLSjAtY0xENHhZVG9Eb05hQVZMMmlCd3QzMkU?oc=5\" target=\"_blank\">Drei Winter-Transfers beim FC Bayern",
-   "source": "sport.de",
-   "date": "2026-11-16T06:53:00.000Z",
-   "fee": null,
-   "clubs": [
-    "Bayern"
-   ],
-   "tags": [
-    "Gerücht"
-   ]
-  },
-  {
-   "title": "FC Bayern offenbar weiter an Transfer von Florian Wirtz interessiert",
-   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOM0haX1hFYnM1eGRlTUE4OVYzeUpmT1ZOSUNtR0JnaWRHRXBoRjZtR1pyMXhVbC1wOWxoSXZON2hnRFlJY0VIT1FhT2VQdGNTYXNNbnFqaVZCUThtQ3RmSWM3OWZaV0JCNnJxTURXckw0TFN3cXA4a2duUU9DMDlKUTQ2OFUyNGxEOUs4dG1JZU1raDZ5SE1DN3dqeVFTaUlraGJWZUZyckZNcGR1bnBCVmo3SnRsMlk4VjlidThFRmNGSHQ1a3VLWnh5VW9mZ0pPVmtiVWFMNFZVS213aktEMVBTbw?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxOM0haX1hFYnM1eGRlTUE4OVYzeUpmT1ZOSUNtR0JnaWRHRXBoRjZtR1pyMXhVbC1wOWxoSXZON2hnRFlJY0VIT1FhT2VQdGNTYXNNbnFqaVZCUThtQ3RmSWM3OWZaV0JCNnJxTURXckw0TFN3cXA4a2duUU9DMDlKUTQ2OFUyNGxEOUs4dG1JZU1raDZ5SE1DN3dqeVFTaUlraGJWZUZyckZNcG",
-   "source": "SPOX.com",
-   "date": "2026-11-16T06:33:52.000Z",
-   "fee": null,
-   "clubs": [
-    "Bayern"
-   ],
-   "tags": [
-    "Gerücht"
-   ]
-  },
-  {
-   "title": "Eintracht Frankfurt: Sommer-Transfer von KSC-Senkrechtstarter?",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPai1Rd1BvcFZvSjdmSDJ0bEFMWFpQTjZ6M25YSVhmMXVBTnZVSDhnLVY0Yk9qYUgtQXp0N0x2djFScUp5b3Fzd19FOTVtOTgyZUw3MndoWGlRLWNyUklVTjNlVjJ5QzlYOWZFZHEzcjcxZ29peWU3NVNBUDhvc2tZQTNEODR1YXpyVE85dktLT3BZN1JNMWc?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPai1Rd1BvcFZvSjdmSDJ0bEFMWFpQTjZ6M25YSVhmMXVBTnZVSDhnLVY0Yk9qYUgtQXp0N0x2djFScUp5b3Fzd19FOTVtOTgyZUw3MndoWGlRLWNyUklVTjNlVjJ5QzlYOWZFZHEzcjcxZ29peWU3NVNBUDhvc2tZQTNEODR1YXpyVE85dktLT3BZN1JNMWc?oc=5\" target=\"_blank\">Eint",
-   "source": "fussballdaten.de",
-   "date": "2026-11-15T18:53:00.000Z",
-   "fee": null,
-   "clubs": [
-    "Eintracht Frankfurt",
-    "Frankfurt"
-   ],
-   "tags": [
-    "Gerücht"
-   ]
-  },
-  {
-   "title": "100-Millionen-Angebote für Barcelona-Spieler - Schlüsselspieler unter Hansi Flick",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNa0xubDFHcVFoOFZSZ05fM1J5elNjQndyYXZfblVBeUFhVFl2SUUzTE5GR1ZwaXdVUnJ5OUpMZzJzUFFEV3hxUkFIYTZhWHBLWUhtaC1NWUhteFlfeWhjTlZ2cVNOUnFvT251ajhXc0l3a3I2a09WdG84bTJScUVrWDdlSVh6VzM5NjAzOEE2R2xmUHI3aTc2Q1lxT2tWa2NN?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNa0xubDFHcVFoOFZSZ05fM1J5elNjQndyYXZfblVBeUFhVFl2SUUzTE5GR1ZwaXdVUnJ5OUpMZzJzUFFEV3hxUkFIYTZhWHBLWUhtaC1NWUhteFlfeWhjTlZ2cVNOUnFvT251ajhXc0l3a3I2a09WdG84bTJScUVrWDdlSVh6VzM5NjAzOEE2R2xmUHI3aTc2Q1lxT2tWa2NN?oc=5\" target=",
-   "source": "fussballdaten.de",
-   "date": "2026-11-15T15:52:00.000Z",
-   "fee": null,
-   "clubs": [
-    "Barcelona"
    ],
    "tags": [
     "Transfer"
