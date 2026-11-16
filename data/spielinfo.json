@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T08:58:44.285Z",
+ "updated": "2026-11-16T11:34:10.887Z",
  "fc": [
   {
    "start": "2025-11-22T17:30:00.000Z",
@@ -1855,6 +1855,15 @@
  "press": [
   {
    "who": "fc",
+   "id": "i7K0Z1myins",
+   "title": "Pressekonferenz vor FC Bayern München | 1. FC Köln",
+   "date": "2026-11-16T11:20:39+00:00",
+   "url": "https://www.youtube.com/watch?v=i7K0Z1myins",
+   "summary": "Der 1. FC Köln trifft am 10. Spieltag der Bundesliga-Saison 2026/27 auf den FC Bayern München. Das Spiel findet am Freitag, 20. November 2026, um 20.30 Uhr im Allianz Arena statt. Im Vorfeld der Partie beantwortet Cheftrainer René Wagner in der Pressekonferenz am Mittwoch, 18. November 2026, um 13.30 Uhr die Fragen der",
+   "quotes": []
+  },
+  {
+   "who": "fc",
    "id": "GlEa1quXd04",
    "title": "„Das muss uns Mut geben\" - Pressekonferenz nach Leverkusen | 1. FC Köln - Bayer 04 1:2",
    "date": "2026-11-08T22:14:48+00:00",
@@ -1891,15 +1900,6 @@
    "date": "2026-11-15T18:03:43+00:00",
    "url": "https://www.youtube.com/watch?v=G1Ors50hq_I",
    "summary": "Viel Spaß mit der DFB Pressekonferenz mit Jürgen Klopp und Kai Havertz vor der anstehenden Partie in der UEFA Nations League.",
-   "quotes": []
-  },
-  {
-   "who": "dfb",
-   "id": "2yrZgmHaSsw",
-   "title": "RE-LIVE | Pressekonferenz der Nationalmannschaft mit Jürgen Klopp & Florian Wirtz",
-   "date": "2026-11-12T18:34:08+00:00",
-   "url": "https://www.youtube.com/watch?v=2yrZgmHaSsw",
-   "summary": "Viel Spaß mit der DFB Pressekonferenz mit Jürgen Klopp & Florian Wirtz vor den anstehenden Partien in der UEFA Nations League.",
    "quotes": []
   }
  ],

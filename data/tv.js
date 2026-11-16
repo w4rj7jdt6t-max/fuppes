@@ -1,6 +1,6 @@
 window.FUPPES_DATA = window.FUPPES_DATA || {};
 window.FUPPES_DATA["tv"] = {
- "updated": "2026-11-16T08:58:44.813Z",
+ "updated": "2026-11-16T11:34:11.831Z",
  "matches": [
   {
    "matchID": 83237,
@@ -48,6 +48,11 @@ window.FUPPES_DATA["tv"] = {
    ],
    "evidence": [
     {
+     "title": "Deutschland gegen Niederlande - ARD überträgt Nations-League-Spiel live im TV und Stream",
+     "source": "Yahoo Nachrichten",
+     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNXFPN05oZFgzVTAwV1JMSTdnOHNEellpUnFaeGc5eWY1NFFPR1VZYWdFYmJWa016dmxDVWpPZnNCMWN0RDF2MkZUSnhYdld0S1J1UU1QMWZfQ2twa29vZXk2UXBKZzJFTWg2RFBDdXlYTGRQYXNtaG1LNmNjZlJkSXVCLXRkS0JRSmE5VmhMZE1nbEs1a25kcVhzUVpiTlVOR0M0?oc=5"
+    },
+    {
      "title": "Länderspiel morgen: Wer überträgt Deutschland gegen Niederlande? Live in der ARD",
      "source": "News zur deutschen Nationalmannschaft",
      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQQnQ4LU9GT0NLcjEyUE9KT1pGNmFuZjBBS0YwNlQxaHdMaFhrWXZiUG95M3FJSTNWNlJHbmIzY05TZ3hKbXZOOFEtdng0T1V0eWNqaEU4d1dBMjZjVW9XRm1IYUFkT2RHaGdGcW9uUFI3ZjFPY0VtZ0JlRXJTV3g0c1JvZG9aV3JYNnpVa1pjcndhQ2s?oc=5"
@@ -58,7 +63,7 @@ window.FUPPES_DATA["tv"] = {
      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYXFrOGVTNXBqRnE4TDZKbFdObHBlWWpTZVBVUWp3LWxyR0F5NVowUmdzQkVGaHN6Wm9GeGJ4MGFrRzhVZW5GbzRjZDlCSmFrbU9JSFJ5eE95V2VYN3N0VEJvTHhxbzBkLWRyWUJtV0FyTzhzQUxlU0xiQ2dKZmJpN2xNeXhDQzZQa0lQZWtwLVJMemVMc2dvdmNYSU1EZU9BSUVIcDlBWXV2QQ?oc=5"
     }
    ],
-   "kicker": "https://www.kicker.de/wer-uebertraegt-deutschland-gegen-niederlande-live-im-free-tv-und-stream-1271310/artikel"
+   "kicker": null
   },
   {
    "matchID": 87464,

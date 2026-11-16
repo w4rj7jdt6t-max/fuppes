@@ -1,7 +1,38 @@
 window.FUPPES_DATA = window.FUPPES_DATA || {};
 window.FUPPES_DATA["news-fc"] = {
- "updated": "2026-11-16T08:58:42.229Z",
+ "updated": "2026-11-16T11:34:09.012Z",
  "items": [
+  {
+   "title": "Ex-Klub von Köln-Trainer Wagner: Rummel holt College-Titel auf Hawaii",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZ05wVzVWVHRxQ0tDZHZBNVU4ajNBLTBnNnl6alExSWtOUVJGNi1pZ2pYMnhfdTduN2JuUHdiRkw3eHZxeEY5dy05allIclU5WnJIeVNBdWtfRU16SlNFN3V6eEVTeWx5cnZUQ21md0pSbDNiQVRUd1FNeGhJRjZJeWxGLVRCd2M1SVlycUFRQWVibmpGRURMQU5pODRoOXdxMVFYSmhn?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOZ05wVzVWVHRxQ0tDZHZBNVU4ajNBLTBnNnl6alExSWtOUVJGNi1pZ2pYMnhfdTduN2JuUHdiRkw3eHZxeEY5dy05allIclU5WnJIeVNBdWtfRU16SlNFN3V6eEVTeWx5cnZUQ21md0pSbDNiQVRUd1FNeGhJRjZJeWxGLVRCd2M1SVlycUFRQWVibmpGRURMQU5pODRoOXdxMVFYSmhn?oc=5\"",
+   "source": "FuPa ⚽️",
+   "date": "2026-11-16T09:38:00.000Z",
+   "tags": [
+    "Fix",
+    "Verein"
+   ]
+  },
+  {
+   "title": "Musiala vor Kader-Comeback gegen Köln",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNY2dnZFhSOTdYUjFocGh1NjZjbFB0NUUwajdmM2t6YjBkYmRtZ2xWM2hXU2VUbnJod0RIYlhXS3RENHd2UXBFeUZQMXdGcmZxLWRWU3AwTXh5X0RPNkxzbHloZWthcDhDZDlYNHc4VE9IMDNlZTFOdjF6bGtKME9mUDUtakhvSWI1R1lla1M0Vzh2UUY2OVJ4cQ?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNY2dnZFhSOTdYUjFocGh1NjZjbFB0NUUwajdmM2t6YjBkYmRtZ2xWM2hXU2VUbnJod0RIYlhXS3RENHd2UXBFeUZQMXdGcmZxLWRWU3AwTXh5X0RPNkxzbHloZWthcDhDZDlYNHc4VE9IMDNlZTFOdjF6bGtKME9mUDUtakhvSWI1R1lla1M0Vzh2UUY2OVJ4cQ?oc=5\" target=\"_blank\">M",
+   "source": "LigaInsider",
+   "date": "2026-11-16T09:16:36.000Z",
+   "tags": [
+    "Personal"
+   ]
+  },
+  {
+   "title": "FC-Boom verpflichtet: Macht WM-Bewerbung den Stadionausbau möglich?",
+   "link": "https://geissblog.koeln/2026/11/fc-boom-verpflichtet-macht-wm-bewerbung-den-stadionausbau-moeglich/",
+   "summary": "Der Verein wächst und wächst, das RheinEnergieStadion allerdings nicht. Präsident Jörn Stobbe sucht mit einer Kommission nach einer Lösung für den 1. FC Köln und... Der Beitrag FC-Boom verpflichtet: Macht WM-Bewerbung den Stadionausbau möglich? erschien zuerst auf GEISSBLOG .",
+   "source": "GEISSBLOG",
+   "date": "2026-11-16T09:00:00.000Z",
+   "tags": [
+    "Gerücht"
+   ]
+  },
   {
    "title": "Union Berlin: Transfer-Duell mit Köln um Ianis Stoica",
    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZXNuZHhlR2RuRE95dmNwVmttdTVaNVNyOVc2XzlPdm5QcGZFcEpWbTlad2RYcEM4aTJHX1ZmeHFMQUdHeUVUcXkyQWVkcm1aZldJeFphSGNuRmhZNEdFN081UnBUWFpVdjFWM0VBTkE3TUdoaUFtSERCMTNjT0VPOHNHZWoxTm5ZOTg3YlVRS1dGa3d5bkxMNUNDTHpnUFFVSlhRLUNoMWdiYmxERDdHMlBVd0NSa2owck5md3d3?oc=5",
@@ -34,31 +65,11 @@ window.FUPPES_DATA["news-fc"] = {
    ]
   },
   {
-   "title": "Trotz Tabellenplatz 15: Thomas Kessler stärkt Köln-Trainer René Wagner den Rücken",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOb1NkUS13cEpMTDRpbklkNkNKNWl1cVYtd05NLVFSTVpwWmZQTmU5V0EyZkhBdVRiQjJKemVONHJPOGlwaDdCU19PNEJOYjNhT1JqbGpMMElXRHR5NEt4U2ppQnpHZF9nSW14WXJHWUFIbWFRdVlCYy1adG1nMmVYOWFSNmNlbFdsTFUwZkdmVkVjaHh5aC1yQzd5VG5DenlvNDV5Ym5GMjFlRzYxdjVNemdXUkxscElrR2Nv0gHAAUFVX3lxTFBIOXRwQ05ZQmViUC1YTlBVd0RhY0JiUEdUOWQ1MnpldGM2RXg0Mm43V2VOZjNmVkNKWTNSQTFqWWl6TkZobTFkSTFCU0ZWR1NlUURldE1ackl6cFNVQVl4QXVDN09pWC1wWWl6a3FwYjNJQlFVaHR1am1hMjA5MC1qaEU4X0ZHdTl5cGl5SmxzcUJlTTExVTZZci1RdU04Z2NRUlA2YlY2Mk9DeFZWY3MtdGI4eEhQYUNUZ3FfVVZaUg?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOb1NkUS13cEpMTDRpbklkNkNKNWl1cVYtd05NLVFSTVpwWmZQTmU5V0EyZkhBdVRiQjJKemVONHJPOGlwaDdCU19PNEJOYjNhT1JqbGpMMElXRHR5NEt4U2ppQnpHZF9nSW14WXJHWUFIbWFRdVlCYy1adG1nMmVYOWFSNmNlbFdsTFUwZkdmVkVjaHh5aC1yQzd5VG5DenlvNDV5Ym5GMjFlRz",
-   "source": "Tribuna.com",
-   "date": "2026-11-15T09:35:00.000Z",
-   "tags": [
-    "Verein"
-   ]
-  },
-  {
    "title": "Kesslers Sicht auf die Trainerfrage: „Keiner kann eine Jobgarantie geben“",
    "link": "https://geissblog.koeln/2026/11/kesslers-sicht-in-der-trainerfrage-keiner-kann-eine-jobgarantie-geben/",
    "summary": "René Wagner steht im Jahresendspurt unter Druck. Nach dem Absturz auf Platz 15 braucht der Trainer des 1. FC Köln positive Resultate. Im GEISSTALK erklärt... Der Beitrag Kesslers Sicht auf die Trainerfrage: „Keiner kann eine Jobgarantie geben“ erschien zuerst auf GEISSBLOG .",
    "source": "GEISSBLOG",
    "date": "2026-11-14T23:01:00.000Z",
-   "tags": [
-    "Verein"
-   ]
-  },
-  {
-   "title": "GEISSTALK: Jetzt spricht Kessler über Wagner, El Mala und Wintertransfers",
-   "link": "https://geissblog.koeln/2026/11/geisstalk-jetzt-spricht-thomas-kessler-ueber-wagner-el-mala-und-wintertransfers/",
-   "summary": "Wie geht es weiter mit dem 1. FC Köln? Sport-Geschäftsführer Thomas Kessler spricht exklusiv beim GEISSTALK im Café Schamong in Köln-Ehrenfeld über die sportliche Situation,... Der Beitrag GEISSTALK: Jetzt spricht Kessler über Wagner, El Mala und Wintertransfers erschien zuerst a",
-   "source": "GEISSBLOG",
-   "date": "2026-11-14T17:00:00.000Z",
    "tags": [
     "Verein"
    ]
@@ -81,6 +92,16 @@ window.FUPPES_DATA["news-fc"] = {
    "date": "2026-11-14T10:20:06.000Z",
    "tags": [
     "Transfer"
+   ]
+  },
+  {
+   "title": "Transfergerüchte: Blitz-Abgänge beim 1. FC Köln & Werder Bremen?",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQalA3ZnpScm1xTUVBVDdiNmNsS2xVV3hfcFgtbGt5cWNRYmxZNGJlOU9GZ082R09kMG0tTy0wZkZ3WEczWXF4LXdKMHJPLXcyX0h4czgxc2NQQ0hhdkxPdzBCWnpPUFF6Nm5FT0JrS2Rrb2VBRldBaElWNGdaVElkYlREbGg2dzVWM01GMTFqMFQ3OUFr?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQalA3ZnpScm1xTUVBVDdiNmNsS2xVV3hfcFgtbGt5cWNRYmxZNGJlOU9GZ082R09kMG0tTy0wZkZ3WEczWXF4LXdKMHJPLXcyX0h4czgxc2NQQ0hhdkxPdzBCWnpPUFF6Nm5FT0JrS2Rrb2VBRldBaElWNGdaVElkYlREbGg2dzVWM01GMTFqMFQ3OUFr?oc=5\" target=\"_blank\">Transfe",
+   "source": "ComunioMagazin",
+   "date": "2026-11-13T16:06:51.000Z",
+   "tags": [
+    "Gerücht"
    ]
   },
   {
@@ -182,26 +203,6 @@ window.FUPPES_DATA["news-fc"] = {
    "summary": "Vor dem \"kleinen Derby\" gegen Bayer Leverkusen hat Kölns Trainer René Wagner wieder mehr personelle Optionen zur Verfügung. Das könnte gerade im Sturm Härtefälle bedeuten.",
    "source": "kicker",
    "date": "2026-11-06T13:29:19.000Z",
-   "tags": [
-    "Verein"
-   ]
-  },
-  {
-   "title": "Weniger Verletzte, mehr Festnahmen und mehr Pyro in deutschen Stadien",
-   "link": "https://www.kicker.de/weniger-verletzte-mehr-festnahmen-und-mehr-pyro-in-deutschen-stadien-1269031/artikel#omrss",
-   "summary": "Die Zentrale Informationsstelle Sporteinsätze (ZIS) zur Sicherheit in deutschen Fußball-Stadien hat ihren alljährlichen Bericht veröffentlicht. Allzu signifikante Änderungen im Vergleich zum Vorjahr waren nicht zu verzeichnen.",
-   "source": "kicker",
-   "date": "2026-11-06T11:10:11.000Z",
-   "tags": [
-    "Personal"
-   ]
-  },
-  {
-   "title": "1. FC Köln: Co-Trainer Sbonias hat die Talente im Blick",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPa0VvVVhWSDQtT1NiSUpOUldDamg1dy13NVB0WmFGNDlNWkpWam9WTm1ENVF3TFNCb2xLVHJyZWdxRjV3dGR0aFNCamczeFJ2dUlsRmRNSFNoNTJyVHloQks1WWdPNnZsX05jVVlOZEQ4My1VY2Z0TzduSHBYU3JfeG9MZUdqWFJmdkczck5xWnc2dlNIbUhtX1ZxOE1OaVd4ZnJ5TVJQcEI2QQ?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPa0VvVVhWSDQtT1NiSUpOUldDamg1dy13NVB0WmFGNDlNWkpWam9WTm1ENVF3TFNCb2xLVHJyZWdxRjV3dGR0aFNCamczeFJ2dUlsRmRNSFNoNTJyVHloQks1WWdPNnZsX05jVVlOZEQ4My1VY2Z0TzduSHBYU3JfeG9MZUdqWFJmdkczck5xWnc2dlNIbUhtX1ZxOE1OaVd4ZnJ5TVJQcEI2QQ",
-   "source": "sportschau.de",
-   "date": "2026-11-05T11:56:45.000Z",
    "tags": [
     "Verein"
    ]
