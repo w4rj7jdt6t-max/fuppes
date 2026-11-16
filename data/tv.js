@@ -1,6 +1,6 @@
 window.FUPPES_DATA = window.FUPPES_DATA || {};
 window.FUPPES_DATA["tv"] = {
- "updated": "2026-11-16T03:10:52.202Z",
+ "updated": "2026-11-16T05:39:43.556Z",
  "matches": [
   {
    "matchID": 83237,
@@ -58,7 +58,7 @@ window.FUPPES_DATA["tv"] = {
      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYXFrOGVTNXBqRnE4TDZKbFdObHBlWWpTZVBVUWp3LWxyR0F5NVowUmdzQkVGaHN6Wm9GeGJ4MGFrRzhVZW5GbzRjZDlCSmFrbU9JSFJ5eE95V2VYN3N0VEJvTHhxbzBkLWRyWUJtV0FyTzhzQUxlU0xiQ2dKZmJpN2xNeXhDQzZQa0lQZWtwLVJMemVMc2dvdmNYSU1EZU9BSUVIcDlBWXV2QQ?oc=5"
     }
    ],
-   "kicker": null
+   "kicker": "https://www.kicker.de/wer-uebertraegt-deutschland-gegen-niederlande-live-im-free-tv-und-stream-1271310/artikel"
   },
   {
    "matchID": 87464,
