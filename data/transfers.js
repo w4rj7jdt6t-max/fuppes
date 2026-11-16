@@ -1,6 +1,6 @@
 window.FUPPES_DATA = window.FUPPES_DATA || {};
 window.FUPPES_DATA["transfers"] = {
- "updated": "2026-11-16T11:34:10.309Z",
+ "updated": "2026-11-16T15:20:01.748Z",
  "rules": {
   "minFeeMio": 20,
   "topClubs": [
@@ -43,6 +43,49 @@ window.FUPPES_DATA["transfers"] = {
   ]
  },
  "items": [
+  {
+   "title": "Weg nach Frankfurt frei: Chatzialexious FCN-Vertrag endet vorzeitig",
+   "link": "https://www.kicker.de/weg-nach-frankfurt-frei-chatzialexious-fcn-vertrag-endet-vorzeitig-1272132/artikel#omrss",
+   "summary": "Der Wechsel von Joti Chatzialexiou vom 1. FC Nürnberg zu Eintracht Frankfurt ist längst offiziell. Nun ist aber klar, dass der neue Sportvorstand bereits ab Dezember bei der SGE starten kann.",
+   "source": "kicker",
+   "date": "2026-11-16T15:00:21.000Z",
+   "fee": null,
+   "clubs": [
+    "Eintracht Frankfurt",
+    "Frankfurt"
+   ],
+   "tags": [
+    "Vertrag"
+   ]
+  },
+  {
+   "title": "„Nächste Saison spielt er für Real Madrid“ – Weltstar vor Transfer",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbGF1NUxsaXY5T1BVbUdHU3VsOGNuOFpGU29ld0QxUm1VbmxNUFd2M1lwYVRBN3J3TlFwQ3UwNjFHUDRPU2Y0NWF2V01xcW90bHZ4R3FZTUR1aEt5aGRZdUFKdjZiWXJFNVBZaEtBY1h4NWgxUFE0bTViQWp0LTJtbEI2RnRHanF2SXBHLURKS2Z3c0JI?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPbGF1NUxsaXY5T1BVbUdHU3VsOGNuOFpGU29ld0QxUm1VbmxNUFd2M1lwYVRBN3J3TlFwQ3UwNjFHUDRPU2Y0NWF2V01xcW90bHZ4R3FZTUR1aEt5aGRZdUFKdjZiWXJFNVBZaEtBY1h4NWgxUFE0bTViQWp0LTJtbEI2RnRHanF2SXBHLURKS2Z3c0JI?oc=5\" target=\"_blank\">„Nächst",
+   "source": "fussballdaten.de",
+   "date": "2026-11-16T13:38:00.000Z",
+   "fee": null,
+   "clubs": [
+    "Real Madrid"
+   ],
+   "tags": [
+    "Transfer"
+   ]
+  },
+  {
+   "title": "Drei Deals? FC Bayern prüft Winter-Transfers",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQY21yVkgtb3JoeXpSa3NuUkFyVUYySjIxLXVjMnNDYmV4Y3VMcVdQb1dNYVdDZlV4TUszLThkOHJsbE9maWEzUnVhbmNPQkktUWhUSnhGa1ZZNmNsZi1tdEFNQ2tYXzFzLVhNclNVZFRSZVJNN3lHX3VNdnpRUWR3bEVQRnJILXp2VHFvN3lpTWFZRUU?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQY21yVkgtb3JoeXpSa3NuUkFyVUYySjIxLXVjMnNDYmV4Y3VMcVdQb1dNYVdDZlV4TUszLThkOHJsbE9maWEzUnVhbmNPQkktUWhUSnhGa1ZZNmNsZi1tdEFNQ2tYXzFzLVhNclNVZFRSZVJNN3lHX3VNdnpRUWR3bEVQRnJILXp2VHFvN3lpTWFZRUU?oc=5\" target=\"_blank\">Drei Dea",
+   "source": "Fussball Europa",
+   "date": "2026-11-16T12:18:01.000Z",
+   "fee": null,
+   "clubs": [
+    "Bayern"
+   ],
+   "tags": [
+    "Gerücht"
+   ]
+  },
   {
    "title": "Lamine Yamal gibt Barça grünes Licht für großen Transfer",
    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNRzVITWFibnpCWWV2Z2FzYzU2dEpIQVpyNEV1SkFINk85WVhhUHlxcEVQa3dMU0xlZmllR2Jyc3VRM1dmU2dHZjhtMm5IZWFoZ3d6cURlWjI0ZTNoYklqVHNZT2xXSnJLLWRjSFZwbzBJWWNYMXdEU1gyVk93ay1CY0FfcU91Uk5JY0twT3cxQ0REZkU?oc=5",
@@ -114,21 +157,6 @@ window.FUPPES_DATA["transfers"] = {
    ]
   },
   {
-   "title": "Manchester United hatte offenbar auch Hürzeler im Visier",
-   "link": "https://www.kicker.de/manchester-united-hatte-offenbar-auch-huerzeler-im-visier-1272028/artikel#omrss",
-   "summary": "Manchester United hat Mauricio Pochettino als neuen Trainer verpflichtet - dachte aber offenkundig auch über drei andere Kandidaten konkret nach. Der teuerste wäre wohl Fabian Hürzeler geworden.",
-   "source": "kicker",
-   "date": "2026-11-16T09:33:04.000Z",
-   "fee": null,
-   "clubs": [
-    "Manchester United"
-   ],
-   "tags": [
-    "Gerücht",
-    "Verein"
-   ]
-  },
-  {
    "title": "Transfer-Ticker: BVB in Dreikampf verwickelt",
    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWmtKQ0FZOERhYTB0WkUwbW9IQTlCd0lfWHpIbVFnS0VfN2N4dEFQOUxvY3hYcVFhNVBFYWZVdTRrc2N6bVBuRW1JWHpPRXlSM3hsbHhRT1RZZ3NKcE1PcGdfcmp5T3NsRDlGSW5zeUFYUU5CemkyelVORjZPWFE4UXFkZ21vN0lv?oc=5",
    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWmtKQ0FZOERhYTB0WkUwbW9IQTlCd0lfWHpIbVFnS0VfN2N4dEFQOUxvY3hYcVFhNVBFYWZVdTRrc2N6bVBuRW1JWHpPRXlSM3hsbHhRT1RZZ3NKcE1PcGdfcmp5T3NsRDlGSW5zeUFYUU5CemkyelVORjZPWFE4UXFkZ21vN0lv?oc=5\" target=\"_blank\">Transfer-Ticker: BVB in",
@@ -162,7 +190,7 @@ window.FUPPES_DATA["transfers"] = {
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1uRm9Fdlg2dFQ1QlBOQ0kzcmEzbG56QkFtUXpKdjhuZEwybHNrRDJxWElUMjAwbVhnNEJhUjlEX0lrYTd2MUNHOHlTeHVxcTM5YUM0NjNSSGJBbW5kTVVkV3hFd2VLSjAtY0xENHhZVG9Eb05hQVZMMmlCd3QzMkU?oc=5",
    "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1uRm9Fdlg2dFQ1QlBOQ0kzcmEzbG56QkFtUXpKdjhuZEwybHNrRDJxWElUMjAwbVhnNEJhUjlEX0lrYTd2MUNHOHlTeHVxcTM5YUM0NjNSSGJBbW5kTVVkV3hFd2VLSjAtY0xENHhZVG9Eb05hQVZMMmlCd3QzMkU?oc=5\" target=\"_blank\">Drei Winter-Transfers beim FC Bayern",
    "source": "sport.de",
-   "date": "2026-11-16T06:53:00.000Z",
+   "date": "2026-11-16T06:58:19.000Z",
    "fee": null,
    "clubs": [
     "Bayern"
@@ -180,34 +208,6 @@ window.FUPPES_DATA["transfers"] = {
    "fee": null,
    "clubs": [
     "Bayern"
-   ],
-   "tags": [
-    "Gerücht"
-   ]
-  },
-  {
-   "title": "HAALAND TO LEAVE CITY? ENDRICK TO QUIT MADRID? + LENS DEFENDER RAID? Liverpool Latest Transfer News",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQYkNkdDMwT2c2T2ctaHJKMEplT3VxNEc0OVZaTnhIX2RlSWRwUGVjSUg1QjdOM1AwUVNFT3gxR1U2amlpU1F1LTFoeVNRdWd3bUgybXB5RERIUE9yT1hMOHBmRzgwbDEySVhPSlZBZ2xObWVyVldxbnd3RXRSdXNjaVlzcWdJQXBqLThWem4wbjBjeXFTdEpDVGoydFpwT1FqdE1INkRxWTVzdVV6UV9XTGEydGNlSm5NZmhUMmkyU3JiLXg3aTU4YVVMY3I5SWpBdEE?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxQYkNkdDMwT2c2T2ctaHJKMEplT3VxNEc0OVZaTnhIX2RlSWRwUGVjSUg1QjdOM1AwUVNFT3gxR1U2amlpU1F1LTFoeVNRdWd3bUgybXB5RERIUE9yT1hMOHBmRzgwbDEySVhPSlZBZ2xObWVyVldxbnd3RXRSdXNjaVlzcWdJQXBqLThWem4wbjBjeXFTdEpDVGoydFpwT1FqdE1INkRxWTVzdV",
-   "source": "OneFootball",
-   "date": "2026-11-16T06:15:22.000Z",
-   "fee": null,
-   "clubs": [
-    "Liverpool"
-   ],
-   "tags": [
-    "Gerücht"
-   ]
-  },
-  {
-   "title": "Stuttgart: Interesse an Eredivisie-Knaller Thom van Bergen?",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPYng1NTJFZDJoYS01YjI0eW44XzZmSUhzOUZHNXFmUDc1WlZvMEdIMFFtcGFCSlVoUGNRZmRqZkNSeTg3WnBoTkxmUHp5VWpuT204OVZQUUpsNkJwSWVuRy0zbkkya19KaHlRa1hSVFdXOTR0MEdGRlBfeV9TamM4RVVNWVhmdjI0VUk5LXVpTkhGN2M?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPYng1NTJFZDJoYS01YjI0eW44XzZmSUhzOUZHNXFmUDc1WlZvMEdIMFFtcGFCSlVoUGNRZmRqZkNSeTg3WnBoTkxmUHp5VWpuT204OVZQUUpsNkJwSWVuRy0zbkkya19KaHlRa1hSVFdXOTR0MEdGRlBfeV9TamM4RVVNWVhmdjI0VUk5LXVpTkhGN2M?oc=5\" target=\"_blank\">Stuttgar",
-   "source": "fussballdaten.de",
-   "date": "2026-11-15T21:45:00.000Z",
-   "fee": null,
-   "clubs": [
-    "Stuttgart"
    ],
    "tags": [
     "Gerücht"
@@ -257,21 +257,6 @@ window.FUPPES_DATA["transfers"] = {
    ]
   },
   {
-   "title": "Rolfes bestätigt geplante Vertragsverlängerung mit Maza",
-   "link": "https://www.kicker.de/rolfes-bestaetigt-geplante-vertragsverlaengerung-mit-maza-1271623/artikel#omrss",
-   "summary": "Im Sommer 2025 kam Ibrahim Maza zu Bayer 04 Leverkusen und hat sich zum absoluten Leistungsträger und legitimen Wirtz-Nachfolger gemausert. Als Anerkennung dafür möchte der Klub mit dem Spielmacher vorzeitig verlängern. Manager Simon Rolfes bestätigt laufende Vertragsgespräche.",
-   "source": "kicker",
-   "date": "2026-11-15T13:36:56.000Z",
-   "fee": null,
-   "clubs": [
-    "Leverkusen",
-    "Bayer 04"
-   ],
-   "tags": [
-    "Vertrag"
-   ]
-  },
-  {
    "title": "Kehls plötzlich wichtige BVB-Transfers | „Ancelotti, pack deine Koffer“",
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdGJZUk9YdjdLUWl3a3oyRnN3bXR6UEVCS3lYNXNkRXdKYUdaZjFjTW5WbHBjaU4xM3NCWk5JTkJHUEZlTWd4U2hXS3lUZWRjUDJVb2VGSUlLSHFoRThQM29wT1RHM05xVHBtVjBYdklKaVdfRmZhdm14ZUg1R0R3ekJkcldvZnItaUZ3R0Z6NmNobzlIRk4tWk1IMjlQYnBMQWJUMTVmd203U1dGMGswTg?oc=5",
    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQdGJZUk9YdjdLUWl3a3oyRnN3bXR6UEVCS3lYNXNkRXdKYUdaZjFjTW5WbHBjaU4xM3NCWk5JTkJHUEZlTWd4U2hXS3lUZWRjUDJVb2VGSUlLSHFoRThQM29wT1RHM05xVHBtVjBYdklKaVdfRmZhdm14ZUg1R0R3ekJkcldvZnItaUZ3R0Z6NmNobzlIRk4tWk1IMjlQYnBMQWJUMTVmd203U1",
@@ -283,21 +268,6 @@ window.FUPPES_DATA["transfers"] = {
    ],
    "tags": [
     "Transfer"
-   ]
-  },
-  {
-   "title": "Ist Stiller ein Kandidat für die Modric-Nachfolge bei Milan?",
-   "link": "https://www.kicker.de/ist-stiller-ein-kandidat-fuer-die-modric-nachfolge-bei-milan-1271736/artikel#omrss",
-   "summary": "Es gibt keine Jahreszeit, in der es keine Gerüchte über einen Wechsel von Angelo Stiller gibt. Jedoch bisher ohne Ergebnis. Aktuell wird der Stuttgarter mit der AC Mailand in Verbindung gebracht.",
-   "source": "kicker",
-   "date": "2026-11-15T11:21:08.000Z",
-   "fee": null,
-   "clubs": [
-    "AC Mailand",
-    "Milan"
-   ],
-   "tags": [
-    "Gerücht"
    ]
   },
   {
@@ -315,12 +285,12 @@ window.FUPPES_DATA["transfers"] = {
    ]
   },
   {
-   "title": "Transfer-Ticker: 80 Millionen für einen Bundesliga-Star? FC Bayern schaut wohl ebenfalls hin",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQOUZ2MmZHSUs0dXVTNjFZYU1RdG5iZ2JfVjJ1bm04UlpPX0hCY3A5TTI2dDZDVTZqbFFwOTJPZkt4LTBZTGlPNmdBd19TSzhQd2lHM1dzUjUwQXBrbU80NDJ5dHFvWklxNkU3bDRoSWdqMVc3dmlSTDR5TDBINTh5QmxvM2Vxb2NzS09OYURrR2VadDBvUm1UV0c5MW5aLTZnbFdaSlFmQWNEVTN6amYtUUVqbXMxM2hCUkFOcTBPMXVpeDVQSm91TQ?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQOUZ2MmZHSUs0dXVTNjFZYU1RdG5iZ2JfVjJ1bm04UlpPX0hCY3A5TTI2dDZDVTZqbFFwOTJPZkt4LTBZTGlPNmdBd19TSzhQd2lHM1dzUjUwQXBrbU80NDJ5dHFvWklxNkU3bDRoSWdqMVc3dmlSTDR5TDBINTh5QmxvM2Vxb2NzS09OYURrR2VadDBvUm1UV0c5MW5aLTZnbFdaSlFmQWNEVT",
-   "source": "sport.de",
-   "date": "2026-11-15T11:02:00.000Z",
-   "fee": 80,
+   "title": "Bayern-Interesse? Mohya wird deutlich",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9pNzBheE4ydkN1TnZJcXllMHBIRlZ6bVlNZU5rdHlhbDVVXzZQVXdxTkIzMXdyNF8xel9PRkUzZXVUNElTVUVjOGJiQkFvM3YwN1FOZnFDcHZycXR2V0xmOW5TcEZFX3RocFdPT3UzM2RvZ2NWR01IUmtUTQ?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE9pNzBheE4ydkN1TnZJcXllMHBIRlZ6bVlNZU5rdHlhbDVVXzZQVXdxTkIzMXdyNF8xel9PRkUzZXVUNElTVUVjOGJiQkFvM3YwN1FOZnFDcHZycXR2V0xmOW5TcEZFX3RocFdPT3UzM2RvZ2NWR01IUmtUTQ?oc=5\" target=\"_blank\">Bayern-Interesse? Mohya wird deutlich</a>",
+   "source": "fussballdaten.de",
+   "date": "2026-11-15T11:10:00.000Z",
+   "fee": null,
    "clubs": [
     "Bayern"
    ],
@@ -340,20 +310,6 @@ window.FUPPES_DATA["transfers"] = {
    ],
    "tags": [
     "Vertrag"
-   ]
-  },
-  {
-   "title": "Plant der FC Bayern überraschenden Transfer-Coup von deutschem Nationalspieler?",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORnNWRTJsZlZ5WkxYYXRXbi1LdnJYUktQUmozYjREdFRLc05MWjJod0hrckdtNXpRX1JFX0hDcEhjdXZBR0FpRkQ2TFg3ODMzbkM4QkxWZVNhVkJNTmVIZHB6LTllQ3B5M0t0QzF5cUNvRlEtblRQMENQWlp2Q0hESjhYZ3dRZjFWTW1VTnppWTU0V0NPWEFwU0FQRXFOUTQ?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxORnNWRTJsZlZ5WkxYYXRXbi1LdnJYUktQUmozYjREdFRLc05MWjJod0hrckdtNXpRX1JFX0hDcEhjdXZBR0FpRkQ2TFg3ODMzbkM4QkxWZVNhVkJNTmVIZHB6LTllQ3B5M0t0QzF5cUNvRlEtblRQMENQWlp2Q0hESjhYZ3dRZjFWTW1VTnppWTU0V0NPWEFwU0FQRXFOUTQ?oc=5\" target=\"",
-   "source": "Merkur",
-   "date": "2026-11-14T16:47:13.000Z",
-   "fee": null,
-   "clubs": [
-    "Bayern"
-   ],
-   "tags": [
-    "Gerücht"
    ]
   },
   {
@@ -383,6 +339,50 @@ window.FUPPES_DATA["transfers"] = {
    ],
    "tags": [
     "Transfer"
+   ]
+  },
+  {
+   "title": "FC Bayern | Enthüllt: Olise-Transfer ein Tuschel-Thema bei Frankreich",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTlctUl94b0xzQjdLVFRRME9vd3RHS3NQR250V2tVMVhwMXNOaFBxZkRKcXJPQ2lzSm5hZHloTXI5MUQ2WTV2YVNCc0tVYVhLek1Dc2thRTBoM0RWTlVHSGZvaUliWWllZ295SW54YlBSMHc0VExBZlFIY1YteHF0YXdVVTZOMEVhWnFET0lGR25MY0txNTctMGxBdERXd1oybnp6R2NhMU9pUQ?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTlctUl94b0xzQjdLVFRRME9vd3RHS3NQR250V2tVMVhwMXNOaFBxZkRKcXJPQ2lzSm5hZHloTXI5MUQ2WTV2YVNCc0tVYVhLek1Dc2thRTBoM0RWTlVHSGZvaUliWWllZ295SW54YlBSMHc0VExBZlFIY1YteHF0YXdVVTZOMEVhWnFET0lGR25MY0txNTctMGxBdERXd1oybnp6R2NhMU9pUQ",
+   "source": "sport.de",
+   "date": "2026-11-14T06:29:00.000Z",
+   "fee": null,
+   "clubs": [
+    "Bayern"
+   ],
+   "tags": [
+    "Transfer"
+   ]
+  },
+  {
+   "title": "Ibrahim Maza vor Verlängerung bei Bayer 04 Leverkusen: Neuer Deal bis 2031 ohne Ausstiegsklausel",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNRXZ3a0N1UHUzcGNmRHpXNTFhaWVrTDlrT3Y2STVyejNaX3hxcFNHRnUyX3BZbUc0Q2dvMW1qcHltQnZuZmh3bktxNFVEX01mSkFnQU81c0plSnhGRER0OWhDWkM3NkRydUV5cVF6b0xUSm44VXhLNHA3WHVLam9WR1l4eFBybzQ5VDNBVU9CZDhsNDRnYk0xVElDeW1uUVd1QkJ1WEVpd1l2c1B1Szcwdlh4VEpmSC1lMFpYMnNaTjhiUmRhMGdncS14cTRBaGw0QXh6bTkzV1pGa3I1T01J?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxNRXZ3a0N1UHUzcGNmRHpXNTFhaWVrTDlrT3Y2STVyejNaX3hxcFNHRnUyX3BZbUc0Q2dvMW1qcHltQnZuZmh3bktxNFVEX01mSkFnQU81c0plSnhGRER0OWhDWkM3NkRydUV5cVF6b0xUSm44VXhLNHA3WHVLam9WR1l4eFBybzQ5VDNBVU9CZDhsNDRnYk0xVElDeW1uUVd1QkJ1WEVpd1l2c1",
+   "source": "Sky.de",
+   "date": "2026-11-13T20:05:00.000Z",
+   "fee": null,
+   "clubs": [
+    "Leverkusen",
+    "Bayer 04"
+   ],
+   "tags": [
+    "Vertrag"
+   ]
+  },
+  {
+   "title": "Verlängert Maza bis 2031? Leverkusen bessert Angebot nach",
+   "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNUy1uaWpXbEdZa2hPdkpjV3VNbzZRVFpyNXpZemtGVVJndmUybXZuUlFZOWN1UEtlaHQ1cDc2THhYdnJBZVYxQ2tWNXl4bkdDVmlvTWw1VHdQOW9pTE5yem1WZXZPTnI0Q0w0NGZXVGl3R2FzUHVHNUQzRmF2X2x0dVg2MFRGdU16a1NOdU5aV2xSNTRRNVI4ZkdjOC1kX0luQk11LWp2NDhSVmh0YXgzOTAtTmR4Y1BuRjJEd29tS0R1cDJ4aW8wN3JEeGlZeUhsQUlFeVlqUUZOQWc1cW1kempndE5fd0drVXFyTkpqQWd5Vk94Uk43Nw?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-AFBVV95cUxNUy1uaWpXbEdZa2hPdkpjV3VNbzZRVFpyNXpZemtGVVJndmUybXZuUlFZOWN1UEtlaHQ1cDc2THhYdnJBZVYxQ2tWNXl4bkdDVmlvTWw1VHdQOW9pTE5yem1WZXZPTnI0Q0w0NGZXVGl3R2FzUHVHNUQzRmF2X2x0dVg2MFRGdU16a1NOdU5aV2xSNTRRNVI4ZkdjOC1kX0luQk11LWp2NDhSVm",
+   "source": "n-tv.de",
+   "date": "2026-11-13T19:32:00.000Z",
+   "fee": null,
+   "clubs": [
+    "Leverkusen"
+   ],
+   "tags": [
+    "Gerücht",
+    "Vertrag"
    ]
   }
  ]

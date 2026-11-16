@@ -1,12 +1,21 @@
 window.FUPPES_DATA = window.FUPPES_DATA || {};
 window.FUPPES_DATA["tv"] = {
- "updated": "2026-11-16T11:34:11.831Z",
+ "updated": "2026-11-16T15:20:02.960Z",
  "matches": [
   {
    "matchID": 83237,
    "kick": "2026-11-20T19:30:00Z",
    "team1": "FC Bayern München",
    "team2": "1. FC Köln",
+   "channels": [],
+   "evidence": [],
+   "kicker": null
+  },
+  {
+   "matchID": 83252,
+   "kick": "2026-11-28T14:30:00Z",
+   "team1": "1. FC Köln",
+   "team2": "SV 07 Elversberg",
    "channels": [],
    "evidence": [],
    "kicker": null
@@ -58,12 +67,12 @@ window.FUPPES_DATA["tv"] = {
      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQQnQ4LU9GT0NLcjEyUE9KT1pGNmFuZjBBS0YwNlQxaHdMaFhrWXZiUG95M3FJSTNWNlJHbmIzY05TZ3hKbXZOOFEtdng0T1V0eWNqaEU4d1dBMjZjVW9XRm1IYUFkT2RHaGdGcW9uUFI3ZjFPY0VtZ0JlRXJTV3g0c1JvZG9aV3JYNnpVa1pjcndhQ2s?oc=5"
     },
     {
-     "title": "ARD live am Montag: Wer zeigt Deutschland gegen die Niederlande?",
+     "title": "Länderspiel heute: Wer überträgt Deutschland gegen Niederlande? Live in der ARD",
      "source": "News zur deutschen Nationalmannschaft",
-     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYXFrOGVTNXBqRnE4TDZKbFdObHBlWWpTZVBVUWp3LWxyR0F5NVowUmdzQkVGaHN6Wm9GeGJ4MGFrRzhVZW5GbzRjZDlCSmFrbU9JSFJ5eE95V2VYN3N0VEJvTHhxbzBkLWRyWUJtV0FyTzhzQUxlU0xiQ2dKZmJpN2xNeXhDQzZQa0lQZWtwLVJMemVMc2dvdmNYSU1EZU9BSUVIcDlBWXV2QQ?oc=5"
+     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNcmxjS0E2WDNSbmh4QllvQWxvMy1wSlcyTVJKTjRCN2VOWXREaklnNjZWcXkybkRmRmFPcUNWOE5YVC1zbTJZWUZlYW9NcjB3aEhDUVNxZjJXMnA2ZG5hRXk3eThwMk91OXA0M2lNREN4SnRxMjNJTlhDWk40TERuMVFGTXRJMWhhb2ZtYm1TVENLR0xRWEE?oc=5"
     }
    ],
-   "kicker": null
+   "kicker": "https://www.kicker.de/wer-uebertraegt-deutschland-gegen-niederlande-heute-live-im-free-tv-und-stream-1271472/artikel"
   },
   {
    "matchID": 87464,
