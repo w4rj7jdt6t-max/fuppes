@@ -1,6 +1,6 @@
 window.FUPPES_DATA = window.FUPPES_DATA || {};
 window.FUPPES_DATA["transfers"] = {
- "updated": "2026-11-16T01:37:26.185Z",
+ "updated": "2026-11-16T03:10:51.144Z",
  "rules": {
   "minFeeMio": 20,
   "topClubs": [
@@ -203,6 +203,20 @@ window.FUPPES_DATA["transfers"] = {
    ]
   },
   {
+   "title": "Kommentatoren-Legende schwärmt von DFB-Juwel Gruda – und warnt vor einem Wechsel zum FC Bayern",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPb2UtSzMwTFJsbzIzcXVta0l1bEpGRFhqLWo2bXBVV1ZNb1BMVzFWenYtR1Z1YkladnRPZHByZWZaemVFSWc4ZzBVQTM3ZmRzdmRkVEpmVzlhUzhOUzNGNWMySGdLNHFMYnp1Y2czR0hoNHhTQmQ1MmNjcFNxQmFYZEw1RUMxMU5uQks3QlhJNUdYcEVtS2VhMjJhT2JhYnJLMTlJWEdPQVkyUm9LT0E0?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPb2UtSzMwTFJsbzIzcXVta0l1bEpGRFhqLWo2bXBVV1ZNb1BMVzFWenYtR1Z1YkladnRPZHByZWZaemVFSWc4ZzBVQTM3ZmRzdmRkVEpmVzlhUzhOUzNGNWMySGdLNHFMYnp1Y2czR0hoNHhTQmQ1MmNjcFNxQmFYZEw1RUMxMU5uQks3QlhJNUdYcEVtS2VhMjJhT2JhYnJLMTlJWEdPQVkyUm",
+   "source": "Frankfurter Rundschau",
+   "date": "2026-11-14T17:49:02.000Z",
+   "fee": null,
+   "clubs": [
+    "Bayern"
+   ],
+   "tags": [
+    "Transfer"
+   ]
+  },
+  {
    "title": "FC Barcelona vor Verlängerung mit Flick-Debütant - Drei Spiele, drei Siege",
    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNE1HZ2RSQlozRFJnX0ZlR0k2TjZQVFF0WTVqejByV0xHa1QzcEpfdTAzUU1HNUZUNnU2bFBPaG54ODRrUDZHQkk1cWdsdzhUS1lwRk03a214SnJ6UDdIQmZ6WjhTWHd4RDNnYU9pZ0g2UndyVHdEdTdfVHZadDhXcm9yV21jRlhKSldVTmh3?oc=5",
    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNNE1HZ2RSQlozRFJnX0ZlR0k2TjZQVFF0WTVqejByV0xHa1QzcEpfdTAzUU1HNUZUNnU2bFBPaG54ODRrUDZHQkk1cWdsdzhUS1lwRk03a214SnJ6UDdIQmZ6WjhTWHd4RDNnYU9pZ0g2UndyVHdEdTdfVHZadDhXcm9yV21jRlhKSldVTmh3?oc=5\" target=\"_blank\">FC Barcelona vo",
@@ -367,20 +381,6 @@ window.FUPPES_DATA["transfers"] = {
    "date": "2026-11-13T10:53:03.000Z",
    "fee": 60,
    "clubs": [],
-   "tags": [
-    "Gerücht"
-   ]
-  },
-  {
-   "title": "Verwirrung um spannende Transfer-Gerüchte beim FC Bayern",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWDgyaW51V1ZiaFlzMFhVTzZyVW5WVGNLc1c5U3gwdUxpNEhUMElhcmEzSXpMYm0yLWR4R0ZYY1ZQc1pydjRxODlVS2l1MndDc3I0YmRCdGszeWZLQ05xMFZwZm1YVndhbk5lYnVaM0FyZVRETzFlX3NZS0ZVc1dLR1VDeS05OHphZ2VsUHZFRDN6V3JJcmlCeFdjMA?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOWDgyaW51V1ZiaFlzMFhVTzZyVW5WVGNLc1c5U3gwdUxpNEhUMElhcmEzSXpMYm0yLWR4R0ZYY1ZQc1pydjRxODlVS2l1MndDc3I0YmRCdGszeWZLQ05xMFZwZm1YVndhbk5lYnVaM0FyZVRETzFlX3NZS0ZVc1dLR1VDeS05OHphZ2VsUHZFRDN6V3JJcmlCeFdjMA?oc=5\" target=\"_blan",
-   "source": "sport.de",
-   "date": "2026-11-13T10:11:00.000Z",
-   "fee": null,
-   "clubs": [
-    "Bayern"
-   ],
    "tags": [
     "Gerücht"
    ]

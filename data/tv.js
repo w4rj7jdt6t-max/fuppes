@@ -1,6 +1,6 @@
 window.FUPPES_DATA = window.FUPPES_DATA || {};
 window.FUPPES_DATA["tv"] = {
- "updated": "2026-11-16T01:37:27.110Z",
+ "updated": "2026-11-16T03:10:52.202Z",
  "matches": [
   {
    "matchID": 83237,
@@ -31,9 +31,9 @@ window.FUPPES_DATA["tv"] = {
      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPUERuRHNremFSRGkzX1V2Y0ZJMktPQk43TFBTWlc5bGJCN3pfLWZpMkRZdHRBTXFtTlY5T2Rtcnk0Z0xnZ3VnN1NQbVRIUXpvV2JEdXA2VUpQOE5SSk14bE9fY29wYWFEYXRHSUhsTkVsT0RhRFY3ZmFleW54cW5mMW5qenJvaFI1alJEWVNWeFVxNWczanVHa0dIcy1uVlIwSGgxemlrRVh2bkMxcjJ2U1NlNTByOWZlTG9VZkxGSXF0VXhsUXNEazU5RWZuQUVW?oc=5"
     },
     {
-     "title": "Serbien Deutschland live streamen: Nations League heute kostenlos bei RTL live",
-     "source": "dslweb",
-     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORGo4UHJyanZhU0FMb1hEaTBnOHE3a1RSRFpubkluVjFlQ0ZDSEhCVncwSUdOTXpFREFkMlhwQmZyOGdQeWM0UzNaY0M1VkJpUGNGRmVOdmJyQlRBMGU2aVNFTE9LWVpZRkc0TTl0ZzFELUIxVm9tanFOYzhnZFV1MWlkRTNBdkZCdXE5ckp4WFVvbUxYOFJxb1M4UFIzb0FIc0xGbXNPaWdxR1lEbHpJdg?oc=5"
+     "title": "Serbien - Deutschland Live Stream | Jetzt Anmelden | DAZN DE",
+     "source": "DAZN",
+     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOX3U1bXVOR09MZFZVUmVLVVRZdWJKR2ljREUyUC1JVm9rU0ZadVROVnhxTVNWMEUtYVVxakRRenpNa3Z5anRqcE5MbmVaTUoyUFlMdVRCemQybExrQnMzZjJrSlM1YUJjRWxaTi13S0ZtTUUtaDBQYTBhSzA4cXdSLTN0Z1FzN0pSU1UtcA?oc=5"
     }
    ],
    "kicker": null

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T01:37:26.775Z",
+ "updated": "2026-11-16T03:10:51.702Z",
  "fc": [
   {
    "start": "2025-11-22T17:30:00.000Z",
@@ -1852,26 +1852,7 @@
    "goals": []
   }
  ],
- "press": [
-  {
-   "who": "dfb",
-   "id": "G1Ors50hq_I",
-   "title": "RE-LIVE | Pressekonferenz der Nationalmannschaft mit Jürgen Klopp und Kai Havertz",
-   "date": "2026-11-15T18:03:43+00:00",
-   "url": "https://www.youtube.com/watch?v=G1Ors50hq_I",
-   "summary": "Viel Spaß mit der DFB Pressekonferenz mit Jürgen Klopp und Kai Havertz vor der anstehenden Partie in der UEFA Nations League.",
-   "quotes": []
-  },
-  {
-   "who": "dfb",
-   "id": "2yrZgmHaSsw",
-   "title": "RE-LIVE | Pressekonferenz der Nationalmannschaft mit Jürgen Klopp & Florian Wirtz",
-   "date": "2026-11-12T18:34:08+00:00",
-   "url": "https://www.youtube.com/watch?v=2yrZgmHaSsw",
-   "summary": "Viel Spaß mit der DFB Pressekonferenz mit Jürgen Klopp & Florian Wirtz vor den anstehenden Partien in der UEFA Nations League.",
-   "quotes": []
-  }
- ],
+ "press": [],
  "referees": [
   {
    "title": "Die Schiedsrichter-Ansetzungen am 9. Spieltag",
