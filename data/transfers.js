@@ -1,6 +1,6 @@
 window.FUPPES_DATA = window.FUPPES_DATA || {};
 window.FUPPES_DATA["transfers"] = {
- "updated": "2026-11-16T05:39:42.676Z",
+ "updated": "2026-11-16T08:58:43.741Z",
  "rules": {
   "minFeeMio": 20,
   "topClubs": [
@@ -44,6 +44,63 @@ window.FUPPES_DATA["transfers"] = {
  },
  "items": [
   {
+   "title": "Fußball-Transfergerüchte heute: Arsenal-Kapitän lockt Leipzig-Star – Gunners bei Vini Jr. überzeugt",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1JV05XMXdqcFhhZFBjN2xGX2RzT2ZYTU14eF9Qc2wzTFdJcV80WDFtd01mNzJiUU55VDNBeFVtcmEyNGNKb2k1R3Q1bzRmelpEMUp1WlRTTHlpNUdFZEw0dEVnUWR0TktCbXhQNlRSSU8?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE1JV05XMXdqcFhhZFBjN2xGX2RzT2ZYTU14eF9Qc2wzTFdJcV80WDFtd01mNzJiUU55VDNBeFVtcmEyNGNKb2k1R3Q1bzRmelpEMUp1WlRTTHlpNUdFZEw0dEVnUWR0TktCbXhQNlRSSU8?oc=5\" target=\"_blank\">Fußball-Transfergerüchte heute: Arsenal-Kapitän lockt Le",
+   "source": "90min.de",
+   "date": "2026-11-16T08:32:33.000Z",
+   "fee": null,
+   "clubs": [
+    "Leipzig",
+    "Arsenal"
+   ],
+   "tags": [
+    "Gerücht"
+   ]
+  },
+  {
+   "title": "Transfer-Ticker: BVB in Dreikampf verwickelt",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWmtKQ0FZOERhYTB0WkUwbW9IQTlCd0lfWHpIbVFnS0VfN2N4dEFQOUxvY3hYcVFhNVBFYWZVdTRrc2N6bVBuRW1JWHpPRXlSM3hsbHhRT1RZZ3NKcE1PcGdfcmp5T3NsRDlGSW5zeUFYUU5CemkyelVORjZPWFE4UXFkZ21vN0lv?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWmtKQ0FZOERhYTB0WkUwbW9IQTlCd0lfWHpIbVFnS0VfN2N4dEFQOUxvY3hYcVFhNVBFYWZVdTRrc2N6bVBuRW1JWHpPRXlSM3hsbHhRT1RZZ3NKcE1PcGdfcmp5T3NsRDlGSW5zeUFYUU5CemkyelVORjZPWFE4UXFkZ21vN0lv?oc=5\" target=\"_blank\">Transfer-Ticker: BVB in",
+   "source": "sport.de",
+   "date": "2026-11-16T07:52:00.000Z",
+   "fee": null,
+   "clubs": [
+    "BVB"
+   ],
+   "tags": [
+    "Transfer"
+   ]
+  },
+  {
+   "title": "Drei Winter-Transfers beim FC Bayern?",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1uRm9Fdlg2dFQ1QlBOQ0kzcmEzbG56QkFtUXpKdjhuZEwybHNrRDJxWElUMjAwbVhnNEJhUjlEX0lrYTd2MUNHOHlTeHVxcTM5YUM0NjNSSGJBbW5kTVVkV3hFd2VLSjAtY0xENHhZVG9Eb05hQVZMMmlCd3QzMkU?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1uRm9Fdlg2dFQ1QlBOQ0kzcmEzbG56QkFtUXpKdjhuZEwybHNrRDJxWElUMjAwbVhnNEJhUjlEX0lrYTd2MUNHOHlTeHVxcTM5YUM0NjNSSGJBbW5kTVVkV3hFd2VLSjAtY0xENHhZVG9Eb05hQVZMMmlCd3QzMkU?oc=5\" target=\"_blank\">Drei Winter-Transfers beim FC Bayern",
+   "source": "sport.de",
+   "date": "2026-11-16T06:53:00.000Z",
+   "fee": null,
+   "clubs": [
+    "Bayern"
+   ],
+   "tags": [
+    "Gerücht"
+   ]
+  },
+  {
+   "title": "FC Bayern offenbar weiter an Transfer von Florian Wirtz interessiert",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOM0haX1hFYnM1eGRlTUE4OVYzeUpmT1ZOSUNtR0JnaWRHRXBoRjZtR1pyMXhVbC1wOWxoSXZON2hnRFlJY0VIT1FhT2VQdGNTYXNNbnFqaVZCUThtQ3RmSWM3OWZaV0JCNnJxTURXckw0TFN3cXA4a2duUU9DMDlKUTQ2OFUyNGxEOUs4dG1JZU1raDZ5SE1DN3dqeVFTaUlraGJWZUZyckZNcGR1bnBCVmo3SnRsMlk4VjlidThFRmNGSHQ1a3VLWnh5VW9mZ0pPVmtiVWFMNFZVS213aktEMVBTbw?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxOM0haX1hFYnM1eGRlTUE4OVYzeUpmT1ZOSUNtR0JnaWRHRXBoRjZtR1pyMXhVbC1wOWxoSXZON2hnRFlJY0VIT1FhT2VQdGNTYXNNbnFqaVZCUThtQ3RmSWM3OWZaV0JCNnJxTURXckw0TFN3cXA4a2duUU9DMDlKUTQ2OFUyNGxEOUs4dG1JZU1raDZ5SE1DN3dqeVFTaUlraGJWZUZyckZNcG",
+   "source": "SPOX.com",
+   "date": "2026-11-16T06:33:52.000Z",
+   "fee": null,
+   "clubs": [
+    "Bayern"
+   ],
+   "tags": [
+    "Gerücht"
+   ]
+  },
+  {
    "title": "Eintracht Frankfurt: Sommer-Transfer von KSC-Senkrechtstarter?",
    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPai1Rd1BvcFZvSjdmSDJ0bEFMWFpQTjZ6M25YSVhmMXVBTnZVSDhnLVY0Yk9qYUgtQXp0N0x2djFScUp5b3Fzd19FOTVtOTgyZUw3MndoWGlRLWNyUklVTjNlVjJ5QzlYOWZFZHEzcjcxZ29peWU3NVNBUDhvc2tZQTNEODR1YXpyVE85dktLT3BZN1JNMWc?oc=5",
    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPai1Rd1BvcFZvSjdmSDJ0bEFMWFpQTjZ6M25YSVhmMXVBTnZVSDhnLVY0Yk9qYUgtQXp0N0x2djFScUp5b3Fzd19FOTVtOTgyZUw3MndoWGlRLWNyUklVTjNlVjJ5QzlYOWZFZHEzcjcxZ29peWU3NVNBUDhvc2tZQTNEODR1YXpyVE85dktLT3BZN1JNMWc?oc=5\" target=\"_blank\">Eint",
@@ -84,20 +141,6 @@ window.FUPPES_DATA["transfers"] = {
    ],
    "tags": [
     "Gerücht"
-   ]
-  },
-  {
-   "title": "Maza soll bei Bayer Leverkusen verlängern – Deutliche Gehaltserhöhung",
-   "link": "https://www.transfermarkt.de/rolfes-bestatigt-gesprache-mit-maza-60-mehr-gehalt-amp-millionenbonus-fur-verlangerung/view/news/490568",
-   "summary": "Dieser Artikel erschien erstmals am 13. November und wurde mit Stimmen von Simon Rolfes aktualisiert. Sp&auml;testens in dieser Saison ist Ibrahim Maza zu den Leistungstr&auml;gern von Bayer...",
-   "source": "Transfermarkt",
-   "date": "2026-11-15T14:16:38.000Z",
-   "fee": null,
-   "clubs": [
-    "Leverkusen"
-   ],
-   "tags": [
-    "Vertrag"
    ]
   },
   {
@@ -153,20 +196,6 @@ window.FUPPES_DATA["transfers"] = {
    "fee": null,
    "clubs": [
     "Milan"
-   ],
-   "tags": [
-    "Gerücht"
-   ]
-  },
-  {
-   "title": "Bayern-Interesse? Mohya wird deutlich",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9pNzBheE4ydkN1TnZJcXllMHBIRlZ6bVlNZU5rdHlhbDVVXzZQVXdxTkIzMXdyNF8xel9PRkUzZXVUNElTVUVjOGJiQkFvM3YwN1FOZnFDcHZycXR2V0xmOW5TcEZFX3RocFdPT3UzM2RvZ2NWR01IUmtUTQ?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE9pNzBheE4ydkN1TnZJcXllMHBIRlZ6bVlNZU5rdHlhbDVVXzZQVXdxTkIzMXdyNF8xel9PRkUzZXVUNElTVUVjOGJiQkFvM3YwN1FOZnFDcHZycXR2V0xmOW5TcEZFX3RocFdPT3UzM2RvZ2NWR01IUmtUTQ?oc=5\" target=\"_blank\">Bayern-Interesse? Mohya wird deutlich</a>",
-   "source": "fussballdaten.de",
-   "date": "2026-11-15T11:10:00.000Z",
-   "fee": null,
-   "clubs": [
-    "Bayern"
    ],
    "tags": [
     "Gerücht"
@@ -246,20 +275,6 @@ window.FUPPES_DATA["transfers"] = {
    ]
   },
   {
-   "title": "Nationalmannschaft: Gruda-Zukunft bald entschieden? FC Bayern offenbar mit Interesse",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOeEtwdnhsTzdFd0ZIRnJXTXVOenFtMkljWVlpVVpkcDJDQVdjcGdFSXR3QTlSaGZMdXRXa2h2T041WEN3TEVoWFJyT0p5bTNCZm5DNzVYOU5wekV4b3JMRzlEYnpSRnZTUVBuZDg5RzZyckQ3bE5CVy1zQURrQk5uSVp2M1BTdHEzZEVtXzYySFV5TU9tU3F4NzNiT1lnRmxkVnpBWENIdUlSdnZCdzJkVW1DUDRiVVhqaElUdA?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOeEtwdnhsTzdFd0ZIRnJXTXVOenFtMkljWVlpVVpkcDJDQVdjcGdFSXR3QTlSaGZMdXRXa2h2T041WEN3TEVoWFJyT0p5bTNCZm5DNzVYOU5wekV4b3JMRzlEYnpSRnZTUVBuZDg5RzZyckQ3bE5CVy1zQURrQk5uSVp2M1BTdHEzZEVtXzYySFV5TU9tU3F4NzNiT1lnRmxkVnpBWENIdUlSdn",
-   "source": "sport.de",
-   "date": "2026-11-14T09:50:00.000Z",
-   "fee": null,
-   "clubs": [
-    "Bayern"
-   ],
-   "tags": [
-    "Gerücht"
-   ]
-  },
-  {
    "title": "FC Bayern | Enthüllt: Olise-Transfer ein Tuschel-Thema bei Frankreich",
    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTlctUl94b0xzQjdLVFRRME9vd3RHS3NQR250V2tVMVhwMXNOaFBxZkRKcXJPQ2lzSm5hZHloTXI5MUQ2WTV2YVNCc0tVYVhLek1Dc2thRTBoM0RWTlVHSGZvaUliWWllZ295SW54YlBSMHc0VExBZlFIY1YteHF0YXdVVTZOMEVhWnFET0lGR25MY0txNTctMGxBdERXd1oybnp6R2NhMU9pUQ?oc=5",
    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTlctUl94b0xzQjdLVFRRME9vd3RHS3NQR250V2tVMVhwMXNOaFBxZkRKcXJPQ2lzSm5hZHloTXI5MUQ2WTV2YVNCc0tVYVhLek1Dc2thRTBoM0RWTlVHSGZvaUliWWllZ295SW54YlBSMHc0VExBZlFIY1YteHF0YXdVVTZOMEVhWnFET0lGR25MY0txNTctMGxBdERXd1oybnp6R2NhMU9pUQ",
@@ -318,20 +333,6 @@ window.FUPPES_DATA["transfers"] = {
    ]
   },
   {
-   "title": "BVB: Neuer Interessent für Bensebaini",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPXy1fWF9aSVZPWGd1d2tYQjdBNDJnRVdnaUxYUWxhWk9zaVJiS0E1VENxTmtGVFY4RTRUc3hrdUxGNDhaVGJpMFB6b0tadWRzWjA5bFF4RGpkN25jVjJ0ZTZhQ01jczJuc3NMYTVranMtTlRyNi0yWjQ4YzZWM3B3UktzZTBZSWQzZ3hBM0d3QlVTRTNoVUdz?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPXy1fWF9aSVZPWGd1d2tYQjdBNDJnRVdnaUxYUWxhWk9zaVJiS0E1VENxTmtGVFY4RTRUc3hrdUxGNDhaVGJpMFB6b0tadWRzWjA5bFF4RGpkN25jVjJ0ZTZhQ01jczJuc3NMYTVranMtTlRyNi0yWjQ4YzZWM3B3UktzZTBZSWQzZ3hBM0d3QlVTRTNoVUdz?oc=5\" target=\"_blank\">BVB",
-   "source": "Fussball Transfers",
-   "date": "2026-11-13T17:15:00.000Z",
-   "fee": null,
-   "clubs": [
-    "BVB"
-   ],
-   "tags": [
-    "Gerücht"
-   ]
-  },
-  {
    "title": "BVB plant ersten Winter-Transfer",
    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTFJ0YkVaaDBKLUJxUzRyNEN3RGpCSThSWUFMNTlKTkJfSnpKWThfNjNNcHlJOXFjcmhaVHFOMTNUNWNJeXRsbDFfWEJXNG9STjJHZ09aby1jQXpGQUlRbElSYjU1WTNZOEVBTzlBWUNxVmo3ZHpnQVlHVl92X2x2NjBVeU9sN1A1YXhOUldxR2s?oc=5",
    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPTFJ0YkVaaDBKLUJxUzRyNEN3RGpCSThSWUFMNTlKTkJfSnpKWThfNjNNcHlJOXFjcmhaVHFOMTNUNWNJeXRsbDFfWEJXNG9STjJHZ09aby1jQXpGQUlRbElSYjU1WTNZOEVBTzlBWUNxVmo3ZHpnQVlHVl92X2x2NjBVeU9sN1A1YXhOUldxR2s?oc=5\" target=\"_blank\">BVB plant er",
@@ -343,20 +344,6 @@ window.FUPPES_DATA["transfers"] = {
    ],
    "tags": [
     "Transfer"
-   ]
-  },
-  {
-   "title": "Plant der FC Bayern überraschenden Transfer-Coup von deutschem Nationalspieler?",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVmZEU3N6Z3hCc094dFlMQ3ZJaEhnelNWWkxjcnlsY19xVm9IXzFvaFJnMHpHbHFfZ0JoeFpBNFFTMGZla1M3OThQY0lvSmVnSDZyQUxCTXYyMlpPdVc0M1hheEZfUkktblBCWGRHbnU1YjJuckJjWDQzdEFCb2dvMEJhQXEzMlROcE9rLUFmQTlkcXY5QTRMb3lOVDRMSVhHRm83dTh3?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPVmZEU3N6Z3hCc094dFlMQ3ZJaEhnelNWWkxjcnlsY19xVm9IXzFvaFJnMHpHbHFfZ0JoeFpBNFFTMGZla1M3OThQY0lvSmVnSDZyQUxCTXYyMlpPdVc0M1hheEZfUkktblBCWGRHbnU1YjJuckJjWDQzdEFCb2dvMEJhQXEzMlROcE9rLUFmQTlkcXY5QTRMb3lOVDRMSVhHRm83dTh3?oc=5\"",
-   "source": "Merkur",
-   "date": "2026-11-13T11:16:00.000Z",
-   "fee": null,
-   "clubs": [
-    "Bayern"
-   ],
-   "tags": [
-    "Gerücht"
    ]
   },
   {
@@ -380,6 +367,20 @@ window.FUPPES_DATA["transfers"] = {
    "fee": null,
    "clubs": [
     "Bayern"
+   ],
+   "tags": [
+    "Gerücht"
+   ]
+  },
+  {
+   "title": "Der teuerste Verteidiger der Geschichte! FC Liverpool arbeitet angeblich \"konkret\" an einem historischen Transfer",
+   "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPQWdaNEdlQldZYUc2eXpMbG9OanJ2QjNpSFA2YnlqSjBJVnkwT3NhMmk2SE5sSDhYVFJYQmFZTXQzSXljU2J2LTNhUEpSR3VMWnE4X2FQOWtlY05UTUxkYnY1aXk4OHpnWU90bUx5U1M4eDIzTzYyMTFzU0V0YnRFaWt4ay1kYkhxX0FSMF85SEhYNzcyTVlxb0w5a3BwOGd5Q3UzT1lYNTEzV0RJRFpNUzFXWXZqZFptQ3FFMUtUTVNhdnFNMmJNX0J2NEprdnh2Vlh6TEI1djNYa0NkUWp6YmNHbDJ0aENxdVloZzA2SE5SWTVkSkpQeQ?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-AFBVV95cUxPQWdaNEdlQldZYUc2eXpMbG9OanJ2QjNpSFA2YnlqSjBJVnkwT3NhMmk2SE5sSDhYVFJYQmFZTXQzSXljU2J2LTNhUEpSR3VMWnE4X2FQOWtlY05UTUxkYnY1aXk4OHpnWU90bUx5U1M4eDIzTzYyMTFzU0V0YnRFaWt4ay1kYkhxX0FSMF85SEhYNzcyTVlxb0w5a3BwOGd5Q3UzT1lYNTEzV0",
+   "source": "SPOX.com",
+   "date": "2026-11-13T09:23:00.000Z",
+   "fee": null,
+   "clubs": [
+    "Liverpool"
    ],
    "tags": [
     "Gerücht"

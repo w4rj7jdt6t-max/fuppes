@@ -1,6 +1,6 @@
 window.FUPPES_DATA = window.FUPPES_DATA || {};
 window.FUPPES_DATA["news-fc"] = {
- "updated": "2026-11-16T05:39:41.369Z",
+ "updated": "2026-11-16T08:58:42.229Z",
  "items": [
   {
    "title": "Union Berlin: Transfer-Duell mit Köln um Ianis Stoica",
@@ -81,16 +81,6 @@ window.FUPPES_DATA["news-fc"] = {
    "date": "2026-11-14T10:20:06.000Z",
    "tags": [
     "Transfer"
-   ]
-  },
-  {
-   "title": "1. FC Köln: „Er muss Ergebnisse liefern“: Köln-Boss macht Trainer Wagner Druck!",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOOG5XSWV1UFpqcmJOWFJaSmZlb3lkbE80UXFob2MtWWI5NmJZQ1pFVXIzV2tGZU14c0J0bTRrMVFRTVRPQ1BIaEF2UmtRSDQ0NXljbVJZYlpfc18zLTVpZlFFMS1iVmkwSWZvZXBTeFQyR2RnNW9RcHE3YlRIeTNvMUdYMDJGTlc2VGpyRVVwWEJYZVVnTUdwSUFhTThtSmEycElVa3FMY0N6NGpraEI4R3V1emp1aFh4NEVJRmhJVm1JMkFLR0MxU2JZZUNHZ2VO?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxOOG5XSWV1UFpqcmJOWFJaSmZlb3lkbE80UXFob2MtWWI5NmJZQ1pFVXIzV2tGZU14c0J0bTRrMVFRTVRPQ1BIaEF2UmtRSDQ0NXljbVJZYlpfc18zLTVpZlFFMS1iVmkwSWZvZXBTeFQyR2RnNW9RcHE3YlRIeTNvMUdYMDJGTlc2VGpyRVVwWEJYZVVnTUdwSUFhTThtSmEycElVa3FMY0N6NG",
-   "source": "BILD",
-   "date": "2026-11-13T15:51:06.000Z",
-   "tags": [
-    "Verein"
    ]
   },
   {
@@ -204,6 +194,16 @@ window.FUPPES_DATA["news-fc"] = {
    "date": "2026-11-06T11:10:11.000Z",
    "tags": [
     "Personal"
+   ]
+  },
+  {
+   "title": "1. FC Köln: Co-Trainer Sbonias hat die Talente im Blick",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPa0VvVVhWSDQtT1NiSUpOUldDamg1dy13NVB0WmFGNDlNWkpWam9WTm1ENVF3TFNCb2xLVHJyZWdxRjV3dGR0aFNCamczeFJ2dUlsRmRNSFNoNTJyVHloQks1WWdPNnZsX05jVVlOZEQ4My1VY2Z0TzduSHBYU3JfeG9MZUdqWFJmdkczck5xWnc2dlNIbUhtX1ZxOE1OaVd4ZnJ5TVJQcEI2QQ?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPa0VvVVhWSDQtT1NiSUpOUldDamg1dy13NVB0WmFGNDlNWkpWam9WTm1ENVF3TFNCb2xLVHJyZWdxRjV3dGR0aFNCamczeFJ2dUlsRmRNSFNoNTJyVHloQks1WWdPNnZsX05jVVlOZEQ4My1VY2Z0TzduSHBYU3JfeG9MZUdqWFJmdkczck5xWnc2dlNIbUhtX1ZxOE1OaVd4ZnJ5TVJQcEI2QQ",
+   "source": "sportschau.de",
+   "date": "2026-11-05T11:56:45.000Z",
+   "tags": [
+    "Verein"
    ]
   }
  ]
