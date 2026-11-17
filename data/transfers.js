@@ -1,6 +1,6 @@
 window.FUPPES_DATA = window.FUPPES_DATA || {};
 window.FUPPES_DATA["transfers"] = {
- "updated": "2026-11-17T19:15:04.922Z",
+ "updated": "2026-11-17T21:02:50.463Z",
  "rules": {
   "minFeeMio": 20,
   "topClubs": [
@@ -43,6 +43,35 @@ window.FUPPES_DATA["transfers"] = {
   ]
  },
  "items": [
+  {
+   "title": "Gabriel verkündet United-Abgang: „Als Spieler und Mensch gewachsen“ – Vor Transfer zu Real",
+   "link": "https://www.transfermarkt.de/gabriel-verkundet-united-abgang-als-spieler-und-mensch-gewachsen-quot-vor-transfer-zu-real/view/news/490784",
+   "summary": "Eines der gr&ouml;&szlig;ten Talente des europ&auml;ischen Fu&szlig;balls hat seine Zukunftsentscheidung getroffen. JJ Gabriel wird Manchester United verlassen und sich aller Voraussicht nach im...",
+   "source": "Transfermarkt",
+   "date": "2026-11-17T19:30:18.000Z",
+   "fee": null,
+   "clubs": [
+    "Manchester United"
+   ],
+   "tags": [
+    "Transfer"
+   ]
+  },
+  {
+   "title": "Manchester United an Bayern-Torwart interessiert",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNFBUcVNjVV9IYXdvdGJOQVRNZm5TYTBHUDk4SE1oX3BwSFl2cEdPRUFBMG44bGVlWEdDRDFjMC04V2gzV1BHZ3psclhHSWRsZlFOUF9qdHRXdHNpbTVLOEJES0EtVTNwYnhwU1VGdl9MTEVMTjdZRU9FZ2dXd2N3Y0hvaUpOVFlmQzJB?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNFBUcVNjVV9IYXdvdGJOQVRNZm5TYTBHUDk4SE1oX3BwSFl2cEdPRUFBMG44bGVlWEdDRDFjMC04V2gzV1BHZ3psclhHSWRsZlFOUF9qdHRXdHNpbTVLOEJES0EtVTNwYnhwU1VGdl9MTEVMTjdZRU9FZ2dXd2N3Y0hvaUpOVFlmQzJB?oc=5\" target=\"_blank\">Manchester United a",
+   "source": "fussballdaten.de",
+   "date": "2026-11-17T19:13:00.000Z",
+   "fee": null,
+   "clubs": [
+    "Bayern",
+    "Manchester United"
+   ],
+   "tags": [
+    "Gerücht"
+   ]
+  },
   {
    "title": "Arsenal vor vier Verlängerungen: Rice wird Top-Verdiener, Raya vertagt Spanien-Wechsel",
    "link": "https://www.transfermarkt.de/arsenal-vor-vier-verlangerungen-rice-wird-top-verdiener-raya-vertagt-spanien-wechsel/view/news/490781",
@@ -123,7 +152,7 @@ window.FUPPES_DATA["transfers"] = {
    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQSk5vNWJpci14LVJtRzJNRmN4V3lLSXVZN21rN242ekhrNDQ5RUc3dk5aNGUtSmVnUUM4NS13cDVLYXdEbjFnS3JVdEQtZk5DUFNBZV92OGlNS3Y4TzN1QzZ0ZHdGTEkwTnlDTDdiNjV1Y3hyZzZ6TEp5OFdMY0FuaU5CR2dLMDJKSkZ5NnAtLUR4MlE?oc=5",
    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQSk5vNWJpci14LVJtRzJNRmN4V3lLSXVZN21rN242ekhrNDQ5RUc3dk5aNGUtSmVnUUM4NS13cDVLYXdEbjFnS3JVdEQtZk5DUFNBZV92OGlNS3Y4TzN1QzZ0ZHdGTEkwTnlDTDdiNjV1Y3hyZzZ6TEp5OFdMY0FuaU5CR2dLMDJKSkZ5NnAtLUR4MlE?oc=5\" target=\"_blank\">Arsenal ",
    "source": "Kicker",
-   "date": "2026-11-17T13:49:18.000Z",
+   "date": "2026-11-17T13:55:42.000Z",
    "fee": null,
    "clubs": [
     "Arsenal"
@@ -291,20 +320,6 @@ window.FUPPES_DATA["transfers"] = {
    ]
   },
   {
-   "title": "FC Bayern: Tresoldi, Gruda, Ngumoha & Co. - die Transferkandidaten im Check",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRV84S25SX0RXV0lLWkpyM1hBMWRraVpTanFWY2VvSGVjNmg4REhHb0IwRW1Cc1hTV3Y3Y0tIbEdmQXlhVlhYS3Zra2lWelh2aVZzR1lrSlgwb2FrYmw1UlAxUS1OYXU2V3VuMzhXLVFzMkllZ3hIVnFQSGNwczNXTnV3T1ltMmZKVE91WnVPamJMbjlVQnBuOF9DYmVjYm5oanBFMU40Q1dKRUN3VEo4c1RSTkJBMU5t?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRV84S25SX0RXV0lLWkpyM1hBMWRraVpTanFWY2VvSGVjNmg4REhHb0IwRW1Cc1hTV3Y3Y0tIbEdmQXlhVlhYS3Zra2lWelh2aVZzR1lrSlgwb2FrYmw1UlAxUS1OYXU2V3VuMzhXLVFzMkllZ3hIVnFQSGNwczNXTnV3T1ltMmZKVE91WnVPamJMbjlVQnBuOF9DYmVjYm5oanBFMU40Q1dKRU",
-   "source": "Sky.de",
-   "date": "2026-11-16T18:06:00.000Z",
-   "fee": null,
-   "clubs": [
-    "Bayern"
-   ],
-   "tags": [
-    "Transfer"
-   ]
-  },
-  {
    "title": "Sommer-Wechsel von DFB-Star Malick Thiaw möglich! Mindestens 80 Millionen Euro aufgerufen",
    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOSGRlcEtXVU1wSVk1c09OSkxTRlp5QndNTlhtcnAzMWxmaUYtX3lsYXNyTHowdEFEbFdiN3NVd1g2OEJTRUpDQWlKWmstS0E2OWVUSGpjdU1YNWQ5R24yMXI4OTRYbkk4STltX05lVUtpdUIxbW10NXVOVDZaMHRUcDNiOHFNS2UxNEhtYzRuVXhWNzlVWWdjWFdBTmZCN3hzRThMdkJtNDhRal9nVXBDWGxGUEpqcVFIRDVveGU1Nk5xQ2t3SHg3ZWhwbXdDcUVSaVFiNkpR?oc=5",
    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxOSGRlcEtXVU1wSVk1c09OSkxTRlp5QndNTlhtcnAzMWxmaUYtX3lsYXNyTHowdEFEbFdiN3NVd1g2OEJTRUpDQWlKWmstS0E2OWVUSGpjdU1YNWQ5R24yMXI4OTRYbkk4STltX05lVUtpdUIxbW10NXVOVDZaMHRUcDNiOHFNS2UxNEhtYzRuVXhWNzlVWWdjWFdBTmZCN3hzRThMdkJtNDhRal",
@@ -372,21 +387,6 @@ window.FUPPES_DATA["transfers"] = {
    ],
    "tags": [
     "Gerücht"
-   ]
-  },
-  {
-   "title": "Maza vor Leverkusen-Verlängerung: Doch PSG bleibt dran!",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeHBjWDR6OEdIRkdRTkZYTjhpT2NyQkVIMHNWSEJNRHZoekk5TlJacTkzZVZkTnRyc21SOTR3QUtJVHAxdkV5aDM4X2NTeEpLVlFHQmZHeGkxbjhLbU9sR003aS1BSUkwemdUU2NOMG9DcFVmd1g1Nk1hUzc5UG5WTTFEa2l3Y3Y3LWdld3BYSDQtbTV3QjloRnh1ZlpOcUhmeUdkSUlfdDJSS0U?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeHBjWDR6OEdIRkdRTkZYTjhpT2NyQkVIMHNWSEJNRHZoekk5TlJacTkzZVZkTnRyc21SOTR3QUtJVHAxdkV5aDM4X2NTeEpLVlFHQmZHeGkxbjhLbU9sR003aS1BSUkwemdUU2NOMG9DcFVmd1g1Nk1hUzc5UG5WTTFEa2l3Y3Y3LWdld3BYSDQtbTV3QjloRnh1ZlpOcUhmeUdkSUlfdDJSS0",
-   "source": "Sky.de",
-   "date": "2026-11-16T17:24:00.000Z",
-   "fee": null,
-   "clubs": [
-    "Leverkusen",
-    "PSG"
-   ],
-   "tags": [
-    "Vertrag"
    ]
   }
  ]

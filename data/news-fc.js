@@ -1,6 +1,6 @@
 window.FUPPES_DATA = window.FUPPES_DATA || {};
 window.FUPPES_DATA["news-fc"] = {
- "updated": "2026-11-17T19:15:03.473Z",
+ "updated": "2026-11-17T21:02:48.785Z",
  "items": [
   {
    "title": "Nach Gerüchten über Abgang: Das sagt Moore über seine Situation beim FC",
