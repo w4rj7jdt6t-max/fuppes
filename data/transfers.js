@@ -1,6 +1,6 @@
 window.FUPPES_DATA = window.FUPPES_DATA || {};
 window.FUPPES_DATA["transfers"] = {
- "updated": "2026-11-17T11:13:42.873Z",
+ "updated": "2026-11-17T13:25:20.331Z",
  "rules": {
   "minFeeMio": 20,
   "topClubs": [
@@ -44,17 +44,104 @@ window.FUPPES_DATA["transfers"] = {
  },
  "items": [
   {
-   "title": "Tresoldi-Wechsel zum FC Bayern vom Tisch?",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVjF1c3dUVENrdE5EeWFUbmJONmlxaV9FVFd6dVg4SVZLZXdlSkRTMUlzNG9GbWtkRGRqcWQ0cUd5V1ZIekFEVmwwSjNWUjZDcGRTRTdJRXg3ay1DTXhZZkhtWHdJbFVCa1JXbms4bWNQUUlHM3BtbFBLZllKbmJLanVuX3k?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPVjF1c3dUVENrdE5EeWFUbmJONmlxaV9FVFd6dVg4SVZLZXdlSkRTMUlzNG9GbWtkRGRqcWQ0cUd5V1ZIekFEVmwwSjNWUjZDcGRTRTdJRXg3ay1DTXhZZkhtWHdJbFVCa1JXbms4bWNQUUlHM3BtbFBLZllKbmJLanVuX3k?oc=5\" target=\"_blank\">Tresoldi-Wechsel zum FC Baye",
+   "title": "Absage an den FC Bayern: Torhüter verlängert Vertrag",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOTAtMmhYNHBGZWVxcGdVNjRCVEIxQ1ZneTNGbEhfUGJ4NEFZYUM2dHZ6R1NERVRFbTNXcm1rUGRydndxUFk1N2xKU1pGWExvRmtFTV9VMXpxTzNieHVTbHV6aWxZTEIzSzJ0TDdmNXIzVnlvdEdmN2hyR01TUks5bW1VeFlmWXZ6?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOTAtMmhYNHBGZWVxcGdVNjRCVEIxQ1ZneTNGbEhfUGJ4NEFZYUM2dHZ6R1NERVRFbTNXcm1rUGRydndxUFk1N2xKU1pGWExvRmtFTV9VMXpxTzNieHVTbHV6aWxZTEIzSzJ0TDdmNXIzVnlvdEdmN2hyR01TUks5bW1VeFlmWXZ6?oc=5\" target=\"_blank\">Absage an den FC Bayern",
+   "source": "fussballdaten.de",
+   "date": "2026-11-17T12:54:00.000Z",
+   "fee": null,
+   "clubs": [
+    "Bayern"
+   ],
+   "tags": [
+    "Vertrag"
+   ]
+  },
+  {
+   "title": "Transfer-Tipp für Bayern – idealer Kane-Ersatz",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOckoyMEZHMkFMRlRCcE5SZ1ZPeUtFUm9OOFo3ZGtUb3FjRHlHSTBvTF9vR1lxdlNsQU1MSlpzc3JwQUNwX0JqVjhXbVppZ1NZZXVDSjNnZE9KLWxvcGRKUmJYaURPWGlfTkk1Z2NHM09ZSE9tRlhZMWI2Z1paeTlpMzhxOHkxbTg?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOckoyMEZHMkFMRlRCcE5SZ1ZPeUtFUm9OOFo3ZGtUb3FjRHlHSTBvTF9vR1lxdlNsQU1MSlpzc3JwQUNwX0JqVjhXbVppZ1NZZXVDSjNnZE9KLWxvcGRKUmJYaURPWGlfTkk1Z2NHM09ZSE9tRlhZMWI2Z1paeTlpMzhxOHkxbTg?oc=5\" target=\"_blank\">Transfer-Tipp für Bayern",
+   "source": "fussballdaten.de",
+   "date": "2026-11-17T12:34:00.000Z",
+   "fee": null,
+   "clubs": [
+    "Bayern"
+   ],
+   "tags": [
+    "Transfer"
+   ]
+  },
+  {
+   "title": "Kader, Sportdirektor, Nachwuchs: Chatzialexiou steht vor wichtigen Entscheidungen",
+   "link": "https://www.kicker.de/kader-sportdirektor-nachwuchs-chatzialexiou-steht-vor-wichtigen-entscheidungen-1272297/artikel#omrss",
+   "summary": "Nach seiner vorzeitigen Vertragsauflösung in Nürnberg kann Sportvorstand Joti Chatzialexiou seine Arbeit in Frankfurt schon im Dezember beginnen. Das ist ein Segen für die Eintracht, denn es wartet viel Arbeit.",
+   "source": "kicker",
+   "date": "2026-11-17T12:22:51.000Z",
+   "fee": null,
+   "clubs": [
+    "Frankfurt"
+   ],
+   "tags": [
+    "Vertrag",
+    "Verein"
+   ]
+  },
+  {
+   "title": "Wechsel von Nicolo Tresoldi zum FC Bayern vom Tisch?",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPMnI0MEU1U2ViLW5DX2o4WkdqcU1LS2M5aUNpQjllZzRjU3VmYkU5ZUNUUmRnN1RwQmdVYjZiV0NMYUZwd0ktZUE5b1lVUHZZSnRWczNSdlNVMGhtSk5GTFkyRHQ4SDU4TXlDRFgzWUFMQWJ5U3VwZ3hSRk5lMlhjaHlHN0xQZ1pDNHF2bnJUMXlXNzA?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPMnI0MEU1U2ViLW5DX2o4WkdqcU1LS2M5aUNpQjllZzRjU3VmYkU5ZUNUUmRnN1RwQmdVYjZiV0NMYUZwd0ktZUE5b1lVUHZZSnRWczNSdlNVMGhtSk5GTFkyRHQ4SDU4TXlDRFgzWUFMQWJ5U3VwZ3hSRk5lMlhjaHlHN0xQZ1pDNHF2bnJUMXlXNzA?oc=5\" target=\"_blank\">Wechsel ",
    "source": "sport.de",
-   "date": "2026-11-17T10:25:00.000Z",
+   "date": "2026-11-17T12:15:20.000Z",
    "fee": null,
    "clubs": [
     "Bayern"
    ],
    "tags": [
     "Gerücht"
+   ]
+  },
+  {
+   "title": "Klausel greift: Bredlow verlängert beim VfB",
+   "link": "https://www.kicker.de/klausel-greift-bredlow-verlaengert-beim-vfb-1272361/artikel#omrss",
+   "summary": "Fabian Bredlow wird auch über die laufende Saison hinaus beim VfB Stuttgart unter Vertrag stehen, wie der Verein am Dienstag mitteilte.",
+   "source": "kicker",
+   "date": "2026-11-17T11:55:43.000Z",
+   "fee": null,
+   "clubs": [
+    "Stuttgart",
+    "VfB"
+   ],
+   "tags": [
+    "Vertrag"
+   ]
+  },
+  {
+   "title": "VfB Stuttgart: Klausel verlängert Vertrag von Torwart Bredlow",
+   "link": "https://www.transfermarkt.de/klausel-verlangert-vfb-vertrag-von-torwart-bredlow-meiste-saisoneinsatze-seit-2022-23/view/news/490751",
+   "summary": "Fabian Bredlow hat sich mit seinen Eins&auml;tzen im Tor des VfB Stuttgart zu Saisonbeginn eine Vertragsverl&auml;ngerung bis 2028 verdient. Nach Angaben der Schwaben ist eine darin verankerte...",
+   "source": "Transfermarkt",
+   "date": "2026-11-17T11:20:20.000Z",
+   "fee": null,
+   "clubs": [
+    "Stuttgart",
+    "VfB"
+   ],
+   "tags": [
+    "Vertrag"
+   ]
+  },
+  {
+   "title": "Transfer-Poker um Bayern-Juwel: Tim Binder im Visier von KSC und Zweitliga-Konkurrenz",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPOTR0RnFuRzRVeS1uSzk3MjVUb3J3R2lYcGlyaW4yRVdWQmN2ZTNJbVFyMVA3aVZyYldlQk9CQWtSRlNlZGotS0wzMnZMZmoyd3V6TzhrMUpuWXk3NWdFNXJGWmdBMTA3RW56MTlrMGRnR2xWT3RKTS1TUEdnN1JLSDFVcHpHR1Q1NG5NYThBU05RV043elBXbWdxY3F1cnByS01vR1RKamI1QQ?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPOTR0RnFuRzRVeS1uSzk3MjVUb3J3R2lYcGlyaW4yRVdWQmN2ZTNJbVFyMVA3aVZyYldlQk9CQWtSRlNlZGotS0wzMnZMZmoyd3V6TzhrMUpuWXk3NWdFNXJGWmdBMTA3RW56MTlrMGRnR2xWT3RKTS1TUEdnN1JLSDFVcHpHR1Q1NG5NYThBU05RV043elBXbWdxY3F1cnByS01vR1RKamI1QQ",
+   "source": "ka-news",
+   "date": "2026-11-17T08:55:36.000Z",
+   "fee": null,
+   "clubs": [
+    "Bayern"
+   ],
+   "tags": [
+    "Transfer"
    ]
   },
   {
@@ -296,91 +383,6 @@ window.FUPPES_DATA["transfers"] = {
    ],
    "tags": [
     "Transfer"
-   ]
-  },
-  {
-   "title": "Drei Deals? FC Bayern prüft Winter-Transfers",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQY21yVkgtb3JoeXpSa3NuUkFyVUYySjIxLXVjMnNDYmV4Y3VMcVdQb1dNYVdDZlV4TUszLThkOHJsbE9maWEzUnVhbmNPQkktUWhUSnhGa1ZZNmNsZi1tdEFNQ2tYXzFzLVhNclNVZFRSZVJNN3lHX3VNdnpRUWR3bEVQRnJILXp2VHFvN3lpTWFZRUU?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQY21yVkgtb3JoeXpSa3NuUkFyVUYySjIxLXVjMnNDYmV4Y3VMcVdQb1dNYVdDZlV4TUszLThkOHJsbE9maWEzUnVhbmNPQkktUWhUSnhGa1ZZNmNsZi1tdEFNQ2tYXzFzLVhNclNVZFRSZVJNN3lHX3VNdnpRUWR3bEVQRnJILXp2VHFvN3lpTWFZRUU?oc=5\" target=\"_blank\">Drei Dea",
-   "source": "Fussball Europa",
-   "date": "2026-11-16T12:18:01.000Z",
-   "fee": null,
-   "clubs": [
-    "Bayern"
-   ],
-   "tags": [
-    "Gerücht"
-   ]
-  },
-  {
-   "title": "Lamine Yamal gibt Barça grünes Licht für großen Transfer",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNRzVITWFibnpCWWV2Z2FzYzU2dEpIQVpyNEV1SkFINk85WVhhUHlxcEVQa3dMU0xlZmllR2Jyc3VRM1dmU2dHZjhtMm5IZWFoZ3d6cURlWjI0ZTNoYklqVHNZT2xXSnJLLWRjSFZwbzBJWWNYMXdEU1gyVk93ay1CY0FfcU91Uk5JY0twT3cxQ0REZkU?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNRzVITWFibnpCWWV2Z2FzYzU2dEpIQVpyNEV1SkFINk85WVhhUHlxcEVQa3dMU0xlZmllR2Jyc3VRM1dmU2dHZjhtMm5IZWFoZ3d6cURlWjI0ZTNoYklqVHNZT2xXSnJLLWRjSFZwbzBJWWNYMXdEU1gyVk93ay1CY0FfcU91Uk5JY0twT3cxQ0REZkU?oc=5\" target=\"_blank\">Lamine Y",
-   "source": "fussballdaten.de",
-   "date": "2026-11-16T11:14:00.000Z",
-   "fee": null,
-   "clubs": [
-    "Barça"
-   ],
-   "tags": [
-    "Transfer"
-   ]
-  },
-  {
-   "title": "Real-Formtief: Arsenal fest überzeugt von Vinicius-Transfer",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNU0NRMmwwVUUwOWI0al9BNFJLWGZMUU1SY0Iwd09sbE5fTlVPdUYwNlN5RHRRNXFVSTlrNlNNQ3I0OEFKbEV2cVJtdTF5RDJlZzBiWlZKRl94ZExudzVIRG5BdWJhUU44MUlGOHpWTEI5YW5zemdFdC1ocEZzSFdRSmM2RzRIUzNMME0wclRhb0VNX0dsTFd3VFoweVdXa3NhTTRTRA?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNU0NRMmwwVUUwOWI0al9BNFJLWGZMUU1SY0Iwd09sbE5fTlVPdUYwNlN5RHRRNXFVSTlrNlNNQ3I0OEFKbEV2cVJtdTF5RDJlZzBiWlZKRl94ZExudzVIRG5BdWJhUU44MUlGOHpWTEI5YW5zemdFdC1ocEZzSFdRSmM2RzRIUzNMME0wclRhb0VNX0dsTFd3VFoweVdXa3NhTTRTRA?oc=5\" t",
-   "source": "Fussball Europa",
-   "date": "2026-11-16T11:07:01.000Z",
-   "fee": null,
-   "clubs": [
-    "Arsenal"
-   ],
-   "tags": [
-    "Transfer"
-   ]
-  },
-  {
-   "title": "Transfer-Überraschung beim FC Bayern?",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOLWNULVZkdExrbFozVm9BMVVwYnIwQzJ2SncxcjRIMkEwVWdmNkpmQzF3ZUNaV0htbmVIdTdFd28wU2h6TFp3VkZrTXZjZFhPdGUxQ1g1RHA5bnk1TlJPVVBOY2dFTDI1WWk2aFk3OE9ITGFzNjhIc1VYOG9UeXVQYm13ZC0xdUxpZWMyU2hsY0tScUVTcTBLT3JnVkpfdUlJVnVyWWlKZVpsOWZzeXc?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOLWNULVZkdExrbFozVm9BMVVwYnIwQzJ2SncxcjRIMkEwVWdmNkpmQzF3ZUNaV0htbmVIdTdFd28wU2h6TFp3VkZrTXZjZFhPdGUxQ1g1RHA5bnk1TlJPVVBOY2dFTDI1WWk2aFk3OE9ITGFzNjhIc1VYOG9UeXVQYm13ZC0xdUxpZWMyU2hsY0tScUVTcTBLT3JnVkpfdUlJVnVyWWlKZVpsOW",
-   "source": "sport.de",
-   "date": "2026-11-16T10:32:00.000Z",
-   "fee": null,
-   "clubs": [
-    "Bayern"
-   ],
-   "tags": [
-    "Gerücht"
-   ]
-  },
-  {
-   "title": "BVB droht Transfer-Schock",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBsbUs0ZTJQOGo1ellXQVp6V1lZTFhwQW9reUwzUFFLcnB5WE93RnVVSlEzSkM4c0Jzc09fSC1WQTVQX3I0dkhVd1FxVktldmhsbXo0aUdUQmlVREg1M1hVN3R2dXNkWXdRbkM3SWFWdm0?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFBsbUs0ZTJQOGo1ellXQVp6V1lZTFhwQW9reUwzUFFLcnB5WE93RnVVSlEzSkM4c0Jzc09fSC1WQTVQX3I0dkhVd1FxVktldmhsbXo0aUdUQmlVREg1M1hVN3R2dXNkWXdRbkM3SWFWdm0?oc=5\" target=\"_blank\">BVB droht Transfer-Schock</a>&nbsp;&nbsp;<font color=\"#6",
-   "source": "sport.de",
-   "date": "2026-11-16T09:58:00.000Z",
-   "fee": null,
-   "clubs": [
-    "BVB"
-   ],
-   "tags": [
-    "Transfer"
-   ]
-  },
-  {
-   "title": "Fußball-Transfergerüchte heute: Arsenal-Kapitän lockt Leipzig-Star – Gunners bei Vini Jr. überzeugt",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1JV05XMXdqcFhhZFBjN2xGX2RzT2ZYTU14eF9Qc2wzTFdJcV80WDFtd01mNzJiUU55VDNBeFVtcmEyNGNKb2k1R3Q1bzRmelpEMUp1WlRTTHlpNUdFZEw0dEVnUWR0TktCbXhQNlRSSU8?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE1JV05XMXdqcFhhZFBjN2xGX2RzT2ZYTU14eF9Qc2wzTFdJcV80WDFtd01mNzJiUU55VDNBeFVtcmEyNGNKb2k1R3Q1bzRmelpEMUp1WlRTTHlpNUdFZEw0dEVnUWR0TktCbXhQNlRSSU8?oc=5\" target=\"_blank\">Fußball-Transfergerüchte heute: Arsenal-Kapitän lockt Le",
-   "source": "90min.de",
-   "date": "2026-11-16T08:32:33.000Z",
-   "fee": null,
-   "clubs": [
-    "Leipzig",
-    "Arsenal"
-   ],
-   "tags": [
-    "Gerücht"
    ]
   }
  ]
