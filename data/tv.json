@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T07:33:49.890Z",
+ "updated": "2026-11-17T09:16:41.477Z",
  "matches": [
   {
    "matchID": 83237,
@@ -25,7 +25,18 @@
    "team1": "Deutschland",
    "team2": "Niederlande",
    "channels": [],
-   "evidence": [],
+   "evidence": [
+    {
+     "title": "!$√[TV/Übertragung!]@! Deutschland – Niederlande jetzt Fußball heute WM ZDF live im TV - UB",
+     "source": "Universitat de Barcelona",
+     "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQUG1OcVNXdFByOUlEV1FkV3JUV0dfdlJCR3lfb2FkT1RXakpEeFh1U3UzUXZ1Sl9VemhqWTBrYWRTdkJMUlpZZTF4aFZjdmxaYW82VzdKekV5T2IyS20zNG1KMmZLRW1LQkxIcmpYemlGODMxSEpIcy1JV20teFpoaFFjVGVJV24tUGFjTm1aM1pETU5hcXJycG1tSnI5YlEtNE92M3IybVhSaU1fM1h6aGhzZkhEQUVCT2Zock9VZXpLaklvWno5R2lFZS1xYlJ5OVhYb1JuMWxlMTg3Zi1JWWVIczlGSHc1ZVp2Tmx5Wjg1QnJtQV95R2h0RUtldUJvcHRvN3hPYkE5bU5EVDlITDZzNEMwNm5TN1E?oc=5"
+    },
+    {
+     "title": "Deutschland Niederlande kostenlos live streamen: Nations League heute in der ARD live",
+     "source": "dslweb",
+     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQMXo1dEhhdENKZEdWR0N1aWhxVFVPXzh3dlFMSmFKbC1XbnJRR3RVV3lMUS1CZ2NwanY2ZEYzcVBMdTNMcmhCS2VMLTRpckVrckdrd0pmekZkbGJja0dKNDNLb0FtSTFNbGZGdlZ1Z0ZLLUtOWERsX0s3WHFpcFNmNXJuU2tIcXFONDgwRFdDU3lBNF9PTndoNkN4Ykl6UGxrV2FqRC1qVENLOHp0c3FMZm4zUUxhYXllTUE?oc=5"
+    }
+   ],
    "kicker": null
   },
   {
