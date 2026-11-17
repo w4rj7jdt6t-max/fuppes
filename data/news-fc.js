@@ -1,6 +1,6 @@
 window.FUPPES_DATA = window.FUPPES_DATA || {};
 window.FUPPES_DATA["news-fc"] = {
- "updated": "2026-11-17T02:59:31.028Z",
+ "updated": "2026-11-17T05:11:31.322Z",
  "items": [
   {
    "title": "Über ein Jahr verletzt: Keine Prognose! Comeback-Idee „noch zu weit weg“",
