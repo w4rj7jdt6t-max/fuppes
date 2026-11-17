@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T13:25:20.331Z",
+ "updated": "2026-11-17T15:04:54.045Z",
  "rules": {
   "minFeeMio": 20,
   "topClubs": [
@@ -42,6 +42,49 @@
   ]
  },
  "items": [
+  {
+   "title": "Bayern & BVB im Transferduell",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSGZhclM1bURvUzlmend6V3BhUHI2elZaaXdZX0RzUlQ2X3h4RWJEYzhRQXpITXRKV2pVV2ZyQW90Q3VRbUxyeUVKQUdDNTBmVnk4RmJueXpoVmp6RVFTRlN1Sm9zWHlrS2tBaHVHaXJUYm81TjFxTEZqOWdpdWZ1aWl4b3dNRkFRdlE?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxOSGZhclM1bURvUzlmend6V3BhUHI2elZaaXdZX0RzUlQ2X3h4RWJEYzhRQXpITXRKV2pVV2ZyQW90Q3VRbUxyeUVKQUdDNTBmVnk4RmJueXpoVmp6RVFTRlN1Sm9zWHlrS2tBaHVHaXJUYm81TjFxTEZqOWdpdWZ1aWl4b3dNRkFRdlE?oc=5\" target=\"_blank\">Bayern & BVB im Tran",
+   "source": "Fussball Transfers",
+   "date": "2026-11-17T14:40:09.000Z",
+   "fee": null,
+   "clubs": [
+    "Bayern",
+    "BVB"
+   ],
+   "tags": [
+    "Transfer"
+   ]
+  },
+  {
+   "title": "Arsenal will mit Hincapie verlängern",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQSk5vNWJpci14LVJtRzJNRmN4V3lLSXVZN21rN242ekhrNDQ5RUc3dk5aNGUtSmVnUUM4NS13cDVLYXdEbjFnS3JVdEQtZk5DUFNBZV92OGlNS3Y4TzN1QzZ0ZHdGTEkwTnlDTDdiNjV1Y3hyZzZ6TEp5OFdMY0FuaU5CR2dLMDJKSkZ5NnAtLUR4MlE?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQSk5vNWJpci14LVJtRzJNRmN4V3lLSXVZN21rN242ekhrNDQ5RUc3dk5aNGUtSmVnUUM4NS13cDVLYXdEbjFnS3JVdEQtZk5DUFNBZV92OGlNS3Y4TzN1QzZ0ZHdGTEkwTnlDTDdiNjV1Y3hyZzZ6TEp5OFdMY0FuaU5CR2dLMDJKSkZ5NnAtLUR4MlE?oc=5\" target=\"_blank\">Arsenal ",
+   "source": "Kicker",
+   "date": "2026-11-17T13:49:18.000Z",
+   "fee": null,
+   "clubs": [
+    "Arsenal"
+   ],
+   "tags": [
+    "Vertrag"
+   ]
+  },
+  {
+   "title": "Drei Winter-Transfers beim FC Bayern?",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1uRm9Fdlg2dFQ1QlBOQ0kzcmEzbG56QkFtUXpKdjhuZEwybHNrRDJxWElUMjAwbVhnNEJhUjlEX0lrYTd2MUNHOHlTeHVxcTM5YUM0NjNSSGJBbW5kTVVkV3hFd2VLSjAtY0xENHhZVG9Eb05hQVZMMmlCd3QzMkU?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1uRm9Fdlg2dFQ1QlBOQ0kzcmEzbG56QkFtUXpKdjhuZEwybHNrRDJxWElUMjAwbVhnNEJhUjlEX0lrYTd2MUNHOHlTeHVxcTM5YUM0NjNSSGJBbW5kTVVkV3hFd2VLSjAtY0xENHhZVG9Eb05hQVZMMmlCd3QzMkU?oc=5\" target=\"_blank\">Drei Winter-Transfers beim FC Bayern",
+   "source": "sport.de",
+   "date": "2026-11-17T13:41:00.000Z",
+   "fee": null,
+   "clubs": [
+    "Bayern"
+   ],
+   "tags": [
+    "Gerücht"
+   ]
+  },
   {
    "title": "Absage an den FC Bayern: Torhüter verlängert Vertrag",
    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOTAtMmhYNHBGZWVxcGdVNjRCVEIxQ1ZneTNGbEhfUGJ4NEFZYUM2dHZ6R1NERVRFbTNXcm1rUGRydndxUFk1N2xKU1pGWExvRmtFTV9VMXpxTzNieHVTbHV6aWxZTEIzSzJ0TDdmNXIzVnlvdEdmN2hyR01TUks5bW1VeFlmWXZ6?oc=5",
@@ -90,7 +133,7 @@
    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPMnI0MEU1U2ViLW5DX2o4WkdqcU1LS2M5aUNpQjllZzRjU3VmYkU5ZUNUUmRnN1RwQmdVYjZiV0NMYUZwd0ktZUE5b1lVUHZZSnRWczNSdlNVMGhtSk5GTFkyRHQ4SDU4TXlDRFgzWUFMQWJ5U3VwZ3hSRk5lMlhjaHlHN0xQZ1pDNHF2bnJUMXlXNzA?oc=5",
    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPMnI0MEU1U2ViLW5DX2o4WkdqcU1LS2M5aUNpQjllZzRjU3VmYkU5ZUNUUmRnN1RwQmdVYjZiV0NMYUZwd0ktZUE5b1lVUHZZSnRWczNSdlNVMGhtSk5GTFkyRHQ4SDU4TXlDRFgzWUFMQWJ5U3VwZ3hSRk5lMlhjaHlHN0xQZ1pDNHF2bnJUMXlXNzA?oc=5\" target=\"_blank\">Wechsel ",
    "source": "sport.de",
-   "date": "2026-11-17T12:15:20.000Z",
+   "date": "2026-11-17T12:10:00.000Z",
    "fee": null,
    "clubs": [
     "Bayern"
@@ -186,20 +229,6 @@
    "tags": [
     "Gerücht",
     "Vertrag"
-   ]
-  },
-  {
-   "title": "Bayer Leverkusen: Neuer Transfer-Plan bei Maza",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNDlMWTJJS2JOSzgwRDFxNEttOFRpbEp0YVpBejlXd09YV2VVMExJWmJzb0czRTU4ZVN2ZWZ2ZHNqVDdTQjMxX2dfT0dBdU9pN0JyRHVfUFFuS21fYnhDWXdCUnFxU29NRFk5c3JPV0FwWVpiVm5BdGlRNmF1QTBEYllFWTBEMGhBOU1r?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNDlMWTJJS2JOSzgwRDFxNEttOFRpbEp0YVpBejlXd09YV2VVMExJWmJzb0czRTU4ZVN2ZWZ2ZHNqVDdTQjMxX2dfT0dBdU9pN0JyRHVfUFFuS21fYnhDWXdCUnFxU29NRFk5c3JPV0FwWVpiVm5BdGlRNmF1QTBEYllFWTBEMGhBOU1r?oc=5\" target=\"_blank\">Bayer Leverkusen: N",
-   "source": "Fussball Transfers",
-   "date": "2026-11-16T19:35:00.000Z",
-   "fee": null,
-   "clubs": [
-    "Leverkusen"
-   ],
-   "tags": [
-    "Transfer"
    ]
   },
   {
@@ -353,35 +382,6 @@
    ],
    "tags": [
     "Gerücht"
-   ]
-  },
-  {
-   "title": "Weg nach Frankfurt frei: Chatzialexious FCN-Vertrag endet vorzeitig",
-   "link": "https://www.kicker.de/weg-nach-frankfurt-frei-chatzialexious-fcn-vertrag-endet-vorzeitig-1272132/artikel#omrss",
-   "summary": "Der Wechsel von Joti Chatzialexiou vom 1. FC Nürnberg zu Eintracht Frankfurt ist längst offiziell. Nun ist aber klar, dass der neue Sportvorstand bereits ab Dezember bei der SGE starten kann.",
-   "source": "kicker",
-   "date": "2026-11-16T15:00:21.000Z",
-   "fee": null,
-   "clubs": [
-    "Eintracht Frankfurt",
-    "Frankfurt"
-   ],
-   "tags": [
-    "Vertrag"
-   ]
-  },
-  {
-   "title": "„Nächste Saison spielt er für Real Madrid“ – Weltstar vor Transfer",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbGF1NUxsaXY5T1BVbUdHU3VsOGNuOFpGU29ld0QxUm1VbmxNUFd2M1lwYVRBN3J3TlFwQ3UwNjFHUDRPU2Y0NWF2V01xcW90bHZ4R3FZTUR1aEt5aGRZdUFKdjZiWXJFNVBZaEtBY1h4NWgxUFE0bTViQWp0LTJtbEI2RnRHanF2SXBHLURKS2Z3c0JI?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPbGF1NUxsaXY5T1BVbUdHU3VsOGNuOFpGU29ld0QxUm1VbmxNUFd2M1lwYVRBN3J3TlFwQ3UwNjFHUDRPU2Y0NWF2V01xcW90bHZ4R3FZTUR1aEt5aGRZdUFKdjZiWXJFNVBZaEtBY1h4NWgxUFE0bTViQWp0LTJtbEI2RnRHanF2SXBHLURKS2Z3c0JI?oc=5\" target=\"_blank\">„Nächst",
-   "source": "fussballdaten.de",
-   "date": "2026-11-16T13:38:00.000Z",
-   "fee": null,
-   "clubs": [
-    "Real Madrid"
-   ],
-   "tags": [
-    "Transfer"
    ]
   }
  ]
