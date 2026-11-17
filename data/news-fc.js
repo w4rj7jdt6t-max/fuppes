@@ -1,6 +1,6 @@
 window.FUPPES_DATA = window.FUPPES_DATA || {};
 window.FUPPES_DATA["news-fc"] = {
- "updated": "2026-11-17T21:02:48.785Z",
+ "updated": "2026-11-17T23:04:24.314Z",
  "items": [
   {
    "title": "Nach Gerüchten über Abgang: Das sagt Moore über seine Situation beim FC",
@@ -80,16 +80,6 @@ window.FUPPES_DATA["news-fc"] = {
    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPVHM5WDR6WGJkb01KUDJ0amxBTTRPdFZNRmQ3RkVaT2RKM1RUbXZPSW5tZ0M1TFVEQkdkZDBNTEp4M1otUHh2ZmxKRks3dmphMXJRTEUyVWdRcnVNSjgtVDVHaDRqLW9JYzRIbzNxYUlyQXliWHVSZ2pMVkN3UEYycVE0TjZZMkE?oc=5\" target=\"_blank\">1. FC Köln prüft offenba",
    "source": "sport.de",
    "date": "2026-11-17T12:19:00.000Z",
-   "tags": [
-    "Gerücht"
-   ]
-  },
-  {
-   "title": "Newsticker 1. FC Köln: Kommt Offensiv-Star wirklich zurück? FC soll Transfer prüfen!",
-   "link": "https://geissblog.koeln/2026/11/newsticker-1-fc-koeln-alle-nachrichten-zum-effzeh-im-newsticker-4/",
-   "summary": "Hier gibt es alle News zum 1. FC Köln: Bundesliga, Frauen-Bundesliga, die U21 in der Regionalliga West, die U19 und die U17 in den DFB-Nachwuchsligen.... Der Beitrag Newsticker 1. FC Köln: Kommt Offensiv-Star wirklich zurück? FC soll Transfer prüfen! erschien zuerst auf GEISSBLOG",
-   "source": "GEISSBLOG",
-   "date": "2026-11-17T12:00:00.000Z",
    "tags": [
     "Gerücht"
    ]
@@ -206,6 +196,16 @@ window.FUPPES_DATA["news-fc"] = {
    "date": "2026-11-15T09:54:00.000Z",
    "tags": [
     "Gerücht",
+    "Verein"
+   ]
+  },
+  {
+   "title": "Köln-Boss erklärt Trainer-Entscheidung",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQckZ3UHpubkp2NWNrX2hkdzVmMzZvLWF1aUNWZkJrVjhIbDlkTnIwR3JhUmFDUWJ2Q1JwbkZWZjN2UEJsYlIwTXNoMnRIOUg2M21mNEdnMnpRbzZ5MVhIYXYxQlJxRVg1SGd0eUstRFQ5dW5aMVJkMG43NThtLUFLcVBpVm0?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQckZ3UHpubkp2NWNrX2hkdzVmMzZvLWF1aUNWZkJrVjhIbDlkTnIwR3JhUmFDUWJ2Q1JwbkZWZjN2UEJsYlIwTXNoMnRIOUg2M21mNEdnMnpRbzZ5MVhIYXYxQlJxRVg1SGd0eUstRFQ5dW5aMVJkMG43NThtLUFLcVBpVm0?oc=5\" target=\"_blank\">Köln-Boss erklärt Trainer-En",
+   "source": "sport.de",
+   "date": "2026-11-15T06:02:00.000Z",
+   "tags": [
     "Verein"
    ]
   }
