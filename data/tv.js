@@ -1,6 +1,6 @@
 window.FUPPES_DATA = window.FUPPES_DATA || {};
 window.FUPPES_DATA["tv"] = {
- "updated": "2026-11-17T15:04:55.208Z",
+ "updated": "2026-11-17T17:16:37.021Z",
  "matches": [
   {
    "matchID": 83237,
@@ -96,7 +96,7 @@ window.FUPPES_DATA["tv"] = {
    "matchID": 87754,
    "kick": "2026-11-26T20:00:00Z",
    "team1": "TSG Hoffenheim",
-   "team2": "Sturm Graz",
+   "team2": "SK Puntigamer Sturm Graz",
    "channels": [],
    "evidence": [],
    "kicker": null

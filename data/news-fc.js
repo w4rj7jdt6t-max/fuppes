@@ -1,7 +1,39 @@
 window.FUPPES_DATA = window.FUPPES_DATA || {};
 window.FUPPES_DATA["news-fc"] = {
- "updated": "2026-11-17T15:04:52.638Z",
+ "updated": "2026-11-17T17:16:34.714Z",
  "items": [
+  {
+   "title": "Nach Gerüchten über Abgang: Das sagt Moore über seine Situation beim FC",
+   "link": "https://geissblog.koeln/2026/11/nach-geruechten-ueber-abgang-das-sagt-moore-ueber-seine-situation-beim-fc/",
+   "summary": "Mikey Moore kehrt erneut mit Rückenwind zum 1. FC Köln zurück. Nach seinem Debüttreffer für Englands U21 und Gerüchten über einen Leihabbruch im Winter hat... Der Beitrag Nach Gerüchten über Abgang: Das sagt Moore über seine Situation beim FC erschien zuerst auf GEISSBLOG .",
+   "source": "GEISSBLOG",
+   "date": "2026-11-17T17:00:00.000Z",
+   "tags": [
+    "Gerücht",
+    "Leihe"
+   ]
+  },
+  {
+   "title": "Kölns Millionen-Abgang vor dem Comeback? Kamiński-Rückkehr soll konkreter werden",
+   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNVlpxOTg1N1IwV3dCaWtXMkE4VmNEejBtYlhkU1FFMlBxRGVIMV9EZXBadHhXVDZZWXBBSVdKRXQxWjRRN0xxSmNGU19NRTJxX0RSQ3c2ejVjSk5YajhqMk93ZVZSd2lNcDdqUkI3MTRJd1Q2M1cyM2haLWRqcVRXbDN6M0l1NzBmM3dieFN6M1FoRGJ4RW9rUG9Qc3YtbDVLSnV3RjBhYmlCMFFEVkFBclpWSm14c3FTcHlqM2dGZlU4U3dMdzEweUI0RmRrS0p2YkNiVUwzdWszWHpWVmNYdDg0dzRYOUhHY3VYTTh3?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxNVlpxOTg1N1IwV3dCaWtXMkE4VmNEejBtYlhkU1FFMlBxRGVIMV9EZXBadHhXVDZZWXBBSVdKRXQxWjRRN0xxSmNGU19NRTJxX0RSQ3c2ejVjSk5YajhqMk93ZVZSd2lNcDdqUkI3MTRJd1Q2M1cyM2haLWRqcVRXbDN6M0l1NzBmM3dieFN6M1FoRGJ4RW9rUG9Qc3YtbDVLSnV3RjBhYmlCMF",
+   "source": "n-tv.de",
+   "date": "2026-11-17T16:18:52.000Z",
+   "tags": [
+    "Gerücht",
+    "Personal"
+   ]
+  },
+  {
+   "title": "Köln-Rückkehr konkreter: Benfica 6 Monate nach 17-Millionen-Deal offen für Kamiński-Abgang",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPR3lWUk0xaHYxY2d1MFE0amxGWVNfdTgtTWtxTHhqTXVYN1pUcmFiNXlfSzBNT0VDMzJQRXZxSlp2ejVOTlMtQkNfem9YaWJnS0lrNlFaSEI2SmE5dFVfb1B5ZlNzaUhfclFETGMyd2JXamdxaVZ0Y3FRelNLQ3JfRm9SVWN1cjlOemdZaG4tbzZoc0w1ZmI0ZlROUUp0Y0ZfT3ctS0JoN3ZVMFI1Y0NFOFpjYnNuc19GQS1peTdVY2xFbFh3aTZESFIxR2RzRmwt?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxPR3lWUk0xaHYxY2d1MFE0amxGWVNfdTgtTWtxTHhqTXVYN1pUcmFiNXlfSzBNT0VDMzJQRXZxSlp2ejVOTlMtQkNfem9YaWJnS0lrNlFaSEI2SmE5dFVfb1B5ZlNzaUhfclFETGMyd2JXamdxaVZ0Y3FRelNLQ3JfRm9SVWN1cjlOemdZaG4tbzZoc0w1ZmI0ZlROUUp0Y0ZfT3ctS0JoN3ZVMF",
+   "source": "Transfermarkt",
+   "date": "2026-11-17T15:43:00.000Z",
+   "tags": [
+    "Personal"
+   ]
+  },
   {
    "title": "Vor Spiel gegen den 1. FC Köln: Kompany vor Rückkehr auf die Trainerbank",
    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNd0hXdl83WUF6azFFcWFhUlFYcEtiSS1WYndFRVl0dlFtT19MajRJaFY3MVdHazhqNVZfSUlaazFvWEs3Z3hHVDR2R2F2MGd3Tnd3bHJTQ3A4V2NPMnd4WTdHNEI4YmxNdHdXank0MllzT0dCOXE0SEw4ZUNIeW85UDgtU1lGc203UGVhNFRGNHctbFQzd2tkcW9NR1A2UGhKZkxJTWtaN2xDUlNjbUFWc2pXM0dNV1kyTkhxNl9JRV9sUQ?oc=5",
@@ -24,16 +56,6 @@ window.FUPPES_DATA["news-fc"] = {
    ]
   },
   {
-   "title": "1. FC Köln forciert ersten Winter-Transfer",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQkhXVUtwX25kOUQzcHpvbmlGQS1NOWJYM0VVV0pyakZPLWR6WmgwZWlwVVN3WWoxUWRrNHB0X1VtX20tLVQtU0ZTYmUxeDRDcGN6dGlwN216Njh0d3dJa0FPQXNMWkZSYjVIMXlXMFBMb19fZVNJVEVJdEZiUkwyWUxYNUg0N25tNDRZSVNWVHVVenFybjQw?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNQkhXVUtwX25kOUQzcHpvbmlGQS1NOWJYM0VVV0pyakZPLWR6WmgwZWlwVVN3WWoxUWRrNHB0X1VtX20tLVQtU0ZTYmUxeDRDcGN6dGlwN216Njh0d3dJa0FPQXNMWkZSYjVIMXlXMFBMb19fZVNJVEVJdEZiUkwyWUxYNUg0N25tNDRZSVNWVHVVenFybjQw?oc=5\" target=\"_blank\">1. ",
-   "source": "Fussball Transfers",
-   "date": "2026-11-17T12:28:09.000Z",
-   "tags": [
-    "Transfer"
-   ]
-  },
-  {
    "title": "Transfer-Angriff: 1. FC Köln macht bei Wunschspieler ernst",
    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPcXNpd001ZTNDYUF5SWpYZUItMjdHOE5nM2p0dVdibGE5eW5RSmtZT2RyaWlIX2VMMnZuTjFUMXlQRWNiSVk2RTZ2Mjlpa1h2QlZUQ2lQcGJKelV2Z2d6M2xrOW1GWjJrdERTbUU4MklIX1ZNd3NMZnoyVnRSODVHRU5pYw?oc=5",
    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPcXNpd001ZTNDYUF5SWpYZUItMjdHOE5nM2p0dVdibGE5eW5RSmtZT2RyaWlIX2VMMnZuTjFUMXlQRWNiSVk2RTZ2Mjlpa1h2QlZUQ2lQcGJKelV2Z2d6M2xrOW1GWjJrdERTbUU4MklIX1ZNd3NMZnoyVnRSODVHRU5pYw?oc=5\" target=\"_blank\">Transfer-Angriff: 1. FC Köln ",
@@ -41,16 +63,6 @@ window.FUPPES_DATA["news-fc"] = {
    "date": "2026-11-17T12:25:57.000Z",
    "tags": [
     "Transfer"
-   ]
-  },
-  {
-   "title": "Startelfeinsatz in Sicht? Musiala steht gegen Köln im Bayern-Kader",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTjJxMDM1X0l4VnFRUFYxbGtTckpJb1JuMzF4UUs3NS1Tak9CQXRTM2J0aFdvcEI0RnlUd2xrRHJrUlA4R1Q3TzFMQ3NYY1hXTUJPendnODdRcFF0NjhDaDAwV2JZSmJoM184dTZIeWtGRlNjckxSdWMwQjEzckVRWG5GWEVnTmEtSGEwR0t5ZmxDMnRvdlhqVlExMzhXWnBB?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQTjJxMDM1X0l4VnFRUFYxbGtTckpJb1JuMzF4UUs3NS1Tak9CQXRTM2J0aFdvcEI0RnlUd2xrRHJrUlA4R1Q3TzFMQ3NYY1hXTUJPendnODdRcFF0NjhDaDAwV2JZSmJoM184dTZIeWtGRlNjckxSdWMwQjEzckVRWG5GWEVnTmEtSGEwR0t5ZmxDMnRvdlhqVlExMzhXWnBB?oc=5\" target=",
-   "source": "FCBinside",
-   "date": "2026-11-17T12:19:28.000Z",
-   "tags": [
-    "Gerücht"
    ]
   },
   {
@@ -106,16 +118,6 @@ window.FUPPES_DATA["news-fc"] = {
    ]
   },
   {
-   "title": "\"Wäre absurd\": Köln-Boss mit Transfer-Klartext zu El Mala",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdUx3WVVQSWxGb08xVThaRS1rNWUtdGF2SVlUWmFwelpYOUpheGR0blVwS2hLc0tQdmh1NGZhc3lpV29Ham5zN2lwcE55dERIQ2lSVVQyOVBLWmxOaVRESUlQV0VQUmRCaHR6RzF4My1hXzZZUlc4aDByYldZODc5QXhSRUszTDhGV3VfY052LWNGSVItMXllNi1aOThxckd1dnAw?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNdUx3WVVQSWxGb08xVThaRS1rNWUtdGF2SVlUWmFwelpYOUpheGR0blVwS2hLc0tQdmh1NGZhc3lpV29Ham5zN2lwcE55dERIQ2lSVVQyOVBLWmxOaVRESUlQV0VQUmRCaHR6RzF4My1hXzZZUlc4aDByYldZODc5QXhSRUszTDhGV3VfY052LWNGSVItMXllNi1aOThxckd1dnAw?oc=5\" tar",
-   "source": "Fussball Europa",
-   "date": "2026-11-16T18:53:01.000Z",
-   "tags": [
-    "Transfer"
-   ]
-  },
-  {
    "title": "Über ein Jahr verletzt: Keine Prognose! Comeback-Idee „noch zu weit weg“",
    "link": "https://geissblog.koeln/2026/11/ueber-ein-jahr-verletzt-keine-prognose-comeback-idee-noch-zu-weit-weg/",
    "summary": "Timo Hübers fällt seit über einem Jahr aus. Der ehemalige Kapitän des 1. FC Köln schuftet in der Reha. Doch ein Comeback ist noch in... Der Beitrag Über ein Jahr verletzt: Keine Prognose! Comeback-Idee „noch zu weit weg“ erschien zuerst auf GEISSBLOG .",
@@ -157,16 +159,6 @@ window.FUPPES_DATA["news-fc"] = {
    ]
   },
   {
-   "title": "FC-Boom verpflichtet: Macht WM-Bewerbung den Stadionausbau möglich?",
-   "link": "https://geissblog.koeln/2026/11/fc-boom-verpflichtet-macht-wm-bewerbung-den-stadionausbau-moeglich/",
-   "summary": "Der Verein wächst und wächst, das RheinEnergieStadion allerdings nicht. Präsident Jörn Stobbe sucht mit einer Kommission nach einer Lösung für den 1. FC Köln und... Der Beitrag FC-Boom verpflichtet: Macht WM-Bewerbung den Stadionausbau möglich? erschien zuerst auf GEISSBLOG .",
-   "source": "GEISSBLOG",
-   "date": "2026-11-16T09:00:00.000Z",
-   "tags": [
-    "Gerücht"
-   ]
-  },
-  {
    "title": "Union Berlin: Transfer-Duell mit Köln um Ianis Stoica",
    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZXNuZHhlR2RuRE95dmNwVmttdTVaNVNyOVc2XzlPdm5QcGZFcEpWbTlad2RYcEM4aTJHX1ZmeHFMQUdHeUVUcXkyQWVkcm1aZldJeFphSGNuRmhZNEdFN081UnBUWFpVdjFWM0VBTkE3TUdoaUFtSERCMTNjT0VPOHNHZWoxTm5ZOTg3YlVRS1dGa3d5bkxMNUNDTHpnUFFVSlhRLUNoMWdiYmxERDdHMlBVd0NSa2owck5md3d3?oc=5",
    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxNZXNuZHhlR2RuRE95dmNwVmttdTVaNVNyOVc2XzlPdm5QcGZFcEpWbTlad2RYcEM4aTJHX1ZmeHFMQUdHeUVUcXkyQWVkcm1aZldJeFphSGNuRmhZNEdFN081UnBUWFpVdjFWM0VBTkE3TUdoaUFtSERCMTNjT0VPOHNHZWoxTm5ZOTg3YlVRS1dGa3d5bkxMNUNDTHpnUFFVSlhRLUNoMWdiYm",
@@ -205,6 +197,17 @@ window.FUPPES_DATA["news-fc"] = {
    "date": "2026-11-14T10:20:06.000Z",
    "tags": [
     "Transfer"
+   ]
+  },
+  {
+   "title": "DFB-Team startet mit Trainings-Doppelschicht - aber ohne El Mala",
+   "link": "https://www.kicker.de/dfb-team-startet-mit-trainings-doppelschicht-aber-ohne-el-mala-1270507/artikel#omrss",
+   "summary": "Die deutsche Nationalmannschaft hat die Vorbereitung auf die wichtigen November-Länderspiele aufgenommen. Beim intensiven Start in Herzogenaurach fehlte Bundestrainer Jürgen Klopp mit Said El Mala nur einer von 24 Nominierten.",
+   "source": "kicker",
+   "date": "2026-11-10T16:37:04.000Z",
+   "tags": [
+    "Personal",
+    "Verein"
    ]
   }
  ]

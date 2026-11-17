@@ -1,6 +1,6 @@
 window.FUPPES_DATA = window.FUPPES_DATA || {};
 window.FUPPES_DATA["transfers"] = {
- "updated": "2026-11-17T15:04:54.045Z",
+ "updated": "2026-11-17T17:16:35.912Z",
  "rules": {
   "minFeeMio": 20,
   "topClubs": [
@@ -44,6 +44,20 @@ window.FUPPES_DATA["transfers"] = {
  },
  "items": [
   {
+   "title": "Ben Yedder unterschreibt bei Drittligist Paris 13 Atletico – Zuletzt in Marokko aktiv",
+   "link": "https://www.transfermarkt.de/ben-yedder-unterschreibt-bei-drittligist-paris-13-atletico-zuletzt-in-marokko-aktiv/view/news/490778",
+   "summary": "Wissam Ben Yedder hat noch nicht genug. Der 36 Jahre alte St&uuml;rmer, der seit Sommer 2026 vereinslos war, hat bis zum Saisonende beim franz&ouml;sischen Drittligisten Paris 13 Atletico...",
+   "source": "Transfermarkt",
+   "date": "2026-11-17T16:24:28.000Z",
+   "fee": null,
+   "clubs": [
+    "Atletico"
+   ],
+   "tags": [
+    "Vertrag"
+   ]
+  },
+  {
    "title": "Bayern & BVB im Transferduell",
    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSGZhclM1bURvUzlmend6V3BhUHI2elZaaXdZX0RzUlQ2X3h4RWJEYzhRQXpITXRKV2pVV2ZyQW90Q3VRbUxyeUVKQUdDNTBmVnk4RmJueXpoVmp6RVFTRlN1Sm9zWHlrS2tBaHVHaXJUYm81TjFxTEZqOWdpdWZ1aWl4b3dNRkFRdlE?oc=5",
    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxOSGZhclM1bURvUzlmend6V3BhUHI2elZaaXdZX0RzUlQ2X3h4RWJEYzhRQXpITXRKV2pVV2ZyQW90Q3VRbUxyeUVKQUdDNTBmVnk4RmJueXpoVmp6RVFTRlN1Sm9zWHlrS2tBaHVHaXJUYm81TjFxTEZqOWdpdWZ1aWl4b3dNRkFRdlE?oc=5\" target=\"_blank\">Bayern & BVB im Tran",
@@ -73,17 +87,18 @@ window.FUPPES_DATA["transfers"] = {
    ]
   },
   {
-   "title": "Drei Winter-Transfers beim FC Bayern?",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1uRm9Fdlg2dFQ1QlBOQ0kzcmEzbG56QkFtUXpKdjhuZEwybHNrRDJxWElUMjAwbVhnNEJhUjlEX0lrYTd2MUNHOHlTeHVxcTM5YUM0NjNSSGJBbW5kTVVkV3hFd2VLSjAtY0xENHhZVG9Eb05hQVZMMmlCd3QzMkU?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1uRm9Fdlg2dFQ1QlBOQ0kzcmEzbG56QkFtUXpKdjhuZEwybHNrRDJxWElUMjAwbVhnNEJhUjlEX0lrYTd2MUNHOHlTeHVxcTM5YUM0NjNSSGJBbW5kTVVkV3hFd2VLSjAtY0xENHhZVG9Eb05hQVZMMmlCd3QzMkU?oc=5\" target=\"_blank\">Drei Winter-Transfers beim FC Bayern",
-   "source": "sport.de",
-   "date": "2026-11-17T13:41:00.000Z",
+   "title": "Arsenal plant bis 2032: Hincapié offenbar kurz vor Verlängerung",
+   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQS3JXWVE0a2JxUXc4Z3RGcVBWUjI1eVdoM21kb0pXU08xOTU1Mnd0dU1XbmN2YjVraUpRMXh1ZWNSbnpUZU40QkxHbUYxTlc0XzdUUjRVNnUwdndJWHZfUXZybzRYc3dSNnFQY081MEVfdWY2NHh5RFlXSEZtSk9teV9pMnE2eTQ2dmJNcElCSnQyUzBfaXQySkVoSkFmLW1YeXFJSHFvZmlZeGxDVGhTbEY3X3ZsTXBudGUzRE1waXdzRHdWZk53T0VYSzk4UzdCWEpncUo2RXJMekpVQW1UV3Qtdzk4NmQ1cndlbzM5dVB3QWs?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8wFBVV95cUxQS3JXWVE0a2JxUXc4Z3RGcVBWUjI1eVdoM21kb0pXU08xOTU1Mnd0dU1XbmN2YjVraUpRMXh1ZWNSbnpUZU40QkxHbUYxTlc0XzdUUjRVNnUwdndJWHZfUXZybzRYc3dSNnFQY081MEVfdWY2NHh5RFlXSEZtSk9teV9pMnE2eTQ2dmJNcElCSnQyUzBfaXQySkVoSkFmLW1YeXFJSHFvZmlZeG",
+   "source": "n-tv.de",
+   "date": "2026-11-17T13:09:00.000Z",
    "fee": null,
    "clubs": [
-    "Bayern"
+    "Arsenal"
    ],
    "tags": [
-    "Gerücht"
+    "Gerücht",
+    "Vertrag"
    ]
   },
   {
@@ -159,21 +174,6 @@ window.FUPPES_DATA["transfers"] = {
    ]
   },
   {
-   "title": "VfB Stuttgart: Klausel verlängert Vertrag von Torwart Bredlow",
-   "link": "https://www.transfermarkt.de/klausel-verlangert-vfb-vertrag-von-torwart-bredlow-meiste-saisoneinsatze-seit-2022-23/view/news/490751",
-   "summary": "Fabian Bredlow hat sich mit seinen Eins&auml;tzen im Tor des VfB Stuttgart zu Saisonbeginn eine Vertragsverl&auml;ngerung bis 2028 verdient. Nach Angaben der Schwaben ist eine darin verankerte...",
-   "source": "Transfermarkt",
-   "date": "2026-11-17T11:20:20.000Z",
-   "fee": null,
-   "clubs": [
-    "Stuttgart",
-    "VfB"
-   ],
-   "tags": [
-    "Vertrag"
-   ]
-  },
-  {
    "title": "Transfer-Poker um Bayern-Juwel: Tim Binder im Visier von KSC und Zweitliga-Konkurrenz",
    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPOTR0RnFuRzRVeS1uSzk3MjVUb3J3R2lYcGlyaW4yRVdWQmN2ZTNJbVFyMVA3aVZyYldlQk9CQWtSRlNlZGotS0wzMnZMZmoyd3V6TzhrMUpuWXk3NWdFNXJGWmdBMTA3RW56MTlrMGRnR2xWT3RKTS1TUEdnN1JLSDFVcHpHR1Q1NG5NYThBU05RV043elBXbWdxY3F1cnByS01vR1RKamI1QQ?oc=5",
    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPOTR0RnFuRzRVeS1uSzk3MjVUb3J3R2lYcGlyaW4yRVdWQmN2ZTNJbVFyMVA3aVZyYldlQk9CQWtSRlNlZGotS0wzMnZMZmoyd3V6TzhrMUpuWXk3NWdFNXJGWmdBMTA3RW56MTlrMGRnR2xWT3RKTS1TUEdnN1JLSDFVcHpHR1Q1NG5NYThBU05RV043elBXbWdxY3F1cnByS01vR1RKamI1QQ",
@@ -188,17 +188,17 @@ window.FUPPES_DATA["transfers"] = {
    ]
   },
   {
-   "title": "Borussia Mönchengladbach: FC Bayern kassiert krachende Transfer-Absage",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNajdmcU9KY2ctWnluQWdjR0lWT2lndndtNTV5cmFmSUNwdzE2RC1qcFVPNHVSem44YnZZeThUNWQ3MWxsaEt0bHdySlV0OEZvVE82NGR1QzZoTHZCWlJRaTNVNVBwcmctdnJaUXc4S01XYkNaVTIwb0ozeE9MRWUxM2oyaFZTVE0tT3E0VUc5cHNReFduX01GczRXQkV6Y3E2QmxKUkl0bkdQVGdq?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNajdmcU9KY2ctWnluQWdjR0lWT2lndndtNTV5cmFmSUNwdzE2RC1qcFVPNHVSem44YnZZeThUNWQ3MWxsaEt0bHdySlV0OEZvVE82NGR1QzZoTHZCWlJRaTNVNVBwcmctdnJaUXc4S01XYkNaVTIwb0ozeE9MRWUxM2oyaFZTVE0tT3E0VUc5cHNReFduX01GczRXQkV6Y3E2QmxKUkl0bkdQVG",
-   "source": "sport.de",
-   "date": "2026-11-17T08:36:00.000Z",
-   "fee": null,
+   "title": "Unmoralisches Angebot von den Bayern?: Mohya-Abgang im Winter für 50 Millionen Euro? Das sagt Schröder",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQS00tOFlvbnE4YzNPMGFjTXNOcnI1cXU4RWJEb2VNYTR5TmZuVkdDSGt4aGtzRFk1ZTVuNDdlck5QWllkUWRzZi1pSEM3MmFkTzhuRjFTMHRHaFYwWExjWEc0YnBLRzljQmhLTlFEVV9wSUhuTlF6RG9KZkhlc1Q1MW9sTnlBTXNLUEFfaFpCbW9JcUdSUU5uZ1lWSlpqMjQ?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQS00tOFlvbnE4YzNPMGFjTXNOcnI1cXU4RWJEb2VNYTR5TmZuVkdDSGt4aGtzRFk1ZTVuNDdlck5QWllkUWRzZi1pSEM3MmFkTzhuRjFTMHRHaFYwWExjWEc0YnBLRzljQmhLTlFEVV9wSUhuTlF6RG9KZkhlc1Q1MW9sTnlBTXNLUEFfaFpCbW9JcUdSUU5uZ1lWSlpqMjQ?oc=5\" target=\"",
+   "source": "GladbachLIVE",
+   "date": "2026-11-17T08:24:26.000Z",
+   "fee": 50,
    "clubs": [
     "Bayern"
    ],
    "tags": [
-    "Transfer"
+    "Gerücht"
    ]
   },
   {
@@ -282,18 +282,6 @@ window.FUPPES_DATA["transfers"] = {
    "clubs": [
     "Bayern"
    ],
-   "tags": [
-    "Transfer"
-   ]
-  },
-  {
-   "title": "Sommer-Wechsel von DFB-Star Malick Thiaw möglich! Mindestens 80 Millionen Euro aufgerufen",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOSGRlcEtXVU1wSVk1c09OSkxTRlp5QndNTlhtcnAzMWxmaUYtX3lsYXNyTHowdEFEbFdiN3NVd1g2OEJTRUpDQWlKWmstS0E2OWVUSGpjdU1YNWQ5R24yMXI4OTRYbkk4STltX05lVUtpdUIxbW10NXVOVDZaMHRUcDNiOHFNS2UxNEhtYzRuVXhWNzlVWWdjWFdBTmZCN3hzRThMdkJtNDhRal9nVXBDWGxGUEpqcVFIRDVveGU1Nk5xQ2t3SHg3ZWhwbXdDcUVSaVFiNkpR?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxOSGRlcEtXVU1wSVk1c09OSkxTRlp5QndNTlhtcnAzMWxmaUYtX3lsYXNyTHowdEFEbFdiN3NVd1g2OEJTRUpDQWlKWmstS0E2OWVUSGpjdU1YNWQ5R24yMXI4OTRYbkk4STltX05lVUtpdUIxbW10NXVOVDZaMHRUcDNiOHFNS2UxNEhtYzRuVXhWNzlVWWdjWFdBTmZCN3hzRThMdkJtNDhRal",
-   "source": "Sky.de",
-   "date": "2026-11-16T17:47:00.000Z",
-   "fee": 80,
-   "clubs": [],
    "tags": [
     "Transfer"
    ]
@@ -383,6 +371,21 @@ window.FUPPES_DATA["transfers"] = {
    ],
    "tags": [
     "Gerücht"
+   ]
+  },
+  {
+   "title": "Weg nach Frankfurt frei: Chatzialexious FCN-Vertrag endet vorzeitig",
+   "link": "https://www.kicker.de/weg-nach-frankfurt-frei-chatzialexious-fcn-vertrag-endet-vorzeitig-1272132/artikel#omrss",
+   "summary": "Der Wechsel von Joti Chatzialexiou vom 1. FC Nürnberg zu Eintracht Frankfurt ist längst offiziell. Nun ist aber klar, dass der neue Sportvorstand bereits ab Dezember bei der SGE starten kann.",
+   "source": "kicker",
+   "date": "2026-11-16T15:00:21.000Z",
+   "fee": null,
+   "clubs": [
+    "Eintracht Frankfurt",
+    "Frankfurt"
+   ],
+   "tags": [
+    "Vertrag"
    ]
   }
  ]
