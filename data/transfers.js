@@ -1,6 +1,6 @@
 window.FUPPES_DATA = window.FUPPES_DATA || {};
 window.FUPPES_DATA["transfers"] = {
- "updated": "2026-11-16T22:58:15.699Z",
+ "updated": "2026-11-17T01:26:40.212Z",
  "rules": {
   "minFeeMio": 20,
   "topClubs": [
@@ -44,21 +44,6 @@ window.FUPPES_DATA["transfers"] = {
  },
  "items": [
   {
-   "title": "Arsenal plant langfristig mit Rice: Einigung auf Vertrag bis 2031?",
-   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPM3lwTkFqZ1pVcjhOT2psdHN5NmRyUEpvZVpEVHJlR29zMUY3WWFMTUVrM1dWbm9SWkhuT3dXQXBLNS1yRTdsblZVVTF2NkROWjI2UnVuemhSUGxTRUVXVnkySjJXVXk2TmRuRk1xRWxGLXQzWEVxUDRpT2dtOHNBbVp3a0FMRlVBcDZISUdLaTNmTkNtTURfVl9VcHMtbHhveFNKZHJ3Tl81VWd2ZFdCLXE1NkoyZEVkT2txVW1QeVd1d1N5cy0xcnpycUpXaU51OExRM1RZT2Z2X3J6bXlzZlZ3?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxPM3lwTkFqZ1pVcjhOT2psdHN5NmRyUEpvZVpEVHJlR29zMUY3WWFMTUVrM1dWbm9SWkhuT3dXQXBLNS1yRTdsblZVVTF2NkROWjI2UnVuemhSUGxTRUVXVnkySjJXVXk2TmRuRk1xRWxGLXQzWEVxUDRpT2dtOHNBbVp3a0FMRlVBcDZISUdLaTNmTkNtTURfVl9VcHMtbHhveFNKZHJ3Tl81VW",
-   "source": "n-tv.de",
-   "date": "2026-11-16T22:17:14.000Z",
-   "fee": null,
-   "clubs": [
-    "Arsenal"
-   ],
-   "tags": [
-    "Gerücht",
-    "Vertrag"
-   ]
-  },
-  {
    "title": "Tresoldi & Gruda im Bayern-Blickfeld – Holt United Thiaw? | Transfer Update XXL",
    "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1NMldJNU9zNHZkVGxEVW9ZS21yM0x1OHFrdkRlVFIxTElVbVV6N2YydDJ4YnBGdmlDeGJQcUppNDBzNFZkUVE?oc=5",
    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiRkFVX3lxTE1NMldJNU9zNHZkVGxEVW9ZS21yM0x1OHFrdkRlVFIxTElVbVV6N2YydDJ4YnBGdmlDeGJQcUppNDBzNFZkUVE?oc=5\" target=\"_blank\">Tresoldi & Gruda im Bayern-Blickfeld – Holt United Thiaw? | Transfer Update XXL</a>&nbsp;&nbsp;<font color=\"#6f6",
@@ -89,6 +74,21 @@ window.FUPPES_DATA["transfers"] = {
    ]
   },
   {
+   "title": "Arsenal plant langfristig mit Rice: Einigung auf Vertrag bis 2031?",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPM3lwTkFqZ1pVcjhOT2psdHN5NmRyUEpvZVpEVHJlR29zMUY3WWFMTUVrM1dWbm9SWkhuT3dXQXBLNS1yRTdsblZVVTF2NkROWjI2UnVuemhSUGxTRUVXVnkySjJXVXk2TmRuRk1xRWxGLXQzWEVxUDRpT2dtOHNBbVp3a0FMRlVBcDZISUdLaTNmTkNtTURfVl9VcHMtbHhveFNKZHJ3Tl81VWd2ZFdCLXE1NkoyZEVkT2txVW1QeVd1d1N5cy0xcnpycUpXaU51OExRM1RZT2Z2X3J6bXlzZlZ3?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxPM3lwTkFqZ1pVcjhOT2psdHN5NmRyUEpvZVpEVHJlR29zMUY3WWFMTUVrM1dWbm9SWkhuT3dXQXBLNS1yRTdsblZVVTF2NkROWjI2UnVuemhSUGxTRUVXVnkySjJXVXk2TmRuRk1xRWxGLXQzWEVxUDRpT2dtOHNBbVp3a0FMRlVBcDZISUdLaTNmTkNtTURfVl9VcHMtbHhveFNKZHJ3Tl81VW",
+   "source": "n-tv.de",
+   "date": "2026-11-16T20:00:00.000Z",
+   "fee": null,
+   "clubs": [
+    "Arsenal"
+   ],
+   "tags": [
+    "Gerücht",
+    "Vertrag"
+   ]
+  },
+  {
    "title": "Bayer Leverkusen: Neuer Transfer-Plan bei Maza",
    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNDlMWTJJS2JOSzgwRDFxNEttOFRpbEp0YVpBejlXd09YV2VVMExJWmJzb0czRTU4ZVN2ZWZ2ZHNqVDdTQjMxX2dfT0dBdU9pN0JyRHVfUFFuS21fYnhDWXdCUnFxU29NRFk5c3JPV0FwWVpiVm5BdGlRNmF1QTBEYllFWTBEMGhBOU1r?oc=5",
    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNDlMWTJJS2JOSzgwRDFxNEttOFRpbEp0YVpBejlXd09YV2VVMExJWmJzb0czRTU4ZVN2ZWZ2ZHNqVDdTQjMxX2dfT0dBdU9pN0JyRHVfUFFuS21fYnhDWXdCUnFxU29NRFk5c3JPV0FwWVpiVm5BdGlRNmF1QTBEYllFWTBEMGhBOU1r?oc=5\" target=\"_blank\">Bayer Leverkusen: N",
@@ -112,18 +112,6 @@ window.FUPPES_DATA["transfers"] = {
    "clubs": [
     "Bayern"
    ],
-   "tags": [
-    "Gerücht"
-   ]
-  },
-  {
-   "title": "Mindestens 80 Millionen Euro Ablöse im Gespräch: Transferhammer um Malick Thiaw?",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNbDEyNFgzaURQN1hCa3VjYVYzQ1VBbE44OWtqenJIOW1SQ0JGbnJSV210SG1MRTJDU0J6Rkl6eFp2c01kTm1VcDZqUzdaMTZjY1RsWVJoZHY0UnkxbG9MQjRPMktUS05pU2FWaU44VElsNlNoQ29jQ3hoSjZXaVFzY1cxZ3JWd2ZRc1g4N0ZKVzluNjQ0NkZlLWJtM3YtOE9rU00zMWl6VWdVSWxOdFJfYV9nR1RUV2xEYnkxMzNkczZKcjJyS2x2Q25KSmN1RVE?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxNbDEyNFgzaURQN1hCa3VjYVYzQ1VBbE44OWtqenJIOW1SQ0JGbnJSV210SG1MRTJDU0J6Rkl6eFp2c01kTm1VcDZqUzdaMTZjY1RsWVJoZHY0UnkxbG9MQjRPMktUS05pU2FWaU44VElsNlNoQ29jQ3hoSjZXaVFzY1cxZ3JWd2ZRc1g4N0ZKVzluNjQ0NkZlLWJtM3YtOE9rU00zMWl6VWdVSW",
-   "source": "Goal.com",
-   "date": "2026-11-16T19:23:06.000Z",
-   "fee": 80,
-   "clubs": [],
    "tags": [
     "Gerücht"
    ]
@@ -316,20 +304,6 @@ window.FUPPES_DATA["transfers"] = {
    ]
   },
   {
-   "title": "Achter Klub in neun Jahren? Ex-BVB-Star Emre Mor vor nächstem Wechsel",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdWY3aGJHeXdyd0E4dDJETjYxaG11R2JFdDBxc0lqUkdmWnJoOXo3S3Btc2tyLTBKODlmbGQ1WjBScE9LSVF2M0lHTTVKNHZVRnpoQUlRaWpxTUs3SXJmN3NPNFhjOXlhMldXUnotSGNKa0RIbkpfejhhOGZzT0M1OU1KSHZMWXR0dDhvOGxMdWNVb1cxdkFLcHNBMnV3UQ?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNdWY3aGJHeXdyd0E4dDJETjYxaG11R2JFdDBxc0lqUkdmWnJoOXo3S3Btc2tyLTBKODlmbGQ1WjBScE9LSVF2M0lHTTVKNHZVRnpoQUlRaWpxTUs3SXJmN3NPNFhjOXlhMldXUnotSGNKa0RIbkpfejhhOGZzT0M1OU1KSHZMWXR0dDhvOGxMdWNVb1cxdkFLcHNBMnV3UQ?oc=5\" target=\"_",
-   "source": "fussballdaten.de",
-   "date": "2026-11-16T13:10:00.000Z",
-   "fee": null,
-   "clubs": [
-    "BVB"
-   ],
-   "tags": [
-    "Gerücht"
-   ]
-  },
-  {
    "title": "Drei Deals? FC Bayern prüft Winter-Transfers",
    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQY21yVkgtb3JoeXpSa3NuUkFyVUYySjIxLXVjMnNDYmV4Y3VMcVdQb1dNYVdDZlV4TUszLThkOHJsbE9maWEzUnVhbmNPQkktUWhUSnhGa1ZZNmNsZi1tdEFNQ2tYXzFzLVhNclNVZFRSZVJNN3lHX3VNdnpRUWR3bEVQRnJILXp2VHFvN3lpTWFZRUU?oc=5",
    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQY21yVkgtb3JoeXpSa3NuUkFyVUYySjIxLXVjMnNDYmV4Y3VMcVdQb1dNYVdDZlV4TUszLThkOHJsbE9maWEzUnVhbmNPQkktUWhUSnhGa1ZZNmNsZi1tdEFNQ2tYXzFzLVhNclNVZFRSZVJNN3lHX3VNdnpRUWR3bEVQRnJILXp2VHFvN3lpTWFZRUU?oc=5\" target=\"_blank\">Drei Dea",
@@ -383,6 +357,34 @@ window.FUPPES_DATA["transfers"] = {
    ],
    "tags": [
     "Gerücht"
+   ]
+  },
+  {
+   "title": "FC Bayern vor überraschendem Blitz-Transfer?",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUkdTVnNXTXJ1RTlIOHhGOHZJZ3Y3WmZXeUtMSWNVVnd0N2ltcWNiNzdQLU5XWUlyajdVcWVPN3ZWSW1jWTIzLTc3SUpLV21ZTFRvbnFZX1pWQXZEUkZIa2VCZVVwZXAyaU1Ka29hdWxiSi1ZQ1NaSlZqbGI1RzhaalBCVktBSHliWmQ4YVhDQzR6RHR6ODZuVUl1TkI?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQUkdTVnNXTXJ1RTlIOHhGOHZJZ3Y3WmZXeUtMSWNVVnd0N2ltcWNiNzdQLU5XWUlyajdVcWVPN3ZWSW1jWTIzLTc3SUpLV21ZTFRvbnFZX1pWQXZEUkZIa2VCZVVwZXAyaU1Ka29hdWxiSi1ZQ1NaSlZqbGI1RzhaalBCVktBSHliWmQ4YVhDQzR6RHR6ODZuVUl1TkI?oc=5\" target=\"_bla",
+   "source": "Fussball Transfers",
+   "date": "2026-11-16T10:08:11.000Z",
+   "fee": null,
+   "clubs": [
+    "Bayern"
+   ],
+   "tags": [
+    "Gerücht"
+   ]
+  },
+  {
+   "title": "BVB droht Transfer-Schock",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBsbUs0ZTJQOGo1ellXQVp6V1lZTFhwQW9reUwzUFFLcnB5WE93RnVVSlEzSkM4c0Jzc09fSC1WQTVQX3I0dkhVd1FxVktldmhsbXo0aUdUQmlVREg1M1hVN3R2dXNkWXdRbkM3SWFWdm0?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFBsbUs0ZTJQOGo1ellXQVp6V1lZTFhwQW9reUwzUFFLcnB5WE93RnVVSlEzSkM4c0Jzc09fSC1WQTVQX3I0dkhVd1FxVktldmhsbXo0aUdUQmlVREg1M1hVN3R2dXNkWXdRbkM3SWFWdm0?oc=5\" target=\"_blank\">BVB droht Transfer-Schock</a>&nbsp;&nbsp;<font color=\"#6",
+   "source": "sport.de",
+   "date": "2026-11-16T09:58:00.000Z",
+   "fee": null,
+   "clubs": [
+    "BVB"
+   ],
+   "tags": [
+    "Transfer"
    ]
   }
  ]
