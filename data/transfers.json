@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T05:11:32.879Z",
+ "updated": "2026-11-17T07:33:48.913Z",
  "rules": {
   "minFeeMio": 20,
   "topClubs": [
@@ -43,17 +43,17 @@
  },
  "items": [
   {
-   "title": "Tresoldi & Gruda im Bayern-Blickfeld – Holt United Thiaw? | Transfer Update XXL",
-   "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1NMldJNU9zNHZkVGxEVW9ZS21yM0x1OHFrdkRlVFIxTElVbVV6N2YydDJ4YnBGdmlDeGJQcUppNDBzNFZkUVE?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiRkFVX3lxTE1NMldJNU9zNHZkVGxEVW9ZS21yM0x1OHFrdkRlVFIxTElVbVV6N2YydDJ4YnBGdmlDeGJQcUppNDBzNFZkUVE?oc=5\" target=\"_blank\">Tresoldi & Gruda im Bayern-Blickfeld – Holt United Thiaw? | Transfer Update XXL</a>&nbsp;&nbsp;<font color=\"#6f6",
-   "source": "Sky.de",
-   "date": "2026-11-16T20:08:00.000Z",
+   "title": "Transfer-Ticker: Spekulationen um VfB-Star reißen nicht ab",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQTdUVHhScFlSUHVpRGt4WkNMMUpZVzZNYy1idGk2MDJLaVdId3hhSDViTVlZaDB6QVV3bTJydFQ1YjVqZks3Ym5ZcUhiWHUyX0ZfcHUxRl9YMldMTWZFS19hYzFzdnhadE05QjZ4aEpJaWVISjluZUNwOENEem9BQmZYTHVIZld5bl9ueTdyY0tOdHIxT29aOE1CbG8?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQQTdUVHhScFlSUHVpRGt4WkNMMUpZVzZNYy1idGk2MDJLaVdId3hhSDViTVlZaDB6QVV3bTJydFQ1YjVqZks3Ym5ZcUhiWHUyX0ZfcHUxRl9YMldMTWZFS19hYzFzdnhadE05QjZ4aEpJaWVISjluZUNwOENEem9BQmZYTHVIZld5bl9ueTdyY0tOdHIxT29aOE1CbG8?oc=5\" target=\"_bla",
+   "source": "sport.de",
+   "date": "2026-11-17T06:58:00.000Z",
    "fee": null,
    "clubs": [
-    "Bayern"
+    "VfB"
    ],
    "tags": [
-    "Gerücht"
+    "Transfer"
    ]
   },
   {
@@ -116,6 +116,18 @@
    ]
   },
   {
+   "title": "Mindestens 80 Millionen Euro Ablöse im Gespräch: Transferhammer um Malick Thiaw?",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNbDEyNFgzaURQN1hCa3VjYVYzQ1VBbE44OWtqenJIOW1SQ0JGbnJSV210SG1MRTJDU0J6Rkl6eFp2c01kTm1VcDZqUzdaMTZjY1RsWVJoZHY0UnkxbG9MQjRPMktUS05pU2FWaU44VElsNlNoQ29jQ3hoSjZXaVFzY1cxZ3JWd2ZRc1g4N0ZKVzluNjQ0NkZlLWJtM3YtOE9rU00zMWl6VWdVSWxOdFJfYV9nR1RUV2xEYnkxMzNkczZKcjJyS2x2Q25KSmN1RVE?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxNbDEyNFgzaURQN1hCa3VjYVYzQ1VBbE44OWtqenJIOW1SQ0JGbnJSV210SG1MRTJDU0J6Rkl6eFp2c01kTm1VcDZqUzdaMTZjY1RsWVJoZHY0UnkxbG9MQjRPMktUS05pU2FWaU44VElsNlNoQ29jQ3hoSjZXaVFzY1cxZ3JWd2ZRc1g4N0ZKVzluNjQ0NkZlLWJtM3YtOE9rU00zMWl6VWdVSW",
+   "source": "Goal.com",
+   "date": "2026-11-16T19:23:06.000Z",
+   "fee": 80,
+   "clubs": [],
+   "tags": [
+    "Gerücht"
+   ]
+  },
+  {
    "title": "BVB wegen Schlotterbeck-Gehalt in der Klemme – Anton fand erstes Angebot zu niedrig",
    "link": "https://www.transfermarkt.de/-bild-quot-bvb-wegen-schlotterbeck-gehalt-in-der-klemme-anton-fand-erstes-angebot-zu-niedrig/view/news/490701",
    "summary": "Die Vertr&auml;ge von Verteidiger Waldemar Anton, Torh&uuml;ter Gregor Kobel und St&uuml;rmer Serhou Guirassy sind alle noch bis 2028 g&uuml;ltig. Borussia Dortmund soll mit dem Trio aber gerne...",
@@ -128,20 +140,6 @@
    ],
    "tags": [
     "Transfer"
-   ]
-  },
-  {
-   "title": "Bayern-Interesse an Tresoldi enthüllt: Transfer hat einen Haken",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUmg3YU16QmRaVkFDMEpSSDV4eDFlODROVW9YdGhyQVpWdmYtUHZ1OW1WSmNNd3RPU0tKM0FiNDF1LS1DY2Ftb2dpbnNIVW9ZQXBCU2w0bzh0aWhUWDk0VDFTUFUxXzFvRGJOSS1PUGgyMUNjNUFpUXRIVV9jSEk2ZUJoVmpCY2FFZDIzN0ZB?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOUmg3YU16QmRaVkFDMEpSSDV4eDFlODROVW9YdGhyQVpWdmYtUHZ1OW1WSmNNd3RPU0tKM0FiNDF1LS1DY2Ftb2dpbnNIVW9ZQXBCU2w0bzh0aWhUWDk0VDFTUFUxXzFvRGJOSS1PUGgyMUNjNUFpUXRIVV9jSEk2ZUJoVmpCY2FFZDIzN0ZB?oc=5\" target=\"_blank\">Bayern-Interess",
-   "source": "fussballdaten.de",
-   "date": "2026-11-16T18:35:00.000Z",
-   "fee": null,
-   "clubs": [
-    "Bayern"
-   ],
-   "tags": [
-    "Gerücht"
    ]
   },
   {
@@ -258,22 +256,6 @@
    ]
   },
   {
-   "title": "Chatzialexiou wechselt früher vom 1. FC Nürnberg zu Eintracht Frankfurt",
-   "link": "https://www.transfermarkt.de/-ubergang-nun-geregelt-quot-chatzialexiou-wechselt-fruher-von-nurnberg-nach-frankfurt/view/news/490686",
-   "summary": "Joti Chatzialexiou verl&auml;sst den 1. FC N&uuml;rnberg fr&uuml;her als bislang angek&uuml;ndigt. Statt am 31. Januar endet der Vertrag des 50-J&auml;hrigen nun am 30. November beim Zweitligisten....",
-   "source": "Transfermarkt",
-   "date": "2026-11-16T15:20:38.000Z",
-   "fee": null,
-   "clubs": [
-    "Eintracht Frankfurt",
-    "Frankfurt"
-   ],
-   "tags": [
-    "Vertrag",
-    "Fix"
-   ]
-  },
-  {
    "title": "Weg nach Frankfurt frei: Chatzialexious FCN-Vertrag endet vorzeitig",
    "link": "https://www.kicker.de/weg-nach-frankfurt-frei-chatzialexious-fcn-vertrag-endet-vorzeitig-1272132/artikel#omrss",
    "summary": "Der Wechsel von Joti Chatzialexiou vom 1. FC Nürnberg zu Eintracht Frankfurt ist längst offiziell. Nun ist aber klar, dass der neue Sportvorstand bereits ab Dezember bei der SGE starten kann.",
@@ -378,6 +360,20 @@
    "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFBsbUs0ZTJQOGo1ellXQVp6V1lZTFhwQW9reUwzUFFLcnB5WE93RnVVSlEzSkM4c0Jzc09fSC1WQTVQX3I0dkhVd1FxVktldmhsbXo0aUdUQmlVREg1M1hVN3R2dXNkWXdRbkM3SWFWdm0?oc=5\" target=\"_blank\">BVB droht Transfer-Schock</a>&nbsp;&nbsp;<font color=\"#6",
    "source": "sport.de",
    "date": "2026-11-16T09:58:00.000Z",
+   "fee": null,
+   "clubs": [
+    "BVB"
+   ],
+   "tags": [
+    "Transfer"
+   ]
+  },
+  {
+   "title": "Transfer-Ticker: BVB in Dreikampf verwickelt",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWmtKQ0FZOERhYTB0WkUwbW9IQTlCd0lfWHpIbVFnS0VfN2N4dEFQOUxvY3hYcVFhNVBFYWZVdTRrc2N6bVBuRW1JWHpPRXlSM3hsbHhRT1RZZ3NKcE1PcGdfcmp5T3NsRDlGSW5zeUFYUU5CemkyelVORjZPWFE4UXFkZ21vN0lv?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWmtKQ0FZOERhYTB0WkUwbW9IQTlCd0lfWHpIbVFnS0VfN2N4dEFQOUxvY3hYcVFhNVBFYWZVdTRrc2N6bVBuRW1JWHpPRXlSM3hsbHhRT1RZZ3NKcE1PcGdfcmp5T3NsRDlGSW5zeUFYUU5CemkyelVORjZPWFE4UXFkZ21vN0lv?oc=5\" target=\"_blank\">Transfer-Ticker: BVB in",
+   "source": "sport.de",
+   "date": "2026-11-16T09:25:00.000Z",
    "fee": null,
    "clubs": [
     "BVB"
