@@ -1,6 +1,6 @@
 window.FUPPES_DATA = window.FUPPES_DATA || {};
 window.FUPPES_DATA["transfers"] = {
- "updated": "2026-11-17T17:16:35.912Z",
+ "updated": "2026-11-17T19:15:04.922Z",
  "rules": {
   "minFeeMio": 20,
   "topClubs": [
@@ -43,6 +43,52 @@ window.FUPPES_DATA["transfers"] = {
   ]
  },
  "items": [
+  {
+   "title": "Arsenal vor vier Verlängerungen: Rice wird Top-Verdiener, Raya vertagt Spanien-Wechsel",
+   "link": "https://www.transfermarkt.de/arsenal-vor-vier-verlangerungen-rice-wird-top-verdiener-raya-vertagt-spanien-wechsel/view/news/490781",
+   "summary": "Der FC Arsenal steht vor der Verl&auml;ngerung mit gleich vier Leistungstr&auml;gern. Torh&uuml;ter David Raya, Mittelfeldstratege Declan Rice und die beiden Abwehrspieler Jurri&euml;n Timber und...",
+   "source": "Transfermarkt",
+   "date": "2026-11-17T17:56:15.000Z",
+   "fee": null,
+   "clubs": [
+    "Arsenal"
+   ],
+   "tags": [
+    "Vertrag"
+   ]
+  },
+  {
+   "title": "Vertrag verlängert: VfB Stuttgart erstickt Gerüchte über Wechsel zum FC Bayern im Keim",
+   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQbzl1RUZWTThjOTN0VFhYNmV1bWtkSkhCalg5eHdweVVFTHRFaThuNEF0a0RLZFgyRmREMjhaWWNvaUpxRVVuVy1rUWRwazI5VGZGVWJsSjd6dmVjR0ZpaUprNkxBNEdrWWxRSHZYY0xjdDFOY1pOb3FJUEVwQ0RuN3pHWjREeDY3WXNDVXByV1duTmhMOUNHX0RHczc5Wmc1UFFTakxUTzBqS19RczcxSTFDNXUyWG5wazdNUmhEY2FaUkZWRnhISHhMX0dZWDVSal85MVhJNW4wOHFDazZ2WGdkZE1Zb182TDRWYlhoVHg?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxQbzl1RUZWTThjOTN0VFhYNmV1bWtkSkhCalg5eHdweVVFTHRFaThuNEF0a0RLZFgyRmREMjhaWWNvaUpxRVVuVy1rUWRwazI5VGZGVWJsSjd6dmVjR0ZpaUprNkxBNEdrWWxRSHZYY0xjdDFOY1pOb3FJUEVwQ0RuN3pHWjREeDY3WXNDVXByV1duTmhMOUNHX0RHczc5Wmc1UFFTakxUTzBqS1",
+   "source": "SPOX.com",
+   "date": "2026-11-17T17:35:39.000Z",
+   "fee": null,
+   "clubs": [
+    "Bayern",
+    "Stuttgart",
+    "VfB"
+   ],
+   "tags": [
+    "Gerücht",
+    "Vertrag"
+   ]
+  },
+  {
+   "title": "Kuriose Karriere: Vertrag beim FC Bayern dank Transferflop - jetzt ist er Sportdirektor!",
+   "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOT1RvanVreXdGNW9NWWU5N1NxU1Q5QkhCYU9WQzFBT1BPLXdYNEdNS1Bya0FtMXN3anBTdUVSYjBjcmZmM1pnTnUtYkY4Z0tfM2tMZDlUNk9rX3ZKOVk1Y1JmX0xUaFhOVnNaNWNDNVAzQ3ZCV09GNFFoZWZzOUp0Z3l2TnE3YnNhRTVIb2xWSVY2OWlSNFJoR0F2TjgzUFpEdnV2U0cyVG16WlBoVDhsMmh5dkhRS1ZBR3Ztb3dORmwxaDA4bENFMmdiT2t5aG40dnQzc2pRZWdpT2MtcTJGMTU4Q1NQd3RBaHBIRUNfdUZIOUo4SDFEYlN0Vm91UUpX?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAJBVV95cUxOT1RvanVreXdGNW9NWWU5N1NxU1Q5QkhCYU9WQzFBT1BPLXdYNEdNS1Bya0FtMXN3anBTdUVSYjBjcmZmM1pnTnUtYkY4Z0tfM2tMZDlUNk9rX3ZKOVk1Y1JmX0xUaFhOVnNaNWNDNVAzQ3ZCV09GNFFoZWZzOUp0Z3l2TnE3YnNhRTVIb2xWSVY2OWlSNFJoR0F2TjgzUFpEdnV2U0cyVG16Wl",
+   "source": "SPOX.com",
+   "date": "2026-11-17T16:24:37.000Z",
+   "fee": null,
+   "clubs": [
+    "Bayern"
+   ],
+   "tags": [
+    "Vertrag",
+    "Verein"
+   ]
+  },
   {
    "title": "Ben Yedder unterschreibt bei Drittligist Paris 13 Atletico – Zuletzt in Marokko aktiv",
    "link": "https://www.transfermarkt.de/ben-yedder-unterschreibt-bei-drittligist-paris-13-atletico-zuletzt-in-marokko-aktiv/view/news/490778",
@@ -174,34 +220,6 @@ window.FUPPES_DATA["transfers"] = {
    ]
   },
   {
-   "title": "Transfer-Poker um Bayern-Juwel: Tim Binder im Visier von KSC und Zweitliga-Konkurrenz",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPOTR0RnFuRzRVeS1uSzk3MjVUb3J3R2lYcGlyaW4yRVdWQmN2ZTNJbVFyMVA3aVZyYldlQk9CQWtSRlNlZGotS0wzMnZMZmoyd3V6TzhrMUpuWXk3NWdFNXJGWmdBMTA3RW56MTlrMGRnR2xWT3RKTS1TUEdnN1JLSDFVcHpHR1Q1NG5NYThBU05RV043elBXbWdxY3F1cnByS01vR1RKamI1QQ?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPOTR0RnFuRzRVeS1uSzk3MjVUb3J3R2lYcGlyaW4yRVdWQmN2ZTNJbVFyMVA3aVZyYldlQk9CQWtSRlNlZGotS0wzMnZMZmoyd3V6TzhrMUpuWXk3NWdFNXJGWmdBMTA3RW56MTlrMGRnR2xWT3RKTS1TUEdnN1JLSDFVcHpHR1Q1NG5NYThBU05RV043elBXbWdxY3F1cnByS01vR1RKamI1QQ",
-   "source": "ka-news",
-   "date": "2026-11-17T08:55:36.000Z",
-   "fee": null,
-   "clubs": [
-    "Bayern"
-   ],
-   "tags": [
-    "Transfer"
-   ]
-  },
-  {
-   "title": "Unmoralisches Angebot von den Bayern?: Mohya-Abgang im Winter für 50 Millionen Euro? Das sagt Schröder",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQS00tOFlvbnE4YzNPMGFjTXNOcnI1cXU4RWJEb2VNYTR5TmZuVkdDSGt4aGtzRFk1ZTVuNDdlck5QWllkUWRzZi1pSEM3MmFkTzhuRjFTMHRHaFYwWExjWEc0YnBLRzljQmhLTlFEVV9wSUhuTlF6RG9KZkhlc1Q1MW9sTnlBTXNLUEFfaFpCbW9JcUdSUU5uZ1lWSlpqMjQ?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQS00tOFlvbnE4YzNPMGFjTXNOcnI1cXU4RWJEb2VNYTR5TmZuVkdDSGt4aGtzRFk1ZTVuNDdlck5QWllkUWRzZi1pSEM3MmFkTzhuRjFTMHRHaFYwWExjWEc0YnBLRzljQmhLTlFEVV9wSUhuTlF6RG9KZkhlc1Q1MW9sTnlBTXNLUEFfaFpCbW9JcUdSUU5uZ1lWSlpqMjQ?oc=5\" target=\"",
-   "source": "GladbachLIVE",
-   "date": "2026-11-17T08:24:26.000Z",
-   "fee": 50,
-   "clubs": [
-    "Bayern"
-   ],
-   "tags": [
-    "Gerücht"
-   ]
-  },
-  {
    "title": "Wechselt Gruda zum FC Bayern? RB Leipzig trifft wichtige Entscheidung",
    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOeDAwOUdZcThYUmVOdFhXdTlSSWZULWJrZ19BaEQxZU9Dc05RTFM2Zl9obGNSNlhOREdyV1FtOEc1WGszbEtVbkhXNmhRRGNlVk5lNks1QmxHbC1pb2xrNDlPYUN1MHVjUzNScmNaaE1pMm1aQ1djS3lVNnpuSHBaU0hvbEZiMGhvR2lTV0trSWI2ZHpS?oc=5",
    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOeDAwOUdZcThYUmVOdFhXdTlSSWZULWJrZ19BaEQxZU9Dc05RTFM2Zl9obGNSNlhOREdyV1FtOEc1WGszbEtVbkhXNmhRRGNlVk5lNks1QmxHbC1pb2xrNDlPYUN1MHVjUzNScmNaaE1pMm1aQ1djS3lVNnpuSHBaU0hvbEZiMGhvR2lTV0trSWI2ZHpS?oc=5\" target=\"_blank\">Wechsel",
@@ -287,6 +305,18 @@ window.FUPPES_DATA["transfers"] = {
    ]
   },
   {
+   "title": "Sommer-Wechsel von DFB-Star Malick Thiaw möglich! Mindestens 80 Millionen Euro aufgerufen",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOSGRlcEtXVU1wSVk1c09OSkxTRlp5QndNTlhtcnAzMWxmaUYtX3lsYXNyTHowdEFEbFdiN3NVd1g2OEJTRUpDQWlKWmstS0E2OWVUSGpjdU1YNWQ5R24yMXI4OTRYbkk4STltX05lVUtpdUIxbW10NXVOVDZaMHRUcDNiOHFNS2UxNEhtYzRuVXhWNzlVWWdjWFdBTmZCN3hzRThMdkJtNDhRal9nVXBDWGxGUEpqcVFIRDVveGU1Nk5xQ2t3SHg3ZWhwbXdDcUVSaVFiNkpR?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxOSGRlcEtXVU1wSVk1c09OSkxTRlp5QndNTlhtcnAzMWxmaUYtX3lsYXNyTHowdEFEbFdiN3NVd1g2OEJTRUpDQWlKWmstS0E2OWVUSGpjdU1YNWQ5R24yMXI4OTRYbkk4STltX05lVUtpdUIxbW10NXVOVDZaMHRUcDNiOHFNS2UxNEhtYzRuVXhWNzlVWWdjWFdBTmZCN3hzRThMdkJtNDhRal",
+   "source": "Sky.de",
+   "date": "2026-11-16T17:47:00.000Z",
+   "fee": 80,
+   "clubs": [],
+   "tags": [
+    "Transfer"
+   ]
+  },
+  {
    "title": "Liverpool legt vor: Neues Vertragsangebot für Bayern-Kandidat Ngumoha",
    "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOVFl5VnZDZXZQQzNqcDNOdC1hOHdiTGRxTVp3b09oOFlkRk93dWZsSVlqSUthOUtZbjN5endHVUZFLTluWWF1bnB2WEFXaEhvdVlPY2ZUMWkteXdldjRUVVZ5dDVyOHJpaTFraHNPbEhPTzBvZVpTV3RNQzIyamE0OWx4Z1lsYTBPZ3RyakU0WmVHMTVNYzZERU11RUhMS2NQdjhyby1laXFsR2c1QmEyYWVPZVR0VmI4U2RZdzVrSHdQM2NzNWNVS2JGaHlNZEFBOGFrV251SGJERHh4SjZvMW9VRktzTVFtTlUwOGhGLTVCQ1ZHU1Bz?oc=5",
    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9wFBVV95cUxOVFl5VnZDZXZQQzNqcDNOdC1hOHdiTGRxTVp3b09oOFlkRk93dWZsSVlqSUthOUtZbjN5endHVUZFLTluWWF1bnB2WEFXaEhvdVlPY2ZUMWkteXdldjRUVVZ5dDVyOHJpaTFraHNPbEhPTzBvZVpTV3RNQzIyamE0OWx4Z1lsYTBPZ3RyakU0WmVHMTVNYzZERU11RUhMS2NQdjhyby1laXFsR2",
@@ -354,35 +384,6 @@ window.FUPPES_DATA["transfers"] = {
    "clubs": [
     "Leverkusen",
     "PSG"
-   ],
-   "tags": [
-    "Vertrag"
-   ]
-  },
-  {
-   "title": "FC Bayern: Neues Preisschild und neuer Interessent für Kim",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNzhQUGlQUVoteWJIbWJtM1gtNEE5VDdSeFhTNUZpNldFNkR3VWlKbWdWRlR5bmU4elFQcWlaNTVtVE5ONmIwY0FORmpkaENQMUZKLS1RTXNaSktPa1RuX0M1ZEIwOC1jSURJcGhTLS0wWHlYb0xyNlVTcVVHam5JVFYtVDVkMnFBMHBMSm52aGZFRE5HT0xmcjFqbXJHZHIwbm9uUV9KWENIVkRScFN5N01VZw?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNNzhQUGlQUVoteWJIbWJtM1gtNEE5VDdSeFhTNUZpNldFNkR3VWlKbWdWRlR5bmU4elFQcWlaNTVtVE5ONmIwY0FORmpkaENQMUZKLS1RTXNaSktPa1RuX0M1ZEIwOC1jSURJcGhTLS0wWHlYb0xyNlVTcVVHam5JVFYtVDVkMnFBMHBMSm52aGZFRE5HT0xmcjFqbXJHZHIwbm9uUV9KWENIVk",
-   "source": "Fussball Transfers",
-   "date": "2026-11-16T15:26:12.000Z",
-   "fee": null,
-   "clubs": [
-    "Bayern"
-   ],
-   "tags": [
-    "Gerücht"
-   ]
-  },
-  {
-   "title": "Weg nach Frankfurt frei: Chatzialexious FCN-Vertrag endet vorzeitig",
-   "link": "https://www.kicker.de/weg-nach-frankfurt-frei-chatzialexious-fcn-vertrag-endet-vorzeitig-1272132/artikel#omrss",
-   "summary": "Der Wechsel von Joti Chatzialexiou vom 1. FC Nürnberg zu Eintracht Frankfurt ist längst offiziell. Nun ist aber klar, dass der neue Sportvorstand bereits ab Dezember bei der SGE starten kann.",
-   "source": "kicker",
-   "date": "2026-11-16T15:00:21.000Z",
-   "fee": null,
-   "clubs": [
-    "Eintracht Frankfurt",
-    "Frankfurt"
    ],
    "tags": [
     "Vertrag"
