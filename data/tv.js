@@ -1,6 +1,6 @@
 window.FUPPES_DATA = window.FUPPES_DATA || {};
 window.FUPPES_DATA["tv"] = {
- "updated": "2026-11-17T09:16:41.477Z",
+ "updated": "2026-11-17T11:13:43.911Z",
  "matches": [
   {
    "matchID": 83237,
@@ -25,8 +25,16 @@ window.FUPPES_DATA["tv"] = {
    "kick": "2026-11-16T19:45:00Z",
    "team1": "Deutschland",
    "team2": "Niederlande",
-   "channels": [],
+   "channels": [
+    "ARD",
+    "ZDF"
+   ],
    "evidence": [
+    {
+     "title": "Vorschau: Sportschau • UEFA Nations League: Deutschland - Niederlande",
+     "source": "ARD Mediathek",
+     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5jWFl6LTJ6MXFLNWdVcXltamI2djZBNTVPQmpvOWJoYVRjcURacUZVSUdJNTJ5Z2ZlUkVUS2VUSG5aa2JDeEdIaE9HOVlCUlVwV0Z0T2l4SHpNOGtLaTNTOWlKaERINHc1eTg4dWhhMmh5Zw?oc=5"
+    },
     {
      "title": "!$√[TV/Übertragung!]@! Deutschland – Niederlande jetzt Fußball heute WM ZDF live im TV - UB",
      "source": "Universitat de Barcelona",

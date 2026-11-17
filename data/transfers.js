@@ -1,6 +1,6 @@
 window.FUPPES_DATA = window.FUPPES_DATA || {};
 window.FUPPES_DATA["transfers"] = {
- "updated": "2026-11-17T09:16:40.221Z",
+ "updated": "2026-11-17T11:13:42.873Z",
  "rules": {
   "minFeeMio": 20,
   "topClubs": [
@@ -43,6 +43,20 @@ window.FUPPES_DATA["transfers"] = {
   ]
  },
  "items": [
+  {
+   "title": "Tresoldi-Wechsel zum FC Bayern vom Tisch?",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVjF1c3dUVENrdE5EeWFUbmJONmlxaV9FVFd6dVg4SVZLZXdlSkRTMUlzNG9GbWtkRGRqcWQ0cUd5V1ZIekFEVmwwSjNWUjZDcGRTRTdJRXg3ay1DTXhZZkhtWHdJbFVCa1JXbms4bWNQUUlHM3BtbFBLZllKbmJLanVuX3k?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPVjF1c3dUVENrdE5EeWFUbmJONmlxaV9FVFd6dVg4SVZLZXdlSkRTMUlzNG9GbWtkRGRqcWQ0cUd5V1ZIekFEVmwwSjNWUjZDcGRTRTdJRXg3ay1DTXhZZkhtWHdJbFVCa1JXbms4bWNQUUlHM3BtbFBLZllKbmJLanVuX3k?oc=5\" target=\"_blank\">Tresoldi-Wechsel zum FC Baye",
+   "source": "sport.de",
+   "date": "2026-11-17T10:25:00.000Z",
+   "fee": null,
+   "clubs": [
+    "Bayern"
+   ],
+   "tags": [
+    "Gerücht"
+   ]
+  },
   {
    "title": "Borussia Mönchengladbach: FC Bayern kassiert krachende Transfer-Absage",
    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNajdmcU9KY2ctWnluQWdjR0lWT2lndndtNTV5cmFmSUNwdzE2RC1qcFVPNHVSem44YnZZeThUNWQ3MWxsaEt0bHdySlV0OEZvVE82NGR1QzZoTHZCWlJRaTNVNVBwcmctdnJaUXc4S01XYkNaVTIwb0ozeE9MRWUxM2oyaFZTVE0tT3E0VUc5cHNReFduX01GczRXQkV6Y3E2QmxKUkl0bkdQVGdq?oc=5",
@@ -126,21 +140,6 @@ window.FUPPES_DATA["transfers"] = {
    "clubs": [],
    "tags": [
     "Gerücht"
-   ]
-  },
-  {
-   "title": "BVB wegen Schlotterbeck-Gehalt in der Klemme – Anton fand erstes Angebot zu niedrig",
-   "link": "https://www.transfermarkt.de/-bild-quot-bvb-wegen-schlotterbeck-gehalt-in-der-klemme-anton-fand-erstes-angebot-zu-niedrig/view/news/490701",
-   "summary": "Die Vertr&auml;ge von Verteidiger Waldemar Anton, Torh&uuml;ter Gregor Kobel und St&uuml;rmer Serhou Guirassy sind alle noch bis 2028 g&uuml;ltig. Borussia Dortmund soll mit dem Trio aber gerne...",
-   "source": "Transfermarkt",
-   "date": "2026-11-16T19:00:21.000Z",
-   "fee": null,
-   "clubs": [
-    "Dortmund",
-    "BVB"
-   ],
-   "tags": [
-    "Transfer"
    ]
   },
   {
@@ -342,9 +341,9 @@ window.FUPPES_DATA["transfers"] = {
    ]
   },
   {
-   "title": "Transfer-Überraschung? FC Bayern nimmt \"erste Kontakte\" auf",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNXzRQYjdQYTZfbWlrV3hqWDliM0UxNzNHZVZTdl9lNWVWclJuNWtqMjVYT3NxYi1WNy1QMUszR2F4b2loUDdpbEMzQURZYVVBNkplRzFrTkF3Umo2UXJhOWM0ajZUOUdJQzIzWnJKQm93RHVQU2hzdzlIeFBBcXVSbXR3MktsR2htQl9EbTdzcWdmczR4eUZ4TXVvbw?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNXzRQYjdQYTZfbWlrV3hqWDliM0UxNzNHZVZTdl9lNWVWclJuNWtqMjVYT3NxYi1WNy1QMUszR2F4b2loUDdpbEMzQURZYVVBNkplRzFrTkF3Umo2UXJhOWM0ajZUOUdJQzIzWnJKQm93RHVQU2hzdzlIeFBBcXVSbXR3MktsR2htQl9EbTdzcWdmczR4eUZ4TXVvbw?oc=5\" target=\"_blan",
+   "title": "Transfer-Überraschung beim FC Bayern?",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOLWNULVZkdExrbFozVm9BMVVwYnIwQzJ2SncxcjRIMkEwVWdmNkpmQzF3ZUNaV0htbmVIdTdFd28wU2h6TFp3VkZrTXZjZFhPdGUxQ1g1RHA5bnk1TlJPVVBOY2dFTDI1WWk2aFk3OE9ITGFzNjhIc1VYOG9UeXVQYm13ZC0xdUxpZWMyU2hsY0tScUVTcTBLT3JnVkpfdUlJVnVyWWlKZVpsOWZzeXc?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOLWNULVZkdExrbFozVm9BMVVwYnIwQzJ2SncxcjRIMkEwVWdmNkpmQzF3ZUNaV0htbmVIdTdFd28wU2h6TFp3VkZrTXZjZFhPdGUxQ1g1RHA5bnk1TlJPVVBOY2dFTDI1WWk2aFk3OE9ITGFzNjhIc1VYOG9UeXVQYm13ZC0xdUxpZWMyU2hsY0tScUVTcTBLT3JnVkpfdUlJVnVyWWlKZVpsOW",
    "source": "sport.de",
    "date": "2026-11-16T10:32:00.000Z",
    "fee": null,
