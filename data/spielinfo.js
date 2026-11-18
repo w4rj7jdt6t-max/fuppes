@@ -1,6 +1,6 @@
 window.FUPPES_DATA = window.FUPPES_DATA || {};
 window.FUPPES_DATA["spielinfo"] = {
- "updated": "2026-11-18T11:14:32.319Z",
+ "updated": "2026-11-18T13:27:56.823Z",
  "fc": [
   {
    "start": "2025-11-22T17:30:00.000Z",
@@ -1858,7 +1858,7 @@ window.FUPPES_DATA["spielinfo"] = {
    "who": "fc",
    "id": "i7K0Z1myins",
    "title": "Pressekonferenz vor FC Bayern München | 1. FC Köln",
-   "date": "2026-11-16T11:20:39+00:00",
+   "date": "2026-11-18T12:57:31+00:00",
    "url": "https://www.youtube.com/watch?v=i7K0Z1myins",
    "summary": "Der 1. FC Köln trifft am 10. Spieltag der Bundesliga-Saison 2026/27 auf den FC Bayern München. Das Spiel findet am Freitag, 20. November 2026, um 20.30 Uhr im Allianz Arena statt. Im Vorfeld der Partie beantwortet Cheftrainer René Wagner in der Pressekonferenz am Mittwoch, 18. November 2026, um 13.30 Uhr die Fragen der",
    "quotes": []

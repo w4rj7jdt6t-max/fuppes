@@ -1,6 +1,6 @@
 window.FUPPES_DATA = window.FUPPES_DATA || {};
 window.FUPPES_DATA["tv"] = {
- "updated": "2026-11-18T11:14:32.862Z",
+ "updated": "2026-11-18T13:27:57.190Z",
  "matches": [
   {
    "matchID": 83237,
@@ -26,8 +26,7 @@ window.FUPPES_DATA["tv"] = {
    "team1": "Deutschland",
    "team2": "Niederlande",
    "channels": [
-    "ARD",
-    "ZDF"
+    "ARD"
    ],
    "evidence": [
     {
