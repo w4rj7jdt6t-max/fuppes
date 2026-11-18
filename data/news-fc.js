@@ -1,6 +1,6 @@
 window.FUPPES_DATA = window.FUPPES_DATA || {};
 window.FUPPES_DATA["news-fc"] = {
- "updated": "2026-11-18T21:05:54.120Z",
+ "updated": "2026-11-18T23:02:28.048Z",
  "items": [
   {
    "title": "News, Sport: Bundesliga: Kompany kehrt gegen Köln auf Bayern-Trainerbank zurück - tixio",
@@ -51,16 +51,6 @@ window.FUPPES_DATA["news-fc"] = {
    "date": "2026-11-18T18:55:00.000Z",
    "tags": [
     "Personal",
-    "Verein"
-   ]
-  },
-  {
-   "title": "Bayern-Trainer Vincent Kompany ist nach Hirnhautreizung gegen Köln wieder dabei",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPN3dxWEFpcHgwazg3eFpKejR3WWRFRmVLekNfTlU3czd5cWlhMFB2S1djX3BuLVVhMWtVMXhYSFhOUkV4TmZoOTZ1cnhHdTZRQmFybWZJUGE4VDhUTUlSNlVjZTZmTkNyYTJJdFBVOFRVaGlDSF90Q0pnenBrY1loeVpQdWNHS2dLMUwtMGJNdnhyMlM4N2sxa1g0NUFPd2drMjVSbUlWN1hGc0lwU1BvWnVSMnVQY1ZtVUU1eU9DUVN4b1NXZENGVmRzSjlCdw?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxPN3dxWEFpcHgwazg3eFpKejR3WWRFRmVLekNfTlU3czd5cWlhMFB2S1djX3BuLVVhMWtVMXhYSFhOUkV4TmZoOTZ1cnhHdTZRQmFybWZJUGE4VDhUTUlSNlVjZTZmTkNyYTJJdFBVOFRVaGlDSF90Q0pnenBrY1loeVpQdWNHS2dLMUwtMGJNdnhyMlM4N2sxa1g0NUFPd2drMjVSbUlWN1hGc0",
-   "source": "Sky.de",
-   "date": "2026-11-18T18:54:00.000Z",
-   "tags": [
     "Verein"
    ]
   },
@@ -116,6 +106,16 @@ window.FUPPES_DATA["news-fc"] = {
     "Gerücht",
     "Personal",
     "Verein"
+   ]
+  },
+  {
+   "title": "FC-Bayern-Ausfallliste für das Köln-Spiel",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQYktqdl9ValRsME1yMlZ6STRHT3R2MGF0dXBmSnVmODd4cVlyOHAxT292NmVYQ2FfQlN2cDlXVzVXUkoyZ1Fxa3I3ck9aS1RvNGcxbjhmc0lMTGZLSjhyM0NHZ2ZGbEk4MjJIZFlYR0FSRl9ZQ0ZkYUJVZW1uVWVfY2tLR3U?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQYktqdl9ValRsME1yMlZ6STRHT3R2MGF0dXBmSnVmODd4cVlyOHAxT292NmVYQ2FfQlN2cDlXVzVXUkoyZ1Fxa3I3ck9aS1RvNGcxbjhmc0lMTGZLSjhyM0NHZ2ZGbEk4MjJIZFlYR0FSRl9ZQ0ZkYUJVZW1uVWVfY2tLR3U?oc=5\" target=\"_blank\">FC-Bayern-Ausfallliste für d",
+   "source": "fussballdaten.de",
+   "date": "2026-11-18T16:46:00.000Z",
+   "tags": [
+    "Personal"
    ]
   },
   {

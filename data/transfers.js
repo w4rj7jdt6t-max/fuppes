@@ -1,6 +1,6 @@
 window.FUPPES_DATA = window.FUPPES_DATA || {};
 window.FUPPES_DATA["transfers"] = {
- "updated": "2026-11-18T21:05:55.429Z",
+ "updated": "2026-11-18T23:02:29.464Z",
  "rules": {
   "minFeeMio": 20,
   "topClubs": [
@@ -104,7 +104,7 @@ window.FUPPES_DATA["transfers"] = {
    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQenBfSkpYUGV3ZWRZN2JLZjd4bUlaY2RVblVqZHpXUHc2aXl5bDRzUGc5dmF3Wnk2UWlFQlgxaWJNbkh4bTl3WnVUZG9RZnhWNzN1NDF3OWdTd0JxUkxJSzNpN3liWnFfUkN4T05QNXNFVmhza0VzajJfSzEyRjQzYTlwbkx4U3BKU091c1lyeTR2dFBNMi0wN2hYSXd1bTczVWJ1R19EMENXV2kxSmtVVk4xVWgxbEJTbVhGag?oc=5",
    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQenBfSkpYUGV3ZWRZN2JLZjd4bUlaY2RVblVqZHpXUHc2aXl5bDRzUGc5dmF3Wnk2UWlFQlgxaWJNbkh4bTl3WnVUZG9RZnhWNzN1NDF3OWdTd0JxUkxJSzNpN3liWnFfUkN4T05QNXNFVmhza0VzajJfSzEyRjQzYTlwbkx4U3BKU091c1lyeTR2dFBNMi0wN2hYSXd1bTczVWJ1R19EMENXV2",
    "source": "sport.de",
-   "date": "2026-11-18T18:01:00.000Z",
+   "date": "2026-11-18T18:26:19.000Z",
    "fee": null,
    "clubs": [
     "Barcelona"
@@ -211,6 +211,21 @@ window.FUPPES_DATA["transfers"] = {
    "clubs": [
     "Bayern",
     "BVB"
+   ],
+   "tags": [
+    "Transfer"
+   ]
+  },
+  {
+   "title": "BVB-Transferkandidat Balogun wird Juve und Milan angeboten",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZDl0XzlJaW02SGJPOFNDd2FzM2dMakVnMlFQdHEwMndVVC05dXRVQ3pwMVlEeHVheG94VzZrb0ZIZDdubzVVN0tqeEdyVkkyX25kS0NkWDFjRUhlZGRIQUFiOVFmUGpadnRHSm9fRmV4czZGY1RWemdwV2V4ZWt3bmlTMjloRFFtRVhHeUx2YVB4SU96SFhqVQ?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNZDl0XzlJaW02SGJPOFNDd2FzM2dMakVnMlFQdHEwMndVVC05dXRVQ3pwMVlEeHVheG94VzZrb0ZIZDdubzVVN0tqeEdyVkkyX25kS0NkWDFjRUhlZGRIQUFiOVFmUGpadnRHSm9fRmV4czZGY1RWemdwV2V4ZWt3bmlTMjloRFFtRVhHeUx2YVB4SU96SFhqVQ?oc=5\" target=\"_blank\">B",
+   "source": "Fussball Europa",
+   "date": "2026-11-18T10:25:00.000Z",
+   "fee": null,
+   "clubs": [
+    "BVB",
+    "Milan"
    ],
    "tags": [
     "Transfer"
@@ -371,20 +386,6 @@ window.FUPPES_DATA["transfers"] = {
    ],
    "tags": [
     "Vertrag"
-   ]
-  },
-  {
-   "title": "Transfer-Tipp für Bayern – idealer Kane-Ersatz",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOckoyMEZHMkFMRlRCcE5SZ1ZPeUtFUm9OOFo3ZGtUb3FjRHlHSTBvTF9vR1lxdlNsQU1MSlpzc3JwQUNwX0JqVjhXbVppZ1NZZXVDSjNnZE9KLWxvcGRKUmJYaURPWGlfTkk1Z2NHM09ZSE9tRlhZMWI2Z1paeTlpMzhxOHkxbTg?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOckoyMEZHMkFMRlRCcE5SZ1ZPeUtFUm9OOFo3ZGtUb3FjRHlHSTBvTF9vR1lxdlNsQU1MSlpzc3JwQUNwX0JqVjhXbVppZ1NZZXVDSjNnZE9KLWxvcGRKUmJYaURPWGlfTkk1Z2NHM09ZSE9tRlhZMWI2Z1paeTlpMzhxOHkxbTg?oc=5\" target=\"_blank\">Transfer-Tipp für Bayern",
-   "source": "fussballdaten.de",
-   "date": "2026-11-17T12:34:00.000Z",
-   "fee": null,
-   "clubs": [
-    "Bayern"
-   ],
-   "tags": [
-    "Transfer"
    ]
   }
  ]
