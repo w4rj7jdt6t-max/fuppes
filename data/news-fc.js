@@ -1,7 +1,19 @@
 window.FUPPES_DATA = window.FUPPES_DATA || {};
 window.FUPPES_DATA["news-fc"] = {
- "updated": "2026-11-18T05:14:23.837Z",
+ "updated": "2026-11-18T07:31:31.316Z",
  "items": [
+  {
+   "title": "Rückkehr von Vincent Kompany: Ist der Bayern-Trainer beim Spiel gegen Köln dabei?",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUzdGR1YtQ0tFUFlubHdFVGJfcXF0MndKYjBaa09aLWUwdnFoUEZ4aWJDb1FsYzU3S192NXZnYlYzZlBURlZybGc2eDlLRi1xdXVfYW1pd0tTQjdIRTBKOHNYS1RNUnlmWWpaSlVld0pRZzVKZVRwa0VGbGNiRE4xOWNJdjdCUkR4XzJacEZDMGFScDNfdHRNUkd2Mm5zRGhJV2ZhVExkWQ?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNUzdGR1YtQ0tFUFlubHdFVGJfcXF0MndKYjBaa09aLWUwdnFoUEZ4aWJDb1FsYzU3S192NXZnYlYzZlBURlZybGc2eDlLRi1xdXVfYW1pd0tTQjdIRTBKOHNYS1RNUnlmWWpaSlVld0pRZzVKZVRwa0VGbGNiRE4xOWNJdjdCUkR4XzJacEZDMGFScDNfdHRNUkd2Mm5zRGhJV2ZhVExkWQ?oc=",
+   "source": "Augsburger Allgemeine",
+   "date": "2026-11-18T05:57:40.000Z",
+   "tags": [
+    "Gerücht",
+    "Personal",
+    "Verein"
+   ]
+  },
   {
    "title": "Nach Gerüchten über Abgang: Das sagt Moore über seine Situation beim FC",
    "link": "https://geissblog.koeln/2026/11/nach-geruechten-ueber-abgang-das-sagt-moore-ueber-seine-situation-beim-fc/",
@@ -65,6 +77,16 @@ window.FUPPES_DATA["news-fc"] = {
    ]
   },
   {
+   "title": "Startelfeinsatz in Sicht? Musiala steht gegen Köln im Bayern-Kader",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTjJxMDM1X0l4VnFRUFYxbGtTckpJb1JuMzF4UUs3NS1Tak9CQXRTM2J0aFdvcEI0RnlUd2xrRHJrUlA4R1Q3TzFMQ3NYY1hXTUJPendnODdRcFF0NjhDaDAwV2JZSmJoM184dTZIeWtGRlNjckxSdWMwQjEzckVRWG5GWEVnTmEtSGEwR0t5ZmxDMnRvdlhqVlExMzhXWnBB?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQTjJxMDM1X0l4VnFRUFYxbGtTckpJb1JuMzF4UUs3NS1Tak9CQXRTM2J0aFdvcEI0RnlUd2xrRHJrUlA4R1Q3TzFMQ3NYY1hXTUJPendnODdRcFF0NjhDaDAwV2JZSmJoM184dTZIeWtGRlNjckxSdWMwQjEzckVRWG5GWEVnTmEtSGEwR0t5ZmxDMnRvdlhqVlExMzhXWnBB?oc=5\" target=",
+   "source": "FCBinside",
+   "date": "2026-11-17T12:19:28.000Z",
+   "tags": [
+    "Gerücht"
+   ]
+  },
+  {
    "title": "1. FC Köln prüft offenbar Transfer-Hammer",
    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVHM5WDR6WGJkb01KUDJ0amxBTTRPdFZNRmQ3RkVaT2RKM1RUbXZPSW5tZ0M1TFVEQkdkZDBNTEp4M1otUHh2ZmxKRks3dmphMXJRTEUyVWdRcnVNSjgtVDVHaDRqLW9JYzRIbzNxYUlyQXliWHVSZ2pMVkN3UEYycVE0TjZZMkE?oc=5",
    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPVHM5WDR6WGJkb01KUDJ0amxBTTRPdFZNRmQ3RkVaT2RKM1RUbXZPSW5tZ0M1TFVEQkdkZDBNTEp4M1otUHh2ZmxKRks3dmphMXJRTEUyVWdRcnVNSjgtVDVHaDRqLW9JYzRIbzNxYUlyQXliWHVSZ2pMVkN3UEYycVE0TjZZMkE?oc=5\" target=\"_blank\">1. FC Köln prüft offenba",
@@ -113,16 +135,6 @@ window.FUPPES_DATA["news-fc"] = {
    "summary": "Der 1. FC Köln sucht mindestens eine Verstärkung auf dem Transfermarkt für den Winter. Doch kann der FC wirklich einen Ersatz für Thijs Dallinga finden?... Der Beitrag „Kaderauffüller brauche ich nicht“: Klare Transfer-Ansage für den Winter erschien zuerst auf GEISSBLOG .",
    "source": "GEISSBLOG",
    "date": "2026-11-17T08:30:00.000Z",
-   "tags": [
-    "Transfer"
-   ]
-  },
-  {
-   "title": "\"Wäre absurd\": Köln-Boss mit Transfer-Klartext zu El Mala",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdUx3WVVQSWxGb08xVThaRS1rNWUtdGF2SVlUWmFwelpYOUpheGR0blVwS2hLc0tQdmh1NGZhc3lpV29Ham5zN2lwcE55dERIQ2lSVVQyOVBLWmxOaVRESUlQV0VQUmRCaHR6RzF4My1hXzZZUlc4aDByYldZODc5QXhSRUszTDhGV3VfY052LWNGSVItMXllNi1aOThxckd1dnAw?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNdUx3WVVQSWxGb08xVThaRS1rNWUtdGF2SVlUWmFwelpYOUpheGR0blVwS2hLc0tQdmh1NGZhc3lpV29Ham5zN2lwcE55dERIQ2lSVVQyOVBLWmxOaVRESUlQV0VQUmRCaHR6RzF4My1hXzZZUlc4aDByYldZODc5QXhSRUszTDhGV3VfY052LWNGSVItMXllNi1aOThxckd1dnAw?oc=5\" tar",
-   "source": "Fussball Europa",
-   "date": "2026-11-16T18:53:01.000Z",
    "tags": [
     "Transfer"
    ]
@@ -196,16 +208,6 @@ window.FUPPES_DATA["news-fc"] = {
    "date": "2026-11-15T06:02:00.000Z",
    "tags": [
     "Verein"
-   ]
-  },
-  {
-   "title": "(k+) Warnschüsse für Reservisten: Die Winter-Transferpläne des 1. FC Köln",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWWlDaDF0ajJPOXpkUmVEQnJUc0hJemdwdGhCMzFhTUZ3bHJxYTZqNnpfNmlBVUtBbFBmcWNycm44bVNfdzFvNFZfYkVmaWxHZEx2U0l1bGxKWmlQU18za1hMX04zNnR5T0hKWDJ2NUZISkEzTWMxZUNOaE9SQXctNk9jRGo4TE52YjJGbGhHNU9aWF80V09hOTU3SHljWkVQbDJURTJSQVRfM3Vh?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQWWlDaDF0ajJPOXpkUmVEQnJUc0hJemdwdGhCMzFhTUZ3bHJxYTZqNnpfNmlBVUtBbFBmcWNycm44bVNfdzFvNFZfYkVmaWxHZEx2U0l1bGxKWmlQU18za1hMX04zNnR5T0hKWDJ2NUZISkEzTWMxZUNOaE9SQXctNk9jRGo4TE52YjJGbGhHNU9aWF80V09hOTU3SHljWkVQbDJURTJSQVRfM3",
-   "source": "Kicker",
-   "date": "2026-11-14T10:20:06.000Z",
-   "tags": [
-    "Transfer"
    ]
   }
  ]

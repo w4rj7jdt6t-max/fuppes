@@ -1,6 +1,6 @@
 window.FUPPES_DATA = window.FUPPES_DATA || {};
 window.FUPPES_DATA["transfers"] = {
- "updated": "2026-11-18T05:14:25.215Z",
+ "updated": "2026-11-18T07:31:32.623Z",
  "rules": {
   "minFeeMio": 20,
   "topClubs": [
@@ -43,6 +43,20 @@ window.FUPPES_DATA["transfers"] = {
   ]
  },
  "items": [
+  {
+   "title": "Transfer-Ticker: FC Bayern lässt nicht locker",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWmRoejhfMjg1ZWljWE1oUzdxYllSa2RvTTA3Ti1KY0lQLUtDdlV5NEt0ekk1dnhjaVBKNlZ2Vm9ndE1GT3VZMGc2cTliMHlDbi1wemhTa2RTVlpKai14QlczUENDak1xRmkwUzFMT0daWUZnRjlnMXUxel94cS1VSURWVm54RmF4Vm00?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWmRoejhfMjg1ZWljWE1oUzdxYllSa2RvTTA3Ti1KY0lQLUtDdlV5NEt0ekk1dnhjaVBKNlZ2Vm9ndE1GT3VZMGc2cTliMHlDbi1wemhTa2RTVlpKai14QlczUENDak1xRmkwUzFMT0daWUZnRjlnMXUxel94cS1VSURWVm54RmF4Vm00?oc=5\" target=\"_blank\">Transfer-Ticker: FC",
+   "source": "sport.de",
+   "date": "2026-11-18T06:52:00.000Z",
+   "fee": null,
+   "clubs": [
+    "Bayern"
+   ],
+   "tags": [
+    "Transfer"
+   ]
+  },
   {
    "title": "Di Salvo entscheidet sich erst nächstes Jahr - J. J. Gabriel verlässt ManUnited",
    "link": "https://www.kicker.de/transferticker-953155/artikel#omrss",
@@ -235,6 +249,20 @@ window.FUPPES_DATA["transfers"] = {
    ]
   },
   {
+   "title": "Wechsel von Nicolo Tresoldi zum FC Bayern vom Tisch?",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPMnI0MEU1U2ViLW5DX2o4WkdqcU1LS2M5aUNpQjllZzRjU3VmYkU5ZUNUUmRnN1RwQmdVYjZiV0NMYUZwd0ktZUE5b1lVUHZZSnRWczNSdlNVMGhtSk5GTFkyRHQ4SDU4TXlDRFgzWUFMQWJ5U3VwZ3hSRk5lMlhjaHlHN0xQZ1pDNHF2bnJUMXlXNzA?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPMnI0MEU1U2ViLW5DX2o4WkdqcU1LS2M5aUNpQjllZzRjU3VmYkU5ZUNUUmRnN1RwQmdVYjZiV0NMYUZwd0ktZUE5b1lVUHZZSnRWczNSdlNVMGhtSk5GTFkyRHQ4SDU4TXlDRFgzWUFMQWJ5U3VwZ3hSRk5lMlhjaHlHN0xQZ1pDNHF2bnJUMXlXNzA?oc=5\" target=\"_blank\">Wechsel ",
+   "source": "sport.de",
+   "date": "2026-11-17T12:10:00.000Z",
+   "fee": null,
+   "clubs": [
+    "Bayern"
+   ],
+   "tags": [
+    "Gerücht"
+   ]
+  },
+  {
    "title": "Klausel greift: Bredlow verlängert beim VfB",
    "link": "https://www.kicker.de/klausel-greift-bredlow-verlaengert-beim-vfb-1272361/artikel#omrss",
    "summary": "Fabian Bredlow wird auch über die laufende Saison hinaus beim VfB Stuttgart unter Vertrag stehen, wie der Verein am Dienstag mitteilte.",
@@ -321,18 +349,6 @@ window.FUPPES_DATA["transfers"] = {
    ]
   },
   {
-   "title": "Sommer-Wechsel von DFB-Star Malick Thiaw möglich! Mindestens 80 Millionen Euro aufgerufen",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOSGRlcEtXVU1wSVk1c09OSkxTRlp5QndNTlhtcnAzMWxmaUYtX3lsYXNyTHowdEFEbFdiN3NVd1g2OEJTRUpDQWlKWmstS0E2OWVUSGpjdU1YNWQ5R24yMXI4OTRYbkk4STltX05lVUtpdUIxbW10NXVOVDZaMHRUcDNiOHFNS2UxNEhtYzRuVXhWNzlVWWdjWFdBTmZCN3hzRThMdkJtNDhRal9nVXBDWGxGUEpqcVFIRDVveGU1Nk5xQ2t3SHg3ZWhwbXdDcUVSaVFiNkpR?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxOSGRlcEtXVU1wSVk1c09OSkxTRlp5QndNTlhtcnAzMWxmaUYtX3lsYXNyTHowdEFEbFdiN3NVd1g2OEJTRUpDQWlKWmstS0E2OWVUSGpjdU1YNWQ5R24yMXI4OTRYbkk4STltX05lVUtpdUIxbW10NXVOVDZaMHRUcDNiOHFNS2UxNEhtYzRuVXhWNzlVWWdjWFdBTmZCN3hzRThMdkJtNDhRal",
-   "source": "Sky.de",
-   "date": "2026-11-16T17:47:00.000Z",
-   "fee": 80,
-   "clubs": [],
-   "tags": [
-    "Transfer"
-   ]
-  },
-  {
    "title": "Liverpool legt vor: Neues Vertragsangebot für Bayern-Kandidat Ngumoha",
    "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOVFl5VnZDZXZQQzNqcDNOdC1hOHdiTGRxTVp3b09oOFlkRk93dWZsSVlqSUthOUtZbjN5endHVUZFLTluWWF1bnB2WEFXaEhvdVlPY2ZUMWkteXdldjRUVVZ5dDVyOHJpaTFraHNPbEhPTzBvZVpTV3RNQzIyamE0OWx4Z1lsYTBPZ3RyakU0WmVHMTVNYzZERU11RUhMS2NQdjhyby1laXFsR2c1QmEyYWVPZVR0VmI4U2RZdzVrSHdQM2NzNWNVS2JGaHlNZEFBOGFrV251SGJERHh4SjZvMW9VRktzTVFtTlUwOGhGLTVCQ1ZHU1Bz?oc=5",
    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9wFBVV95cUxOVFl5VnZDZXZQQzNqcDNOdC1hOHdiTGRxTVp3b09oOFlkRk93dWZsSVlqSUthOUtZbjN5endHVUZFLTluWWF1bnB2WEFXaEhvdVlPY2ZUMWkteXdldjRUVVZ5dDVyOHJpaTFraHNPbEhPTzBvZVpTV3RNQzIyamE0OWx4Z1lsYTBPZ3RyakU0WmVHMTVNYzZERU11RUhMS2NQdjhyby1laXFsR2",
@@ -374,20 +390,6 @@ window.FUPPES_DATA["transfers"] = {
    "tags": [
     "Gerücht",
     "Vertrag"
-   ]
-  },
-  {
-   "title": "Verliert Bayern Prescott? Vier Premier-League-Klubs zeigen Interesse",
-   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOQS1FU1lJeTNxNEdNakNGNHVKRW1TQ0RMYVpnS29rQVlGQ3hWMEt5TS13VWRyWklONURYbTZLWEJaNmZ2WUJxWUMwSDctVEtUWXVfMktveFJ0d1BSY3lrQjR0T1pkcDA5M09Wd3BXVUtrVnJTU2dyWHF6MW8zVDU2c2EtSUtGdnNaZ21zWWU1MFRQNTRaVkp3WFNrMXdOWG12Y3NtWVdjWWZ6MGtqYWNzckRQYmlJdUdqUjY5ZHVfQTQ4Z1hETkJmQzdrS2NlZFpERVFFNjlpVkdQTllITW9ESjhwclBLQQ?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxOQS1FU1lJeTNxNEdNakNGNHVKRW1TQ0RMYVpnS29rQVlGQ3hWMEt5TS13VWRyWklONURYbTZLWEJaNmZ2WUJxWUMwSDctVEtUWXVfMktveFJ0d1BSY3lrQjR0T1pkcDA5M09Wd3BXVUtrVnJTU2dyWHF6MW8zVDU2c2EtSUtGdnNaZ21zWWU1MFRQNTRaVkp3WFNrMXdOWG12Y3NtWVdjWWZ6MG",
-   "source": "n-tv.de",
-   "date": "2026-11-16T17:45:00.000Z",
-   "fee": null,
-   "clubs": [
-    "Bayern"
-   ],
-   "tags": [
-    "Gerücht"
    ]
   }
  ]
