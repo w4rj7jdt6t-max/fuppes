@@ -1,6 +1,6 @@
 window.FUPPES_DATA = window.FUPPES_DATA || {};
 window.FUPPES_DATA["vorverkauf"] = {
- "updated": "2026-11-18T13:27:54.076Z",
+ "updated": "2026-11-18T15:10:13.122Z",
  "source": "1. FC Köln · Vorverkaufsstarts (calovo)",
  "subscribe": "webcal://i.cal.to/ical/218/fckoeln/1-fc-koeln-vorverkaufsstarts/12345.12345-54321.ics",
  "shop": "https://www.ticket-onlineshop.com/ols/fckoeln/",
@@ -250,6 +250,48 @@ window.FUPPES_DATA["vorverkauf"] = {
    "note": null,
    "location": "MEWA AREN",
    "extraPhases": []
+  },
+  {
+   "id": "6afdb3b36cf3f@218.calovo",
+   "start": "2026-12-01T09:00:00.000Z",
+   "match": "1. FC Köln - SC Freiburg",
+   "competition": "1. Bundesliga",
+   "round": "15. Spieltag",
+   "phase": "Mitgliederverkauf",
+   "limit": "Die Begegnung ist auf zwei Karten pro Mitglied begrenzt.",
+   "note": "Der Vorverkauf 20+ beginnt am Freitag, 27. November 2026, um 10 Uhr. Für U25 startet der Vorverkauf am Montag, 30. November, 16 Uhr.",
+   "location": "RheinEnergieSTADION",
+   "extraPhases": [
+    {
+     "group": "20+",
+     "start": "2026-11-27T09:00:00.000Z"
+    },
+    {
+     "group": "U25",
+     "start": "2026-11-30T15:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": "6afdb54e3bf50@218.calovo",
+   "start": "2026-12-08T09:00:00.000Z",
+   "match": "1. FC Köln - Borussia Dortmund",
+   "competition": "1. Bundesliga",
+   "round": "16. Spieltag",
+   "phase": "Mitgliederverkauf",
+   "limit": "Die Begegnung ist auf zwei Karten pro Mitglied begrenzt.",
+   "note": "Der Vorverkauf 20+ beginnt am Freitag, 04. Dezember 2026, um 10 Uhr. Für U25 startet der Vorverkauf am Montag, 07. Dezember, 16 Uhr.",
+   "location": "RheinEnergieSTADION",
+   "extraPhases": [
+    {
+     "group": "20+",
+     "start": "2026-12-04T09:00:00.000Z"
+    },
+    {
+     "group": "U25",
+     "start": "2026-12-07T15:00:00.000Z"
+    }
+   ]
   }
  ]
 };

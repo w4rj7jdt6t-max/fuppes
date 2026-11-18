@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T13:27:56.102Z",
+ "updated": "2026-11-18T15:10:15.420Z",
  "rules": {
   "minFeeMio": 20,
   "topClubs": [
@@ -43,6 +43,21 @@
  },
  "items": [
   {
+   "title": "Köln-Coach Wagner zu Toppmöller-Gerüchten: \"Da spüre ich gar nichts\"",
+   "link": "https://www.kicker.de/koeln-coach-wagner-zu-toppmoeller-geruechten-da-spuere-ich-gar-nichts-1272684/video#omrss",
+   "summary": "Köln-Trainer René Wagner spricht auf der Pressekonferenz vor dem Spiel gegen den FC Bayern München über die aktuellen Gerüchte rund um Dino Toppmöller und wie man auftreten muss, um gegen die Bayern etwas mitzunehmen.",
+   "source": "kicker",
+   "date": "2026-11-18T13:41:14.000Z",
+   "fee": null,
+   "clubs": [
+    "Bayern"
+   ],
+   "tags": [
+    "Gerücht",
+    "Verein"
+   ]
+  },
+  {
    "title": "BVB vor FC Bayern: Die 50 größten Fan-Magnete der Welt mit HSV & Schalke",
    "link": "https://www.transfermarkt.de/grosste-fan-magnete-der-welt-inter-uberholt-fc-bayern-hsv-knapp-hinter-barca/view/news/490850",
    "summary": "Viele der im Ligabetrieb bestgef&uuml;llten Stadien der Welt sind w&auml;hrend der L&auml;nderspielpause leer geblieben. Transfermarkt wirft einen Blick auf die weltweit gr&ouml;&szlig;ten...",
@@ -55,20 +70,6 @@
    ],
    "tags": [
     "Transfer"
-   ]
-  },
-  {
-   "title": "Fußball: Holt Dynamo Dresden diesen Profi vom FC Bayern München?",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNS1JJZmFXRE1WVFRUN3ZNQnRfRENjX2ItOTlYRmZ1R1M3ekh6UHJQNXE1UUFHUDJROW5pR1d0UERMdU5vRVpxTFYydFU5OWNGMHJtOERPRmVkdmpmQXF5ci1FbmVUVXFwaHB0bXF2OVdfLUM0c2xRbXZlaUFqV0tpMDE4RVF1SzNRT0tXZThMd09Bakc5TE9OaXFhRFlNMHBaaV9xZFNzNDZzdmVkSFZkelAzVVMyM1lNZ3IxOXl1NmMxZw?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNS1JJZmFXRE1WVFRUN3ZNQnRfRENjX2ItOTlYRmZ1R1M3ekh6UHJQNXE1UUFHUDJROW5pR1d0UERMdU5vRVpxTFYydFU5OWNGMHJtOERPRmVkdmpmQXF5ci1FbmVUVXFwaHB0bXF2OVdfLUM0c2xRbXZlaUFqV0tpMDE4RVF1SzNRT0tXZThMd09Bakc5TE9OaXFhRFlNMHBaaV9xZFNzNDZzdm",
-   "source": "BILD",
-   "date": "2026-11-18T12:54:32.000Z",
-   "fee": null,
-   "clubs": [
-    "Bayern"
-   ],
-   "tags": [
-    "Gerücht"
    ]
   },
   {
@@ -143,20 +144,6 @@
    ]
   },
   {
-   "title": "Medien: Schalke-Rückhalt Karius offen für Bayern-Wechsel",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOaFdTdGlYOHpjTGtkeFpJVGhLeGpfeXBzTmU0a09xR2hSZmV3Z2IweThpUnBWYW1ic3pvQnYwT2Z6V29VZmMxcUo2MEZtb0I0NzFZR0tac1dtamEwS08tSkVKdFJEa3JqcGRaSXd2LUhiVVc4ZTlaTTg2cEVxakZlcV9yMnZweEt2ZjY0TGc3Zi02ZlNtMFZyalR0V1p5aWZLeW9ESFRKTkRmaUVmbXNUbGVrQ19DYWgxNzg1S0tNNmgtTFJ5MVRKa1VySmJPNkdQNlNITQ?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxOaFdTdGlYOHpjTGtkeFpJVGhLeGpfeXBzTmU0a09xR2hSZmV3Z2IweThpUnBWYW1ic3pvQnYwT2Z6V29VZmMxcUo2MEZtb0I0NzFZR0tac1dtamEwS08tSkVKdFJEa3JqcGRaSXd2LUhiVVc4ZTlaTTg2cEVxakZlcV9yMnZweEt2ZjY0TGc3Zi02ZlNtMFZyalR0V1p5aWZLeW9ESFRKTkRmaU",
-   "source": "sport.de",
-   "date": "2026-11-18T08:46:00.000Z",
-   "fee": null,
-   "clubs": [
-    "Bayern"
-   ],
-   "tags": [
-    "Transfer"
-   ]
-  },
-  {
    "title": "Wie der FC Bayern seine Klubführung verjüngen - und Olise halten will",
    "link": "https://www.kicker.de/wie-der-fc-bayern-seine-klubfuehrung-verjuengen-und-olise-halten-will-1272557/artikel#omrss",
    "summary": "Mit Thomas Müller und Manuel Neuer? Präsident Herbert Hainer erklärt, wie der FC Bayern die Verjüngung der Klubführung vorantreibt - und wie er mit einem 300-Millionen-Euro-Angebot für Michael Olise umgehen würde.",
@@ -176,20 +163,6 @@
    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxNUVRXdmt0UFl1b0hZenN0aV8xNkMxU3lKS1hSRUlIUG02b0JnRUhBTFlNaTd5X1IzYmJPU2tnY2dBb3RwTkxVZ2ltMkZvcDRNVXVfOEhRVGdOSENZWWhSekFSUmZxY2YxM0s1Z0k4YzNvY0owVHVGdGx3RlZTVjFNX043U25iQThsakJsZEFZMVlteXVGX3VHem9Jdk0wQklLY29McHhHTlA5aE",
    "source": "SPOX.com",
    "date": "2026-11-18T08:17:45.000Z",
-   "fee": null,
-   "clubs": [
-    "Bayern"
-   ],
-   "tags": [
-    "Gerücht"
-   ]
-  },
-  {
-   "title": "100-Millionen-Zugang für den FC Bayern?",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSkJvVUNpZ1kzbnFqSXVoYjZEWmFqYktZSG1PTVJaSmJaVnI2by1lM3RmVG5qY1RHOEpyWjBOa1VWNklkeHh5aHhPNzJBSHVTNmtIbzA3U0txQkt1S3FIVHBiRTI2RkF4R05vU3g0STJTc29CZlJHUGNEUHJkMjktOWhaeDFYZEh3NUFjaFJRVUQ?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQSkJvVUNpZ1kzbnFqSXVoYjZEWmFqYktZSG1PTVJaSmJaVnI2by1lM3RmVG5qY1RHOEpyWjBOa1VWNklkeHh5aHhPNzJBSHVTNmtIbzA3U0txQkt1S3FIVHBiRTI2RkF4R05vU3g0STJTc29CZlJHUGNEUHJkMjktOWhaeDFYZEh3NUFjaFJRVUQ?oc=5\" target=\"_blank\">100-Millione",
-   "source": "Fussball Transfers",
-   "date": "2026-11-18T07:43:18.000Z",
    "fee": null,
    "clubs": [
     "Bayern"
@@ -386,6 +359,37 @@
     "VfB"
    ],
    "tags": [
+    "Vertrag"
+   ]
+  },
+  {
+   "title": "Wechselt Gruda zum FC Bayern? RB Leipzig trifft wichtige Entscheidung",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOeDAwOUdZcThYUmVOdFhXdTlSSWZULWJrZ19BaEQxZU9Dc05RTFM2Zl9obGNSNlhOREdyV1FtOEc1WGszbEtVbkhXNmhRRGNlVk5lNks1QmxHbC1pb2xrNDlPYUN1MHVjUzNScmNaaE1pMm1aQ1djS3lVNnpuSHBaU0hvbEZiMGhvR2lTV0trSWI2ZHpS?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOeDAwOUdZcThYUmVOdFhXdTlSSWZULWJrZ19BaEQxZU9Dc05RTFM2Zl9obGNSNlhOREdyV1FtOEc1WGszbEtVbkhXNmhRRGNlVk5lNks1QmxHbC1pb2xrNDlPYUN1MHVjUzNScmNaaE1pMm1aQ1djS3lVNnpuSHBaU0hvbEZiMGhvR2lTV0trSWI2ZHpS?oc=5\" target=\"_blank\">Wechsel",
+   "source": "fussballdaten.de",
+   "date": "2026-11-16T20:05:00.000Z",
+   "fee": null,
+   "clubs": [
+    "Bayern",
+    "RB Leipzig",
+    "Leipzig"
+   ],
+   "tags": [
+    "Gerücht"
+   ]
+  },
+  {
+   "title": "Arsenal plant langfristig mit Rice: Einigung auf Vertrag bis 2031?",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPM3lwTkFqZ1pVcjhOT2psdHN5NmRyUEpvZVpEVHJlR29zMUY3WWFMTUVrM1dWbm9SWkhuT3dXQXBLNS1yRTdsblZVVTF2NkROWjI2UnVuemhSUGxTRUVXVnkySjJXVXk2TmRuRk1xRWxGLXQzWEVxUDRpT2dtOHNBbVp3a0FMRlVBcDZISUdLaTNmTkNtTURfVl9VcHMtbHhveFNKZHJ3Tl81VWd2ZFdCLXE1NkoyZEVkT2txVW1QeVd1d1N5cy0xcnpycUpXaU51OExRM1RZT2Z2X3J6bXlzZlZ3?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxPM3lwTkFqZ1pVcjhOT2psdHN5NmRyUEpvZVpEVHJlR29zMUY3WWFMTUVrM1dWbm9SWkhuT3dXQXBLNS1yRTdsblZVVTF2NkROWjI2UnVuemhSUGxTRUVXVnkySjJXVXk2TmRuRk1xRWxGLXQzWEVxUDRpT2dtOHNBbVp3a0FMRlVBcDZISUdLaTNmTkNtTURfVl9VcHMtbHhveFNKZHJ3Tl81VW",
+   "source": "n-tv.de",
+   "date": "2026-11-16T20:00:00.000Z",
+   "fee": null,
+   "clubs": [
+    "Arsenal"
+   ],
+   "tags": [
+    "Gerücht",
     "Vertrag"
    ]
   }
