@@ -1,31 +1,10 @@
 window.FUPPES_DATA = window.FUPPES_DATA || {};
 window.FUPPES_DATA["vorverkauf"] = {
- "updated": "2026-11-18T07:31:30.308Z",
+ "updated": "2026-11-18T09:17:34.727Z",
  "source": "1. FC Köln · Vorverkaufsstarts (calovo)",
  "subscribe": "webcal://i.cal.to/ical/218/fckoeln/1-fc-koeln-vorverkaufsstarts/12345.12345-54321.ics",
  "shop": "https://www.ticket-onlineshop.com/ols/fckoeln/",
  "items": [
-  {
-   "id": "6a4faa6130eb3@218.calovo",
-   "start": "2026-07-21T08:00:00.000Z",
-   "match": "1. FC Köln - TSG Hoffenheim",
-   "competition": "1. Bundesliga",
-   "round": "1. Spieltag",
-   "phase": "Mitgliederverkauf",
-   "limit": "Die Begegnung ist auf zwei Karten pro Mitglied begrenzt.",
-   "note": "Der Vorverkauf 20+ beginnt am Freitag, 17. Juli 2026, um 10 Uhr. Für U25 startet der Vorverkauf am Montag, 20. Juli, 16 Uhr.",
-   "location": "RheinEnergieSTADION",
-   "extraPhases": [
-    {
-     "group": "20+",
-     "start": "2026-07-17T08:00:00.000Z"
-    },
-    {
-     "group": "U25",
-     "start": "2026-07-20T14:00:00.000Z"
-    }
-   ]
-  },
   {
    "id": "6a56307d91d1b@218.calovo",
    "start": "2026-07-23T08:00:00.000Z",

@@ -1,7 +1,18 @@
 window.FUPPES_DATA = window.FUPPES_DATA || {};
 window.FUPPES_DATA["news-fc"] = {
- "updated": "2026-11-18T07:31:31.316Z",
+ "updated": "2026-11-18T09:17:35.635Z",
  "items": [
+  {
+   "title": "Trainer-Hammer? Ex-Frankfurter in Köln gehandelt",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdnVUSUV3OVhOX3NWX3lOcjd3bHlfejJ2d1l2cy1QOVdlUUFNUUVPYm05bS0yRFJ3TzdHQTByRlY5QjEzV2lpTkp1NnUyRnM0VThzMzVTbHptck5JeUl0ZlYtZWRHX1BnQV95Xy15VWExMGswRmx1b2IzUjFSd1RGdFFaYW9UdXB0UkJsV283RTJzeGhhVUNYdw?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOdnVUSUV3OVhOX3NWX3lOcjd3bHlfejJ2d1l2cy1QOVdlUUFNUUVPYm05bS0yRFJ3TzdHQTByRlY5QjEzV2lpTkp1NnUyRnM0VThzMzVTbHptck5JeUl0ZlYtZWRHX1BnQV95Xy15VWExMGswRmx1b2IzUjFSd1RGdFFaYW9UdXB0UkJsV283RTJzeGhhVUNYdw?oc=5\" target=\"_blank\">T",
+   "source": "sport.de",
+   "date": "2026-11-18T07:48:00.000Z",
+   "tags": [
+    "Gerücht",
+    "Verein"
+   ]
+  },
   {
    "title": "Rückkehr von Vincent Kompany: Ist der Bayern-Trainer beim Spiel gegen Köln dabei?",
    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUzdGR1YtQ0tFUFlubHdFVGJfcXF0MndKYjBaa09aLWUwdnFoUEZ4aWJDb1FsYzU3S192NXZnYlYzZlBURlZybGc2eDlLRi1xdXVfYW1pd0tTQjdIRTBKOHNYS1RNUnlmWWpaSlVld0pRZzVKZVRwa0VGbGNiRE4xOWNJdjdCUkR4XzJacEZDMGFScDNfdHRNUkd2Mm5zRGhJV2ZhVExkWQ?oc=5",
@@ -197,16 +208,6 @@ window.FUPPES_DATA["news-fc"] = {
    "date": "2026-11-15T09:54:00.000Z",
    "tags": [
     "Gerücht",
-    "Verein"
-   ]
-  },
-  {
-   "title": "Köln-Boss erklärt Trainer-Entscheidung",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQckZ3UHpubkp2NWNrX2hkdzVmMzZvLWF1aUNWZkJrVjhIbDlkTnIwR3JhUmFDUWJ2Q1JwbkZWZjN2UEJsYlIwTXNoMnRIOUg2M21mNEdnMnpRbzZ5MVhIYXYxQlJxRVg1SGd0eUstRFQ5dW5aMVJkMG43NThtLUFLcVBpVm0?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQckZ3UHpubkp2NWNrX2hkdzVmMzZvLWF1aUNWZkJrVjhIbDlkTnIwR3JhUmFDUWJ2Q1JwbkZWZjN2UEJsYlIwTXNoMnRIOUg2M21mNEdnMnpRbzZ5MVhIYXYxQlJxRVg1SGd0eUstRFQ5dW5aMVJkMG43NThtLUFLcVBpVm0?oc=5\" target=\"_blank\">Köln-Boss erklärt Trainer-En",
-   "source": "sport.de",
-   "date": "2026-11-15T06:02:00.000Z",
-   "tags": [
     "Verein"
    ]
   }
