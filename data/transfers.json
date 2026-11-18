@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T03:02:09.656Z",
+ "updated": "2026-11-18T05:14:25.215Z",
  "rules": {
   "minFeeMio": 20,
   "topClubs": [
@@ -234,20 +234,6 @@
    ]
   },
   {
-   "title": "Wechsel von Nicolo Tresoldi zum FC Bayern vom Tisch?",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPMnI0MEU1U2ViLW5DX2o4WkdqcU1LS2M5aUNpQjllZzRjU3VmYkU5ZUNUUmRnN1RwQmdVYjZiV0NMYUZwd0ktZUE5b1lVUHZZSnRWczNSdlNVMGhtSk5GTFkyRHQ4SDU4TXlDRFgzWUFMQWJ5U3VwZ3hSRk5lMlhjaHlHN0xQZ1pDNHF2bnJUMXlXNzA?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPMnI0MEU1U2ViLW5DX2o4WkdqcU1LS2M5aUNpQjllZzRjU3VmYkU5ZUNUUmRnN1RwQmdVYjZiV0NMYUZwd0ktZUE5b1lVUHZZSnRWczNSdlNVMGhtSk5GTFkyRHQ4SDU4TXlDRFgzWUFMQWJ5U3VwZ3hSRk5lMlhjaHlHN0xQZ1pDNHF2bnJUMXlXNzA?oc=5\" target=\"_blank\">Wechsel ",
-   "source": "sport.de",
-   "date": "2026-11-17T12:10:00.000Z",
-   "fee": null,
-   "clubs": [
-    "Bayern"
-   ],
-   "tags": [
-    "Gerücht"
-   ]
-  },
-  {
    "title": "Klausel greift: Bredlow verlängert beim VfB",
    "link": "https://www.kicker.de/klausel-greift-bredlow-verlaengert-beim-vfb-1272361/artikel#omrss",
    "summary": "Fabian Bredlow wird auch über die laufende Saison hinaus beim VfB Stuttgart unter Vertrag stehen, wie der Verein am Dienstag mitteilte.",
@@ -387,6 +373,20 @@
    "tags": [
     "Gerücht",
     "Vertrag"
+   ]
+  },
+  {
+   "title": "Verliert Bayern Prescott? Vier Premier-League-Klubs zeigen Interesse",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOQS1FU1lJeTNxNEdNakNGNHVKRW1TQ0RMYVpnS29rQVlGQ3hWMEt5TS13VWRyWklONURYbTZLWEJaNmZ2WUJxWUMwSDctVEtUWXVfMktveFJ0d1BSY3lrQjR0T1pkcDA5M09Wd3BXVUtrVnJTU2dyWHF6MW8zVDU2c2EtSUtGdnNaZ21zWWU1MFRQNTRaVkp3WFNrMXdOWG12Y3NtWVdjWWZ6MGtqYWNzckRQYmlJdUdqUjY5ZHVfQTQ4Z1hETkJmQzdrS2NlZFpERVFFNjlpVkdQTllITW9ESjhwclBLQQ?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxOQS1FU1lJeTNxNEdNakNGNHVKRW1TQ0RMYVpnS29rQVlGQ3hWMEt5TS13VWRyWklONURYbTZLWEJaNmZ2WUJxWUMwSDctVEtUWXVfMktveFJ0d1BSY3lrQjR0T1pkcDA5M09Wd3BXVUtrVnJTU2dyWHF6MW8zVDU2c2EtSUtGdnNaZ21zWWU1MFRQNTRaVkp3WFNrMXdOWG12Y3NtWVdjWWZ6MG",
+   "source": "n-tv.de",
+   "date": "2026-11-16T17:45:00.000Z",
+   "fee": null,
+   "clubs": [
+    "Bayern"
+   ],
+   "tags": [
+    "Gerücht"
    ]
   }
  ]
