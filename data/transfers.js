@@ -1,6 +1,6 @@
 window.FUPPES_DATA = window.FUPPES_DATA || {};
 window.FUPPES_DATA["transfers"] = {
- "updated": "2026-11-17T23:04:25.719Z",
+ "updated": "2026-11-18T01:30:05.556Z",
  "rules": {
   "minFeeMio": 20,
   "topClubs": [
@@ -321,6 +321,18 @@ window.FUPPES_DATA["transfers"] = {
    ]
   },
   {
+   "title": "Sommer-Wechsel von DFB-Star Malick Thiaw möglich! Mindestens 80 Millionen Euro aufgerufen",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOSGRlcEtXVU1wSVk1c09OSkxTRlp5QndNTlhtcnAzMWxmaUYtX3lsYXNyTHowdEFEbFdiN3NVd1g2OEJTRUpDQWlKWmstS0E2OWVUSGpjdU1YNWQ5R24yMXI4OTRYbkk4STltX05lVUtpdUIxbW10NXVOVDZaMHRUcDNiOHFNS2UxNEhtYzRuVXhWNzlVWWdjWFdBTmZCN3hzRThMdkJtNDhRal9nVXBDWGxGUEpqcVFIRDVveGU1Nk5xQ2t3SHg3ZWhwbXdDcUVSaVFiNkpR?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxOSGRlcEtXVU1wSVk1c09OSkxTRlp5QndNTlhtcnAzMWxmaUYtX3lsYXNyTHowdEFEbFdiN3NVd1g2OEJTRUpDQWlKWmstS0E2OWVUSGpjdU1YNWQ5R24yMXI4OTRYbkk4STltX05lVUtpdUIxbW10NXVOVDZaMHRUcDNiOHFNS2UxNEhtYzRuVXhWNzlVWWdjWFdBTmZCN3hzRThMdkJtNDhRal",
+   "source": "Sky.de",
+   "date": "2026-11-16T17:47:00.000Z",
+   "fee": 80,
+   "clubs": [],
+   "tags": [
+    "Transfer"
+   ]
+  },
+  {
    "title": "Liverpool legt vor: Neues Vertragsangebot für Bayern-Kandidat Ngumoha",
    "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOVFl5VnZDZXZQQzNqcDNOdC1hOHdiTGRxTVp3b09oOFlkRk93dWZsSVlqSUthOUtZbjN5endHVUZFLTluWWF1bnB2WEFXaEhvdVlPY2ZUMWkteXdldjRUVVZ5dDVyOHJpaTFraHNPbEhPTzBvZVpTV3RNQzIyamE0OWx4Z1lsYTBPZ3RyakU0WmVHMTVNYzZERU11RUhMS2NQdjhyby1laXFsR2c1QmEyYWVPZVR0VmI4U2RZdzVrSHdQM2NzNWNVS2JGaHlNZEFBOGFrV251SGJERHh4SjZvMW9VRktzTVFtTlUwOGhGLTVCQ1ZHU1Bz?oc=5",
    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9wFBVV95cUxOVFl5VnZDZXZQQzNqcDNOdC1hOHdiTGRxTVp3b09oOFlkRk93dWZsSVlqSUthOUtZbjN5endHVUZFLTluWWF1bnB2WEFXaEhvdVlPY2ZUMWkteXdldjRUVVZ5dDVyOHJpaTFraHNPbEhPTzBvZVpTV3RNQzIyamE0OWx4Z1lsYTBPZ3RyakU0WmVHMTVNYzZERU11RUhMS2NQdjhyby1laXFsR2",
@@ -376,21 +388,6 @@ window.FUPPES_DATA["transfers"] = {
    ],
    "tags": [
     "Gerücht"
-   ]
-  },
-  {
-   "title": "Maza vor Leverkusen-Verlängerung: Doch PSG bleibt dran!",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeHBjWDR6OEdIRkdRTkZYTjhpT2NyQkVIMHNWSEJNRHZoekk5TlJacTkzZVZkTnRyc21SOTR3QUtJVHAxdkV5aDM4X2NTeEpLVlFHQmZHeGkxbjhLbU9sR003aS1BSUkwemdUU2NOMG9DcFVmd1g1Nk1hUzc5UG5WTTFEa2l3Y3Y3LWdld3BYSDQtbTV3QjloRnh1ZlpOcUhmeUdkSUlfdDJSS0U?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeHBjWDR6OEdIRkdRTkZYTjhpT2NyQkVIMHNWSEJNRHZoekk5TlJacTkzZVZkTnRyc21SOTR3QUtJVHAxdkV5aDM4X2NTeEpLVlFHQmZHeGkxbjhLbU9sR003aS1BSUkwemdUU2NOMG9DcFVmd1g1Nk1hUzc5UG5WTTFEa2l3Y3Y3LWdld3BYSDQtbTV3QjloRnh1ZlpOcUhmeUdkSUlfdDJSS0",
-   "source": "Sky.de",
-   "date": "2026-11-16T17:24:00.000Z",
-   "fee": null,
-   "clubs": [
-    "Leverkusen",
-    "PSG"
-   ],
-   "tags": [
-    "Vertrag"
    ]
   }
  ]
