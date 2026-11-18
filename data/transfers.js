@@ -1,6 +1,6 @@
 window.FUPPES_DATA = window.FUPPES_DATA || {};
 window.FUPPES_DATA["transfers"] = {
- "updated": "2026-11-18T19:10:29.208Z",
+ "updated": "2026-11-18T21:05:55.429Z",
  "rules": {
   "minFeeMio": 20,
   "topClubs": [
@@ -43,6 +43,20 @@ window.FUPPES_DATA["transfers"] = {
   ]
  },
  "items": [
+  {
+   "title": "Karius von Schalke zum FC Bayern? Boss Tillmann kommentiert Gerücht",
+   "link": "https://www.transfermarkt.de/karius-zu-bayern-tillmann-lieber-die-nr-1-auf-schalke-als-woanders-nur-ersatz-sein-quot-/view/news/490882",
+   "summary": "Schalkes Vorstandsvorsitzender Matthias Tillmann hat keine Sorge vor einem Abschied von Torwart Loris Karius in Richtung FC Bayern. Der 33-J&auml;hrige wurde zuerst vom Pay-TV-Sender...",
+   "source": "Transfermarkt",
+   "date": "2026-11-18T20:33:08.000Z",
+   "fee": null,
+   "clubs": [
+    "Bayern"
+   ],
+   "tags": [
+    "Gerücht"
+   ]
+  },
   {
    "title": "Mit Verteidiger-Hybrid: Dortmunds neue Flexibilität ganz hinten",
    "link": "https://www.kicker.de/mit-verteidiger-hybrid-dortmunds-neue-flexibilitaet-ganz-hinten-1272538/artikel#omrss",
@@ -203,21 +217,6 @@ window.FUPPES_DATA["transfers"] = {
    ]
   },
   {
-   "title": "Chatzialexiou wechselt früher vom 1. FC Nürnberg zu Eintracht Frankfurt – Kleiner Nachschlag",
-   "link": "https://www.transfermarkt.de/chatzialexiou-wechselt-im-dezember-vom-fcn-nach-frankfurt-kleiner-nachschlag-fliesst/view/news/490686",
-   "summary": "Dieser Artikel erschien erstmals am 16. November und wurde nach der Best&auml;tigung von Eintracht Frankfurt aktualisiert. Joti Chatzialexiou verl&auml;sst den 1. FC N&uuml;rnberg fr&uuml;her als...",
-   "source": "Transfermarkt",
-   "date": "2026-11-18T12:15:01.000Z",
-   "fee": null,
-   "clubs": [
-    "Eintracht Frankfurt",
-    "Frankfurt"
-   ],
-   "tags": [
-    "Fix"
-   ]
-  },
-  {
    "title": "Transfer im Winter? BVB trifft Entscheidung bei Mathis Albert",
    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMnllX0NvWkJFcVBzUWpSTnFJOWUtaVFsT2J0MC1KNnRVcjQ2YTNIN2tZMEF3UGlPcmdKcGNQX0ZXdTUxUEpyZFZnSzFyV0diMXgzX2JhZHE5TDdQUnRycjN1dHQ3RkFGUjk5UTNtSTB4WjFhWi1DLUpJaEpmcnU0eGlDM2lOTGZmOFd0dl83TndKQQ?oc=5",
    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPMnllX0NvWkJFcVBzUWpSTnFJOWUtaVFsT2J0MC1KNnRVcjQ2YTNIN2tZMEF3UGlPcmdKcGNQX0ZXdTUxUEpyZFZnSzFyV0diMXgzX2JhZHE5TDdQUnRycjN1dHQ3RkFGUjk5UTNtSTB4WjFhWi1DLUpJaEpmcnU0eGlDM2lOTGZmOFd0dl83TndKQQ?oc=5\" target=\"_blank\">Transfer ",
@@ -274,20 +273,6 @@ window.FUPPES_DATA["transfers"] = {
    ]
   },
   {
-   "title": "Bayern-Wechsel eine Option für weiteren Bundesliga-Torhüter",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNN3ViSFplWk5MemZ3Sm5DN1FPeGxFbUJpZnNWbWd2OXNFS21pX2xZU3A5U1FuazlsTTNiclllclRsUm9Dazhsc0Q0NzNCMlA3ZUM1Nm9QUndJdmxMNk1rajFOVk16cUotaWdGWW9XN3lFbkpMci1kSFhsbWlmOEdjMVJTdXI3LXZPTkZjcUxjaw?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNN3ViSFplWk5MemZ3Sm5DN1FPeGxFbUJpZnNWbWd2OXNFS21pX2xZU3A5U1FuazlsTTNiclllclRsUm9Dazhsc0Q0NzNCMlA3ZUM1Nm9QUndJdmxMNk1rajFOVk16cUotaWdGWW9XN3lFbkpMci1kSFhsbWlmOEdjMVJTdXI3LXZPTkZjcUxjaw?oc=5\" target=\"_blank\">Bayern-Wechse",
-   "source": "fussballdaten.de",
-   "date": "2026-11-18T07:35:00.000Z",
-   "fee": null,
-   "clubs": [
-    "Bayern"
-   ],
-   "tags": [
-    "Transfer"
-   ]
-  },
-  {
    "title": "Transfer-Ticker: FC Bayern lässt nicht locker",
    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWmRoejhfMjg1ZWljWE1oUzdxYllSa2RvTTA3Ti1KY0lQLUtDdlV5NEt0ekk1dnhjaVBKNlZ2Vm9ndE1GT3VZMGc2cTliMHlDbi1wemhTa2RTVlpKai14QlczUENDak1xRmkwUzFMT0daWUZnRjlnMXUxel94cS1VSURWVm54RmF4Vm00?oc=5",
    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWmRoejhfMjg1ZWljWE1oUzdxYllSa2RvTTA3Ti1KY0lQLUtDdlV5NEt0ekk1dnhjaVBKNlZ2Vm9ndE1GT3VZMGc2cTliMHlDbi1wemhTa2RTVlpKai14QlczUENDak1xRmkwUzFMT0daWUZnRjlnMXUxel94cS1VSURWVm54RmF4Vm00?oc=5\" target=\"_blank\">Transfer-Ticker: FC",
@@ -328,23 +313,6 @@ window.FUPPES_DATA["transfers"] = {
    ],
    "tags": [
     "Gerücht"
-   ]
-  },
-  {
-   "title": "Vertrag verlängert: VfB Stuttgart erstickt Gerüchte über Wechsel zum FC Bayern im Keim",
-   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQbzl1RUZWTThjOTN0VFhYNmV1bWtkSkhCalg5eHdweVVFTHRFaThuNEF0a0RLZFgyRmREMjhaWWNvaUpxRVVuVy1rUWRwazI5VGZGVWJsSjd6dmVjR0ZpaUprNkxBNEdrWWxRSHZYY0xjdDFOY1pOb3FJUEVwQ0RuN3pHWjREeDY3WXNDVXByV1duTmhMOUNHX0RHczc5Wmc1UFFTakxUTzBqS19RczcxSTFDNXUyWG5wazdNUmhEY2FaUkZWRnhISHhMX0dZWDVSal85MVhJNW4wOHFDazZ2WGdkZE1Zb182TDRWYlhoVHg?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxQbzl1RUZWTThjOTN0VFhYNmV1bWtkSkhCalg5eHdweVVFTHRFaThuNEF0a0RLZFgyRmREMjhaWWNvaUpxRVVuVy1rUWRwazI5VGZGVWJsSjd6dmVjR0ZpaUprNkxBNEdrWWxRSHZYY0xjdDFOY1pOb3FJUEVwQ0RuN3pHWjREeDY3WXNDVXByV1duTmhMOUNHX0RHczc5Wmc1UFFTakxUTzBqS1",
-   "source": "SPOX.com",
-   "date": "2026-11-17T17:35:39.000Z",
-   "fee": null,
-   "clubs": [
-    "Bayern",
-    "Stuttgart",
-    "VfB"
-   ],
-   "tags": [
-    "Gerücht",
-    "Vertrag"
    ]
   },
   {
@@ -389,6 +357,34 @@ window.FUPPES_DATA["transfers"] = {
    "tags": [
     "Gerücht",
     "Vertrag"
+   ]
+  },
+  {
+   "title": "Absage an den FC Bayern: Torhüter verlängert Vertrag",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOTAtMmhYNHBGZWVxcGdVNjRCVEIxQ1ZneTNGbEhfUGJ4NEFZYUM2dHZ6R1NERVRFbTNXcm1rUGRydndxUFk1N2xKU1pGWExvRmtFTV9VMXpxTzNieHVTbHV6aWxZTEIzSzJ0TDdmNXIzVnlvdEdmN2hyR01TUks5bW1VeFlmWXZ6?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOTAtMmhYNHBGZWVxcGdVNjRCVEIxQ1ZneTNGbEhfUGJ4NEFZYUM2dHZ6R1NERVRFbTNXcm1rUGRydndxUFk1N2xKU1pGWExvRmtFTV9VMXpxTzNieHVTbHV6aWxZTEIzSzJ0TDdmNXIzVnlvdEdmN2hyR01TUks5bW1VeFlmWXZ6?oc=5\" target=\"_blank\">Absage an den FC Bayern",
+   "source": "fussballdaten.de",
+   "date": "2026-11-17T12:54:00.000Z",
+   "fee": null,
+   "clubs": [
+    "Bayern"
+   ],
+   "tags": [
+    "Vertrag"
+   ]
+  },
+  {
+   "title": "Transfer-Tipp für Bayern – idealer Kane-Ersatz",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOckoyMEZHMkFMRlRCcE5SZ1ZPeUtFUm9OOFo3ZGtUb3FjRHlHSTBvTF9vR1lxdlNsQU1MSlpzc3JwQUNwX0JqVjhXbVppZ1NZZXVDSjNnZE9KLWxvcGRKUmJYaURPWGlfTkk1Z2NHM09ZSE9tRlhZMWI2Z1paeTlpMzhxOHkxbTg?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOckoyMEZHMkFMRlRCcE5SZ1ZPeUtFUm9OOFo3ZGtUb3FjRHlHSTBvTF9vR1lxdlNsQU1MSlpzc3JwQUNwX0JqVjhXbVppZ1NZZXVDSjNnZE9KLWxvcGRKUmJYaURPWGlfTkk1Z2NHM09ZSE9tRlhZMWI2Z1paeTlpMzhxOHkxbTg?oc=5\" target=\"_blank\">Transfer-Tipp für Bayern",
+   "source": "fussballdaten.de",
+   "date": "2026-11-17T12:34:00.000Z",
+   "fee": null,
+   "clubs": [
+    "Bayern"
+   ],
+   "tags": [
+    "Transfer"
    ]
   }
  ]
