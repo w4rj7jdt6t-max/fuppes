@@ -1,6 +1,6 @@
 window.FUPPES_DATA = window.FUPPES_DATA || {};
 window.FUPPES_DATA["transfers"] = {
- "updated": "2026-11-18T01:30:05.556Z",
+ "updated": "2026-11-18T03:02:09.656Z",
  "rules": {
   "minFeeMio": 20,
   "topClubs": [
@@ -160,6 +160,20 @@ window.FUPPES_DATA["transfers"] = {
    ],
    "tags": [
     "Transfer"
+   ]
+  },
+  {
+   "title": "Arsenal will mit Hincapie verlängern",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQSk5vNWJpci14LVJtRzJNRmN4V3lLSXVZN21rN242ekhrNDQ5RUc3dk5aNGUtSmVnUUM4NS13cDVLYXdEbjFnS3JVdEQtZk5DUFNBZV92OGlNS3Y4TzN1QzZ0ZHdGTEkwTnlDTDdiNjV1Y3hyZzZ6TEp5OFdMY0FuaU5CR2dLMDJKSkZ5NnAtLUR4MlE?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQSk5vNWJpci14LVJtRzJNRmN4V3lLSXVZN21rN242ekhrNDQ5RUc3dk5aNGUtSmVnUUM4NS13cDVLYXdEbjFnS3JVdEQtZk5DUFNBZV92OGlNS3Y4TzN1QzZ0ZHdGTEkwTnlDTDdiNjV1Y3hyZzZ6TEp5OFdMY0FuaU5CR2dLMDJKSkZ5NnAtLUR4MlE?oc=5\" target=\"_blank\">Arsenal ",
+   "source": "Kicker",
+   "date": "2026-11-17T13:55:42.000Z",
+   "fee": null,
+   "clubs": [
+    "Arsenal"
+   ],
+   "tags": [
+    "Vertrag"
    ]
   },
   {
@@ -374,20 +388,6 @@ window.FUPPES_DATA["transfers"] = {
    "tags": [
     "Gerücht",
     "Vertrag"
-   ]
-  },
-  {
-   "title": "Verliert Bayern Prescott? Vier Premier-League-Klubs zeigen Interesse",
-   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOQS1FU1lJeTNxNEdNakNGNHVKRW1TQ0RMYVpnS29rQVlGQ3hWMEt5TS13VWRyWklONURYbTZLWEJaNmZ2WUJxWUMwSDctVEtUWXVfMktveFJ0d1BSY3lrQjR0T1pkcDA5M09Wd3BXVUtrVnJTU2dyWHF6MW8zVDU2c2EtSUtGdnNaZ21zWWU1MFRQNTRaVkp3WFNrMXdOWG12Y3NtWVdjWWZ6MGtqYWNzckRQYmlJdUdqUjY5ZHVfQTQ4Z1hETkJmQzdrS2NlZFpERVFFNjlpVkdQTllITW9ESjhwclBLQQ?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxOQS1FU1lJeTNxNEdNakNGNHVKRW1TQ0RMYVpnS29rQVlGQ3hWMEt5TS13VWRyWklONURYbTZLWEJaNmZ2WUJxWUMwSDctVEtUWXVfMktveFJ0d1BSY3lrQjR0T1pkcDA5M09Wd3BXVUtrVnJTU2dyWHF6MW8zVDU2c2EtSUtGdnNaZ21zWWU1MFRQNTRaVkp3WFNrMXdOWG12Y3NtWVdjWWZ6MG",
-   "source": "n-tv.de",
-   "date": "2026-11-16T17:45:00.000Z",
-   "fee": null,
-   "clubs": [
-    "Bayern"
-   ],
-   "tags": [
-    "Gerücht"
    ]
   }
  ]
