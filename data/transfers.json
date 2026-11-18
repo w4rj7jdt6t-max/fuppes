@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T15:10:15.420Z",
+ "updated": "2026-11-18T17:18:23.230Z",
  "rules": {
   "minFeeMio": 20,
   "topClubs": [
@@ -42,6 +42,49 @@
   ]
  },
  "items": [
+  {
+   "title": "Eintracht Frankfurt: Ebnoutalib winkt neuer Vertrag - Drei Wünsche",
+   "link": "https://www.transfermarkt.de/ebnoutalib-winkt-neuer-vertrag-in-frankfurt-dfb-angreifer-hat-drei-wunsche/view/news/490869",
+   "summary": "Younes Ebnoutalib hat sich seit seinem Wechsel von der SV 07 Elversberg Anfang des Jahres bei Eintracht Frankfurt in den Vordergrund gespielt und sogar den Sprung in die deutsche Nationalmannschaft...",
+   "source": "Transfermarkt",
+   "date": "2026-11-18T16:14:02.000Z",
+   "fee": null,
+   "clubs": [
+    "Eintracht Frankfurt",
+    "Frankfurt"
+   ],
+   "tags": [
+    "Vertrag"
+   ]
+  },
+  {
+   "title": "Millionen-Abgang des FC Bayern wird bei neuem Klub zum Leistungsträger",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQaTVodnN5UnpqczF1X2RhemNMZE13NGFpd2lGcW1HNHBHa082dkZzcmhCNUhCX0p1TDBYN2EwT1VremltSE5YWmk4UjhJUVJrZkFEeXhPWTVFNkpPQlFLNnF2eGtKcVNqRU1JQUs3RW5IVFpsaU04RnFkMzlOd2RnQzZGRFFLdzlnY0xUODVrVzhBMnZ3X0hETldJeGtCSFpzU0ZuT2M1azd2emxleWVTaWItS21Yd0JnUEpr?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQaTVodnN5UnpqczF1X2RhemNMZE13NGFpd2lGcW1HNHBHa082dkZzcmhCNUhCX0p1TDBYN2EwT1VremltSE5YWmk4UjhJUVJrZkFEeXhPWTVFNkpPQlFLNnF2eGtKcVNqRU1JQUs3RW5IVFpsaU04RnFkMzlOd2RnQzZGRFFLdzlnY0xUODVrVzhBMnZ3X0hETldJeGtCSFpzU0ZuT2M1azd2em",
+   "source": "TZ",
+   "date": "2026-11-18T16:10:57.000Z",
+   "fee": null,
+   "clubs": [
+    "Bayern"
+   ],
+   "tags": [
+    "Transfer"
+   ]
+  },
+  {
+   "title": "FC Bayern: Auch Bundesligisten an Talent Tim Binder interessiert",
+   "link": "https://www.transfermarkt.de/bayern-talent-binder-weckt-auch-interesse-in-der-bundesliga-hangt-an-munchener-planungen/view/news/490868",
+   "summary": "Mehrere Zweitligisten haben Tim Binder vom FC Bayern mit Blick auf einen m&ouml;glichen Leihwechsel im Winter auf dem Zettel. Transfermarkt kann entsprechende Berichte von &bdquo;Sky&ldquo; und...",
+   "source": "Transfermarkt",
+   "date": "2026-11-18T15:17:46.000Z",
+   "fee": null,
+   "clubs": [
+    "Bayern"
+   ],
+   "tags": [
+    "Gerücht"
+   ]
+  },
   {
    "title": "Köln-Coach Wagner zu Toppmöller-Gerüchten: \"Da spüre ich gar nichts\"",
    "link": "https://www.kicker.de/koeln-coach-wagner-zu-toppmoeller-geruechten-da-spuere-ich-gar-nichts-1272684/video#omrss",
@@ -88,26 +131,26 @@
    ]
   },
   {
+   "title": "Krösche vor 70-Millionen-Deal – AC Mailand lockt deutschen Star",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQeURNNHBGeTRMNkZfR1c2ZHRKUU54ZnplbjItMGp5dDZwWER6Mmt6UnNtU3JfN195cnlEbDJXT203ZDF6cDZ5WUhCLVhwemt2bENNSjZWblBJQzE1alB4VHk3X3BnaFBodk1JRjNQM2NxVHZvNDBZZzFEcU81SElRdUljcXZEVjVDVW1Db1hDdW9fdUNNTVBtMw?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQeURNNHBGeTRMNkZfR1c2ZHRKUU54ZnplbjItMGp5dDZwWER6Mmt6UnNtU3JfN195cnlEbDJXT203ZDF6cDZ5WUhCLVhwemt2bENNSjZWblBJQzE1alB4VHk3X3BnaFBodk1JRjNQM2NxVHZvNDBZZzFEcU81SElRdUljcXZEVjVDVW1Db1hDdW9fdUNNTVBtMw?oc=5\" target=\"_blank\">K",
+   "source": "fussballdaten.de",
+   "date": "2026-11-18T12:08:00.000Z",
+   "fee": null,
+   "clubs": [
+    "AC Mailand"
+   ],
+   "tags": [
+    "Transfer"
+   ]
+  },
+  {
    "title": "\"Trage eine noch größere Verantwortung\": Real verlängert vorzeitig mit Arda Güler",
    "link": "https://www.kicker.de/trage-eine-noch-groessere-verantwortung-real-verlaengert-vorzeitig-mit-arda-gueler-1272620/artikel#omrss",
    "summary": "Im Alter von 21 Jahren ist Arda Güler bereits eine feste Größe bei Real Madrid. Der Türke soll auch in der Zukunft eine wichtige Rolle einnehmen, was die vorzeitige Vertragsverlängerung unterstreicht.",
    "source": "kicker",
    "date": "2026-11-18T11:37:39.000Z",
    "fee": null,
-   "clubs": [
-    "Real Madrid"
-   ],
-   "tags": [
-    "Vertrag"
-   ]
-  },
-  {
-   "title": "Real Madrid verlängert mit Arda Güler – Wertvollster Türke der Historie",
-   "link": "https://www.transfermarkt.de/real-madrid-verlangert-mit-guler-wertvollster-turkischer-fussballer-der-geschichte/view/news/490837",
-   "summary": "Arda G&uuml;ler ist mit einem Marktwert von 100 Millionen Euro der wertvollste t&uuml;rkische Fu&szlig;baller und hat sich in den letzten zwei Jahren vom Top-Talent zum gestandenen Profi bei Real...",
-   "source": "Transfermarkt",
-   "date": "2026-11-18T10:59:16.000Z",
-   "fee": 100,
    "clubs": [
     "Real Madrid"
    ],
@@ -205,6 +248,20 @@
    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOV2J1cWM1OVQweXFNOUVKUnAyVGlZUkc1YmQxallYZUQtZTUzRzZoVDFyUW1lT0JoRThpektsdVhCUmZQUW1jTGVQTDVPdTdNT0gta0RNWnZaNDRKNkNyanpnUENTN3pfbXFsQjVFS3Q5OXhIazBRbXFhbHZqU0t6VlBtT2s0NHd5SmoycHJGWUlLdlJHa2xaS051R3l6TmZ0X29vemFvTUstcz",
    "source": "ka-news",
    "date": "2026-11-18T04:02:35.000Z",
+   "fee": null,
+   "clubs": [
+    "Bayern"
+   ],
+   "tags": [
+    "Transfer"
+   ]
+  },
+  {
+   "title": "England lockt: Bayern-Abgang von Keeper-Juwel Prescott rückt näher",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQam5rNk5SbWZCUmg4SXo5QVptNWc2cEVBRG1QaGxpaS1sMzlHcGFKMVoza3o0OC1zV0Y3TzU0aHdSTVN4aVJYa181enU3eGNHM1pLVFNhaDVrMmxKYlVZWmU1SHNmX1c5QmtoVFZ4eDd1MTVnaXk5cTdsTjM5VHlwb0RhRXRnR2lxSkpOQXV0Q3hFZnNiRER6NEpUY0V3NXU3ejRfVDUwZ0w?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQam5rNk5SbWZCUmg4SXo5QVptNWc2cEVBRG1QaGxpaS1sMzlHcGFKMVoza3o0OC1zV0Y3TzU0aHdSTVN4aVJYa181enU3eGNHM1pLVFNhaDVrMmxKYlVZWmU1SHNmX1c5QmtoVFZ4eDd1MTVnaXk5cTdsTjM5VHlwb0RhRXRnR2lxSkpOQXV0Q3hFZnNiRER6NEpUY0V3NXU3ejRfVDUwZ0w?oc",
+   "source": "Fussball Europa",
+   "date": "2026-11-17T19:36:01.000Z",
    "fee": null,
    "clubs": [
     "Bayern"
@@ -330,67 +387,6 @@
    ],
    "tags": [
     "Transfer"
-   ]
-  },
-  {
-   "title": "Kader, Sportdirektor, Nachwuchs: Chatzialexiou steht vor wichtigen Entscheidungen",
-   "link": "https://www.kicker.de/kader-sportdirektor-nachwuchs-chatzialexiou-steht-vor-wichtigen-entscheidungen-1272297/artikel#omrss",
-   "summary": "Nach seiner vorzeitigen Vertragsauflösung in Nürnberg kann Sportvorstand Joti Chatzialexiou seine Arbeit in Frankfurt schon im Dezember beginnen. Das ist ein Segen für die Eintracht, denn es wartet viel Arbeit.",
-   "source": "kicker",
-   "date": "2026-11-17T12:22:51.000Z",
-   "fee": null,
-   "clubs": [
-    "Frankfurt"
-   ],
-   "tags": [
-    "Vertrag",
-    "Verein"
-   ]
-  },
-  {
-   "title": "Klausel greift: Bredlow verlängert beim VfB",
-   "link": "https://www.kicker.de/klausel-greift-bredlow-verlaengert-beim-vfb-1272361/artikel#omrss",
-   "summary": "Fabian Bredlow wird auch über die laufende Saison hinaus beim VfB Stuttgart unter Vertrag stehen, wie der Verein am Dienstag mitteilte.",
-   "source": "kicker",
-   "date": "2026-11-17T11:55:43.000Z",
-   "fee": null,
-   "clubs": [
-    "Stuttgart",
-    "VfB"
-   ],
-   "tags": [
-    "Vertrag"
-   ]
-  },
-  {
-   "title": "Wechselt Gruda zum FC Bayern? RB Leipzig trifft wichtige Entscheidung",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOeDAwOUdZcThYUmVOdFhXdTlSSWZULWJrZ19BaEQxZU9Dc05RTFM2Zl9obGNSNlhOREdyV1FtOEc1WGszbEtVbkhXNmhRRGNlVk5lNks1QmxHbC1pb2xrNDlPYUN1MHVjUzNScmNaaE1pMm1aQ1djS3lVNnpuSHBaU0hvbEZiMGhvR2lTV0trSWI2ZHpS?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOeDAwOUdZcThYUmVOdFhXdTlSSWZULWJrZ19BaEQxZU9Dc05RTFM2Zl9obGNSNlhOREdyV1FtOEc1WGszbEtVbkhXNmhRRGNlVk5lNks1QmxHbC1pb2xrNDlPYUN1MHVjUzNScmNaaE1pMm1aQ1djS3lVNnpuSHBaU0hvbEZiMGhvR2lTV0trSWI2ZHpS?oc=5\" target=\"_blank\">Wechsel",
-   "source": "fussballdaten.de",
-   "date": "2026-11-16T20:05:00.000Z",
-   "fee": null,
-   "clubs": [
-    "Bayern",
-    "RB Leipzig",
-    "Leipzig"
-   ],
-   "tags": [
-    "Gerücht"
-   ]
-  },
-  {
-   "title": "Arsenal plant langfristig mit Rice: Einigung auf Vertrag bis 2031?",
-   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPM3lwTkFqZ1pVcjhOT2psdHN5NmRyUEpvZVpEVHJlR29zMUY3WWFMTUVrM1dWbm9SWkhuT3dXQXBLNS1yRTdsblZVVTF2NkROWjI2UnVuemhSUGxTRUVXVnkySjJXVXk2TmRuRk1xRWxGLXQzWEVxUDRpT2dtOHNBbVp3a0FMRlVBcDZISUdLaTNmTkNtTURfVl9VcHMtbHhveFNKZHJ3Tl81VWd2ZFdCLXE1NkoyZEVkT2txVW1QeVd1d1N5cy0xcnpycUpXaU51OExRM1RZT2Z2X3J6bXlzZlZ3?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxPM3lwTkFqZ1pVcjhOT2psdHN5NmRyUEpvZVpEVHJlR29zMUY3WWFMTUVrM1dWbm9SWkhuT3dXQXBLNS1yRTdsblZVVTF2NkROWjI2UnVuemhSUGxTRUVXVnkySjJXVXk2TmRuRk1xRWxGLXQzWEVxUDRpT2dtOHNBbVp3a0FMRlVBcDZISUdLaTNmTkNtTURfVl9VcHMtbHhveFNKZHJ3Tl81VW",
-   "source": "n-tv.de",
-   "date": "2026-11-16T20:00:00.000Z",
-   "fee": null,
-   "clubs": [
-    "Arsenal"
-   ],
-   "tags": [
-    "Gerücht",
-    "Vertrag"
    ]
   }
  ]
