@@ -1,6 +1,6 @@
 window.FUPPES_DATA = window.FUPPES_DATA || {};
 window.FUPPES_DATA["transfers"] = {
- "updated": "2026-11-19T01:27:22.326Z",
+ "updated": "2026-11-19T03:02:16.936Z",
  "rules": {
   "minFeeMio": 20,
   "topClubs": [
@@ -217,35 +217,6 @@ window.FUPPES_DATA["transfers"] = {
    ]
   },
   {
-   "title": "Krösche vor 70-Millionen-Deal – AC Mailand lockt deutschen Star",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQeURNNHBGeTRMNkZfR1c2ZHRKUU54ZnplbjItMGp5dDZwWER6Mmt6UnNtU3JfN195cnlEbDJXT203ZDF6cDZ5WUhCLVhwemt2bENNSjZWblBJQzE1alB4VHk3X3BnaFBodk1JRjNQM2NxVHZvNDBZZzFEcU81SElRdUljcXZEVjVDVW1Db1hDdW9fdUNNTVBtMw?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQeURNNHBGeTRMNkZfR1c2ZHRKUU54ZnplbjItMGp5dDZwWER6Mmt6UnNtU3JfN195cnlEbDJXT203ZDF6cDZ5WUhCLVhwemt2bENNSjZWblBJQzE1alB4VHk3X3BnaFBodk1JRjNQM2NxVHZvNDBZZzFEcU81SElRdUljcXZEVjVDVW1Db1hDdW9fdUNNTVBtMw?oc=5\" target=\"_blank\">K",
-   "source": "fussballdaten.de",
-   "date": "2026-11-18T12:08:00.000Z",
-   "fee": null,
-   "clubs": [
-    "AC Mailand"
-   ],
-   "tags": [
-    "Transfer"
-   ]
-  },
-  {
-   "title": "BVB-Transferkandidat Balogun wird Juve und Milan angeboten",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZDl0XzlJaW02SGJPOFNDd2FzM2dMakVnMlFQdHEwMndVVC05dXRVQ3pwMVlEeHVheG94VzZrb0ZIZDdubzVVN0tqeEdyVkkyX25kS0NkWDFjRUhlZGRIQUFiOVFmUGpadnRHSm9fRmV4czZGY1RWemdwV2V4ZWt3bmlTMjloRFFtRVhHeUx2YVB4SU96SFhqVQ?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNZDl0XzlJaW02SGJPOFNDd2FzM2dMakVnMlFQdHEwMndVVC05dXRVQ3pwMVlEeHVheG94VzZrb0ZIZDdubzVVN0tqeEdyVkkyX25kS0NkWDFjRUhlZGRIQUFiOVFmUGpadnRHSm9fRmV4czZGY1RWemdwV2V4ZWt3bmlTMjloRFFtRVhHeUx2YVB4SU96SFhqVQ?oc=5\" target=\"_blank\">B",
-   "source": "Fussball Europa",
-   "date": "2026-11-18T10:25:00.000Z",
-   "fee": null,
-   "clubs": [
-    "BVB",
-    "Milan"
-   ],
-   "tags": [
-    "Transfer"
-   ]
-  },
-  {
    "title": "Transfer im Winter? BVB trifft Entscheidung bei Mathis Albert",
    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMnllX0NvWkJFcVBzUWpSTnFJOWUtaVFsT2J0MC1KNnRVcjQ2YTNIN2tZMEF3UGlPcmdKcGNQX0ZXdTUxUEpyZFZnSzFyV0diMXgzX2JhZHE5TDdQUnRycjN1dHQ3RkFGUjk5UTNtSTB4WjFhWi1DLUpJaEpmcnU0eGlDM2lOTGZmOFd0dl83TndKQQ?oc=5",
    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPMnllX0NvWkJFcVBzUWpSTnFJOWUtaVFsT2J0MC1KNnRVcjQ2YTNIN2tZMEF3UGlPcmdKcGNQX0ZXdTUxUEpyZFZnSzFyV0diMXgzX2JhZHE5TDdQUnRycjN1dHQ3RkFGUjk5UTNtSTB4WjFhWi1DLUpJaEpmcnU0eGlDM2lOTGZmOFd0dl83TndKQQ?oc=5\" target=\"_blank\">Transfer ",
@@ -386,6 +357,34 @@ window.FUPPES_DATA["transfers"] = {
    "tags": [
     "Gerücht",
     "Vertrag"
+   ]
+  },
+  {
+   "title": "Absage an den FC Bayern: Torhüter verlängert Vertrag",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOTAtMmhYNHBGZWVxcGdVNjRCVEIxQ1ZneTNGbEhfUGJ4NEFZYUM2dHZ6R1NERVRFbTNXcm1rUGRydndxUFk1N2xKU1pGWExvRmtFTV9VMXpxTzNieHVTbHV6aWxZTEIzSzJ0TDdmNXIzVnlvdEdmN2hyR01TUks5bW1VeFlmWXZ6?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOTAtMmhYNHBGZWVxcGdVNjRCVEIxQ1ZneTNGbEhfUGJ4NEFZYUM2dHZ6R1NERVRFbTNXcm1rUGRydndxUFk1N2xKU1pGWExvRmtFTV9VMXpxTzNieHVTbHV6aWxZTEIzSzJ0TDdmNXIzVnlvdEdmN2hyR01TUks5bW1VeFlmWXZ6?oc=5\" target=\"_blank\">Absage an den FC Bayern",
+   "source": "fussballdaten.de",
+   "date": "2026-11-17T12:54:00.000Z",
+   "fee": null,
+   "clubs": [
+    "Bayern"
+   ],
+   "tags": [
+    "Vertrag"
+   ]
+  },
+  {
+   "title": "Transfer-Tipp für Bayern – idealer Kane-Ersatz",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOckoyMEZHMkFMRlRCcE5SZ1ZPeUtFUm9OOFo3ZGtUb3FjRHlHSTBvTF9vR1lxdlNsQU1MSlpzc3JwQUNwX0JqVjhXbVppZ1NZZXVDSjNnZE9KLWxvcGRKUmJYaURPWGlfTkk1Z2NHM09ZSE9tRlhZMWI2Z1paeTlpMzhxOHkxbTg?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOckoyMEZHMkFMRlRCcE5SZ1ZPeUtFUm9OOFo3ZGtUb3FjRHlHSTBvTF9vR1lxdlNsQU1MSlpzc3JwQUNwX0JqVjhXbVppZ1NZZXVDSjNnZE9KLWxvcGRKUmJYaURPWGlfTkk1Z2NHM09ZSE9tRlhZMWI2Z1paeTlpMzhxOHkxbTg?oc=5\" target=\"_blank\">Transfer-Tipp für Bayern",
+   "source": "fussballdaten.de",
+   "date": "2026-11-17T12:34:00.000Z",
+   "fee": null,
+   "clubs": [
+    "Bayern"
+   ],
+   "tags": [
+    "Transfer"
    ]
   }
  ]
