@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T05:19:38.778Z",
+ "updated": "2026-11-19T07:32:38.008Z",
  "rules": {
   "minFeeMio": 20,
   "topClubs": [
@@ -42,6 +42,49 @@
   ]
  },
  "items": [
+  {
+   "title": "VfB Stuttgart muss 20-Millionen-Loch im Winter stopfen",
+   "link": "https://www.transfermarkt.de/-kicker-quot-vfb-muss-20-millionen-loch-im-winter-stopfen-leistungstrager-um-stiller-im-fokus/view/news/490889",
+   "summary": "Der VfB Stuttgart ist im vergangenen Sommer ein Risiko eingegangen und hat den Gro&szlig;teil der Stammspieler gehalten. Weil dadurch gro&szlig;e Einnahmen auf dem Transfermarkt ausblieben,...",
+   "source": "Transfermarkt",
+   "date": "2026-11-19T06:55:37.000Z",
+   "fee": null,
+   "clubs": [
+    "Stuttgart",
+    "VfB"
+   ],
+   "tags": [
+    "Transfer"
+   ]
+  },
+  {
+   "title": "BVB, News und Gerüchte: Abschied immer wahrscheinlicher! So viel soll Dortmunder Abwehrtalent kosten",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPY1BoU2ZjenBSNHZNay0wbkEwb2lrRXF2dTdKSjFzTnYyNFdWSWZJUVZTQ1JJNU9vV3drU1p4VmlWcXVNZGpIRUNSRnB0TFg2Y09tUFFNZlZQMFNpMzMyeTdMeVhfLThhaV82aGZTaTZSV2s4bGZBNTRPcnlXdXhXdUtSbnZpLWJQSkZzdll0dVVydnhFMjVjZ0xYa0pWcFhyZlFHVEgyaTFwaTR3bkhQLW53LVpxc09YMlg0LW9lbnJ4Ukgwd0xrVE53bGk3Y1ZwMm5FbjN3UmxnXzU5OGRMOVdic2dLNlBK?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxPY1BoU2ZjenBSNHZNay0wbkEwb2lrRXF2dTdKSjFzTnYyNFdWSWZJUVZTQ1JJNU9vV3drU1p4VmlWcXVNZGpIRUNSRnB0TFg2Y09tUFFNZlZQMFNpMzMyeTdMeVhfLThhaV82aGZTaTZSV2s4bGZBNTRPcnlXdXhXdUtSbnZpLWJQSkZzdll0dVVydnhFMjVjZ0xYa0pWcFhyZlFHVEgyaTFwaT",
+   "source": "SPOX.com",
+   "date": "2026-11-19T05:26:09.000Z",
+   "fee": null,
+   "clubs": [
+    "BVB"
+   ],
+   "tags": [
+    "Gerücht"
+   ]
+  },
+  {
+   "title": "Wechselt Loris Karius zum FC Bayern München? Schalke-Boss spricht Klartext",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQOWhocV9tVkFrRkl5S2RBWDdZMjNyaVhVZnpaRGwweEJkbmhuWGtqZTFWQ2VKY3llY1doS2c2NWE1cFBFckVxcEN0NjBBZE9peGczRFdJejcxQzFJeE02Q2xXUUFWLWZydGhYX2I0cGl6aGMtckpMMnRXS083UVpXaHhEWWdRLVpVNlpaNk5aVW1TZmg0VVAwYnV2Y2NoY3cyMWJONi02ZXp5RDhXc0ZPN08tSkdKbnFxaHp4Tjdqc3VVcm9PR1RtTGJkenZERTJiSDktNmNOQ0NNMFc1Ty1FMXN3?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxQOWhocV9tVkFrRkl5S2RBWDdZMjNyaVhVZnpaRGwweEJkbmhuWGtqZTFWQ2VKY3llY1doS2c2NWE1cFBFckVxcEN0NjBBZE9peGczRFdJejcxQzFJeE02Q2xXUUFWLWZydGhYX2I0cGl6aGMtckpMMnRXS083UVpXaHhEWWdRLVpVNlpaNk5aVW1TZmg0VVAwYnV2Y2NoY3cyMWJONi02ZXp5RD",
+   "source": "SPOX.com",
+   "date": "2026-11-19T05:24:32.000Z",
+   "fee": null,
+   "clubs": [
+    "Bayern"
+   ],
+   "tags": [
+    "Gerücht"
+   ]
+  },
   {
    "title": "Karius von Schalke zum FC Bayern? Boss Tillmann kommentiert Gerücht",
    "link": "https://www.transfermarkt.de/karius-zu-bayern-tillmann-lieber-die-nr-1-auf-schalke-als-woanders-nur-ersatz-sein-quot-/view/news/490882",
@@ -201,21 +244,6 @@
    ]
   },
   {
-   "title": "BVB vor FC Bayern: Die 50 größten Fan-Magnete der Welt mit HSV & Schalke",
-   "link": "https://www.transfermarkt.de/grosste-fan-magnete-der-welt-inter-uberholt-fc-bayern-hsv-knapp-hinter-barca/view/news/490850",
-   "summary": "Viele der im Ligabetrieb bestgef&uuml;llten Stadien der Welt sind w&auml;hrend der L&auml;nderspielpause leer geblieben. Transfermarkt wirft einen Blick auf die weltweit gr&ouml;&szlig;ten...",
-   "source": "Transfermarkt",
-   "date": "2026-11-18T12:56:11.000Z",
-   "fee": null,
-   "clubs": [
-    "Bayern",
-    "BVB"
-   ],
-   "tags": [
-    "Transfer"
-   ]
-  },
-  {
    "title": "Transfer im Winter? BVB trifft Entscheidung bei Mathis Albert",
    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMnllX0NvWkJFcVBzUWpSTnFJOWUtaVFsT2J0MC1KNnRVcjQ2YTNIN2tZMEF3UGlPcmdKcGNQX0ZXdTUxUEpyZFZnSzFyV0diMXgzX2JhZHE5TDdQUnRycjN1dHQ3RkFGUjk5UTNtSTB4WjFhWi1DLUpJaEpmcnU0eGlDM2lOTGZmOFd0dl83TndKQQ?oc=5",
    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPMnllX0NvWkJFcVBzUWpSTnFJOWUtaVFsT2J0MC1KNnRVcjQ2YTNIN2tZMEF3UGlPcmdKcGNQX0ZXdTUxUEpyZFZnSzFyV0diMXgzX2JhZHE5TDdQUnRycjN1dHQ3RkFGUjk5UTNtSTB4WjFhWi1DLUpJaEpmcnU0eGlDM2lOTGZmOFd0dl83TndKQQ?oc=5\" target=\"_blank\">Transfer ",
@@ -356,34 +384,6 @@
    "tags": [
     "Gerücht",
     "Vertrag"
-   ]
-  },
-  {
-   "title": "Absage an den FC Bayern: Torhüter verlängert Vertrag",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOTAtMmhYNHBGZWVxcGdVNjRCVEIxQ1ZneTNGbEhfUGJ4NEFZYUM2dHZ6R1NERVRFbTNXcm1rUGRydndxUFk1N2xKU1pGWExvRmtFTV9VMXpxTzNieHVTbHV6aWxZTEIzSzJ0TDdmNXIzVnlvdEdmN2hyR01TUks5bW1VeFlmWXZ6?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOTAtMmhYNHBGZWVxcGdVNjRCVEIxQ1ZneTNGbEhfUGJ4NEFZYUM2dHZ6R1NERVRFbTNXcm1rUGRydndxUFk1N2xKU1pGWExvRmtFTV9VMXpxTzNieHVTbHV6aWxZTEIzSzJ0TDdmNXIzVnlvdEdmN2hyR01TUks5bW1VeFlmWXZ6?oc=5\" target=\"_blank\">Absage an den FC Bayern",
-   "source": "fussballdaten.de",
-   "date": "2026-11-17T12:54:00.000Z",
-   "fee": null,
-   "clubs": [
-    "Bayern"
-   ],
-   "tags": [
-    "Vertrag"
-   ]
-  },
-  {
-   "title": "Transfer-Tipp für Bayern – idealer Kane-Ersatz",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOckoyMEZHMkFMRlRCcE5SZ1ZPeUtFUm9OOFo3ZGtUb3FjRHlHSTBvTF9vR1lxdlNsQU1MSlpzc3JwQUNwX0JqVjhXbVppZ1NZZXVDSjNnZE9KLWxvcGRKUmJYaURPWGlfTkk1Z2NHM09ZSE9tRlhZMWI2Z1paeTlpMzhxOHkxbTg?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOckoyMEZHMkFMRlRCcE5SZ1ZPeUtFUm9OOFo3ZGtUb3FjRHlHSTBvTF9vR1lxdlNsQU1MSlpzc3JwQUNwX0JqVjhXbVppZ1NZZXVDSjNnZE9KLWxvcGRKUmJYaURPWGlfTkk1Z2NHM09ZSE9tRlhZMWI2Z1paeTlpMzhxOHkxbTg?oc=5\" target=\"_blank\">Transfer-Tipp für Bayern",
-   "source": "fussballdaten.de",
-   "date": "2026-11-17T12:34:00.000Z",
-   "fee": null,
-   "clubs": [
-    "Bayern"
-   ],
-   "tags": [
-    "Transfer"
    ]
   }
  ]
