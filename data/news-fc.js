@@ -1,6 +1,6 @@
 window.FUPPES_DATA = window.FUPPES_DATA || {};
 window.FUPPES_DATA["news-fc"] = {
- "updated": "2026-11-19T17:18:16.782Z",
+ "updated": "2026-11-19T19:13:05.981Z",
  "items": [
   {
    "title": "Hoeneß zweifelt an Musiala: Kompany schützt seinen Bayern-Star vor dem Comeback gegen Köln",

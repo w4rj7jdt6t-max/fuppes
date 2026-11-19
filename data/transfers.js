@@ -1,6 +1,6 @@
 window.FUPPES_DATA = window.FUPPES_DATA || {};
 window.FUPPES_DATA["transfers"] = {
- "updated": "2026-11-19T17:18:18.061Z",
+ "updated": "2026-11-19T19:13:07.516Z",
  "rules": {
   "minFeeMio": 20,
   "topClubs": [
@@ -44,6 +44,63 @@ window.FUPPES_DATA["transfers"] = {
  },
  "items": [
   {
+   "title": "Ex-BVB-Talent Paris Brunner vor Verlängerung bei der AS Monaco",
+   "link": "https://www.transfermarkt.de/brunner-vor-verlangerung-bei-der-as-monaco-seit-sperre-in-ligue-1-torlos/view/news/490933",
+   "summary": "Paris Brunner ist in seiner zweiten Saison bei der AS Monaco auf bestem Wege, sich im Weltfu&szlig;ball einen Namen zu machen. Trotzdem scheint der geb&uuml;rtige Dortmunder erpicht darauf zu sein,...",
+   "source": "Transfermarkt",
+   "date": "2026-11-19T18:39:21.000Z",
+   "fee": null,
+   "clubs": [
+    "BVB"
+   ],
+   "tags": [
+    "Vertrag"
+   ]
+  },
+  {
+   "title": "FC Bayern trifft klare Transfer-Entscheidung | Frische Infos!",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQME9OQ2stZkxaRG01bmk4Um9xUzdQOEl2S1dSWFc2bXN3eUF4ZHZTaXM4WjlyQy1CNVhYVHJDUjdfWDFDNHQtN25mQXZ0QWRFVnpsSjZCbDJIWVhmdGoyWHFXaHVSMXBQSlpOcUpnbUhJWUdFdm84cDFoUlY2RGU5bE9aZGJHeHNrNWdPeXc0bm0xTnNMWjFYa2wtQnhCanFxRVNMbEJyUHJFbFRYZDVQaUl2OVFPNm1xdlJ2TnQ4d29hcnhjVTdUVWhwZUdyRmNyaWdB?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxQME9OQ2stZkxaRG01bmk4Um9xUzdQOEl2S1dSWFc2bXN3eUF4ZHZTaXM4WjlyQy1CNVhYVHJDUjdfWDFDNHQtN25mQXZ0QWRFVnpsSjZCbDJIWVhmdGoyWHFXaHVSMXBQSlpOcUpnbUhJWUdFdm84cDFoUlY2RGU5bE9aZGJHeHNrNWdPeXc0bm0xTnNMWjFYa2wtQnhCanFxRVNMbEJyUHJFbF",
+   "source": "Sport Bild",
+   "date": "2026-11-19T18:20:14.000Z",
+   "fee": null,
+   "clubs": [
+    "Bayern"
+   ],
+   "tags": [
+    "Transfer"
+   ]
+  },
+  {
+   "title": "Real Madrid: Manchester United erwägt rechtliche Schritte wegen JJ Gabriel",
+   "link": "https://www.transfermarkt.de/top-talent-gabriel-vor-transfer-man-united-behalt-sich-rechtliche-schritte-gegen-real-vor/view/news/490932",
+   "summary": "Seinen Abgang von Manchester United hat das 16 Jahre alte Top-Talent JJ Gabriel in dieser Woche verk&uuml;ndet, mit der Best&auml;tigung der Unterschrift bei Real Madrid wird in K&uuml;rze...",
+   "source": "Transfermarkt",
+   "date": "2026-11-19T18:07:46.000Z",
+   "fee": null,
+   "clubs": [
+    "Real Madrid",
+    "Manchester United"
+   ],
+   "tags": [
+    "Transfer"
+   ]
+  },
+  {
+   "title": "Konkurrenz klopft an: BVB droht ablösefreier Verlust von Talent Hoy",
+   "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPSXB1dVhhbHhLLVZJMWJZSjRxcmtCWVhoNDNZay1NVWhuMjNxOHpFS21ZSXNxZzFudXAyRVZQUnBUajJsQWRZcEhYMDZURmd5ekh3WWQyTE5TcTZYNU1sbjMybzItd28tSFdmY0dfZHo2R2VlbHJyRldQQzRtaXJ6eXdtbk5nVG5GS2p3YzlLN1N1LVBnSlpERmZUQjEwUk5lc0RCZ2htUFhIczZJa1NrMktVRWZWS1RPYkpsbGtxM2NYSUZ1SXdOSjVNRlB4M2NoVVAtZnRQdHRyVkk3N2VGN1ZBZjBuOEYyZHQwaExScTM4T3VtRllNU3lhSEJ1aVN2QmVHQw?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAJBVV95cUxPSXB1dVhhbHhLLVZJMWJZSjRxcmtCWVhoNDNZay1NVWhuMjNxOHpFS21ZSXNxZzFudXAyRVZQUnBUajJsQWRZcEhYMDZURmd5ekh3WWQyTE5TcTZYNU1sbjMybzItd28tSFdmY0dfZHo2R2VlbHJyRldQQzRtaXJ6eXdtbk5nVG5GS2p3YzlLN1N1LVBnSlpERmZUQjEwUk5lc0RCZ2htUFhIcz",
+   "source": "n-tv.de",
+   "date": "2026-11-19T17:30:00.000Z",
+   "fee": null,
+   "clubs": [
+    "BVB"
+   ],
+   "tags": [
+    "Transfer"
+   ]
+  },
+  {
    "title": "BVB-Talent Justin Hoy vor ungewisser Zukunft: Verlängerung stockt, auch Bundesliga-Klubs lauern",
    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNVldCT2Q4LTdOaWE5X3ZuQlM4ZFFzT2ZGNDR0X21wNlQ3M0lvcE95elktdVpFUzJyVEJSa2l6ckUyZkFrR3lMbExuc3RRTEwtY09hSWpiT1lCY080eGprcXVoamI1Nk1OcnBtdVhyaXF5UElYRUNVT1BsUTdBNWJ6TTVabDhOM1gzN2ZYelVuOHFfYTJzQ3lXb25PTEh2NkdfWGFrTkdCZGtUNkxvbWN5S1c5Nkpucy1MdmJrSkV5VVlFNmRFQzF0a3I5Und5ZFlsZFh6Q0ZlT0ZsUzJmQ3E5bA?oc=5",
    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxNVldCT2Q4LTdOaWE5X3ZuQlM4ZFFzT2ZGNDR0X21wNlQ3M0lvcE95elktdVpFUzJyVEJSa2l6ckUyZkFrR3lMbExuc3RRTEwtY09hSWpiT1lCY080eGprcXVoamI1Nk1OcnBtdVhyaXF5UElYRUNVT1BsUTdBNWJ6TTVabDhOM1gzN2ZYelVuOHFfYTJzQ3lXb25PTEh2NkdfWGFrTkdCZGtUNk",
@@ -58,7 +115,7 @@ window.FUPPES_DATA["transfers"] = {
    ]
   },
   {
-   "title": "Musiala-Verkauf? Brisantes Vertragsdetail beim Bayern-Superstar",
+   "title": "Musiala-Verkauf? Brisantes Vertragsdetail beim Bayern-Superstar | Transfer Centre News",
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPS3pYSDNPY2pPbGxLejBjaWRhOEpVZEt3endpVHRLVXpEOGdvRlJpZjlsejA0ZmdON1JRY0s3ODJQSEJfR1V6eFB1Tks1dEFsMmpzQ2UyQ181cGZhRW0wekZnVWxjU3p6QTJUdEFBdUo0ZnpZWWN1c1Qwbmk2X01qZHBkaDREdEc4UDF3cnlSZzBzWkd3YmNVSWpINkNXY2RkZXRpZW1uNEtmZUQzSFJFaE53?oc=5",
    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPS3pYSDNPY2pPbGxLejBjaWRhOEpVZEt3endpVHRLVXpEOGdvRlJpZjlsejA0ZmdON1JRY0s3ODJQSEJfR1V6eFB1Tks1dEFsMmpzQ2UyQ181cGZhRW0wekZnVWxjU3p6QTJUdEFBdUo0ZnpZWWN1c1Qwbmk2X01qZHBkaDREdEc4UDF3cnlSZzBzWkd3YmNVSWpINkNXY2RkZXRpZW1uNEtmZU",
    "source": "Sky.de",
@@ -70,20 +127,6 @@ window.FUPPES_DATA["transfers"] = {
    "tags": [
     "Gerücht",
     "Vertrag"
-   ]
-  },
-  {
-   "title": "FC Bayern: BILD kennt den Transferplan für den Winter!",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdkNnb2ZOa3diMGVvaXp4WnhCN2sySFQ3RnlPa1k2VGEtSUN1XzAzd29ZcUs4RmM3anpFa21qbG1PUWEzcTFQOWpTTlNQdU9EYUZ2UWpfYVpXTnp3Wk5aZ1VQVTV6a3ZBN0gtSXF4bGxIY3dKWjRJd1NzaXpYcXhJeE1OcmRzQ1ZuclEyTTc1akYwU1k0NlpSaHA0bXhwYTgwUVBTZEhKZDhkdi1XQkRuaVZpTQ?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQdkNnb2ZOa3diMGVvaXp4WnhCN2sySFQ3RnlPa1k2VGEtSUN1XzAzd29ZcUs4RmM3anpFa21qbG1PUWEzcTFQOWpTTlNQdU9EYUZ2UWpfYVpXTnp3Wk5aZ1VQVTV6a3ZBN0gtSXF4bGxIY3dKWjRJd1NzaXpYcXhJeE1OcmRzQ1ZuclEyTTc1akYwU1k0NlpSaHA0bXhwYTgwUVBTZEhKZDhkdi",
-   "source": "BILD",
-   "date": "2026-11-19T16:54:54.000Z",
-   "fee": null,
-   "clubs": [
-    "Bayern"
-   ],
-   "tags": [
-    "Transfer"
    ]
   },
   {
@@ -129,21 +172,6 @@ window.FUPPES_DATA["transfers"] = {
    ]
   },
   {
-   "title": "Vom FC Bayern zu Real Madrid? Gerücht um irre Olise-Wende",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQLW1kTEpGVmFzTE5UV05FcXBjdE9lYzlRbE44SjdSSk44RFZtODBpUjN4VFhEZWRibklDWDhtbUcwOEo3NUFjUzRhVTNPYkQwRWY0TEtQeXF4Wk1UUWswZ1NSRWJjS3NJZ05vaWNwNm1yTzFrWE5ZRmhTNnhxSEtvNjRMSWUzeHJDYUVabFJZY0hrRkFJSEU1UmdBN25uYlVDN3lkTmRXQmRKN2t3Y0Jr?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQLW1kTEpGVmFzTE5UV05FcXBjdE9lYzlRbE44SjdSSk44RFZtODBpUjN4VFhEZWRibklDWDhtbUcwOEo3NUFjUzRhVTNPYkQwRWY0TEtQeXF4Wk1UUWswZ1NSRWJjS3NJZ05vaWNwNm1yTzFrWE5ZRmhTNnhxSEtvNjRMSWUzeHJDYUVabFJZY0hrRkFJSEU1UmdBN25uYlVDN3lkTmRXQmRKN2",
-   "source": "sport.de",
-   "date": "2026-11-19T14:20:00.000Z",
-   "fee": null,
-   "clubs": [
-    "Bayern",
-    "Real Madrid"
-   ],
-   "tags": [
-    "Gerücht"
-   ]
-  },
-  {
    "title": "Weg frei für den BVB? Entwarnung bei Transferziel Marcel Regula",
    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNU2Y5dXdnM2h1VWVTSjlFUHpXNndMM01MX2pBbVFWS2JqNjlfdkRfX0J0YWJLV3AzNzB0UmRtLURaZi1HTHVPYTlPZUluUTZqR1l4RG5zbkdyWHpZSUxUWXM1ZzVIS0RNbVpiUk5FOVpXZEdwYl9PMnVzdVNDcUJ3Uy15eTNSOTNxUF9Uazhn?oc=5",
    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNU2Y5dXdnM2h1VWVTSjlFUHpXNndMM01MX2pBbVFWS2JqNjlfdkRfX0J0YWJLV3AzNzB0UmRtLURaZi1HTHVPYTlPZUluUTZqR1l4RG5zbkdyWHpZSUxUWXM1ZzVIS0RNbVpiUk5FOVpXZEdwYl9PMnVzdVNDcUJ3Uy15eTNSOTNxUF9Uazhn?oc=5\" target=\"_blank\">Weg frei für de",
@@ -186,21 +214,6 @@ window.FUPPES_DATA["transfers"] = {
    ]
   },
   {
-   "title": "Es geht um Schlotterbeck: Aussage von Barça-Boss versetzt BVB in Transfer-Aufruhr",
-   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPTWowM19oZTNzZjNZUTN2c3A5MTM2U2UyMnNHSTBGYlpETUNGcW13REc4QTV5OG52VEttZXJ6MWRDal9qR21RX3pLUjJvS1RXcjhGUHY5TTUwWEZyUjNuTUNRRHJfVl96b016TWN3ZEt0bXVJbkFBT0dVT2tjcVBSZGNGdkYxN1hxZGpERlpFbHd6bDFaYUw2YlJfTmp6clpQVmtxWE1WRFVzVFotSlRIUnAwSUt2eGM0NFp2UURxcV9BU1BWTEYwLXpBQmtoYUhSQkhfRHgyZjNGZlRadVVNNWdn?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxPTWowM19oZTNzZjNZUTN2c3A5MTM2U2UyMnNHSTBGYlpETUNGcW13REc4QTV5OG52VEttZXJ6MWRDal9qR21RX3pLUjJvS1RXcjhGUHY5TTUwWEZyUjNuTUNRRHJfVl96b016TWN3ZEt0bXVJbkFBT0dVT2tjcVBSZGNGdkYxN1hxZGpERlpFbHd6bDFaYUw2YlJfTmp6clpQVmtxWE1WRFVzVF",
-   "source": "WAZ | Westdeutsche Allgemeine Zeitung",
-   "date": "2026-11-19T11:20:39.000Z",
-   "fee": null,
-   "clubs": [
-    "BVB",
-    "Barça"
-   ],
-   "tags": [
-    "Transfer"
-   ]
-  },
-  {
    "title": "Bericht über VfB-Transfer falsch? Sarajevos Ivanisevic kommt wohl noch nicht nach Stuttgart",
    "link": "https://www.transfermarkt.de/bericht-uber-vfb-transfer-falsch-sarajevos-ivanisevic-kommt-wohl-doch-nicht-nach-stuttgart/view/news/490906",
    "summary": "Der VfB Stuttgart steht offenbar vor dem ersten Wintertransfer &ndash; zumindest laut dem bosnischen Onlineportal &bdquo;Meridian Sport&ldquo;. Demnach wechselt Innenverteidiger Jovan...",
@@ -210,6 +223,20 @@ window.FUPPES_DATA["transfers"] = {
    "clubs": [
     "Stuttgart",
     "VfB"
+   ],
+   "tags": [
+    "Gerücht"
+   ]
+  },
+  {
+   "title": "FC Barcelona lotet offenbar Transfer-Hammer aus",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQenBfSkpYUGV3ZWRZN2JLZjd4bUlaY2RVblVqZHpXUHc2aXl5bDRzUGc5dmF3Wnk2UWlFQlgxaWJNbkh4bTl3WnVUZG9RZnhWNzN1NDF3OWdTd0JxUkxJSzNpN3liWnFfUkN4T05QNXNFVmhza0VzajJfSzEyRjQzYTlwbkx4U3BKU091c1lyeTR2dFBNMi0wN2hYSXd1bTczVWJ1R19EMENXV2kxSmtVVk4xVWgxbEJTbVhGag?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQenBfSkpYUGV3ZWRZN2JLZjd4bUlaY2RVblVqZHpXUHc2aXl5bDRzUGc5dmF3Wnk2UWlFQlgxaWJNbkh4bTl3WnVUZG9RZnhWNzN1NDF3OWdTd0JxUkxJSzNpN3liWnFfUkN4T05QNXNFVmhza0VzajJfSzEyRjQzYTlwbkx4U3BKU091c1lyeTR2dFBNMi0wN2hYSXd1bTczVWJ1R19EMENXV2",
+   "source": "sport.de",
+   "date": "2026-11-19T11:03:21.000Z",
+   "fee": null,
+   "clubs": [
+    "Barcelona"
    ],
    "tags": [
     "Gerücht"
@@ -346,39 +373,11 @@ window.FUPPES_DATA["transfers"] = {
    ]
   },
   {
-   "title": "BVB, News und Gerüchte: Abschied immer wahrscheinlicher! So viel soll Dortmunder Abwehrtalent kosten",
-   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPY1BoU2ZjenBSNHZNay0wbkEwb2lrRXF2dTdKSjFzTnYyNFdWSWZJUVZTQ1JJNU9vV3drU1p4VmlWcXVNZGpIRUNSRnB0TFg2Y09tUFFNZlZQMFNpMzMyeTdMeVhfLThhaV82aGZTaTZSV2s4bGZBNTRPcnlXdXhXdUtSbnZpLWJQSkZzdll0dVVydnhFMjVjZ0xYa0pWcFhyZlFHVEgyaTFwaTR3bkhQLW53LVpxc09YMlg0LW9lbnJ4Ukgwd0xrVE53bGk3Y1ZwMm5FbjN3UmxnXzU5OGRMOVdic2dLNlBK?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxPY1BoU2ZjenBSNHZNay0wbkEwb2lrRXF2dTdKSjFzTnYyNFdWSWZJUVZTQ1JJNU9vV3drU1p4VmlWcXVNZGpIRUNSRnB0TFg2Y09tUFFNZlZQMFNpMzMyeTdMeVhfLThhaV82aGZTaTZSV2s4bGZBNTRPcnlXdXhXdUtSbnZpLWJQSkZzdll0dVVydnhFMjVjZ0xYa0pWcFhyZlFHVEgyaTFwaT",
-   "source": "SPOX.com",
-   "date": "2026-11-19T05:26:09.000Z",
-   "fee": null,
-   "clubs": [
-    "BVB"
-   ],
-   "tags": [
-    "Gerücht"
-   ]
-  },
-  {
    "title": "FC Bayern München, News und Gerüchte: Transfer von Loris Karius? Schalke-Boss spricht Klartext",
    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQOWhocV9tVkFrRkl5S2RBWDdZMjNyaVhVZnpaRGwweEJkbmhuWGtqZTFWQ2VKY3llY1doS2c2NWE1cFBFckVxcEN0NjBBZE9peGczRFdJejcxQzFJeE02Q2xXUUFWLWZydGhYX2I0cGl6aGMtckpMMnRXS083UVpXaHhEWWdRLVpVNlpaNk5aVW1TZmg0VVAwYnV2Y2NoY3cyMWJONi02ZXp5RDhXc0ZPN08tSkdKbnFxaHp4Tjdqc3VVcm9PR1RtTGJkenZERTJiSDktNmNOQ0NNMFc1Ty1FMXN3?oc=5",
    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxQOWhocV9tVkFrRkl5S2RBWDdZMjNyaVhVZnpaRGwweEJkbmhuWGtqZTFWQ2VKY3llY1doS2c2NWE1cFBFckVxcEN0NjBBZE9peGczRFdJejcxQzFJeE02Q2xXUUFWLWZydGhYX2I0cGl6aGMtckpMMnRXS083UVpXaHhEWWdRLVpVNlpaNk5aVW1TZmg0VVAwYnV2Y2NoY3cyMWJONi02ZXp5RD",
    "source": "SPOX.com",
    "date": "2026-11-19T05:24:32.000Z",
-   "fee": null,
-   "clubs": [
-    "Bayern"
-   ],
-   "tags": [
-    "Gerücht"
-   ]
-  },
-  {
-   "title": "Karius vor Bayern-Wechsel? Schalke-Boss spricht Klartext",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZXMtZ1hHUTFxVVRmVEhJWm9jVDExbmpVbG95VUZSWjNXcExzNXRpT3RBTm5FRE5wZ3F1bE5vcC02YlM2OTM0Ym9ZaVREbENjd2U5azF4UTB2bkk3T0J0TjNkOTRmdVlXTWRQeEtWdy1XNW43TnRaMUIxd1R0NE1DM0dXTHRndzBiRDBsQWRCYw?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxOZXMtZ1hHUTFxVVRmVEhJWm9jVDExbmpVbG95VUZSWjNXcExzNXRpT3RBTm5FRE5wZ3F1bE5vcC02YlM2OTM0Ym9ZaVREbENjd2U5azF4UTB2bkk3T0J0TjNkOTRmdVlXTWRQeEtWdy1XNW43TnRaMUIxd1R0NE1DM0dXTHRndzBiRDBsQWRCYw?oc=5\" target=\"_blank\">Karius vor Ba",
-   "source": "fussballdaten.de",
-   "date": "2026-11-18T18:40:00.000Z",
    "fee": null,
    "clubs": [
     "Bayern"
