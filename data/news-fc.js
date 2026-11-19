@@ -1,15 +1,47 @@
 window.FUPPES_DATA = window.FUPPES_DATA || {};
 window.FUPPES_DATA["news-fc"] = {
- "updated": "2026-11-19T09:20:27.006Z",
+ "updated": "2026-11-19T11:12:06.446Z",
  "items": [
   {
-   "title": "1. FC Köln: Nachfolger werden bereits gehandelt: Köln-Trainer kämpft um seinen Job",
-   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPZ0xzZkNhekk1UjNxY2hQWDNRMWJ3ZFVuMTdDbXF5Zm1RTF9pUVdUNnUxZXMwNWJzZHJGbzhWOHMtT0hLWjJYMVFEaktJdE1lTnFxYXJfSXBHSVdTNVdkZFE5ak5ybjQyZnNOTHpPc0R0TXRFSkZPYlNGM1p4RWZZLWtCR1hxeWhTMnNrSENfM19pMFppQjZMYXJ0SkRkWHdLNk1RdHFsT2RXUEc2NWo3N3NPQUhZand5aS04WVJVRUd0dVFMSzhPNHppZ1FpLUNpVFVWNjdkUnQ2Zw?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxPZ0xzZkNhekk1UjNxY2hQWDNRMWJ3ZFVuMTdDbXF5Zm1RTF9pUVdUNnUxZXMwNWJzZHJGbzhWOHMtT0hLWjJYMVFEaktJdE1lTnFxYXJfSXBHSVdTNVdkZFE5ak5ybjQyZnNOTHpPc0R0TXRFSkZPYlNGM1p4RWZZLWtCR1hxeWhTMnNrSENfM19pMFppQjZMYXJ0SkRkWHdLNk1RdHFsT2RXUE",
-   "source": "BILD",
-   "date": "2026-11-19T08:43:23.000Z",
+   "title": "Comebacker Kompany droht dem FC: „Ich habe vier Wochen gewartet!“",
+   "link": "https://geissblog.koeln/2026/11/comebacker-kompany-droht-dem-fc-ich-habe-vier-wochen-gewartet/",
+   "summary": "Vincent Kompany feiert gegen den 1. FC Köln sein Comeback. Nach seinem krankheitsbedingten Ausfall geht der Cheftrainer des FC Bayern München extra motiviert in das... Der Beitrag Comebacker Kompany droht dem FC: „Ich habe vier Wochen gewartet!“ erschien zuerst auf GEISSBLOG .",
+   "source": "GEISSBLOG",
+   "date": "2026-11-19T10:45:00.000Z",
+   "tags": [
+    "Personal",
+    "Verein"
+   ]
+  },
+  {
+   "title": "BR24 Sport: FC-Bayern-Trainer Kompany zu Zusammenbruch: \"Es war ein Schock\"",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOTZqbU9aR1g2dHA1cU91WWIyRl8xNVFVTW9tbGFxTUtaWmIzaG14ck80VXF3VzN2VEZoM2ZRdUEyM2dMQVN5bXlUSWIwSVlwa2pPaF9yV0RuNEU1dHJudTBhanhTZmZ3c0NsdW96VUsyZzc3SGEtMm1RbWFaREgxNnBkUkk1TVBUbFE4Q0ozSkI2US03RkpwSFhESmNKQTBKcUd6VkVWUE81LXZOVXFF?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQOTZqbU9aR1g2dHA1cU91WWIyRl8xNVFVTW9tbGFxTUtaWmIzaG14ck80VXF3VzN2VEZoM2ZRdUEyM2dMQVN5bXlUSWIwSVlwa2pPaF9yV0RuNEU1dHJudTBhanhTZmZ3c0NsdW96VUsyZzc3SGEtMm1RbWFaREgxNnBkUkk1TVBUbFE4Q0ozSkI2US03RkpwSFhESmNKQTBKcUd6VkVWUE81LX",
+   "source": "sportschau.de",
+   "date": "2026-11-19T09:55:00.000Z",
    "tags": [
     "Verein"
+   ]
+  },
+  {
+   "title": "Vincent Kompany: FC-Bayern-München-Trainer auf Bank gegen 1. FC Köln",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPdGJ6UGVPck9TNHlkc056bWtNaTJUcEdteTdCYnZCclNjNmVTQlJraDQ3NWNsTG5hb0pobG5VaU5PbElCX0hibkE0WDk2OWFNNHFlRFFubElxbDVhWTRjWDF6dE5OVFhic291R1NrRU5aMG4zX29DTExUeEcwOTBpYTNkemdMalo5cDBnY0ZLMlhuc1o0ZmNvcjNVcVpKZ2hCdnJ4TVBjbGo5WlVkXzVtdUlOSEhNNG1jTk03Y3ZDb21DTUpJSjl6eXRKbS1HLUwwQlVsRzA4cVVwZw?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxPdGJ6UGVPck9TNHlkc056bWtNaTJUcEdteTdCYnZCclNjNmVTQlJraDQ3NWNsTG5hb0pobG5VaU5PbElCX0hibkE0WDk2OWFNNHFlRFFubElxbDVhWTRjWDF6dE5OVFhic291R1NrRU5aMG4zX29DTExUeEcwOTBpYTNkemdMalo5cDBnY0ZLMlhuc1o0ZmNvcjNVcVpKZ2hCdnJ4TVBjbGo5Wl",
+   "source": "FAZ",
+   "date": "2026-11-19T09:51:34.000Z",
+   "tags": [
+    "Verein"
+   ]
+  },
+  {
+   "title": "Musiala-Comeback gegen Köln? Kompany gibt Update",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbjIzQldoLTF1STIwQ0xFSTZUTEZYNTZfZzZnbGZDWGRpQnpYTkxhcDZVUDdheGZaUXFzV3JfUzFJdWZKV3ZfNmJNRnQ1bElqZUJNRnV1S1l4eW83b0lRMU55TTYwNTJzSXpZZUxGZWxlT2w3NDRJZGNHYmVyZkNTRmEzX1czYnhwTk8xWTBMSUpPeVVVWjYtR2VrWXQtUQ?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPbjIzQldoLTF1STIwQ0xFSTZUTEZYNTZfZzZnbGZDWGRpQnpYTkxhcDZVUDdheGZaUXFzV3JfUzFJdWZKV3ZfNmJNRnQ1bElqZUJNRnV1S1l4eW83b0lRMU55TTYwNTJzSXpZZUxGZWxlT2w3NDRJZGNHYmVyZkNTRmEzX1czYnhwTk8xWTBMSUpPeVVVWjYtR2VrWXQtUQ?oc=5\" target=\"_",
+   "source": "FCBinside",
+   "date": "2026-11-19T09:32:04.000Z",
+   "tags": [
+    "Gerücht",
+    "Personal"
    ]
   },
   {
@@ -31,26 +63,6 @@ window.FUPPES_DATA["news-fc"] = {
    "date": "2026-11-19T06:53:07.000Z",
    "tags": [
     "Personal",
-    "Verein"
-   ]
-  },
-  {
-   "title": "News, Sport: Bundesliga: Kompany kehrt gegen Köln auf Bayern-Trainerbank zurück - tixio",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOd2xZb09YUjFJRXVMaWJtS3NJMEd3SzR4c3c0bERsV1VOTHk3WC11d0FMYURKeC1fNmZlS3poTHBVWVpxb2I2Tm91UW5SSm93UGRrMFoyYjRHQW5FX2JweTFFWnBHc0xMOTBDYXV1WUxWVkFET2ZxWnozeTZLOFlqcG5zcXdOQnp2ODU2YU5ZdmZydHNJb0I2OVB0TV91Y3NpeHRz?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOd2xZb09YUjFJRXVMaWJtS3NJMEd3SzR4c3c0bERsV1VOTHk3WC11d0FMYURKeC1fNmZlS3poTHBVWVpxb2I2Tm91UW5SSm93UGRrMFoyYjRHQW5FX2JweTFFWnBHc0xMOTBDYXV1WUxWVkFET2ZxWnozeTZLOFlqcG5zcXdOQnp2ODU2YU5ZdmZydHNJb0I2OVB0TV91Y3NpeHRz?oc=5\" tar",
-   "source": "Nachrichten",
-   "date": "2026-11-18T19:25:40.000Z",
-   "tags": [
-    "Verein"
-   ]
-  },
-  {
-   "title": "Bundesliga: Kompany kehrt gegen Köln auf Bayern-Trainerbank zurück",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUWdOLXV5clVBZHhYeV9aazhjNXZRS2RpMjNCeTZ5elJoNFZmRWtITUZHcjRSbDRJai04YTBxWHdOWW9qMmhSeEZjS2U2cmQxSDRnVWVVYVJGck9lOWl5NWxvZExQU3lJUEttN0ExRTRLSkkzTUtua2xDYUtMVHFzWXFrdGRuSkcxWjEzYnIyVS1za21malV0MzdONUYtcUFyMGloVE5zMkQzc0gtLUllRHdqQ2w?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQUWdOLXV5clVBZHhYeV9aazhjNXZRS2RpMjNCeTZ5elJoNFZmRWtITUZHcjRSbDRJai04YTBxWHdOWW9qMmhSeEZjS2U2cmQxSDRnVWVVYVJGck9lOWl5NWxvZExQU3lJUEttN0ExRTRLSkkzTUtua2xDYUtMVHFzWXFrdGRuSkcxWjEzYnIyVS1za21malV0MzdONUYtcUFyMGloVE5zMkQzc0",
-   "source": "nachrichten-heute.net",
-   "date": "2026-11-18T19:24:14.000Z",
-   "tags": [
     "Verein"
    ]
   },
@@ -83,37 +95,6 @@ window.FUPPES_DATA["news-fc"] = {
    "tags": [
     "Personal",
     "Verein"
-   ]
-  },
-  {
-   "title": "Eilmeldung: Bayern-Trainer Kompany gegen Köln wieder dabei",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOMUFBanNYQUFUZlpQQTF0OUxkSFJqMldFR2N3amRNendZeDVpZDFJbWpaSkJMNEpOZTlSSGNRWlota2lpc0E0Sm43ZGZPYUZBV1FpSkprT21uQ1ZxTFBHeGRpMERSQmtHTi1Hb1VpaGs4bW0zbjlveW1LODlkdUdBRmRhQW51c2M2X0JXWkVNMnFVQ2daSmlHbmlVaGtGRFRSS3FLQUwwUmVtZzV6Rm83Wi1BQlAzR2I4VmxVOUgwX2FYNlBrUDBiTERKRVh6MGR4?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxOMUFBanNYQUFUZlpQQTF0OUxkSFJqMldFR2N3amRNendZeDVpZDFJbWpaSkJMNEpOZTlSSGNRWlota2lpc0E0Sm43ZGZPYUZBV1FpSkprT21uQ1ZxTFBHeGRpMERSQmtHTi1Hb1VpaGs4bW0zbjlveW1LODlkdUdBRmRhQW51c2M2X0JXWkVNMnFVQ2daSmlHbmlVaGtGRFRSS3FLQUwwUmVtZz",
-   "source": "News.de",
-   "date": "2026-11-18T18:44:02.000Z",
-   "tags": [
-    "Verein"
-   ]
-  },
-  {
-   "title": "Fußball-Bundesliga: Bayern-Trainer Kompany gegen Köln wieder dabei",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQzZzYU5sdUdlWGhfNkZUdkRkZ1VrRjdDcTdjRnM2TVFkSVF5VzFNT2Zlc1FoNnRWWDZmQ1pRMl94cXYyS1F5eHZhYmE1UFBXQlJZSHIzaEd1dXU1endGd3pVSDUzRExNUFhremFDc1E2ZEF4bHlWdm5KY01PaGtyM2JYelgxM2ItTTQyMExKdEkyZzFPTHJvUmEwZkE5ZHE5Rk0tUHY2N3RkRzEz?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQQzZzYU5sdUdlWGhfNkZUdkRkZ1VrRjdDcTdjRnM2TVFkSVF5VzFNT2Zlc1FoNnRWWDZmQ1pRMl94cXYyS1F5eHZhYmE1UFBXQlJZSHIzaEd1dXU1endGd3pVSDUzRExNUFhremFDc1E2ZEF4bHlWdm5KY01PaGtyM2JYelgxM2ItTTQyMExKdEkyZzFPTHJvUmEwZkE5ZHE5Rk0tUHY2N3RkRz",
-   "source": "STERN.de",
-   "date": "2026-11-18T18:43:21.000Z",
-   "tags": [
-    "Verein"
-   ]
-  },
-  {
-   "title": "Musiala fehlt im Bayern-Training! Wackelt das Comeback gegen Köln?",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOd3o5U0xuWEZURFdBVlQzODRWSU9Wb2JyN0UxQ2NvX0dyZXB4ZUdaaXNJZnlWZkxuR3Z0cFhhLVp5YkRCbGRMWWdPSHJoOVdYblNSTDRDalk5WUFxenJPWUlTV2lVa1Uwd0hlYnRmbEIwR2JEdUR0UFBBMGwxZUFkY3FzWFhwUWh1d1pKNGNjb0FtdE11bTdnMWNxQWdZdG8?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOd3o5U0xuWEZURFdBVlQzODRWSU9Wb2JyN0UxQ2NvX0dyZXB4ZUdaaXNJZnlWZkxuR3Z0cFhhLVp5YkRCbGRMWWdPSHJoOVdYblNSTDRDalk5WUFxenJPWUlTV2lVa1Uwd0hlYnRmbEIwR2JEdUR0UFBBMGwxZUFkY3FzWFhwUWh1d1pKNGNjb0FtdE11bTdnMWNxQWdZdG8?oc=5\" target=\"",
-   "source": "FCBinside",
-   "date": "2026-11-18T18:00:24.000Z",
-   "tags": [
-    "Gerücht",
-    "Personal"
    ]
   },
   {
@@ -192,17 +173,6 @@ window.FUPPES_DATA["news-fc"] = {
    ]
   },
   {
-   "title": "Fußball: Bayern-Trainer Kompany vor Rückkehr gegen Köln",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQOFR5cnBsWUtTaFAyZERLTVNnQWNDd1dSM3BfR3dkY1RDWEdIY2JYNlkzQ2pVQk1YYk1rWjVrZWdaSGktdUsxd0g3ZmlXNFg2QmFOc1pza2NfQzdpQW9BSG5RYVhlUlBnN3V4N2tSN1NZTUJFTHVHLThSekVTckFublp3RXdNdmVzRFhUX1NSN0hxUmR1YlYyTFRjbEJFa2s?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQOFR5cnBsWUtTaFAyZERLTVNnQWNDd1dSM3BfR3dkY1RDWEdIY2JYNlkzQ2pVQk1YYk1rWjVrZWdaSGktdUsxd0g3ZmlXNFg2QmFOc1pza2NfQzdpQW9BSG5RYVhlUlBnN3V4N2tSN1NZTUJFTHVHLThSekVTckFublp3RXdNdmVzRFhUX1NSN0hxUmR1YlYyTFRjbEJFa2s?oc=5\" target=\"",
-   "source": "STERN.de",
-   "date": "2026-11-18T14:58:37.000Z",
-   "tags": [
-    "Personal",
-    "Verein"
-   ]
-  },
-  {
    "title": "FC Bayern München: Trainer Kompany vor Rückkehr gegen Köln - Video",
    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOSFhfb3NELUNzUTlOLXllNVF0aHkzWUJJN2RlcFZBUXEtUWlGd2llcXQ2MnVUQnVFdDdTaTdnRmJKZ3lmTWFhLTNKZTJ4V3JpMXE3cTRTLTJObGRSMTBrc215LWRxNEVjOUwxdmtiSnVwb2ROM0lfb1RRb3o4TV9pRTM4R1BBM09HQlZFekQtRGQ2blFwZk9iN2NDQWl0R3JVcTdNWXdmYzlnWDUwQmpIbjNxZTdTN19ZWWVMQVEzajlPeVdVN1RfREp3?oc=5",
    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxOSFhfb3NELUNzUTlOLXllNVF0aHkzWUJJN2RlcFZBUXEtUWlGd2llcXQ2MnVUQnVFdDdTaTdnRmJKZ3lmTWFhLTNKZTJ4V3JpMXE3cTRTLTJObGRSMTBrc215LWRxNEVjOUwxdmtiSnVwb2ROM0lfb1RRb3o4TV9pRTM4R1BBM09HQlZFekQtRGQ2blFwZk9iN2NDQWl0R3JVcTdNWXdmYzlnWD",
@@ -210,6 +180,38 @@ window.FUPPES_DATA["news-fc"] = {
    "date": "2026-11-18T14:35:18.000Z",
    "tags": [
     "Personal",
+    "Verein"
+   ]
+  },
+  {
+   "title": "Kompany-Comeback beim FC Bayern: Trainer kehrt nach Hirnhautreizung gegen Köln auf die Bank zurück",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNSXBmWUh3WGcwcU9mV1NlYm1xcURxU20weFNNMWlhR3dFUktscmRkRjZQR0dyczB0OEttODJ4MGNGcVd5Y1dOa2RXWVJPQUpTQ2d0RHIxNzFsT2diWFZ3NXFGdVlKcm0yQk5BWkQ3V1FSSUFGNEw0YlU4blJvelhxNEhDQURMbE5aVnJvY0NILUVKcGkydFF6VV85Sk5DUDl3c0V5N2JCMGxWUDFaaG9ZdEZmNnNMdU8yVmpEU1BCcmJqUjBvdC1Sa3RsNmt4b09EVndSZTdB?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxNSXBmWUh3WGcwcU9mV1NlYm1xcURxU20weFNNMWlhR3dFUktscmRkRjZQR0dyczB0OEttODJ4MGNGcVd5Y1dOa2RXWVJPQUpTQ2d0RHIxNzFsT2diWFZ3NXFGdVlKcm0yQk5BWkQ3V1FSSUFGNEw0YlU4blJvelhxNEhDQURMbE5aVnJvY0NILUVKcGkydFF6VV85Sk5DUDl3c0V5N2JCMGxWUD",
+   "source": "Absolut Fussball",
+   "date": "2026-11-18T13:59:10.000Z",
+   "tags": [
+    "Personal",
+    "Verein"
+   ]
+  },
+  {
+   "title": "Köln-Coach Wagner zu Toppmöller-Gerüchten: \"Da spüre ich gar nichts\"",
+   "link": "https://www.kicker.de/koeln-coach-wagner-zu-toppmoeller-geruechten-da-spuere-ich-gar-nichts-1272684/video#omrss",
+   "summary": "Köln-Trainer René Wagner spricht auf der Pressekonferenz vor dem Spiel gegen den FC Bayern München über die aktuellen Gerüchte rund um Dino Toppmöller und wie man auftreten muss, um gegen die Bayern etwas mitzunehmen.",
+   "source": "kicker",
+   "date": "2026-11-18T13:41:14.000Z",
+   "tags": [
+    "Gerücht",
+    "Verein"
+   ]
+  },
+  {
+   "title": "1. FC Köln: Dino Toppmöller im Nacken: René Wagner reagiert auf Trainer-Diskussion",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNRkVTbUJVZ09qdkc4a1kzR2diWHlIU1VVNjNDbVNIa0N2WnhuclpEZjlMWTJmaVk2ZmJBekpfNE92eTZ6ODZpWG5vTUt4N3l4d3pVd2UzSVZDWWdxa2ZSMHhlM3kyOUh3SVpNQUY1WnhPWmZqVWdzTzQtemFZSGRyUXB4UXEwV0UwNnZoNjZNN0xJZ1YyY3NrNFB4MXRwM2w0elVYREVpWEt4RDR4akRPbnRJSnlxNUc2MDFwdWVsN0VTXzc4V0dVQnFWS0F1NGxac093NzgzdmU?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxNRkVTbUJVZ09qdkc4a1kzR2diWHlIU1VVNjNDbVNIa0N2WnhuclpEZjlMWTJmaVk2ZmJBekpfNE92eTZ6ODZpWG5vTUt4N3l4d3pVd2UzSVZDWWdxa2ZSMHhlM3kyOUh3SVpNQUY1WnhPWmZqVWdzTzQtemFZSGRyUXB4UXEwV0UwNnZoNjZNN0xJZ1YyY3NrNFB4MXRwM2w0elVYREVpWEt4RD",
+   "source": "BILD",
+   "date": "2026-11-18T13:39:28.000Z",
+   "tags": [
     "Verein"
    ]
   }

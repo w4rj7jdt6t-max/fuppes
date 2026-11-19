@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T09:20:28.209Z",
+ "updated": "2026-11-19T11:12:07.308Z",
  "rules": {
   "minFeeMio": 20,
   "topClubs": [
@@ -42,6 +42,80 @@
   ]
  },
  "items": [
+  {
+   "title": "Bericht: VfB Stuttgart holt Innenverteidiger Ivanisevic vom FK Sarajevo",
+   "link": "https://www.transfermarkt.de/bericht-vfb-holt-ivanisevic-vom-fk-sarajevo-bester-innenverteidiger-der-liga-quot-/view/news/490906",
+   "summary": "Der VfB Stuttgart steht offenbar vor dem ersten Wintertransfer. Laut dem bosnischen Onlineportal &bdquo;Meridiansport&ldquo; wechselt Jovan Ivanisevic vom FK Sarajevo zum schw&auml;bischen...",
+   "source": "Transfermarkt",
+   "date": "2026-11-19T11:11:46.000Z",
+   "fee": null,
+   "clubs": [
+    "Stuttgart",
+    "VfB"
+   ],
+   "tags": [
+    "Fix"
+   ]
+  },
+  {
+   "title": "Bernd Leno äußert sich zu möglichem Bayern-Wechsel",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMmwwc2l4Wmx1dXBnSGVERUVnNHlkTGVaNXM5SWtmbmxzaFpzN09zMWVyazVtX2NVM1dfR3Vqb1BvNlNublhySWhvWUlPTnprMTdUakdrbWZacTVyOHVBdndta3NfajlDSkdwMGtJUENmRVV6YkhpbER0ck8wb2JJeXZFdjU3aDYyemduQVFR?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQMmwwc2l4Wmx1dXBnSGVERUVnNHlkTGVaNXM5SWtmbmxzaFpzN09zMWVyazVtX2NVM1dfR3Vqb1BvNlNublhySWhvWUlPTnprMTdUakdrbWZacTVyOHVBdndta3NfajlDSkdwMGtJUENmRVV6YkhpbER0ck8wb2JJeXZFdjU3aDYyemduQVFR?oc=5\" target=\"_blank\">Bernd Leno äuße",
+   "source": "fussballdaten.de",
+   "date": "2026-11-19T11:03:00.000Z",
+   "fee": null,
+   "clubs": [
+    "Bayern"
+   ],
+   "tags": [
+    "Transfer"
+   ]
+  },
+  {
+   "title": "BVB wittert Schnäppchen-Transfer",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWmFlTHFDb2lfN0RCRllncHdaSXJBdE5BMTZUdDU2U2FEc2tvVnpDM3VnVGVFeXRBaTMybmhrcGNrVnNjWE1Hc01tazlIM0lrNUo0Q3d6ME5iUEh3eDVQNHExWlZGZC00dFRsOFlqdFdsaDEtbkJ3b0cxbXJEanh1eDdDY2dKaXowZDN2UHpxRjZsdw?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNWmFlTHFDb2lfN0RCRllncHdaSXJBdE5BMTZUdDU2U2FEc2tvVnpDM3VnVGVFeXRBaTMybmhrcGNrVnNjWE1Hc01tazlIM0lrNUo0Q3d6ME5iUEh3eDVQNHExWlZGZC00dFRsOFlqdFdsaDEtbkJ3b0cxbXJEanh1eDdDY2dKaXowZDN2UHpxRjZsdw?oc=5\" target=\"_blank\">BVB witte",
+   "source": "Fussball Transfers",
+   "date": "2026-11-19T10:19:06.000Z",
+   "fee": null,
+   "clubs": [
+    "BVB"
+   ],
+   "tags": [
+    "Transfer"
+   ]
+  },
+  {
+   "title": "Barça trauert diesem Transfer nach: Der Star ging stattdessen zum FC Bayern",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSzZ1Z3JaRG1udTdMcG1rZjFPVmhab0R4V3NRa1hweVZwMmpiZkFTdzhzaGU0TUNuamFfU0xUR29sWHVMMHpWOWluMUVHS21WQ2VmYlZWdUtaSFRobFlDcDlCcjNKUS1PSnNOeW9FWjFOeFFrbmFBNmxnS2w2c2hfZlY3WG5kOFpDVWhmUG5ZZXMxc25OaGpCclR6bHc?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQSzZ1Z3JaRG1udTdMcG1rZjFPVmhab0R4V3NRa1hweVZwMmpiZkFTdzhzaGU0TUNuamFfU0xUR29sWHVMMHpWOWluMUVHS21WQ2VmYlZWdUtaSFRobFlDcDlCcjNKUS1PSnNOeW9FWjFOeFFrbmFBNmxnS2w2c2hfZlY3WG5kOFpDVWhmUG5ZZXMxc25OaGpCclR6bHc?oc=5\" target=\"_bla",
+   "source": "fussballdaten.de",
+   "date": "2026-11-19T09:55:00.000Z",
+   "fee": null,
+   "clubs": [
+    "Bayern",
+    "Barça"
+   ],
+   "tags": [
+    "Transfer"
+   ]
+  },
+  {
+   "title": "Fußball-Transfergerüchte heute: BVB-Stars auf Shortlists von Barça und Man United",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9FSVUxSU9sbmNndHQ1WDlBTVNrd1lUS1gyM1R6TVVBdk5oQjd3OWUzaUc5WkNUSjQwbVhpcHh3QmNjMXQ2ckI0NUZ4a1hWMXlhNG56R0xhS0lPYnJhRmtKYUV1TkRWYmNacUVzYmtUR3M?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE9FSVUxSU9sbmNndHQ1WDlBTVNrd1lUS1gyM1R6TVVBdk5oQjd3OWUzaUc5WkNUSjQwbVhpcHh3QmNjMXQ2ckI0NUZ4a1hWMXlhNG56R0xhS0lPYnJhRmtKYUV1TkRWYmNacUVzYmtUR3M?oc=5\" target=\"_blank\">Fußball-Transfergerüchte heute: BVB-Stars auf Shortlists",
+   "source": "90min.de",
+   "date": "2026-11-19T09:15:36.000Z",
+   "fee": null,
+   "clubs": [
+    "BVB",
+    "Barça",
+    "Man United"
+   ],
+   "tags": [
+    "Gerücht"
+   ]
+  },
   {
    "title": "Erstmals seit 12 Jahren: BVB plant seltenen Transfer",
    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNLS0yVXh6SV9Qa1dGaU1ka3FxMDVfV2VhVkNobzNvN0pQMkhkR2lDRzBOb3RuMzBCTTZIUEI4Wkl5V2FSLTBCMGxmVzRjRXVfcFc0NGFVcWNVS19nb3cwLXp3UVJZN0VDcFBuMFNHbFNzZ3IybjZYeHhFMGF1TWF6N3Azb0FWUEpTbFVMNW9qbw?oc=5",
@@ -158,20 +232,6 @@
    ]
   },
   {
-   "title": "FC Bayern bestätigt: Kompany kehrt gegen 1. FC Köln auf Trainerbank zurück",
-   "link": "https://www.transfermarkt.de/dreesen-bestatigt-bayern-trainer-kompany-kehrt-zuruck-comeback-gegen-koln/view/news/490866",
-   "summary": "Dieser Artikel erschien auf Transfermarkt in seiner ersten Fassung um 15:43 Uhr und wurde aktualisiert. Bayern-Trainer Vincent Kompany wird nach seinen gesundheitlichen Problemen an die...",
-   "source": "Transfermarkt",
-   "date": "2026-11-18T18:52:30.000Z",
-   "fee": null,
-   "clubs": [
-    "Bayern"
-   ],
-   "tags": [
-    "Verein"
-   ]
-  },
-  {
    "title": "Karius vor Bayern-Wechsel? Schalke-Boss spricht Klartext",
    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZXMtZ1hHUTFxVVRmVEhJWm9jVDExbmpVbG95VUZSWjNXcExzNXRpT3RBTm5FRE5wZ3F1bE5vcC02YlM2OTM0Ym9ZaVREbENjd2U5azF4UTB2bkk3T0J0TjNkOTRmdVlXTWRQeEtWdy1XNW43TnRaMUIxd1R0NE1DM0dXTHRndzBiRDBsQWRCYw?oc=5",
    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxOZXMtZ1hHUTFxVVRmVEhJWm9jVDExbmpVbG95VUZSWjNXcExzNXRpT3RBTm5FRE5wZ3F1bE5vcC02YlM2OTM0Ym9ZaVREbENjd2U5azF4UTB2bkk3T0J0TjNkOTRmdVlXTWRQeEtWdy1XNW43TnRaMUIxd1R0NE1DM0dXTHRndzBiRDBsQWRCYw?oc=5\" target=\"_blank\">Karius vor Ba",
@@ -230,20 +290,6 @@
    ]
   },
   {
-   "title": "Millionen-Abgang des FC Bayern wird bei neuem Klub zum Leistungsträger",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQaTVodnN5UnpqczF1X2RhemNMZE13NGFpd2lGcW1HNHBHa082dkZzcmhCNUhCX0p1TDBYN2EwT1VremltSE5YWmk4UjhJUVJrZkFEeXhPWTVFNkpPQlFLNnF2eGtKcVNqRU1JQUs3RW5IVFpsaU04RnFkMzlOd2RnQzZGRFFLdzlnY0xUODVrVzhBMnZ3X0hETldJeGtCSFpzU0ZuT2M1azd2emxleWVTaWItS21Yd0JnUEpr?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQaTVodnN5UnpqczF1X2RhemNMZE13NGFpd2lGcW1HNHBHa082dkZzcmhCNUhCX0p1TDBYN2EwT1VremltSE5YWmk4UjhJUVJrZkFEeXhPWTVFNkpPQlFLNnF2eGtKcVNqRU1JQUs3RW5IVFpsaU04RnFkMzlOd2RnQzZGRFFLdzlnY0xUODVrVzhBMnZ3X0hETldJeGtCSFpzU0ZuT2M1azd2em",
-   "source": "TZ",
-   "date": "2026-11-18T16:10:57.000Z",
-   "fee": null,
-   "clubs": [
-    "Bayern"
-   ],
-   "tags": [
-    "Transfer"
-   ]
-  },
-  {
    "title": "Köln-Coach Wagner zu Toppmöller-Gerüchten: \"Da spüre ich gar nichts\"",
    "link": "https://www.kicker.de/koeln-coach-wagner-zu-toppmoeller-geruechten-da-spuere-ich-gar-nichts-1272684/video#omrss",
    "summary": "Köln-Trainer René Wagner spricht auf der Pressekonferenz vor dem Spiel gegen den FC Bayern München über die aktuellen Gerüchte rund um Dino Toppmöller und wie man auftreten muss, um gegen die Bayern etwas mitzunehmen.",
@@ -278,20 +324,6 @@
    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_wFBVV95cUxQOGxULTE2SGpURXlOS3RtTWwzSTVEZnU2c3FEUkZGLUFFMnhKU21FZ1hSYkltRVRiNXdtaEZfckNFLXY0eDBqSnM4TkIzTGxBQW1JdlhJMzZkLXJGUXJpblc5NWZwQXpWQTlvR3piTGVNZ3RvaFBKNGhWVTVETWpGVHBaU25GZTctNUo2cUk1cENsa21mODVYVjhMMU82ZEJZUGxmMl8xa3d6OE",
    "source": "SPOX.com",
    "date": "2026-11-18T09:32:34.000Z",
-   "fee": null,
-   "clubs": [
-    "Bayern"
-   ],
-   "tags": [
-    "Transfer"
-   ]
-  },
-  {
-   "title": "Wie der FC Bayern seine Klubführung verjüngen - und Olise halten will",
-   "link": "https://www.kicker.de/wie-der-fc-bayern-seine-klubfuehrung-verjuengen-und-olise-halten-will-1272557/artikel#omrss",
-   "summary": "Mit Thomas Müller und Manuel Neuer? Präsident Herbert Hainer erklärt, wie der FC Bayern die Verjüngung der Klubführung vorantreibt - und wie er mit einem 300-Millionen-Euro-Angebot für Michael Olise umgehen würde.",
-   "source": "kicker",
-   "date": "2026-11-18T08:21:28.000Z",
    "fee": null,
    "clubs": [
     "Bayern"
@@ -356,35 +388,6 @@
    ],
    "tags": [
     "Transfer"
-   ]
-  },
-  {
-   "title": "Manchester United an Bayern-Torwart interessiert",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNFBUcVNjVV9IYXdvdGJOQVRNZm5TYTBHUDk4SE1oX3BwSFl2cEdPRUFBMG44bGVlWEdDRDFjMC04V2gzV1BHZ3psclhHSWRsZlFOUF9qdHRXdHNpbTVLOEJES0EtVTNwYnhwU1VGdl9MTEVMTjdZRU9FZ2dXd2N3Y0hvaUpOVFlmQzJB?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNFBUcVNjVV9IYXdvdGJOQVRNZm5TYTBHUDk4SE1oX3BwSFl2cEdPRUFBMG44bGVlWEdDRDFjMC04V2gzV1BHZ3psclhHSWRsZlFOUF9qdHRXdHNpbTVLOEJES0EtVTNwYnhwU1VGdl9MTEVMTjdZRU9FZ2dXd2N3Y0hvaUpOVFlmQzJB?oc=5\" target=\"_blank\">Manchester United a",
-   "source": "fussballdaten.de",
-   "date": "2026-11-17T19:13:00.000Z",
-   "fee": null,
-   "clubs": [
-    "Bayern",
-    "Manchester United"
-   ],
-   "tags": [
-    "Gerücht"
-   ]
-  },
-  {
-   "title": "Arsenal will mit Hincapie verlängern",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQSk5vNWJpci14LVJtRzJNRmN4V3lLSXVZN21rN242ekhrNDQ5RUc3dk5aNGUtSmVnUUM4NS13cDVLYXdEbjFnS3JVdEQtZk5DUFNBZV92OGlNS3Y4TzN1QzZ0ZHdGTEkwTnlDTDdiNjV1Y3hyZzZ6TEp5OFdMY0FuaU5CR2dLMDJKSkZ5NnAtLUR4MlE?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQSk5vNWJpci14LVJtRzJNRmN4V3lLSXVZN21rN242ekhrNDQ5RUc3dk5aNGUtSmVnUUM4NS13cDVLYXdEbjFnS3JVdEQtZk5DUFNBZV92OGlNS3Y4TzN1QzZ0ZHdGTEkwTnlDTDdiNjV1Y3hyZzZ6TEp5OFdMY0FuaU5CR2dLMDJKSkZ5NnAtLUR4MlE?oc=5\" target=\"_blank\">Arsenal ",
-   "source": "Kicker",
-   "date": "2026-11-17T13:55:42.000Z",
-   "fee": null,
-   "clubs": [
-    "Arsenal"
-   ],
-   "tags": [
-    "Vertrag"
    ]
   }
  ]
