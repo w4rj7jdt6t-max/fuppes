@@ -1,7 +1,29 @@
 window.FUPPES_DATA = window.FUPPES_DATA || {};
 window.FUPPES_DATA["news-fc"] = {
- "updated": "2026-11-19T19:13:05.981Z",
+ "updated": "2026-11-19T21:03:43.489Z",
  "items": [
+  {
+   "title": "FC Bayern Aufstellung gegen Köln: Steht Musiala nach dem Comeback im Kader?",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOa0RIVmd1RlpQQ2hpd3llbnplX0pSSHVOUFlDc3RSaGhobmVhNlUwNFNGWVRPc01BUVN3OTg0WDFYNm9VeU8ya3N4RkxfUHE1ZzJaUEM5SjJWY19yZjBDd2RvTTlIdEZyTkZYUEROSnBQaFRUSksyUUhZd0RlWkh1QWxsTVVrell3MUVhNktvMGpwNWlsMmxhb1FTOW8?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOa0RIVmd1RlpQQ2hpd3llbnplX0pSSHVOUFlDc3RSaGhobmVhNlUwNFNGWVRPc01BUVN3OTg0WDFYNm9VeU8ya3N4RkxfUHE1ZzJaUEM5SjJWY19yZjBDd2RvTTlIdEZyTkZYUEROSnBQaFRUSksyUUhZd0RlWkh1QWxsTVVrell3MUVhNktvMGpwNWlsMmxhb1FTOW8?oc=5\" target=\"_bla",
+   "source": "News zur deutschen Nationalmannschaft",
+   "date": "2026-11-19T19:44:00.000Z",
+   "tags": [
+    "Gerücht",
+    "Personal"
+   ]
+  },
+  {
+   "title": "Bayern-Startelf gegen den 1. FC Köln: Überrascht Kompany nach Davies-Ausfall bei der Aufstellung?",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdG1qclBVSDh6aC1xQU1mTk81VVhVN0xDNGdOVXhUMVBhbzYxeG1OcXB3UWRGS0FrUDIzR044S2xVR3c0eGtoNFhsTzctczcxdlVTcTFEalRUblhIem95MnIxTDUzRHVENHpiWGxCek81bzMwU1BKMUxzeldydzNYWVU5aElBcko4aGxYdS1mZk9Yc3Fzb0hKNUJVWjl0dVVtei05RUpVNzZodUM3cXJNRWR5WkVSbkhDaUlvNTMtSUZTMTA?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdG1qclBVSDh6aC1xQU1mTk81VVhVN0xDNGdOVXhUMVBhbzYxeG1OcXB3UWRGS0FrUDIzR044S2xVR3c0eGtoNFhsTzctczcxdlVTcTFEalRUblhIem95MnIxTDUzRHVENHpiWGxCek81bzMwU1BKMUxzeldydzNYWVU5aElBcko4aGxYdS1mZk9Yc3Fzb0hKNUJVWjl0dVVtei05RUpVNzZodU",
+   "source": "Merkur",
+   "date": "2026-11-19T19:15:36.000Z",
+   "tags": [
+    "Gerücht",
+    "Personal"
+   ]
+  },
   {
    "title": "Hoeneß zweifelt an Musiala: Kompany schützt seinen Bayern-Star vor dem Comeback gegen Köln",
    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNVmxiRUpjNlZtMlFHSFRQUkZYWGlfT1VXSnZBNzNVQlRVRlVfNGhuMXZ2bnZBSlFMMldVa3cyZnAtaTdMc0RtRGlOME5Qb2xHMDZmT2JpenlvcERUTkRfUFVXcHdPMWhNQTFYeFlyLUFDZWZaVTNySFhUWWUzYmlpRngzSzVvZWNVUUgyT0RMQkY0WEVRY0RQNl9aYkdvYUNaZFZwY0Npcy1kN2JyRnJQMTNqbDRJQjJQZVdkV3JXSDlUVnBFN3ptaUEzYWd0ZmM4TWc?oc=5",
@@ -96,17 +118,6 @@ window.FUPPES_DATA["news-fc"] = {
    ]
   },
   {
-   "title": "Musiala-Comeback gegen Köln? Kompany gibt Update",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbjIzQldoLTF1STIwQ0xFSTZUTEZYNTZfZzZnbGZDWGRpQnpYTkxhcDZVUDdheGZaUXFzV3JfUzFJdWZKV3ZfNmJNRnQ1bElqZUJNRnV1S1l4eW83b0lRMU55TTYwNTJzSXpZZUxGZWxlT2w3NDRJZGNHYmVyZkNTRmEzX1czYnhwTk8xWTBMSUpPeVVVWjYtR2VrWXQtUQ?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPbjIzQldoLTF1STIwQ0xFSTZUTEZYNTZfZzZnbGZDWGRpQnpYTkxhcDZVUDdheGZaUXFzV3JfUzFJdWZKV3ZfNmJNRnQ1bElqZUJNRnV1S1l4eW83b0lRMU55TTYwNTJzSXpZZUxGZWxlT2w3NDRJZGNHYmVyZkNTRmEzX1czYnhwTk8xWTBMSUpPeVVVWjYtR2VrWXQtUQ?oc=5\" target=\"_",
-   "source": "FCBinside",
-   "date": "2026-11-19T09:32:04.000Z",
-   "tags": [
-    "Gerücht",
-    "Personal"
-   ]
-  },
-  {
    "title": "1. FC Köln beim FC Bayern: Trainer Wagner spürt keinen Druck vom FC",
    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZ3E3STlteHU5WGNnbGtCcmxKMmFzY09wYk5ERDBuVUZSZ0U5SmJJbTgzWXM4cXdmbE5ORjBCT05WOFNPOEYzQUs5TE1nclRuWUJ1MzJEQ1NVMzNXR19BNkhpWTBHX3c0eVEtVjRpZHA1MVdyZGpCT09hMjN3MnZoT25rSVFzR2gzekV0dXF0OC1MRHFSMjB6Ng?oc=5",
    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPZ3E3STlteHU5WGNnbGtCcmxKMmFzY09wYk5ERDBuVUZSZ0U5SmJJbTgzWXM4cXdmbE5ORjBCT05WOFNPOEYzQUs5TE1nclRuWUJ1MzJEQ1NVMzNXR19BNkhpWTBHX3c0eVEtVjRpZHA1MVdyZGpCT09hMjN3MnZoT25rSVFzR2gzekV0dXF0OC1MRHFSMjB6Ng?oc=5\" target=\"_blank\">1",
@@ -197,17 +208,6 @@ window.FUPPES_DATA["news-fc"] = {
    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-gFBVV95cUxQMnVfTW9lYURsLVgzMWowRDI0eEMyeEJYUldTWWFwVW5KQUZhWFFtN3o5QXU0OHpPYmdBRjg2SElOYWRpZmd2aXVOOVJUUTdvQ3p2UlhibGREanNzN1NRZlZxZmNHbmJqaDBjc29YTU9lbXhUTlVtUDM3YWhKaEh3YWR1LS1wTzVCX2lDcTU5VHhkMlNMak11MW9wcmYweEVjUlFDcHRHWUx3aG",
    "source": "SPOX.com",
    "date": "2026-11-18T16:02:51.000Z",
-   "tags": [
-    "Gerücht",
-    "Verein"
-   ]
-  },
-  {
-   "title": "1. FC Köln: Wagner reagiert auf Trainer-Gerüchte",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOREFsYWY2TVc4Z3FrWDdpWlRYWFlQd1NnOUktb2R1eVloOERLSTBXQVZPQ1FOTEhIamltc0JRZEtzVnloaERPYmtTLUw1Q0ZTMXVTZlZGRWN1T0JMODdhZmRvaWJvNHM3dHo4d1h4TTRhZXpQNHZDcmIxOUtEamZuTFg3a2dPMDBCNHZQUElEUGlveGEwOWRj?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOREFsYWY2TVc4Z3FrWDdpWlRYWFlQd1NnOUktb2R1eVloOERLSTBXQVZPQ1FOTEhIamltc0JRZEtzVnloaERPYmtTLUw1Q0ZTMXVTZlZGRWN1T0JMODdhZmRvaWJvNHM3dHo4d1h4TTRhZXpQNHZDcmIxOUtEamZuTFg3a2dPMDBCNHZQUElEUGlveGEwOWRj?oc=5\" target=\"_blank\">1. ",
-   "source": "Fussball Transfers",
-   "date": "2026-11-18T15:51:41.000Z",
    "tags": [
     "Gerücht",
     "Verein"

@@ -1,6 +1,6 @@
 window.FUPPES_DATA = window.FUPPES_DATA || {};
 window.FUPPES_DATA["spielinfo"] = {
- "updated": "2026-11-19T19:13:08.160Z",
+ "updated": "2026-11-19T21:03:45.800Z",
  "fc": [
   {
    "start": "2025-11-22T17:30:00.000Z",
@@ -1897,10 +1897,17 @@ window.FUPPES_DATA["spielinfo"] = {
  ],
  "referees": [
   {
+   "title": "Voraussichtliche Aufstellungen und Ausfälle am 10. Spieltag",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNdVk4aDdyU3QwRlF0ZklFd3ZCRVhZRVQ4MmdvYlM5U3hDLXpqNmNjLURFM1E5aFdvaVBiNkpCT0NrWHdLbEhwTzg1N1BjME5VTnBuRjJkY2xidjZDZ3BaNXMxbnB1U1lMdkFsQ0RneHJVajBRUm04dHpwcXhybUlibF9vNDA1VER5ckw3aDZIRldnMlU4SDQ0Yy1kbGpwaUN6S0dWdWVZUU5JRG55R3lkbUtzQ2NzdFBkdHUxWUM2VllQdw?oc=5",
+   "source": "Bundesliga | official website",
+   "date": "2026-11-19T14:59:14.000Z",
+   "matchday": 10
+  },
+  {
    "title": "Die Schiedsrichter-Ansetzungen am 10. Spieltag",
    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPOG1KVnAzSFJwVTdJTHFCbEFsUWZrQmtkZXh3UUJNWm1nNW81dXF1NGFrNWN0bkdMLVkxSHJaaHZDeFRPcG11M2xveGNzS2F3T3Z2UXI5cnBhWjBvU3RNcXlReHNrYjJYWkZXek1FVDVJb2pxRG1hQ2FzVTVMQTFGTktGUXFOdS1CbVRFZ3NoSzVObnNpcVhXRGVCNA?oc=5",
    "source": "Bundesliga | official website",
-   "date": "2026-11-19T18:36:58.000Z",
+   "date": "2018-12-22T14:42:03.000Z",
    "matchday": 10
   },
   {
