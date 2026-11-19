@@ -1,6 +1,6 @@
 window.FUPPES_DATA = window.FUPPES_DATA || {};
 window.FUPPES_DATA["transfers"] = {
- "updated": "2026-11-19T15:11:33.460Z",
+ "updated": "2026-11-19T17:18:18.061Z",
  "rules": {
   "minFeeMio": 20,
   "topClubs": [
@@ -44,14 +44,71 @@ window.FUPPES_DATA["transfers"] = {
  },
  "items": [
   {
-   "title": "Auch hinter Urbig: Leno kann sich Bayern-Wechsel vorstellen",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNVFI4OVJ0VkZIV1dKRDJfSC1DWlJTWnhPTWNKSlZyYlZUZkU2QWZySlhBNFFBY3M4NWs2Q3RYeFJzWHowRGlmaXNFeGJ5LXNNMFgyQm4yeVRBcEY5LXFnNmczYWk2ZlRDeXowbDFSX1ZEZ0dBQ2p3b2QtYUNxc3U4SXEzTk9MWWk5ZkdjMFlDRUcyOFlubWcxeGNJZ2tkUHh0Q2h5bzVYZm1lN3hGWmtXU1JGelU0blVTaHM0cG1aMFlKRFlDUm1zZlhLUjVVR09RRjRwWA?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxNVFI4OVJ0VkZIV1dKRDJfSC1DWlJTWnhPTWNKSlZyYlZUZkU2QWZySlhBNFFBY3M4NWs2Q3RYeFJzWHowRGlmaXNFeGJ5LXNNMFgyQm4yeVRBcEY5LXFnNmczYWk2ZlRDeXowbDFSX1ZEZ0dBQ2p3b2QtYUNxc3U4SXEzTk9MWWk5ZkdjMFlDRUcyOFlubWcxeGNJZ2tkUHh0Q2h5bzVYZm1lN3",
-   "source": "n-tv.de",
-   "date": "2026-11-19T14:30:00.000Z",
+   "title": "BVB-Talent Justin Hoy vor ungewisser Zukunft: Verlängerung stockt, auch Bundesliga-Klubs lauern",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNVldCT2Q4LTdOaWE5X3ZuQlM4ZFFzT2ZGNDR0X21wNlQ3M0lvcE95elktdVpFUzJyVEJSa2l6ckUyZkFrR3lMbExuc3RRTEwtY09hSWpiT1lCY080eGprcXVoamI1Nk1OcnBtdVhyaXF5UElYRUNVT1BsUTdBNWJ6TTVabDhOM1gzN2ZYelVuOHFfYTJzQ3lXb25PTEh2NkdfWGFrTkdCZGtUNkxvbWN5S1c5Nkpucy1MdmJrSkV5VVlFNmRFQzF0a3I5Und5ZFlsZFh6Q0ZlT0ZsUzJmQ3E5bA?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxNVldCT2Q4LTdOaWE5X3ZuQlM4ZFFzT2ZGNDR0X21wNlQ3M0lvcE95elktdVpFUzJyVEJSa2l6ckUyZkFrR3lMbExuc3RRTEwtY09hSWpiT1lCY080eGprcXVoamI1Nk1OcnBtdVhyaXF5UElYRUNVT1BsUTdBNWJ6TTVabDhOM1gzN2ZYelVuOHFfYTJzQ3lXb25PTEh2NkdfWGFrTkdCZGtUNk",
+   "source": "Sky.de",
+   "date": "2026-11-19T17:16:00.000Z",
+   "fee": null,
+   "clubs": [
+    "BVB"
+   ],
+   "tags": [
+    "Vertrag"
+   ]
+  },
+  {
+   "title": "Musiala-Verkauf? Brisantes Vertragsdetail beim Bayern-Superstar",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPS3pYSDNPY2pPbGxLejBjaWRhOEpVZEt3endpVHRLVXpEOGdvRlJpZjlsejA0ZmdON1JRY0s3ODJQSEJfR1V6eFB1Tks1dEFsMmpzQ2UyQ181cGZhRW0wekZnVWxjU3p6QTJUdEFBdUo0ZnpZWWN1c1Qwbmk2X01qZHBkaDREdEc4UDF3cnlSZzBzWkd3YmNVSWpINkNXY2RkZXRpZW1uNEtmZUQzSFJFaE53?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPS3pYSDNPY2pPbGxLejBjaWRhOEpVZEt3endpVHRLVXpEOGdvRlJpZjlsejA0ZmdON1JRY0s3ODJQSEJfR1V6eFB1Tks1dEFsMmpzQ2UyQ181cGZhRW0wekZnVWxjU3p6QTJUdEFBdUo0ZnpZWWN1c1Qwbmk2X01qZHBkaDREdEc4UDF3cnlSZzBzWkd3YmNVSWpINkNXY2RkZXRpZW1uNEtmZU",
+   "source": "Sky.de",
+   "date": "2026-11-19T17:12:00.000Z",
    "fee": null,
    "clubs": [
     "Bayern"
+   ],
+   "tags": [
+    "Gerücht",
+    "Vertrag"
+   ]
+  },
+  {
+   "title": "FC Bayern: BILD kennt den Transferplan für den Winter!",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdkNnb2ZOa3diMGVvaXp4WnhCN2sySFQ3RnlPa1k2VGEtSUN1XzAzd29ZcUs4RmM3anpFa21qbG1PUWEzcTFQOWpTTlNQdU9EYUZ2UWpfYVpXTnp3Wk5aZ1VQVTV6a3ZBN0gtSXF4bGxIY3dKWjRJd1NzaXpYcXhJeE1OcmRzQ1ZuclEyTTc1akYwU1k0NlpSaHA0bXhwYTgwUVBTZEhKZDhkdi1XQkRuaVZpTQ?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQdkNnb2ZOa3diMGVvaXp4WnhCN2sySFQ3RnlPa1k2VGEtSUN1XzAzd29ZcUs4RmM3anpFa21qbG1PUWEzcTFQOWpTTlNQdU9EYUZ2UWpfYVpXTnp3Wk5aZ1VQVTV6a3ZBN0gtSXF4bGxIY3dKWjRJd1NzaXpYcXhJeE1OcmRzQ1ZuclEyTTc1akYwU1k0NlpSaHA0bXhwYTgwUVBTZEhKZDhkdi",
+   "source": "BILD",
+   "date": "2026-11-19T16:54:54.000Z",
+   "fee": null,
+   "clubs": [
+    "Bayern"
+   ],
+   "tags": [
+    "Transfer"
+   ]
+  },
+  {
+   "title": "FC Bayern sagt Risser ab – Transferplan sieht anders aus",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNT2d0NmtjNlB1YzVKVTkxMWxvbkZ6TmRQU3o4YXhLTmk0Qm1YRGw0SHRaemxMS2JMc0prZnUtMEo3dldUcHNCUWI5d2pxUXhBZExzc0NYRElKN0QxRzEzemdVTVNtWTROaDF3SUd5QzlmNzNiQmtVMlY2MmlUVHBnUVNxU21kU2FZTk9lOXVUNA?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNT2d0NmtjNlB1YzVKVTkxMWxvbkZ6TmRQU3o4YXhLTmk0Qm1YRGw0SHRaemxMS2JMc0prZnUtMEo3dldUcHNCUWI5d2pxUXhBZExzc0NYRElKN0QxRzEzemdVTVNtWTROaDF3SUd5QzlmNzNiQmtVMlY2MmlUVHBnUVNxU21kU2FZTk9lOXVUNA?oc=5\" target=\"_blank\">FC Bayern sag",
+   "source": "fussballdaten.de",
+   "date": "2026-11-19T15:52:00.000Z",
+   "fee": null,
+   "clubs": [
+    "Bayern"
+   ],
+   "tags": [
+    "Transfer"
+   ]
+  },
+  {
+   "title": "Reguła nach MRT – erste Diagnose für BVB-Transferziel",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQV1ZBaG5zOUJNdFJXdl80cnFaQ2JjUFFZaWkxdVJ6eGhFRTJ4Zmc0aTRqNjUyUUZ2U09Sd0czdlUwR1hVUjJMTEEwbW1KMkk1MXJIWkZPcHl0Q2tXaGM1SHVpSTROd3F5TDRVMXc4cTZ2U2JrM0FWdW56ZnItRVoySjdzYw?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQV1ZBaG5zOUJNdFJXdl80cnFaQ2JjUFFZaWkxdVJ6eGhFRTJ4Zmc0aTRqNjUyUUZ2U09Sd0czdlUwR1hVUjJMTEEwbW1KMkk1MXJIWkZPcHl0Q2tXaGM1SHVpSTROd3F5TDRVMXc4cTZ2U2JrM0FWdW56ZnItRVoySjdzYw?oc=5\" target=\"_blank\">Reguła nach MRT – erste Diagn",
+   "source": "fussballdaten.de",
+   "date": "2026-11-19T14:51:00.000Z",
+   "fee": null,
+   "clubs": [
+    "BVB"
    ],
    "tags": [
     "Transfer"
@@ -69,6 +126,21 @@ window.FUPPES_DATA["transfers"] = {
    ],
    "tags": [
     "Transfer"
+   ]
+  },
+  {
+   "title": "Vom FC Bayern zu Real Madrid? Gerücht um irre Olise-Wende",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQLW1kTEpGVmFzTE5UV05FcXBjdE9lYzlRbE44SjdSSk44RFZtODBpUjN4VFhEZWRibklDWDhtbUcwOEo3NUFjUzRhVTNPYkQwRWY0TEtQeXF4Wk1UUWswZ1NSRWJjS3NJZ05vaWNwNm1yTzFrWE5ZRmhTNnhxSEtvNjRMSWUzeHJDYUVabFJZY0hrRkFJSEU1UmdBN25uYlVDN3lkTmRXQmRKN2t3Y0Jr?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQLW1kTEpGVmFzTE5UV05FcXBjdE9lYzlRbE44SjdSSk44RFZtODBpUjN4VFhEZWRibklDWDhtbUcwOEo3NUFjUzRhVTNPYkQwRWY0TEtQeXF4Wk1UUWswZ1NSRWJjS3NJZ05vaWNwNm1yTzFrWE5ZRmhTNnhxSEtvNjRMSWUzeHJDYUVabFJZY0hrRkFJSEU1UmdBN25uYlVDN3lkTmRXQmRKN2",
+   "source": "sport.de",
+   "date": "2026-11-19T14:20:00.000Z",
+   "fee": null,
+   "clubs": [
+    "Bayern",
+    "Real Madrid"
+   ],
+   "tags": [
+    "Gerücht"
    ]
   },
   {
@@ -158,6 +230,20 @@ window.FUPPES_DATA["transfers"] = {
    ]
   },
   {
+   "title": "Offiziell: Real Madrid verlängert schon wieder mit Tchouaméni",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOS2dRN3ZIOGJkN0M1WVRnQmVrM005WGlsTEpiRjFhSU1YYU9hZVVmZmN6bW11UVVMaHo0QWZTVVRHNU9KOWM2Z1RZY2VMUlc5S3ZfMWpzZTNjU09yM0pwZ2lSc0haNWtQU0t0MmY1VkkyTm9Tdm8yd05ybzhWVUhrVFMxdTFGUDY0TFZpWHFZalBmM1dGUVEzMGdVVTdLYkdGbVJZa1NDUWRkdGVzZ0pfUGRGNlhhU0k1b2lFMVRIUFJxbEhVLWVTdTZLR0MzZUZ2TnUtSWgyWUNUbU11?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxOS2dRN3ZIOGJkN0M1WVRnQmVrM005WGlsTEpiRjFhSU1YYU9hZVVmZmN6bW11UVVMaHo0QWZTVVRHNU9KOWM2Z1RZY2VMUlc5S3ZfMWpzZTNjU09yM0pwZ2lSc0haNWtQU0t0MmY1VkkyTm9Tdm8yd05ybzhWVUhrVFMxdTFGUDY0TFZpWHFZalBmM1dGUVEzMGdVVTdLYkdGbVJZa1NDUWRkdG",
+   "source": "n-tv.de",
+   "date": "2026-11-19T10:55:00.000Z",
+   "fee": null,
+   "clubs": [
+    "Real Madrid"
+   ],
+   "tags": [
+    "Vertrag"
+   ]
+  },
+  {
    "title": "BVB wittert Schnäppchen-Transfer",
    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWmFlTHFDb2lfN0RCRllncHdaSXJBdE5BMTZUdDU2U2FEc2tvVnpDM3VnVGVFeXRBaTMybmhrcGNrVnNjWE1Hc01tazlIM0lrNUo0Q3d6ME5iUEh3eDVQNHExWlZGZC00dFRsOFlqdFdsaDEtbkJ3b0cxbXJEanh1eDdDY2dKaXowZDN2UHpxRjZsdw?oc=5",
    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNWmFlTHFDb2lfN0RCRllncHdaSXJBdE5BMTZUdDU2U2FEc2tvVnpDM3VnVGVFeXRBaTMybmhrcGNrVnNjWE1Hc01tazlIM0lrNUo0Q3d6ME5iUEh3eDVQNHExWlZGZC00dFRsOFlqdFdsaDEtbkJ3b0cxbXJEanh1eDdDY2dKaXowZDN2UHpxRjZsdw?oc=5\" target=\"_blank\">BVB witte",
@@ -191,7 +277,7 @@ window.FUPPES_DATA["transfers"] = {
    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9FSVUxSU9sbmNndHQ1WDlBTVNrd1lUS1gyM1R6TVVBdk5oQjd3OWUzaUc5WkNUSjQwbVhpcHh3QmNjMXQ2ckI0NUZ4a1hWMXlhNG56R0xhS0lPYnJhRmtKYUV1TkRWYmNacUVzYmtUR3M?oc=5",
    "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE9FSVUxSU9sbmNndHQ1WDlBTVNrd1lUS1gyM1R6TVVBdk5oQjd3OWUzaUc5WkNUSjQwbVhpcHh3QmNjMXQ2ckI0NUZ4a1hWMXlhNG56R0xhS0lPYnJhRmtKYUV1TkRWYmNacUVzYmtUR3M?oc=5\" target=\"_blank\">Fußball-Transfergerüchte heute: BVB-Stars auf Shortlists",
    "source": "90min.de",
-   "date": "2026-11-19T09:15:36.000Z",
+   "date": "2026-11-19T09:15:37.000Z",
    "fee": null,
    "clubs": [
     "BVB",
@@ -217,14 +303,13 @@ window.FUPPES_DATA["transfers"] = {
    ]
   },
   {
-   "title": "Medien: VfB Stuttgart verpflichtet Nationalspieler",
+   "title": "Medien: VfB verpflichtet Nationalspieler",
    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONEZEd29oMko4ZGg2SVB2Q0IwMEdqby04SXhvX1ZzNEY4X3k4bk5sMW01ZXFfdGxpMklMM29zRTNONEhvdmpCN3M0SUJmakpNTTlnZ2dvdDhtTTR6RkJZRTJEd3p5RGJGUkVreVAydFVFamxXYllhVVJnS3lXM28wejNJcEh1d2VBUmF2cmJWcExSbUs4YU5qNG9B?oc=5",
    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxONEZEd29oMko4ZGg2SVB2Q0IwMEdqby04SXhvX1ZzNEY4X3k4bk5sMW01ZXFfdGxpMklMM29zRTNONEhvdmpCN3M0SUJmakpNTTlnZ2dvdDhtTTR6RkJZRTJEd3p5RGJGUkVreVAydFVFamxXYllhVVJnS3lXM28wejNJcEh1d2VBUmF2cmJWcExSbUs4YU5qNG9B?oc=5\" target=\"_blank\"",
    "source": "Fussball Transfers",
    "date": "2026-11-19T08:46:24.000Z",
    "fee": null,
    "clubs": [
-    "Stuttgart",
     "VfB"
    ],
    "tags": [
@@ -255,21 +340,6 @@ window.FUPPES_DATA["transfers"] = {
    "fee": null,
    "clubs": [
     "Barça"
-   ],
-   "tags": [
-    "Transfer"
-   ]
-  },
-  {
-   "title": "VfB Stuttgart muss 20-Millionen-Loch im Winter stopfen",
-   "link": "https://www.transfermarkt.de/-kicker-quot-vfb-muss-20-millionen-loch-im-winter-stopfen-leistungstrager-um-stiller-im-fokus/view/news/490889",
-   "summary": "Der VfB Stuttgart ist im vergangenen Sommer ein Risiko eingegangen und hat den Gro&szlig;teil der Stammspieler gehalten. Weil dadurch gro&szlig;e Einnahmen auf dem Transfermarkt ausblieben,...",
-   "source": "Transfermarkt",
-   "date": "2026-11-19T06:55:37.000Z",
-   "fee": null,
-   "clubs": [
-    "Stuttgart",
-    "VfB"
    ],
    "tags": [
     "Transfer"
@@ -315,78 +385,6 @@ window.FUPPES_DATA["transfers"] = {
    ],
    "tags": [
     "Gerücht"
-   ]
-  },
-  {
-   "title": "FC Barcelona lotet offenbar Transfer-Hammer aus",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQenBfSkpYUGV3ZWRZN2JLZjd4bUlaY2RVblVqZHpXUHc2aXl5bDRzUGc5dmF3Wnk2UWlFQlgxaWJNbkh4bTl3WnVUZG9RZnhWNzN1NDF3OWdTd0JxUkxJSzNpN3liWnFfUkN4T05QNXNFVmhza0VzajJfSzEyRjQzYTlwbkx4U3BKU091c1lyeTR2dFBNMi0wN2hYSXd1bTczVWJ1R19EMENXV2kxSmtVVk4xVWgxbEJTbVhGag?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQenBfSkpYUGV3ZWRZN2JLZjd4bUlaY2RVblVqZHpXUHc2aXl5bDRzUGc5dmF3Wnk2UWlFQlgxaWJNbkh4bTl3WnVUZG9RZnhWNzN1NDF3OWdTd0JxUkxJSzNpN3liWnFfUkN4T05QNXNFVmhza0VzajJfSzEyRjQzYTlwbkx4U3BKU091c1lyeTR2dFBNMi0wN2hYSXd1bTczVWJ1R19EMENXV2",
-   "source": "sport.de",
-   "date": "2026-11-18T18:01:00.000Z",
-   "fee": null,
-   "clubs": [
-    "Barcelona"
-   ],
-   "tags": [
-    "Gerücht"
-   ]
-  },
-  {
-   "title": "BVB-Wunschspieler Regula verletzt: Platzt der Transfer nach Dortmund?",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTGUzcDRSTWh0aUxnSXF5ZW5MaFl4TGdIVG84Mm41X0xSQUJWdUxKMmFlUlhUeVEwT0lJajBuam9jNnhYWTBmajlMT2g5MURuNTB4Y3JRVmpzV01zSzVya2hKRGlKTm5rVmx0Ry1ucmdTbGN1aVpINWRHc0diNkswOTZfQTNGcEtiZExjSzNOdDJweG85WTBWUw?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQTGUzcDRSTWh0aUxnSXF5ZW5MaFl4TGdIVG84Mm41X0xSQUJWdUxKMmFlUlhUeVEwT0lJajBuam9jNnhYWTBmajlMT2g5MURuNTB4Y3JRVmpzV01zSzVya2hKRGlKTm5rVmx0Ry1ucmdTbGN1aVpINWRHc0diNkswOTZfQTNGcEtiZExjSzNOdDJweG85WTBWUw?oc=5\" target=\"_blank\">B",
-   "source": "fussballdaten.de",
-   "date": "2026-11-18T18:00:00.000Z",
-   "fee": null,
-   "clubs": [
-    "Dortmund",
-    "BVB"
-   ],
-   "tags": [
-    "Gerücht",
-    "Personal"
-   ]
-  },
-  {
-   "title": "\"Er hat mir versichert...\": Bayern-Boss über Transfer-Gerüchte um Olise",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOR1hUdjVfdGFGT0JjZHF1aEpOd3o3d1ZoaGxjcGhwM1RHYmVhY25kLXpkamR1N2EzZ3NzS0t6SG5kRW5DUE92UFlPX3BMU0RkWlUtRjUtdk1rMzV4YlV0LXA3WkRaaUxBc2RBRXh4S0l0SmNRWkNnYUpIYnVvSVo1SzdaN2xaeUxjUURCQ1dsLU1yQ0xXQkM2SUNZNXA?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOR1hUdjVfdGFGT0JjZHF1aEpOd3o3d1ZoaGxjcGhwM1RHYmVhY25kLXpkamR1N2EzZ3NzS0t6SG5kRW5DUE92UFlPX3BMU0RkWlUtRjUtdk1rMzV4YlV0LXA3WkRaaUxBc2RBRXh4S0l0SmNRWkNnYUpIYnVvSVo1SzdaN2xaeUxjUURCQ1dsLU1yQ0xXQkM2SUNZNXA?oc=5\" target=\"_bla",
-   "source": "Fussball Europa",
-   "date": "2026-11-18T17:50:01.000Z",
-   "fee": null,
-   "clubs": [
-    "Bayern"
-   ],
-   "tags": [
-    "Gerücht"
-   ]
-  },
-  {
-   "title": "Transfer im Winter? BVB trifft Entscheidung bei Mathis Albert",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMnllX0NvWkJFcVBzUWpSTnFJOWUtaVFsT2J0MC1KNnRVcjQ2YTNIN2tZMEF3UGlPcmdKcGNQX0ZXdTUxUEpyZFZnSzFyV0diMXgzX2JhZHE5TDdQUnRycjN1dHQ3RkFGUjk5UTNtSTB4WjFhWi1DLUpJaEpmcnU0eGlDM2lOTGZmOFd0dl83TndKQQ?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPMnllX0NvWkJFcVBzUWpSTnFJOWUtaVFsT2J0MC1KNnRVcjQ2YTNIN2tZMEF3UGlPcmdKcGNQX0ZXdTUxUEpyZFZnSzFyV0diMXgzX2JhZHE5TDdQUnRycjN1dHQ3RkFGUjk5UTNtSTB4WjFhWi1DLUpJaEpmcnU0eGlDM2lOTGZmOFd0dl83TndKQQ?oc=5\" target=\"_blank\">Transfer ",
-   "source": "fussballdaten.de",
-   "date": "2026-11-18T10:10:00.000Z",
-   "fee": null,
-   "clubs": [
-    "BVB"
-   ],
-   "tags": [
-    "Gerücht"
-   ]
-  },
-  {
-   "title": "\"Harte Konkurrenz für Manuel Neuer\": Als plötzlich der Transfer von Keylor Navas zum FC Bayern verkündet wurde",
-   "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQOGxULTE2SGpURXlOS3RtTWwzSTVEZnU2c3FEUkZGLUFFMnhKU21FZ1hSYkltRVRiNXdtaEZfckNFLXY0eDBqSnM4TkIzTGxBQW1JdlhJMzZkLXJGUXJpblc5NWZwQXpWQTlvR3piTGVNZ3RvaFBKNGhWVTVETWpGVHBaU25GZTctNUo2cUk1cENsa21mODVYVjhMMU82ZEJZUGxmMl8xa3d6OE5yLTktQUg2a0ctaVc3bU5GZE9WczBMWkF3YllKZWRzOHJyRHhqd01BejR4bWlqOXF1ZW9DOURoOHVJbzhFS1dBamFhcUJkNV9Ia19aV3UtTm9NU1U?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_wFBVV95cUxQOGxULTE2SGpURXlOS3RtTWwzSTVEZnU2c3FEUkZGLUFFMnhKU21FZ1hSYkltRVRiNXdtaEZfckNFLXY0eDBqSnM4TkIzTGxBQW1JdlhJMzZkLXJGUXJpblc5NWZwQXpWQTlvR3piTGVNZ3RvaFBKNGhWVTVETWpGVHBaU25GZTctNUo2cUk1cENsa21mODVYVjhMMU82ZEJZUGxmMl8xa3d6OE",
-   "source": "SPOX.com",
-   "date": "2026-11-18T09:32:34.000Z",
-   "fee": null,
-   "clubs": [
-    "Bayern"
-   ],
-   "tags": [
-    "Transfer"
    ]
   }
  ]
