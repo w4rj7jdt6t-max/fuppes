@@ -1,14 +1,22 @@
 window.FUPPES_DATA = window.FUPPES_DATA || {};
 window.FUPPES_DATA["tv"] = {
- "updated": "2026-11-19T11:12:08.354Z",
+ "updated": "2026-11-19T13:31:29.280Z",
  "matches": [
   {
    "matchID": 83237,
    "kick": "2026-11-20T19:30:00Z",
    "team1": "FC Bayern München",
    "team2": "1. FC Köln",
-   "channels": [],
-   "evidence": [],
+   "channels": [
+    "Sky"
+   ],
+   "evidence": [
+    {
+     "title": "FC Bayern München gegen 1. FC Köln: Bundesliga live auf Sky & WOW",
+     "source": "RTL.de",
+     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPblJzeS1fR215Ny00c3o0d1JRSUYzZ1FGa2pQZU53dWxBZk5EdXJ1R1lWRG9zdHV0bkhRTEdCODdLc2F2UTZzNXdSTFdOTXN6d2NjU0J0dGZPSERGbDJfRUQ4YVJpS055OHZPenlxRTJ6UGV5UkgwWnFjZ05mNDF3RjJmdnR1dUZ0ZlpuSkttbVYxRXlUcUZHUXREdXF6dWhUQWdXNnNnUGFpOGdGdTFTMS1kbw?oc=5"
+    }
+   ],
    "kicker": null
   },
   {

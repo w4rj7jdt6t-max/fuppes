@@ -1,7 +1,39 @@
 window.FUPPES_DATA = window.FUPPES_DATA || {};
 window.FUPPES_DATA["news-fc"] = {
- "updated": "2026-11-19T11:12:06.446Z",
+ "updated": "2026-11-19T13:31:27.233Z",
  "items": [
+  {
+   "title": "FC von Transfer-Gerücht überrascht: „Gab keine Kommunikation“",
+   "link": "https://geissblog.koeln/2026/11/fc-von-transfer-geruecht-ueberrascht-gab-keine-kommunikation/",
+   "summary": "Damit sollte sich ein seltsames Gerücht endgültig erledigt haben: René Wagner wurde auf der Pressekonferenz vor dem Bayern-Spiel von den Spekulationen um Mikey Moore überrascht.... Der Beitrag FC von Transfer-Gerücht überrascht: „Gab keine Kommunikation“ erschien zuerst auf GEISS",
+   "source": "GEISSBLOG",
+   "date": "2026-11-19T12:15:00.000Z",
+   "tags": [
+    "Gerücht"
+   ]
+  },
+  {
+   "title": "Rückkehr vom FC-Bayern-Trainer Vincent Kompany: Das ist der aktuelle Stand",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbEJhei1UeldlMC1iX3E1RUtkWnFwTnB2ZWVCR2xjSkN4QXJKdnJrMEZIZC1nb3prMkZEWndVY0RldlozZ0F1aDFrN2xobHdRRnBERkFQMEwza3RqTW1VYWx5WDdQa2RSMERDLXpNak5OTkYtM0l2UVFYbEpldW15VXFFcGNNaGJoYmI3YmlDTWVVaGlYeDMtU1p0YnNEVVJCVmxXcGJBTElMZw?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbEJhei1UeldlMC1iX3E1RUtkWnFwTnB2ZWVCR2xjSkN4QXJKdnJrMEZIZC1nb3prMkZEWndVY0RldlozZ0F1aDFrN2xobHdRRnBERkFQMEwza3RqTW1VYWx5WDdQa2RSMERDLXpNak5OTkYtM0l2UVFYbEpldW15VXFFcGNNaGJoYmI3YmlDTWVVaGlYeDMtU1p0YnNEVVJCVmxXcGJBTElMZw",
+   "source": "Augsburger Allgemeine",
+   "date": "2026-11-19T12:07:50.000Z",
+   "tags": [
+    "Personal",
+    "Verein"
+   ]
+  },
+  {
+   "title": "Kompany weiter lädiert: Bayern-Trainer mit Armschlinge bei Rückkehr gegen Köln",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMFF3ZF9KakhmRThYNEZhWmVkMllaS3dxU2Zsakt5YmFzWlZ2LU1xVkVzbDJtU04zbkdteWlsZkNJaGtPSnUwMFJtek9hOTlqUFFNQXpHd0hmRXlVM28zYlRKZ0dXbnloV3Z6a0Q1dmhrQm5kb1AzZFRFWnd6N05ZeW0tZVpnS0dFZnVSckVGcmFYTWE2TmxaUlozN0tnclU3LWU0Mk9QX1c1WWN5eVgzczhJSjhsSUZfZkR4VXp3?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQMFF3ZF9KakhmRThYNEZhWmVkMllaS3dxU2Zsakt5YmFzWlZ2LU1xVkVzbDJtU04zbkdteWlsZkNJaGtPSnUwMFJtek9hOTlqUFFNQXpHd0hmRXlVM28zYlRKZ0dXbnloV3Z6a0Q1dmhrQm5kb1AzZFRFWnd6N05ZeW0tZVpnS0dFZnVSckVGcmFYTWE2TmxaUlozN0tnclU3LWU0Mk9QX1c1WW",
+   "source": "Express",
+   "date": "2026-11-19T11:20:21.000Z",
+   "tags": [
+    "Personal",
+    "Verein"
+   ]
+  },
   {
    "title": "Comebacker Kompany droht dem FC: „Ich habe vier Wochen gewartet!“",
    "link": "https://geissblog.koeln/2026/11/comebacker-kompany-droht-dem-fc-ich-habe-vier-wochen-gewartet/",
@@ -14,11 +46,11 @@ window.FUPPES_DATA["news-fc"] = {
    ]
   },
   {
-   "title": "BR24 Sport: FC-Bayern-Trainer Kompany zu Zusammenbruch: \"Es war ein Schock\"",
+   "title": "Heimspiel gegen Köln: FC-Bayern-Trainer Kompany zu Zusammenbruch: \"Es war ein Schock\"",
    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOTZqbU9aR1g2dHA1cU91WWIyRl8xNVFVTW9tbGFxTUtaWmIzaG14ck80VXF3VzN2VEZoM2ZRdUEyM2dMQVN5bXlUSWIwSVlwa2pPaF9yV0RuNEU1dHJudTBhanhTZmZ3c0NsdW96VUsyZzc3SGEtMm1RbWFaREgxNnBkUkk1TVBUbFE4Q0ozSkI2US03RkpwSFhESmNKQTBKcUd6VkVWUE81LXZOVXFF?oc=5",
    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQOTZqbU9aR1g2dHA1cU91WWIyRl8xNVFVTW9tbGFxTUtaWmIzaG14ck80VXF3VzN2VEZoM2ZRdUEyM2dMQVN5bXlUSWIwSVlwa2pPaF9yV0RuNEU1dHJudTBhanhTZmZ3c0NsdW96VUsyZzc3SGEtMm1RbWFaREgxNnBkUkk1TVBUbFE4Q0ozSkI2US03RkpwSFhESmNKQTBKcUd6VkVWUE81LX",
    "source": "sportschau.de",
-   "date": "2026-11-19T09:55:00.000Z",
+   "date": "2026-11-19T09:59:37.000Z",
    "tags": [
     "Verein"
    ]
@@ -64,6 +96,16 @@ window.FUPPES_DATA["news-fc"] = {
    "tags": [
     "Personal",
     "Verein"
+   ]
+  },
+  {
+   "title": "FC Bayern München: Jamal Musiala vor Comeback gegen 1. FC Köln",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQTzdyNnF4YTdLeTBCM0JDaHZXSDMwSHBMNUI4Mm12c19WRklMNmw4MGlCSHVxaFZMRWZGRER2OHFwMnJ4Z280bVY2a0l3bC1TaWtaVkNoWFdibEczN2Vma2ppMmxJZU8zTkQxbi02X2VjSHJ4R0JSbkNkZk4xVG16RmNFU3JVQzZaY2VsbEVvVHJ0SGc5cmdIWHgxeTc0UGpBNmlTdThUelZNZG4xa0t5QVFtS1ZyMVgxaVlGbUpsNmZ1b093WVd2WGd4aEJjT3dKSVE?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxQTzdyNnF4YTdLeTBCM0JDaHZXSDMwSHBMNUI4Mm12c19WRklMNmw4MGlCSHVxaFZMRWZGRER2OHFwMnJ4Z280bVY2a0l3bC1TaWtaVkNoWFdibEczN2Vma2ppMmxJZU8zTkQxbi02X2VjSHJ4R0JSbkNkZk4xVG16RmNFU3JVQzZaY2VsbEVvVHJ0SGc5cmdIWHgxeTc0UGpBNmlTdThUelZNZG",
+   "source": "FAZ",
+   "date": "2026-11-19T05:13:00.000Z",
+   "tags": [
+    "Personal"
    ]
   },
   {
@@ -120,16 +162,6 @@ window.FUPPES_DATA["news-fc"] = {
    ]
   },
   {
-   "title": "FC-Bayern-Ausfallliste für das Köln-Spiel",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQYktqdl9ValRsME1yMlZ6STRHT3R2MGF0dXBmSnVmODd4cVlyOHAxT292NmVYQ2FfQlN2cDlXVzVXUkoyZ1Fxa3I3ck9aS1RvNGcxbjhmc0lMTGZLSjhyM0NHZ2ZGbEk4MjJIZFlYR0FSRl9ZQ0ZkYUJVZW1uVWVfY2tLR3U?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQYktqdl9ValRsME1yMlZ6STRHT3R2MGF0dXBmSnVmODd4cVlyOHAxT292NmVYQ2FfQlN2cDlXVzVXUkoyZ1Fxa3I3ck9aS1RvNGcxbjhmc0lMTGZLSjhyM0NHZ2ZGbEk4MjJIZFlYR0FSRl9ZQ0ZkYUJVZW1uVWVfY2tLR3U?oc=5\" target=\"_blank\">FC-Bayern-Ausfallliste für d",
-   "source": "fussballdaten.de",
-   "date": "2026-11-18T16:46:00.000Z",
-   "tags": [
-    "Personal"
-   ]
-  },
-  {
    "title": "Nachfolger-Gerüchte beim 1. FC Köln: So reagiert René Wagner",
    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPdlpYVGwzcmZiZk9jNS1SUERpN1NSaVRrN2MxSUh6NjRxTHlicjJ3bG5tWE1TVnE3Y3M3c0dKNUxFUHlrUms3VzVCM1Rub183eElObXBaWjg4UEprRk43ZENWRGRYemVHd2ZpdDhPckVmQjdOWTBlYl9EM0tSd2ZOLVNqcEZhZw?oc=5",
    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPdlpYVGwzcmZiZk9jNS1SUERpN1NSaVRrN2MxSUh6NjRxTHlicjJ3bG5tWE1TVnE3Y3M3c0dKNUxFUHlrUms3VzVCM1Rub183eElObXBaWjg4UEprRk43ZENWRGRYemVHd2ZpdDhPckVmQjdOWTBlYl9EM0tSd2ZOLVNqcEZhZw?oc=5\" target=\"_blank\">Nachfolger-Gerüchte beim ",
@@ -180,38 +212,6 @@ window.FUPPES_DATA["news-fc"] = {
    "date": "2026-11-18T14:35:18.000Z",
    "tags": [
     "Personal",
-    "Verein"
-   ]
-  },
-  {
-   "title": "Kompany-Comeback beim FC Bayern: Trainer kehrt nach Hirnhautreizung gegen Köln auf die Bank zurück",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNSXBmWUh3WGcwcU9mV1NlYm1xcURxU20weFNNMWlhR3dFUktscmRkRjZQR0dyczB0OEttODJ4MGNGcVd5Y1dOa2RXWVJPQUpTQ2d0RHIxNzFsT2diWFZ3NXFGdVlKcm0yQk5BWkQ3V1FSSUFGNEw0YlU4blJvelhxNEhDQURMbE5aVnJvY0NILUVKcGkydFF6VV85Sk5DUDl3c0V5N2JCMGxWUDFaaG9ZdEZmNnNMdU8yVmpEU1BCcmJqUjBvdC1Sa3RsNmt4b09EVndSZTdB?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxNSXBmWUh3WGcwcU9mV1NlYm1xcURxU20weFNNMWlhR3dFUktscmRkRjZQR0dyczB0OEttODJ4MGNGcVd5Y1dOa2RXWVJPQUpTQ2d0RHIxNzFsT2diWFZ3NXFGdVlKcm0yQk5BWkQ3V1FSSUFGNEw0YlU4blJvelhxNEhDQURMbE5aVnJvY0NILUVKcGkydFF6VV85Sk5DUDl3c0V5N2JCMGxWUD",
-   "source": "Absolut Fussball",
-   "date": "2026-11-18T13:59:10.000Z",
-   "tags": [
-    "Personal",
-    "Verein"
-   ]
-  },
-  {
-   "title": "Köln-Coach Wagner zu Toppmöller-Gerüchten: \"Da spüre ich gar nichts\"",
-   "link": "https://www.kicker.de/koeln-coach-wagner-zu-toppmoeller-geruechten-da-spuere-ich-gar-nichts-1272684/video#omrss",
-   "summary": "Köln-Trainer René Wagner spricht auf der Pressekonferenz vor dem Spiel gegen den FC Bayern München über die aktuellen Gerüchte rund um Dino Toppmöller und wie man auftreten muss, um gegen die Bayern etwas mitzunehmen.",
-   "source": "kicker",
-   "date": "2026-11-18T13:41:14.000Z",
-   "tags": [
-    "Gerücht",
-    "Verein"
-   ]
-  },
-  {
-   "title": "1. FC Köln: Dino Toppmöller im Nacken: René Wagner reagiert auf Trainer-Diskussion",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNRkVTbUJVZ09qdkc4a1kzR2diWHlIU1VVNjNDbVNIa0N2WnhuclpEZjlMWTJmaVk2ZmJBekpfNE92eTZ6ODZpWG5vTUt4N3l4d3pVd2UzSVZDWWdxa2ZSMHhlM3kyOUh3SVpNQUY1WnhPWmZqVWdzTzQtemFZSGRyUXB4UXEwV0UwNnZoNjZNN0xJZ1YyY3NrNFB4MXRwM2w0elVYREVpWEt4RDR4akRPbnRJSnlxNUc2MDFwdWVsN0VTXzc4V0dVQnFWS0F1NGxac093NzgzdmU?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxNRkVTbUJVZ09qdkc4a1kzR2diWHlIU1VVNjNDbVNIa0N2WnhuclpEZjlMWTJmaVk2ZmJBekpfNE92eTZ6ODZpWG5vTUt4N3l4d3pVd2UzSVZDWWdxa2ZSMHhlM3kyOUh3SVpNQUY1WnhPWmZqVWdzTzQtemFZSGRyUXB4UXEwV0UwNnZoNjZNN0xJZ1YyY3NrNFB4MXRwM2w0elVYREVpWEt4RD",
-   "source": "BILD",
-   "date": "2026-11-18T13:39:28.000Z",
-   "tags": [
     "Verein"
    ]
   }
