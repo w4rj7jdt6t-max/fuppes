@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T23:02:29.464Z",
+ "updated": "2026-11-19T01:27:22.326Z",
  "rules": {
   "minFeeMio": 20,
   "topClubs": [
@@ -103,7 +103,7 @@
    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQenBfSkpYUGV3ZWRZN2JLZjd4bUlaY2RVblVqZHpXUHc2aXl5bDRzUGc5dmF3Wnk2UWlFQlgxaWJNbkh4bTl3WnVUZG9RZnhWNzN1NDF3OWdTd0JxUkxJSzNpN3liWnFfUkN4T05QNXNFVmhza0VzajJfSzEyRjQzYTlwbkx4U3BKU091c1lyeTR2dFBNMi0wN2hYSXd1bTczVWJ1R19EMENXV2kxSmtVVk4xVWgxbEJTbVhGag?oc=5",
    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQenBfSkpYUGV3ZWRZN2JLZjd4bUlaY2RVblVqZHpXUHc2aXl5bDRzUGc5dmF3Wnk2UWlFQlgxaWJNbkh4bTl3WnVUZG9RZnhWNzN1NDF3OWdTd0JxUkxJSzNpN3liWnFfUkN4T05QNXNFVmhza0VzajJfSzEyRjQzYTlwbkx4U3BKU091c1lyeTR2dFBNMi0wN2hYSXd1bTczVWJ1R19EMENXV2",
    "source": "sport.de",
-   "date": "2026-11-18T18:26:19.000Z",
+   "date": "2026-11-18T18:01:00.000Z",
    "fee": null,
    "clubs": [
     "Barcelona"
@@ -216,6 +216,20 @@
    ]
   },
   {
+   "title": "Krösche vor 70-Millionen-Deal – AC Mailand lockt deutschen Star",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQeURNNHBGeTRMNkZfR1c2ZHRKUU54ZnplbjItMGp5dDZwWER6Mmt6UnNtU3JfN195cnlEbDJXT203ZDF6cDZ5WUhCLVhwemt2bENNSjZWblBJQzE1alB4VHk3X3BnaFBodk1JRjNQM2NxVHZvNDBZZzFEcU81SElRdUljcXZEVjVDVW1Db1hDdW9fdUNNTVBtMw?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQeURNNHBGeTRMNkZfR1c2ZHRKUU54ZnplbjItMGp5dDZwWER6Mmt6UnNtU3JfN195cnlEbDJXT203ZDF6cDZ5WUhCLVhwemt2bENNSjZWblBJQzE1alB4VHk3X3BnaFBodk1JRjNQM2NxVHZvNDBZZzFEcU81SElRdUljcXZEVjVDVW1Db1hDdW9fdUNNTVBtMw?oc=5\" target=\"_blank\">K",
+   "source": "fussballdaten.de",
+   "date": "2026-11-18T12:08:00.000Z",
+   "fee": null,
+   "clubs": [
+    "AC Mailand"
+   ],
+   "tags": [
+    "Transfer"
+   ]
+  },
+  {
    "title": "BVB-Transferkandidat Balogun wird Juve und Milan angeboten",
    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZDl0XzlJaW02SGJPOFNDd2FzM2dMakVnMlFQdHEwMndVVC05dXRVQ3pwMVlEeHVheG94VzZrb0ZIZDdubzVVN0tqeEdyVkkyX25kS0NkWDFjRUhlZGRIQUFiOVFmUGpadnRHSm9fRmV4czZGY1RWemdwV2V4ZWt3bmlTMjloRFFtRVhHeUx2YVB4SU96SFhqVQ?oc=5",
    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNZDl0XzlJaW02SGJPOFNDd2FzM2dMakVnMlFQdHEwMndVVC05dXRVQ3pwMVlEeHVheG94VzZrb0ZIZDdubzVVN0tqeEdyVkkyX25kS0NkWDFjRUhlZGRIQUFiOVFmUGpadnRHSm9fRmV4czZGY1RWemdwV2V4ZWt3bmlTMjloRFFtRVhHeUx2YVB4SU96SFhqVQ?oc=5\" target=\"_blank\">B",
@@ -287,25 +301,25 @@
    ]
   },
   {
-   "title": "Transfer-Ticker: FC Bayern lässt nicht locker",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWmRoejhfMjg1ZWljWE1oUzdxYllSa2RvTTA3Ti1KY0lQLUtDdlV5NEt0ekk1dnhjaVBKNlZ2Vm9ndE1GT3VZMGc2cTliMHlDbi1wemhTa2RTVlpKai14QlczUENDak1xRmkwUzFMT0daWUZnRjlnMXUxel94cS1VSURWVm54RmF4Vm00?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWmRoejhfMjg1ZWljWE1oUzdxYllSa2RvTTA3Ti1KY0lQLUtDdlV5NEt0ekk1dnhjaVBKNlZ2Vm9ndE1GT3VZMGc2cTliMHlDbi1wemhTa2RTVlpKai14QlczUENDak1xRmkwUzFMT0daWUZnRjlnMXUxel94cS1VSURWVm54RmF4Vm00?oc=5\" target=\"_blank\">Transfer-Ticker: FC",
-   "source": "sport.de",
-   "date": "2026-11-18T06:52:00.000Z",
+   "title": "100-Millionen-Zugang für den FC Bayern?",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSkJvVUNpZ1kzbnFqSXVoYjZEWmFqYktZSG1PTVJaSmJaVnI2by1lM3RmVG5qY1RHOEpyWjBOa1VWNklkeHh5aHhPNzJBSHVTNmtIbzA3U0txQkt1S3FIVHBiRTI2RkF4R05vU3g0STJTc29CZlJHUGNEUHJkMjktOWhaeDFYZEh3NUFjaFJRVUQ?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQSkJvVUNpZ1kzbnFqSXVoYjZEWmFqYktZSG1PTVJaSmJaVnI2by1lM3RmVG5qY1RHOEpyWjBOa1VWNklkeHh5aHhPNzJBSHVTNmtIbzA3U0txQkt1S3FIVHBiRTI2RkF4R05vU3g0STJTc29CZlJHUGNEUHJkMjktOWhaeDFYZEh3NUFjaFJRVUQ?oc=5\" target=\"_blank\">100-Millione",
+   "source": "Fussball Transfers",
+   "date": "2026-11-18T07:43:18.000Z",
    "fee": null,
    "clubs": [
     "Bayern"
    ],
    "tags": [
-    "Transfer"
+    "Gerücht"
    ]
   },
   {
-   "title": "Transfer-Poker um Bayern-Juwel: Tim Binder im Visier von KSC und Zweitliga-Konkurrenz",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOV2J1cWM1OVQweXFNOUVKUnAyVGlZUkc1YmQxallYZUQtZTUzRzZoVDFyUW1lT0JoRThpektsdVhCUmZQUW1jTGVQTDVPdTdNT0gta0RNWnZaNDRKNkNyanpnUENTN3pfbXFsQjVFS3Q5OXhIazBRbXFhbHZqU0t6VlBtT2s0NHd5SmoycHJGWUlLdlJHa2xaS051R3l6TmZ0X29vemFvTUstczlV?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOV2J1cWM1OVQweXFNOUVKUnAyVGlZUkc1YmQxallYZUQtZTUzRzZoVDFyUW1lT0JoRThpektsdVhCUmZQUW1jTGVQTDVPdTdNT0gta0RNWnZaNDRKNkNyanpnUENTN3pfbXFsQjVFS3Q5OXhIazBRbXFhbHZqU0t6VlBtT2s0NHd5SmoycHJGWUlLdlJHa2xaS051R3l6TmZ0X29vemFvTUstcz",
-   "source": "ka-news",
-   "date": "2026-11-18T04:02:35.000Z",
+   "title": "Transfer-Ticker: FC Bayern lässt nicht locker",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWmRoejhfMjg1ZWljWE1oUzdxYllSa2RvTTA3Ti1KY0lQLUtDdlV5NEt0ekk1dnhjaVBKNlZ2Vm9ndE1GT3VZMGc2cTliMHlDbi1wemhTa2RTVlpKai14QlczUENDak1xRmkwUzFMT0daWUZnRjlnMXUxel94cS1VSURWVm54RmF4Vm00?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWmRoejhfMjg1ZWljWE1oUzdxYllSa2RvTTA3Ti1KY0lQLUtDdlV5NEt0ekk1dnhjaVBKNlZ2Vm9ndE1GT3VZMGc2cTliMHlDbi1wemhTa2RTVlpKai14QlczUENDak1xRmkwUzFMT0daWUZnRjlnMXUxel94cS1VSURWVm54RmF4Vm00?oc=5\" target=\"_blank\">Transfer-Ticker: FC",
+   "source": "sport.de",
+   "date": "2026-11-18T06:52:00.000Z",
    "fee": null,
    "clubs": [
     "Bayern"
@@ -370,20 +384,6 @@
    ],
    "tags": [
     "Gerücht",
-    "Vertrag"
-   ]
-  },
-  {
-   "title": "Absage an den FC Bayern: Torhüter verlängert Vertrag",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOTAtMmhYNHBGZWVxcGdVNjRCVEIxQ1ZneTNGbEhfUGJ4NEFZYUM2dHZ6R1NERVRFbTNXcm1rUGRydndxUFk1N2xKU1pGWExvRmtFTV9VMXpxTzNieHVTbHV6aWxZTEIzSzJ0TDdmNXIzVnlvdEdmN2hyR01TUks5bW1VeFlmWXZ6?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOTAtMmhYNHBGZWVxcGdVNjRCVEIxQ1ZneTNGbEhfUGJ4NEFZYUM2dHZ6R1NERVRFbTNXcm1rUGRydndxUFk1N2xKU1pGWExvRmtFTV9VMXpxTzNieHVTbHV6aWxZTEIzSzJ0TDdmNXIzVnlvdEdmN2hyR01TUks5bW1VeFlmWXZ6?oc=5\" target=\"_blank\">Absage an den FC Bayern",
-   "source": "fussballdaten.de",
-   "date": "2026-11-17T12:54:00.000Z",
-   "fee": null,
-   "clubs": [
-    "Bayern"
-   ],
-   "tags": [
     "Vertrag"
    ]
   }

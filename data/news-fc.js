@@ -1,13 +1,13 @@
 window.FUPPES_DATA = window.FUPPES_DATA || {};
 window.FUPPES_DATA["news-fc"] = {
- "updated": "2026-11-18T23:02:28.048Z",
+ "updated": "2026-11-19T01:27:21.084Z",
  "items": [
   {
    "title": "News, Sport: Bundesliga: Kompany kehrt gegen Köln auf Bayern-Trainerbank zurück - tixio",
    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOd2xZb09YUjFJRXVMaWJtS3NJMEd3SzR4c3c0bERsV1VOTHk3WC11d0FMYURKeC1fNmZlS3poTHBVWVpxb2I2Tm91UW5SSm93UGRrMFoyYjRHQW5FX2JweTFFWnBHc0xMOTBDYXV1WUxWVkFET2ZxWnozeTZLOFlqcG5zcXdOQnp2ODU2YU5ZdmZydHNJb0I2OVB0TV91Y3NpeHRz?oc=5",
    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOd2xZb09YUjFJRXVMaWJtS3NJMEd3SzR4c3c0bERsV1VOTHk3WC11d0FMYURKeC1fNmZlS3poTHBVWVpxb2I2Tm91UW5SSm93UGRrMFoyYjRHQW5FX2JweTFFWnBHc0xMOTBDYXV1WUxWVkFET2ZxWnozeTZLOFlqcG5zcXdOQnp2ODU2YU5ZdmZydHNJb0I2OVB0TV91Y3NpeHRz?oc=5\" tar",
    "source": "Nachrichten",
-   "date": "2026-11-18T19:24:53.000Z",
+   "date": "2026-11-18T19:25:40.000Z",
    "tags": [
     "Verein"
    ]
@@ -34,7 +34,7 @@ window.FUPPES_DATA["news-fc"] = {
    ]
   },
   {
-   "title": "Nach Länderspielpause: Bayern-Trainer Kompany gegen Köln wieder dabei",
+   "title": "Vier Wochen nach Zusammenbruch: Bayern-Trainer Kompany gegen Köln wieder dabei",
    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPY202RTlqYmFtRTlMTnlUM3ZCeXVoWVlGMERWeUxkeTY5SFpYU1Z3SjRJVjVSR0wzUENzaUJKSTUyQU9ibXRTQ0c0Y3JEVTU1TnpiU3ZvYXFxdnBpb1RCN0ZGeG9Hb3hUUGxOaUFMUDIwSHc3SmFVQThIaFFwc09ZQkMyQTk0MXlKcUN6LWRoaWNtdWJyYnhlZHBqWVo4ZnRVNkpvMTFB?oc=5",
    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPY202RTlqYmFtRTlMTnlUM3ZCeXVoWVlGMERWeUxkeTY5SFpYU1Z3SjRJVjVSR0wzUENzaUJKSTUyQU9ibXRTQ0c0Y3JEVTU1TnpiU3ZvYXFxdnBpb1RCN0ZGeG9Hb3hUUGxOaUFMUDIwSHc3SmFVQThIaFFwc09ZQkMyQTk0MXlKcUN6LWRoaWNtdWJyYnhlZHBqWVo4ZnRVNkpvMTFB?oc=5\"",
    "source": "sportschau.de",
