@@ -1,6 +1,6 @@
 window.FUPPES_DATA = window.FUPPES_DATA || {};
 window.FUPPES_DATA["tv"] = {
- "updated": "2026-11-19T13:31:29.280Z",
+ "updated": "2026-11-19T15:11:34.632Z",
  "matches": [
   {
    "matchID": 83237,
@@ -38,11 +38,6 @@ window.FUPPES_DATA["tv"] = {
    ],
    "evidence": [
     {
-     "title": "Vorschau: Sportschau • UEFA Nations League: Deutschland - Niederlande",
-     "source": "ARD Mediathek",
-     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5jWFl6LTJ6MXFLNWdVcXltamI2djZBNTVPQmpvOWJoYVRjcURacUZVSUdJNTJ5Z2ZlUkVUS2VUSG5aa2JDeEdIaE9HOVlCUlVwV0Z0T2l4SHpNOGtLaTNTOWlKaERINHc1eTg4dWhhMmh5Zw?oc=5"
-    },
-    {
      "title": "!$√[TV/Übertragung!]@! Deutschland – Niederlande jetzt Fußball heute WM ZDF live im TV - UB",
      "source": "Universitat de Barcelona",
      "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQUG1OcVNXdFByOUlEV1FkV3JUV0dfdlJCR3lfb2FkT1RXakpEeFh1U3UzUXZ1Sl9VemhqWTBrYWRTdkJMUlpZZTF4aFZjdmxaYW82VzdKekV5T2IyS20zNG1KMmZLRW1LQkxIcmpYemlGODMxSEpIcy1JV20teFpoaFFjVGVJV24tUGFjTm1aM1pETU5hcXJycG1tSnI5YlEtNE92M3IybVhSaU1fM1h6aGhzZkhEQUVCT2Zock9VZXpLaklvWno5R2lFZS1xYlJ5OVhYb1JuMWxlMTg3Zi1JWWVIczlGSHc1ZVp2Tmx5Wjg1QnJtQV95R2h0RUtldUJvcHRvN3hPYkE5bU5EVDlITDZzNEMwNm5TN1E?oc=5"
@@ -51,6 +46,11 @@ window.FUPPES_DATA["tv"] = {
      "title": "Deutschland Niederlande kostenlos live streamen: Nations League heute in der ARD live",
      "source": "dslweb",
      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQMXo1dEhhdENKZEdWR0N1aWhxVFVPXzh3dlFMSmFKbC1XbnJRR3RVV3lMUS1CZ2NwanY2ZEYzcVBMdTNMcmhCS2VMLTRpckVrckdrd0pmekZkbGJja0dKNDNLb0FtSTFNbGZGdlZ1Z0ZLLUtOWERsX0s3WHFpcFNmNXJuU2tIcXFONDgwRFdDU3lBNF9PTndoNkN4Ykl6UGxrV2FqRC1qVENLOHp0c3FMZm4zUUxhYXllTUE?oc=5"
+    },
+    {
+     "title": "Länderspiel morgen: Wer überträgt Deutschland gegen Niederlande? Live in der ARD",
+     "source": "News zur deutschen Nationalmannschaft",
+     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQQnQ4LU9GT0NLcjEyUE9KT1pGNmFuZjBBS0YwNlQxaHdMaFhrWXZiUG95M3FJSTNWNlJHbmIzY05TZ3hKbXZOOFEtdng0T1V0eWNqaEU4d1dBMjZjVW9XRm1IYUFkT2RHaGdGcW9uUFI3ZjFPY0VtZ0JlRXJTV3g0c1JvZG9aV3JYNnpVa1pjcndhQ2s?oc=5"
     }
    ],
    "kicker": null
