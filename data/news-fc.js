@@ -1,7 +1,18 @@
 window.FUPPES_DATA = window.FUPPES_DATA || {};
 window.FUPPES_DATA["news-fc"] = {
- "updated": "2026-11-19T22:59:10.629Z",
+ "updated": "2026-11-20T01:23:09.693Z",
  "items": [
+  {
+   "title": "Die Krönung eines Transfer-Coups? Nur dank Ex-Star konnte der FC El Mala halten!",
+   "link": "https://geissblog.koeln/2026/11/doppelter-transfer-coup-nur-wegen-ihm-konnte-der-fc-el-mala-halten/",
+   "summary": "Die Leihe von Jakub Kaminski mit anschließender fester Verpflichtung und Weiterverkauf zu Benfica Lissabon war bislang wohl Thomas Kesslers größter Transfer-Coup beim 1. FC Köln.... Der Beitrag Die Krönung eines Transfer-Coups? Nur dank Ex-Star konnte der FC El Mala halten! ersch",
+   "source": "GEISSBLOG",
+   "date": "2026-11-19T23:01:00.000Z",
+   "tags": [
+    "Gerücht",
+    "Leihe"
+   ]
+  },
   {
    "title": "FC Bayern Aufstellung gegen Köln: Steht Musiala nach dem Comeback im Kader?",
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOa0RIVmd1RlpQQ2hpd3llbnplX0pSSHVOUFlDc3RSaGhobmVhNlUwNFNGWVRPc01BUVN3OTg0WDFYNm9VeU8ya3N4RkxfUHE1ZzJaUEM5SjJWY19yZjBDd2RvTTlIdEZyTkZYUEROSnBQaFRUSksyUUhZd0RlWkh1QWxsTVVrell3MUVhNktvMGpwNWlsMmxhb1FTOW8?oc=5",
@@ -35,6 +46,16 @@ window.FUPPES_DATA["news-fc"] = {
    ]
   },
   {
+   "title": "Kader gegen Bayern: Ache zurück – dieser FC-Profi muss zu Hause bleiben",
+   "link": "https://geissblog.koeln/2026/11/kader-gegen-bayern-ache-zurueck-dieser-fc-profi-muss-zu-hause-bleiben/",
+   "summary": "Die schwierigste Aufgabe in Fußball-Deutschland, womöglich sogar in ganz Europa, wartet: Am Freitagabend ist der 1. FC Köln beim FC Bayern München zu Gast. Während... Der Beitrag Kader gegen Bayern: Ache zurück – dieser FC-Profi muss zu Hause bleiben erschien zuerst auf GEISSBLOG",
+   "source": "GEISSBLOG",
+   "date": "2026-11-19T14:45:34.000Z",
+   "tags": [
+    "Personal"
+   ]
+  },
+  {
    "title": "Defensiv-Akteur macht Platz für Ache: Der FC-Kader für das Bayern-Gastspiel",
    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTHBQN3AxRTVSR2txN2JkUlg2U09wbHc0Zk4zTElMYU9TQ3VUbVZtaEwtaU9NX0J4OUdoTUNvQ3RpYlh4SjVQc3FMa0pjbkZ6eWRYRG5RVlZrUURQWVNjQXRDNXk5Y21peFBBODRscldFQnJfOTRPSE00dFZIMUxrRUxmU3R5ZVBJMk1peExERUZmSkRGcktHeFNkLUt0eEZnUnYwU1RYMG9uYTlXR2JjemhpaE9qQ1hlSHpV?oc=5",
    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTHBQN3AxRTVSR2txN2JkUlg2U09wbHc0Zk4zTElMYU9TQ3VUbVZtaEwtaU9NX0J4OUdoTUNvQ3RpYlh4SjVQc3FMa0pjbkZ6eWRYRG5RVlZrUURQWVNjQXRDNXk5Y21peFBBODRscldFQnJfOTRPSE00dFZIMUxrRUxmU3R5ZVBJMk1peExERUZmSkRGcktHeFNkLUt0eEZnUnYwU1RYMG9uYT",
@@ -55,6 +76,16 @@ window.FUPPES_DATA["news-fc"] = {
    ]
   },
   {
+   "title": "FC von Transfer-Gerücht überrascht: „Gab keine Kommunikation“",
+   "link": "https://geissblog.koeln/2026/11/fc-von-transfer-geruecht-ueberrascht-gab-keine-kommunikation/",
+   "summary": "Damit sollte sich ein seltsames Gerücht endgültig erledigt haben: René Wagner wurde auf der Pressekonferenz vor dem Bayern-Spiel von den Spekulationen um Mikey Moore überrascht.... Der Beitrag FC von Transfer-Gerücht überrascht: „Gab keine Kommunikation“ erschien zuerst auf GEISS",
+   "source": "GEISSBLOG",
+   "date": "2026-11-19T12:15:00.000Z",
+   "tags": [
+    "Gerücht"
+   ]
+  },
+  {
    "title": "Rückkehr vom FC-Bayern-Trainer Vincent Kompany: Das ist der aktuelle Stand",
    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbEJhei1UeldlMC1iX3E1RUtkWnFwTnB2ZWVCR2xjSkN4QXJKdnJrMEZIZC1nb3prMkZEWndVY0RldlozZ0F1aDFrN2xobHdRRnBERkFQMEwza3RqTW1VYWx5WDdQa2RSMERDLXpNak5OTkYtM0l2UVFYbEpldW15VXFFcGNNaGJoYmI3YmlDTWVVaGlYeDMtU1p0YnNEVVJCVmxXcGJBTElMZw?oc=5",
    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbEJhei1UeldlMC1iX3E1RUtkWnFwTnB2ZWVCR2xjSkN4QXJKdnJrMEZIZC1nb3prMkZEWndVY0RldlozZ0F1aDFrN2xobHdRRnBERkFQMEwza3RqTW1VYWx5WDdQa2RSMERDLXpNak5OTkYtM0l2UVFYbEpldW15VXFFcGNNaGJoYmI3YmlDTWVVaGlYeDMtU1p0YnNEVVJCVmxXcGJBTElMZw",
@@ -71,6 +102,17 @@ window.FUPPES_DATA["news-fc"] = {
    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQMFF3ZF9KakhmRThYNEZhWmVkMllaS3dxU2Zsakt5YmFzWlZ2LU1xVkVzbDJtU04zbkdteWlsZkNJaGtPSnUwMFJtek9hOTlqUFFNQXpHd0hmRXlVM28zYlRKZ0dXbnloV3Z6a0Q1dmhrQm5kb1AzZFRFWnd6N05ZeW0tZVpnS0dFZnVSckVGcmFYTWE2TmxaUlozN0tnclU3LWU0Mk9QX1c1WW",
    "source": "Express",
    "date": "2026-11-19T11:20:21.000Z",
+   "tags": [
+    "Personal",
+    "Verein"
+   ]
+  },
+  {
+   "title": "Comebacker Kompany droht dem FC: „Ich habe vier Wochen gewartet!“",
+   "link": "https://geissblog.koeln/2026/11/comebacker-kompany-droht-dem-fc-ich-habe-vier-wochen-gewartet/",
+   "summary": "Vincent Kompany feiert gegen den 1. FC Köln sein Comeback. Nach seinem krankheitsbedingten Ausfall geht der Cheftrainer des FC Bayern München extra motiviert in das... Der Beitrag Comebacker Kompany droht dem FC: „Ich habe vier Wochen gewartet!“ erschien zuerst auf GEISSBLOG .",
+   "source": "GEISSBLOG",
+   "date": "2026-11-19T10:45:00.000Z",
    "tags": [
     "Personal",
     "Verein"
@@ -150,67 +192,24 @@ window.FUPPES_DATA["news-fc"] = {
    ]
   },
   {
-   "title": "Nachfolger-Gerüchte beim 1. FC Köln: So reagiert René Wagner",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPdlpYVGwzcmZiZk9jNS1SUERpN1NSaVRrN2MxSUh6NjRxTHlicjJ3bG5tWE1TVnE3Y3M3c0dKNUxFUHlrUms3VzVCM1Rub183eElObXBaWjg4UEprRk43ZENWRGRYemVHd2ZpdDhPckVmQjdOWTBlYl9EM0tSd2ZOLVNqcEZhZw?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPdlpYVGwzcmZiZk9jNS1SUERpN1NSaVRrN2MxSUh6NjRxTHlicjJ3bG5tWE1TVnE3Y3M3c0dKNUxFUHlrUms3VzVCM1Rub183eElObXBaWjg4UEprRk43ZENWRGRYemVHd2ZpdDhPckVmQjdOWTBlYl9EM0tSd2ZOLVNqcEZhZw?oc=5\" target=\"_blank\">Nachfolger-Gerüchte beim ",
-   "source": "90min.de",
-   "date": "2026-11-18T16:07:15.000Z",
+   "title": "Fußball-Bundesliga: Bayern-Trainer Kompany gegen Köln wieder dabei",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQzZzYU5sdUdlWGhfNkZUdkRkZ1VrRjdDcTdjRnM2TVFkSVF5VzFNT2Zlc1FoNnRWWDZmQ1pRMl94cXYyS1F5eHZhYmE1UFBXQlJZSHIzaEd1dXU1endGd3pVSDUzRExNUFhremFDc1E2ZEF4bHlWdm5KY01PaGtyM2JYelgxM2ItTTQyMExKdEkyZzFPTHJvUmEwZkE5ZHE5Rk0tUHY2N3RkRzEz?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQQzZzYU5sdUdlWGhfNkZUdkRkZ1VrRjdDcTdjRnM2TVFkSVF5VzFNT2Zlc1FoNnRWWDZmQ1pRMl94cXYyS1F5eHZhYmE1UFBXQlJZSHIzaEd1dXU1endGd3pVSDUzRExNUFhremFDc1E2ZEF4bHlWdm5KY01PaGtyM2JYelgxM2ItTTQyMExKdEkyZzFPTHJvUmEwZkE5ZHE5Rk0tUHY2N3RkRz",
+   "source": "STERN.de",
+   "date": "2026-11-18T18:43:21.000Z",
    "tags": [
-    "Gerücht"
-   ]
-  },
-  {
-   "title": "\"Den Namen hat man ja schön öfter gehört\": Kölns Trainer Rene Wagner reagiert auf Gerüchte um Ex-Bayern-Coach",
-   "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQMnVfTW9lYURsLVgzMWowRDI0eEMyeEJYUldTWWFwVW5KQUZhWFFtN3o5QXU0OHpPYmdBRjg2SElOYWRpZmd2aXVOOVJUUTdvQ3p2UlhibGREanNzN1NRZlZxZmNHbmJqaDBjc29YTU9lbXhUTlVtUDM3YWhKaEh3YWR1LS1wTzVCX2lDcTU5VHhkMlNMak11MW9wcmYweEVjUlFDcHRHWUx3aG9uWWxfOHgzZC15eVdQNTV5ZmNhRW00YlItQ3I3eGQ0S1dBai1QS093YVpoUGJnNTdoNWl6S2FaOUpscUh4S0ZiMWNVYlVQcXFZU0N6ZHBR?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-gFBVV95cUxQMnVfTW9lYURsLVgzMWowRDI0eEMyeEJYUldTWWFwVW5KQUZhWFFtN3o5QXU0OHpPYmdBRjg2SElOYWRpZmd2aXVOOVJUUTdvQ3p2UlhibGREanNzN1NRZlZxZmNHbmJqaDBjc29YTU9lbXhUTlVtUDM3YWhKaEh3YWR1LS1wTzVCX2lDcTU5VHhkMlNMak11MW9wcmYweEVjUlFDcHRHWUx3aG",
-   "source": "SPOX.com",
-   "date": "2026-11-18T16:02:51.000Z",
-   "tags": [
-    "Gerücht",
     "Verein"
    ]
   },
   {
-   "title": "1. FC Köln: Wagner reagiert auf Trainer-Gerüchte",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOREFsYWY2TVc4Z3FrWDdpWlRYWFlQd1NnOUktb2R1eVloOERLSTBXQVZPQ1FOTEhIamltc0JRZEtzVnloaERPYmtTLUw1Q0ZTMXVTZlZGRWN1T0JMODdhZmRvaWJvNHM3dHo4d1h4TTRhZXpQNHZDcmIxOUtEamZuTFg3a2dPMDBCNHZQUElEUGlveGEwOWRj?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOREFsYWY2TVc4Z3FrWDdpWlRYWFlQd1NnOUktb2R1eVloOERLSTBXQVZPQ1FOTEhIamltc0JRZEtzVnloaERPYmtTLUw1Q0ZTMXVTZlZGRWN1T0JMODdhZmRvaWJvNHM3dHo4d1h4TTRhZXpQNHZDcmIxOUtEamZuTFg3a2dPMDBCNHZQUElEUGlveGEwOWRj?oc=5\" target=\"_blank\">1. ",
-   "source": "Fussball Transfers",
-   "date": "2026-11-18T15:51:41.000Z",
+   "title": "Kaminski-Rückkehr eine Option? Wagner „von seiner Qualität überzeugt“",
+   "link": "https://geissblog.koeln/2026/11/kaminski-rueckkehr-eine-option-wagner-von-seiner-qualitaet-ueberzeugt/",
+   "summary": "Jakub Kamiński kommt in Portugal bislang nicht zurecht. Nun gibt es Gerüchte um eine Rückkehr zum 1. FC Köln. Trainer René Wagner schätzt den polnischen... Der Beitrag Kaminski-Rückkehr eine Option? Wagner „von seiner Qualität überzeugt“ erschien zuerst auf GEISSBLOG .",
+   "source": "GEISSBLOG",
+   "date": "2026-11-18T17:00:00.000Z",
    "tags": [
     "Gerücht",
-    "Verein"
-   ]
-  },
-  {
-   "title": "Kompanys Rückkehr steht gegen Köln bevor – Bayern-Trainer spricht auf Pressekonferenz",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNVAwc3JTMXhIY0hZWk9tQWJTd3dfQUd4dEVBVjVwQjhpUzhSMmd4YXNXb1JEd2tRbTd6WEZVcU85aVQtZ0hPMzRqQ2VsenhXUXRuc3JySGl2bWhHWTh1ZHZCdS0tZDFUaktiZ3RXMV9SbmJjM1hzR0pyRDJDa3pONkRTMXcyX3FTTm54V2hvRnFrMS1pUmNYaUllUU9BMlF1QW43bzZUQVVnUi03c0FmTWJRRWNnUGhySnpOcDhMVlMteTlPdWUzVg?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNVAwc3JTMXhIY0hZWk9tQWJTd3dfQUd4dEVBVjVwQjhpUzhSMmd4YXNXb1JEd2tRbTd6WEZVcU85aVQtZ0hPMzRqQ2VsenhXUXRuc3JySGl2bWhHWTh1ZHZCdS0tZDFUaktiZ3RXMV9SbmJjM1hzR0pyRDJDa3pONkRTMXcyX3FTTm54V2hvRnFrMS1pUmNYaUllUU9BMlF1QW43bzZUQVVnUi",
-   "source": "Transfermarkt",
-   "date": "2026-11-18T14:43:00.000Z",
-   "tags": [
     "Personal",
-    "Verein"
-   ]
-  },
-  {
-   "title": "FC Bayern München: Trainer Kompany vor Rückkehr gegen Köln - Video",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOSFhfb3NELUNzUTlOLXllNVF0aHkzWUJJN2RlcFZBUXEtUWlGd2llcXQ2MnVUQnVFdDdTaTdnRmJKZ3lmTWFhLTNKZTJ4V3JpMXE3cTRTLTJObGRSMTBrc215LWRxNEVjOUwxdmtiSnVwb2ROM0lfb1RRb3o4TV9pRTM4R1BBM09HQlZFekQtRGQ2blFwZk9iN2NDQWl0R3JVcTdNWXdmYzlnWDUwQmpIbjNxZTdTN19ZWWVMQVEzajlPeVdVN1RfREp3?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxOSFhfb3NELUNzUTlOLXllNVF0aHkzWUJJN2RlcFZBUXEtUWlGd2llcXQ2MnVUQnVFdDdTaTdnRmJKZ3lmTWFhLTNKZTJ4V3JpMXE3cTRTLTJObGRSMTBrc215LWRxNEVjOUwxdmtiSnVwb2ROM0lfb1RRb3o4TV9pRTM4R1BBM09HQlZFekQtRGQ2blFwZk9iN2NDQWl0R3JVcTdNWXdmYzlnWD",
-   "source": "WELT",
-   "date": "2026-11-18T14:35:18.000Z",
-   "tags": [
-    "Personal",
-    "Verein"
-   ]
-  },
-  {
-   "title": "Köln-Coach Wagner zu Toppmöller-Gerüchten: \"Da spüre ich gar nichts\"",
-   "link": "https://www.kicker.de/koeln-coach-wagner-zu-toppmoeller-geruechten-da-spuere-ich-gar-nichts-1272684/video#omrss",
-   "summary": "Köln-Trainer René Wagner spricht auf der Pressekonferenz vor dem Spiel gegen den FC Bayern München über die aktuellen Gerüchte rund um Dino Toppmöller und wie man auftreten muss, um gegen die Bayern etwas mitzunehmen.",
-   "source": "kicker",
-   "date": "2026-11-18T13:41:14.000Z",
-   "tags": [
-    "Gerücht",
     "Verein"
    ]
   }

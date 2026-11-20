@@ -1,6 +1,6 @@
 window.FUPPES_DATA = window.FUPPES_DATA || {};
 window.FUPPES_DATA["spielinfo"] = {
- "updated": "2026-11-19T22:59:12.217Z",
+ "updated": "2026-11-20T01:23:11.730Z",
  "fc": [
   {
    "start": "2025-11-22T17:30:00.000Z",
@@ -1909,13 +1909,6 @@ window.FUPPES_DATA["spielinfo"] = {
    "source": "Bundesliga | official website",
    "date": "2018-12-22T14:42:03.000Z",
    "matchday": 10
-  },
-  {
-   "title": "Die Schiedsrichter-Ansetzungen am 11. Spieltag",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZGh2RkFDSUF6YnNNQkRIOWRLLVVtQzZuTDVoa1VELWNIbVV2V2tZdS1iTUVfcW1tckdwbU1hY18xM01mc3g3TzFRTWFDVkdrXzR1MzgwTm95cGJPWEgzUGRPOXdKeFdwMy1TZHhMV3k4NXd6MkZnZ2duQ2hCSmlWM09vaEpaNzdYTldfcUVlR0hCSmRFOTNuT0huZUtFX0It?oc=5",
-   "source": "Bundesliga | official website",
-   "date": "2026-11-05T08:00:00.000Z",
-   "matchday": 11
   }
  ]
 };
