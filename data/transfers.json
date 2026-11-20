@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T13:28:15.544Z",
+ "updated": "2026-11-20T15:08:28.258Z",
  "rules": {
   "minFeeMio": 20,
   "topClubs": [
@@ -42,6 +42,20 @@
   ]
  },
  "items": [
+  {
+   "title": "BVB: Inácio durchkreuzt Transferplan",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQcm43dkxMZ1ZLM2NUSVhEVEZsa2RmQTJJb2lJc0dvVzg4dzF0MUk4a1NyaF8zYjVmQ0l0N0tPM29zNzNTVHFGNFlKal94VnB4d0R6TDZDM1R5RjNKYTljUUxJaGJhRjJ2NklCcmRYM0hDb3pfR2VZaUtBSUhWSkRYWktGdkliaXVSY1BsMDhndjZJdkJM?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQcm43dkxMZ1ZLM2NUSVhEVEZsa2RmQTJJb2lJc0dvVzg4dzF0MUk4a1NyaF8zYjVmQ0l0N0tPM29zNzNTVHFGNFlKal94VnB4d0R6TDZDM1R5RjNKYTljUUxJaGJhRjJ2NklCcmRYM0hDb3pfR2VZaUtBSUhWSkRYWktGdkliaXVSY1BsMDhndjZJdkJM?oc=5\" target=\"_blank\">BVB: In",
+   "source": "Fussball Transfers",
+   "date": "2026-11-20T13:29:27.000Z",
+   "fee": null,
+   "clubs": [
+    "BVB"
+   ],
+   "tags": [
+    "Transfer"
+   ]
+  },
   {
    "title": "FC Bayern: Ibrahimovic bereut Wechsel zum FC Augsburg überhaupt nicht",
    "link": "https://www.transfermarkt.de/ibrahimovic-bereut-bayern-abschied-uberhaupt-nicht-quot-augsburg-schon-4-leihstation/view/news/490958",
@@ -200,6 +214,20 @@
    ]
   },
   {
+   "title": "FC Bayern trifft klare Transfer-Entscheidung | Frische Infos!",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQME9OQ2stZkxaRG01bmk4Um9xUzdQOEl2S1dSWFc2bXN3eUF4ZHZTaXM4WjlyQy1CNVhYVHJDUjdfWDFDNHQtN25mQXZ0QWRFVnpsSjZCbDJIWVhmdGoyWHFXaHVSMXBQSlpOcUpnbUhJWUdFdm84cDFoUlY2RGU5bE9aZGJHeHNrNWdPeXc0bm0xTnNMWjFYa2wtQnhCanFxRVNMbEJyUHJFbFRYZDVQaUl2OVFPNm1xdlJ2TnQ4d29hcnhjVTdUVWhwZUdyRmNyaWdB?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxQME9OQ2stZkxaRG01bmk4Um9xUzdQOEl2S1dSWFc2bXN3eUF4ZHZTaXM4WjlyQy1CNVhYVHJDUjdfWDFDNHQtN25mQXZ0QWRFVnpsSjZCbDJIWVhmdGoyWHFXaHVSMXBQSlpOcUpnbUhJWUdFdm84cDFoUlY2RGU5bE9aZGJHeHNrNWdPeXc0bm0xTnNMWjFYa2wtQnhCanFxRVNMbEJyUHJFbF",
+   "source": "Sport Bild",
+   "date": "2026-11-19T18:20:14.000Z",
+   "fee": null,
+   "clubs": [
+    "Bayern"
+   ],
+   "tags": [
+    "Transfer"
+   ]
+  },
+  {
    "title": "Kein Drei-Millionen-Deal: An Ivanišević-Wechsel zum VfB ist nichts dran",
    "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQWHdjcDBVZWFfeEZvbUVubHZxV3RxeU5SWGVndFE5UVFxX0hyY0dQMFIwNnQ0dVVNSXYyZXVSNGNwaWxsQWNkUzVrSjhpdUY4TklYWnZBOEFrcGc4VEIxNFZtM2h5b3ZpQTVyeFg4TG45b2FMaXl4V2FydF9xeFZQRDJ0WVE2cV96cHpnNUtZZ1l3MEtGbF9nVFRiMkoyWWNCaUtodXZXT2lIRkR2U2ZkbS1uT3F6VVJONXl5Q3BRNmxpTjRYMGoyUTdFc3JCTEs3UmZyNkdad0RVSTRYeWRvbjJZU01mUUZNRHI3Sk45aVF1VW5lcVMyek9lZUxUcllQYkRkYw?oc=5",
    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAJBVV95cUxQWHdjcDBVZWFfeEZvbUVubHZxV3RxeU5SWGVndFE5UVFxX0hyY0dQMFIwNnQ0dVVNSXYyZXVSNGNwaWxsQWNkUzVrSjhpdUY4TklYWnZBOEFrcGc4VEIxNFZtM2h5b3ZpQTVyeFg4TG45b2FMaXl4V2FydF9xeFZQRDJ0WVE2cV96cHpnNUtZZ1l3MEtGbF9nVFRiMkoyWWNCaUtodXZXT2lIRk",
@@ -243,34 +271,6 @@
    ]
   },
   {
-   "title": "FC Bayern sagt Risser ab – Transferplan sieht anders aus",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNT2d0NmtjNlB1YzVKVTkxMWxvbkZ6TmRQU3o4YXhLTmk0Qm1YRGw0SHRaemxMS2JMc0prZnUtMEo3dldUcHNCUWI5d2pxUXhBZExzc0NYRElKN0QxRzEzemdVTVNtWTROaDF3SUd5QzlmNzNiQmtVMlY2MmlUVHBnUVNxU21kU2FZTk9lOXVUNA?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNT2d0NmtjNlB1YzVKVTkxMWxvbkZ6TmRQU3o4YXhLTmk0Qm1YRGw0SHRaemxMS2JMc0prZnUtMEo3dldUcHNCUWI5d2pxUXhBZExzc0NYRElKN0QxRzEzemdVTVNtWTROaDF3SUd5QzlmNzNiQmtVMlY2MmlUVHBnUVNxU21kU2FZTk9lOXVUNA?oc=5\" target=\"_blank\">FC Bayern sag",
-   "source": "fussballdaten.de",
-   "date": "2026-11-19T15:52:00.000Z",
-   "fee": null,
-   "clubs": [
-    "Bayern"
-   ],
-   "tags": [
-    "Transfer"
-   ]
-  },
-  {
-   "title": "Spannendes Profil für die Bayern: Leno könnte sich Wechsel vorstellen",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbTdUTUg5aWpKNnVpVF9scmpja0dMR3BTcHpDc2JTNERnLTl3THd5UXhPeWhScDFHNTh5YzhGNkFnVFZleTY1MHAtQ1BTazhCOGxGMXZremZEbHdVY2tTN0FuMzVtYURESnRXaUxOVVdRYkU1TFBFR0NVYm5ubXNJVGxzWjZtRkR4RVp0dDZvU1ZMTi1qenc4WU9RaGdnMUI3VFVCOU9BV2pPdE1HSW41WVlRXzVnZm56ak1PM2w0OXU?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbTdUTUg5aWpKNnVpVF9scmpja0dMR3BTcHpDc2JTNERnLTl3THd5UXhPeWhScDFHNTh5YzhGNkFnVFZleTY1MHAtQ1BTazhCOGxGMXZremZEbHdVY2tTN0FuMzVtYURESnRXaUxOVVdRYkU1TFBFR0NVYm5ubXNJVGxzWjZtRkR4RVp0dDZvU1ZMTi1qenc4WU9RaGdnMUI3VFVCOU9BV2pPdE",
-   "source": "Sky.de",
-   "date": "2026-11-19T15:13:00.000Z",
-   "fee": null,
-   "clubs": [
-    "Bayern"
-   ],
-   "tags": [
-    "Transfer"
-   ]
-  },
-  {
    "title": "FC Barcelona arbeitet im Hintergrund an einem spektakulären Transfer",
    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQbDRwVlhlX1otck5xdlp6dXh4ZGF4S3hBaTFLSnNDNHRDRVZJUEVLYVJsUTRZOEJnbEs3cXozZ1lKcktlb2EwN1RVTjFLNUxwRVJNT2haZ1Y3UEZHaklDYzQ2aG9WeG1IV2ZWd3k1SDl3LXFZYzc3aHBjbm9UOFpHSDVQLTRab2xRRFBNVVNoOGd5STBiSkFEQnh4d1hIUWxTUzZ5UHBWbmVhbHhHLW5PWTdqYzVDV0NKbjE5RzdMSk11c2M4WW44THBQNUdYYVJmMHBiOUpTcnY0T1JwRHBfUVhUVENnb25ldWc?oc=5",
    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxQbDRwVlhlX1otck5xdlp6dXh4ZGF4S3hBaTFLSnNDNHRDRVZJUEVLYVJsUTRZOEJnbEs3cXozZ1lKcktlb2EwN1RVTjFLNUxwRVJNT2haZ1Y3UEZHaklDYzQ2aG9WeG1IV2ZWd3k1SDl3LXFZYzc3aHBjbm9UOFpHSDVQLTRab2xRRFBNVVNoOGd5STBiSkFEQnh4d1hIUWxTUzZ5UHBWbmVhbH",
@@ -282,21 +282,6 @@
    ],
    "tags": [
     "Transfer"
-   ]
-  },
-  {
-   "title": "40-Millionen-Transfer des FC Bayern schießt Heimatklub zum Titel – Nationaltrainer nach Karriereende?",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWlhaRFhfVTB0YzNtSXBfenNpNlBFTFhUeGlUYjNCeVVPUU8xWlp6LXZXemhPTTVKQlJEU1lqaUY4TmhDZ011dks5SEhkRDFWdnhZQW1MUl9iT2FKR0R0NHJ1NUxlWTRRMG8yTWhvandLVmRxeDFyY25GNXhVd2tOQXBRTXdUY2FiZUVOSW5lSGtRbDUzRkJONmRzWWw0OHprOGR1WjBMQkZjeS1G?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPWlhaRFhfVTB0YzNtSXBfenNpNlBFTFhUeGlUYjNCeVVPUU8xWlp6LXZXemhPTTVKQlJEU1lqaUY4TmhDZ011dks5SEhkRDFWdnhZQW1MUl9iT2FKR0R0NHJ1NUxlWTRRMG8yTWhvandLVmRxeDFyY25GNXhVd2tOQXBRTXdUY2FiZUVOSW5lSGtRbDUzRkJONmRzWWw0OHprOGR1WjBMQkZjeS",
-   "source": "TZ",
-   "date": "2026-11-19T14:25:10.000Z",
-   "fee": null,
-   "clubs": [
-    "Bayern"
-   ],
-   "tags": [
-    "Gerücht",
-    "Verein"
    ]
   },
   {
@@ -373,17 +358,33 @@
    ]
   },
   {
-   "title": "Erstmals seit 12 Jahren: BVB plant seltenen Transfer",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNLS0yVXh6SV9Qa1dGaU1ka3FxMDVfV2VhVkNobzNvN0pQMkhkR2lDRzBOb3RuMzBCTTZIUEI4Wkl5V2FSLTBCMGxmVzRjRXVfcFc0NGFVcWNVS19nb3cwLXp3UVJZN0VDcFBuMFNHbFNzZ3IybjZYeHhFMGF1TWF6N3Azb0FWUEpTbFVMNW9qbw?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNLS0yVXh6SV9Qa1dGaU1ka3FxMDVfV2VhVkNobzNvN0pQMkhkR2lDRzBOb3RuMzBCTTZIUEI4Wkl5V2FSLTBCMGxmVzRjRXVfcFc0NGFVcWNVS19nb3cwLXp3UVJZN0VDcFBuMFNHbFNzZ3IybjZYeHhFMGF1TWF6N3Azb0FWUEpTbFVMNW9qbw?oc=5\" target=\"_blank\">Erstmals seit",
-   "source": "fussballdaten.de",
-   "date": "2026-11-19T09:10:00.000Z",
+   "title": "Medien: VfB Stuttgart verpflichtet Nationalspieler",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONEZEd29oMko4ZGg2SVB2Q0IwMEdqby04SXhvX1ZzNEY4X3k4bk5sMW01ZXFfdGxpMklMM29zRTNONEhvdmpCN3M0SUJmakpNTTlnZ2dvdDhtTTR6RkJZRTJEd3p5RGJGUkVreVAydFVFamxXYllhVVJnS3lXM28wejNJcEh1d2VBUmF2cmJWcExSbUs4YU5qNG9B?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxONEZEd29oMko4ZGg2SVB2Q0IwMEdqby04SXhvX1ZzNEY4X3k4bk5sMW01ZXFfdGxpMklMM29zRTNONEhvdmpCN3M0SUJmakpNTTlnZ2dvdDhtTTR6RkJZRTJEd3p5RGJGUkVreVAydFVFamxXYllhVVJnS3lXM28wejNJcEh1d2VBUmF2cmJWcExSbUs4YU5qNG9B?oc=5\" target=\"_blank\"",
+   "source": "Fussball Transfers",
+   "date": "2026-11-19T08:46:24.000Z",
    "fee": null,
    "clubs": [
-    "BVB"
+    "Stuttgart",
+    "VfB"
    ],
    "tags": [
-    "Transfer"
+    "Fix"
+   ]
+  },
+  {
+   "title": "Barça-Boss heizt Gerüchte um BVB-Star Schlotterbeck an",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNb3l5V1lidFplM1Vod2dRX1Rzak1SVkROenJFcmdjUUJyREFNNEhtTkNIdEp1ODd5YVUxclNISmh6RDlSUlpSa2o4QnA4dnVzOER6cWstVzZlTnd1Rmd4YURhQ3ZwRnJwem5PVXNOZlJRcnhmeW9VeTdka084ZEtWd3VoeU9jUHB0MGMybA?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNb3l5V1lidFplM1Vod2dRX1Rzak1SVkROenJFcmdjUUJyREFNNEhtTkNIdEp1ODd5YVUxclNISmh6RDlSUlpSa2o4QnA4dnVzOER6cWstVzZlTnd1Rmd4YURhQ3ZwRnJwem5PVXNOZlJRcnhmeW9VeTdka084ZEtWd3VoeU9jUHB0MGMybA?oc=5\" target=\"_blank\">Barça-Boss heizt ",
+   "source": "fussballdaten.de",
+   "date": "2026-11-19T08:10:00.000Z",
+   "fee": null,
+   "clubs": [
+    "BVB",
+    "Barça"
+   ],
+   "tags": [
+    "Gerücht"
    ]
   }
  ]

@@ -1,7 +1,18 @@
 window.FUPPES_DATA = window.FUPPES_DATA || {};
 window.FUPPES_DATA["news-fc"] = {
- "updated": "2026-11-20T13:28:14.287Z",
+ "updated": "2026-11-20T15:08:26.846Z",
  "items": [
+  {
+   "title": "Bayern-Startelf gegen den 1. FC Köln: Überrascht Kompany nach Davies-Ausfall bei der Aufstellung?",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdG1qclBVSDh6aC1xQU1mTk81VVhVN0xDNGdOVXhUMVBhbzYxeG1OcXB3UWRGS0FrUDIzR044S2xVR3c0eGtoNFhsTzctczcxdlVTcTFEalRUblhIem95MnIxTDUzRHVENHpiWGxCek81bzMwU1BKMUxzeldydzNYWVU5aElBcko4aGxYdS1mZk9Yc3Fzb0hKNUJVWjl0dVVtei05RUpVNzZodUM3cXJNRWR5WkVSbkhDaUlvNTMtSUZTMTA?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdG1qclBVSDh6aC1xQU1mTk81VVhVN0xDNGdOVXhUMVBhbzYxeG1OcXB3UWRGS0FrUDIzR044S2xVR3c0eGtoNFhsTzctczcxdlVTcTFEalRUblhIem95MnIxTDUzRHVENHpiWGxCek81bzMwU1BKMUxzeldydzNYWVU5aElBcko4aGxYdS1mZk9Yc3Fzb0hKNUJVWjl0dVVtei05RUpVNzZodU",
+   "source": "Merkur",
+   "date": "2026-11-20T13:15:00.000Z",
+   "tags": [
+    "Gerücht",
+    "Personal"
+   ]
+  },
   {
    "title": "Kompany-Rückkehr: Hier läuft FC Bayern gegen Köln heute live im TV und Stream",
    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNeVJ1SURHN09Fem1ZdmFOajlwa2dqQWpZc0Rqak12NXZYYzl2RUhscGZGVk9pRlpDQ1h6dnV0OHp2N1RWd0hiMDRmbzlHN3JDRFd2ZUJaMjVUOExhanVMdFdoeW95T3RhMFM5cUp6bGZia1U5RHBGTE45VHlzZEFNbGtlS1ZrY3RDWkMzSVhoVkRsQ3djSkwwbG1xQjhUT0xaTHM1ZEVSZWRWUV9jWXNKRjdUMjA2ODB5WlRvZFZheHBTanRoQTRleDdXS2s4ZFJzLWc?oc=5",
@@ -23,6 +34,16 @@ window.FUPPES_DATA["news-fc"] = {
    ]
   },
   {
+   "title": "Kompany-Comeback mit Ansage: „Ich habe vier Wochen gewartet“ – Bayern-Coach brennt auf das Köln-Duell",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTzVuc3BJX3Z0cFdtNzJiWUlvVnY4YVE5RTVWRUd6dEZUb3dRZUd4Z1ZCSkpKbkI4aHpnTmlQQ2pFUWppNG5sbWlGQVFwdTJxZFdzM2lTNUZmTFpJbDAtRXg4VjA2ZVR2SkVEMjhVV3hOcmg3ZTlOcVFxdDk2UUozdEplVF85Q2tlUWdhd0xHMnFCckZQVVdOV0hDRUNvc0ptQXNkazBBU2pLQjBwV08wSQ?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNTzVuc3BJX3Z0cFdtNzJiWUlvVnY4YVE5RTVWRUd6dEZUb3dRZUd4Z1ZCSkpKbkI4aHpnTmlQQ2pFUWppNG5sbWlGQVFwdTJxZFdzM2lTNUZmTFpJbDAtRXg4VjA2ZVR2SkVEMjhVV3hOcmg3ZTlOcVFxdDk2UUozdEplVF85Q2tlUWdhd0xHMnFCckZQVVdOV0hDRUNvc0ptQXNkazBBU2pLQj",
+   "source": "TZ",
+   "date": "2026-11-20T08:25:46.000Z",
+   "tags": [
+    "Personal"
+   ]
+  },
+  {
    "title": "Die Krönung eines Transfer-Coups? Nur dank Ex-Star konnte der FC El Mala halten!",
    "link": "https://geissblog.koeln/2026/11/doppelter-transfer-coup-nur-wegen-ihm-konnte-der-fc-el-mala-halten/",
    "summary": "Die Leihe von Jakub Kaminski mit anschließender fester Verpflichtung und Weiterverkauf zu Benfica Lissabon war bislang wohl Thomas Kesslers größter Transfer-Coup beim 1. FC Köln.... Der Beitrag Die Krönung eines Transfer-Coups? Nur dank Ex-Star konnte der FC El Mala halten! ersch",
@@ -31,17 +52,6 @@ window.FUPPES_DATA["news-fc"] = {
    "tags": [
     "Gerücht",
     "Leihe"
-   ]
-  },
-  {
-   "title": "Bayern-Startelf gegen den 1. FC Köln: Überrascht Kompany nach Davies-Ausfall bei der Aufstellung?",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdG1qclBVSDh6aC1xQU1mTk81VVhVN0xDNGdOVXhUMVBhbzYxeG1OcXB3UWRGS0FrUDIzR044S2xVR3c0eGtoNFhsTzctczcxdlVTcTFEalRUblhIem95MnIxTDUzRHVENHpiWGxCek81bzMwU1BKMUxzeldydzNYWVU5aElBcko4aGxYdS1mZk9Yc3Fzb0hKNUJVWjl0dVVtei05RUpVNzZodUM3cXJNRWR5WkVSbkhDaUlvNTMtSUZTMTA?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdG1qclBVSDh6aC1xQU1mTk81VVhVN0xDNGdOVXhUMVBhbzYxeG1OcXB3UWRGS0FrUDIzR044S2xVR3c0eGtoNFhsTzctczcxdlVTcTFEalRUblhIem95MnIxTDUzRHVENHpiWGxCek81bzMwU1BKMUxzeldydzNYWVU5aElBcko4aGxYdS1mZk9Yc3Fzb0hKNUJVWjl0dVVtei05RUpVNzZodU",
-   "source": "Merkur",
-   "date": "2026-11-19T19:15:36.000Z",
-   "tags": [
-    "Gerücht",
-    "Personal"
    ]
   },
   {
@@ -127,17 +137,6 @@ window.FUPPES_DATA["news-fc"] = {
    ]
   },
   {
-   "title": "Comeback gegen Köln? Kompany-Entscheidung gefallen!",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9hWURwaUVsWVdkX3pmZ0l1TUxyUlVmaEx3cEtDRkpkQlVHSm44Qk51akFtMVpld3daRzd3WGU3Z3pGTXVGZ3hpQVI1YUJHWmk1Tl9KbE9jb191Q3dMZkRwMDVqREtmSTh6SU9Ydzd6R083eGR0dHd0RDdn?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE9hWURwaUVsWVdkX3pmZ0l1TUxyUlVmaEx3cEtDRkpkQlVHSm44Qk51akFtMVpld3daRzd3WGU3Z3pGTXVGZ3hpQVI1YUJHWmk1Tl9KbE9jb191Q3dMZkRwMDVqREtmSTh6SU9Ydzd6R083eGR0dHd0RDdn?oc=5\" target=\"_blank\">Comeback gegen Köln? Kompany-Entscheidung g",
-   "source": "90min.de",
-   "date": "2026-11-19T07:08:23.000Z",
-   "tags": [
-    "Gerücht",
-    "Personal"
-   ]
-  },
-  {
    "title": "Kompany-Comeback freut Köln-Trainer Wagner \"ungemein\"",
    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMzhIQ01uSFJkRVZ6dUtfOVJfd196UVVmR2o3cDFTTUpQYXEyRHVUX3pfblRNTkdhbEhVOEdQV3NsN3EtWjNycmVRTWZKWldkelJhdVQ5VDFlbHJjU3ZxcDZVZVhWT0tRNnZhUnp0bzhLXzVINU9ablg3UGV4SDdWb00yUVlRdHB5cEJ6MEFXNzJzaVl4TlNhSnFfT1ZZM2pDUjVHVzJoMEk1OF9reEhtTWlXX1g3a2paQUlLUHR3V3E0OGx0WVI3dw?oc=5",
    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMzhIQ01uSFJkRVZ6dUtfOVJfd196UVVmR2o3cDFTTUpQYXEyRHVUX3pfblRNTkdhbEhVOEdQV3NsN3EtWjNycmVRTWZKWldkelJhdVQ5VDFlbHJjU3ZxcDZVZVhWT0tRNnZhUnp0bzhLXzVINU9ablg3UGV4SDdWb00yUVlRdHB5cEJ6MEFXNzJzaVl4TlNhSnFfT1ZZM2pDUjVHVzJoMEk1OF",
@@ -180,18 +179,6 @@ window.FUPPES_DATA["news-fc"] = {
    ]
   },
   {
-   "title": "Kaminski-Rückkehr eine Option? Wagner „von seiner Qualität überzeugt“",
-   "link": "https://geissblog.koeln/2026/11/kaminski-rueckkehr-eine-option-wagner-von-seiner-qualitaet-ueberzeugt/",
-   "summary": "Jakub Kamiński kommt in Portugal bislang nicht zurecht. Nun gibt es Gerüchte um eine Rückkehr zum 1. FC Köln. Trainer René Wagner schätzt den polnischen... Der Beitrag Kaminski-Rückkehr eine Option? Wagner „von seiner Qualität überzeugt“ erschien zuerst auf GEISSBLOG .",
-   "source": "GEISSBLOG",
-   "date": "2026-11-18T17:00:00.000Z",
-   "tags": [
-    "Gerücht",
-    "Personal",
-    "Verein"
-   ]
-  },
-  {
    "title": "1. FC Köln: Wagner reagiert auf Trainer-Gerüchte",
    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOREFsYWY2TVc4Z3FrWDdpWlRYWFlQd1NnOUktb2R1eVloOERLSTBXQVZPQ1FOTEhIamltc0JRZEtzVnloaERPYmtTLUw1Q0ZTMXVTZlZGRWN1T0JMODdhZmRvaWJvNHM3dHo4d1h4TTRhZXpQNHZDcmIxOUtEamZuTFg3a2dPMDBCNHZQUElEUGlveGEwOWRj?oc=5",
    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOREFsYWY2TVc4Z3FrWDdpWlRYWFlQd1NnOUktb2R1eVloOERLSTBXQVZPQ1FOTEhIamltc0JRZEtzVnloaERPYmtTLUw1Q0ZTMXVTZlZGRWN1T0JMODdhZmRvaWJvNHM3dHo4d1h4TTRhZXpQNHZDcmIxOUtEamZuTFg3a2dPMDBCNHZQUElEUGlveGEwOWRj?oc=5\" target=\"_blank\">1. ",
@@ -210,6 +197,17 @@ window.FUPPES_DATA["news-fc"] = {
    "date": "2026-11-18T14:43:00.000Z",
    "tags": [
     "Personal",
+    "Verein"
+   ]
+  },
+  {
+   "title": "Köln-Coach Wagner zu Toppmöller-Gerüchten: \"Da spüre ich gar nichts\"",
+   "link": "https://www.kicker.de/koeln-coach-wagner-zu-toppmoeller-geruechten-da-spuere-ich-gar-nichts-1272684/video#omrss",
+   "summary": "Köln-Trainer René Wagner spricht auf der Pressekonferenz vor dem Spiel gegen den FC Bayern München über die aktuellen Gerüchte rund um Dino Toppmöller und wie man auftreten muss, um gegen die Bayern etwas mitzunehmen.",
+   "source": "kicker",
+   "date": "2026-11-18T13:41:14.000Z",
+   "tags": [
+    "Gerücht",
     "Verein"
    ]
   }
