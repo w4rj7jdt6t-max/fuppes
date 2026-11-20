@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T21:02:01.395Z",
+ "updated": "2026-11-20T22:58:47.862Z",
  "rules": {
   "minFeeMio": 20,
   "topClubs": [
@@ -43,17 +43,18 @@
  },
  "items": [
   {
-   "title": "\"Großartiger Anführer\" Groß verlängert in Brighton",
-   "link": "https://www.kicker.de/grossartiger-anfuehrer-gross-verlaengert-in-brighton-1273320/artikel#omrss",
-   "summary": "Nach seinem Intermezzo bei Borussia Dortmund ist Pascal Groß zu Brighton & Hove Albion zurückgekehrt - und spielt, als wäre er nie weg gewesen. Nun hat der 35 Jahre alte Mittelfeldspieler seinen Vertrag bis 2028 verlängert.",
+   "title": "\"Kann mir nicht vorstellen, dass irgendein Verein Musiala unter diesen Voraussetzungen kaufen wird\"",
+   "link": "https://www.kicker.de/kann-mir-nicht-vorstellen-dass-irgendein-verein-musiala-unter-diesen-voraussetzungen-kaufen-wird-1273374/artikel#omrss",
+   "summary": "Beim 1:1 des FC Bayern München gegen den 1. FC Köln feierte Jamal Musiala sein Comeback nach wochenlangem Ausfall. Nach dem Spiel trat Karl-Heinz Rummenigge, Aufsichtsratsmitglied beim Rekordmeister, ans Mikrofon und äußerte sich zur Vertragssituation des Nationalspielers.",
    "source": "kicker",
-   "date": "2026-11-20T18:30:53.000Z",
+   "date": "2026-11-20T22:33:00.000Z",
    "fee": null,
    "clubs": [
-    "Dortmund"
+    "Bayern"
    ],
    "tags": [
-    "Vertrag"
+    "Vertrag",
+    "Personal"
    ]
   },
   {
@@ -85,6 +86,22 @@
    ]
   },
   {
+   "title": "FC Bayern plant offenbar überraschenden Transfer-Coup – Star von Inter Mailand im Anflug?",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSUttajgyYUFpUC1RMkoxSXlhRWVkZktKWVptQldDNjcxeWxFNHE0bmdnSC1xQzJUcW9ZWVBhZV96SDNZQTBWakJQdEpyS0pXYkM1V0htLW9RSDRROTh5NXpvaXQ1aERqNkNra25Ta20zd053OFJPQTROT3hGUVVwM0hDelpZUzg4ZExYcklrMWI4QjBpaUczeDg3dm5ZOVRvRnFuYl9BbzJ6WnBfb2dnVw?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNSUttajgyYUFpUC1RMkoxSXlhRWVkZktKWVptQldDNjcxeWxFNHE0bmdnSC1xQzJUcW9ZWVBhZV96SDNZQTBWakJQdEpyS0pXYkM1V0htLW9RSDRROTh5NXpvaXQ1aERqNkNra25Ta20zd053OFJPQTROT3hGUVVwM0hDelpZUzg4ZExYcklrMWI4QjBpaUczeDg3dm5ZOVRvRnFuYl9BbzJ6Wn",
+   "source": "Merkur",
+   "date": "2026-11-20T16:25:23.000Z",
+   "fee": null,
+   "clubs": [
+    "Bayern",
+    "Inter Mailand",
+    "Inter"
+   ],
+   "tags": [
+    "Gerücht"
+   ]
+  },
+  {
    "title": "BVB: Inácio durchkreuzt Transferplan",
    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQcm43dkxMZ1ZLM2NUSVhEVEZsa2RmQTJJb2lJc0dvVzg4dzF0MUk4a1NyaF8zYjVmQ0l0N0tPM29zNzNTVHFGNFlKal94VnB4d0R6TDZDM1R5RjNKYTljUUxJaGJhRjJ2NklCcmRYM0hDb3pfR2VZaUtBSUhWSkRYWktGdkliaXVSY1BsMDhndjZJdkJM?oc=5",
    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQcm43dkxMZ1ZLM2NUSVhEVEZsa2RmQTJJb2lJc0dvVzg4dzF0MUk4a1NyaF8zYjVmQ0l0N0tPM29zNzNTVHFGNFlKal94VnB4d0R6TDZDM1R5RjNKYTljUUxJaGJhRjJ2NklCcmRYM0hDb3pfR2VZaUtBSUhWSkRYWktGdkliaXVSY1BsMDhndjZJdkJM?oc=5\" target=\"_blank\">BVB: In",
@@ -110,20 +127,6 @@
    ],
    "tags": [
     "Gerücht"
-   ]
-  },
-  {
-   "title": "FC Bayern: Ibrahimovic bereut Wechsel zum FC Augsburg überhaupt nicht",
-   "link": "https://www.transfermarkt.de/ibrahimovic-bereut-bayern-abschied-uberhaupt-nicht-quot-augsburg-schon-4-leihstation/view/news/490958",
-   "summary": "Arijon Ibrahimovic ist angesichts der Konkurrenzsituation beim FC Bayern auf Leihbasis zum FC Augsburg gewechselt und mit diesem Schritt auch im Nachgang im Reinen. Dabei hatte der 20 Jahre alte...",
-   "source": "Transfermarkt",
-   "date": "2026-11-20T13:09:21.000Z",
-   "fee": null,
-   "clubs": [
-    "Bayern"
-   ],
-   "tags": [
-    "Fix"
    ]
   },
   {
@@ -242,6 +245,20 @@
    ]
   },
   {
+   "title": "Schock um BVB-Flirt: Jetzt wackelt der Winter-Transfer",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNUFoZEpwOExaR1c4TFNLaFNGVnV4d05lODFHdnJnSER2M1NnT2tDTzdJUDBvUVRLLVd0TzhteTFiRVYwTHhOUkVKaHdDSkVYUmNrUHd2QW5jc3BySndTaXBSbXQxZXRCaXM2MmJnTmIwZGZyT3V5UHNzaFUxUElfZXcyM1JPNHZvUGww?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNUFoZEpwOExaR1c4TFNLaFNGVnV4d05lODFHdnJnSER2M1NnT2tDTzdJUDBvUVRLLVd0TzhteTFiRVYwTHhOUkVKaHdDSkVYUmNrUHd2QW5jc3BySndTaXBSbXQxZXRCaXM2MmJnTmIwZGZyT3V5UHNzaFUxUElfZXcyM1JPNHZvUGww?oc=5\" target=\"_blank\">Schock um BVB-Flirt",
+   "source": "Frühes-Tor.de",
+   "date": "2026-11-20T07:05:47.000Z",
+   "fee": null,
+   "clubs": [
+    "BVB"
+   ],
+   "tags": [
+    "Transfer"
+   ]
+  },
+  {
    "title": "Bayern-Bosse legen Transferstopp für den Winter fest",
    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOclRabTY0NHR5OTR0LVlQLXJhT2s5dVh0bXBlQ2pVUVNuSzRsWU02XzFZMy1VU1BZY196dFBLMy1ZblVjeVZxaEp3MVJrTk5QQjZxRmN2R1AwQjNHUm90dlhHdDlMc0ExSGJyWTRja0JOY0VXdGFBZXBmWXB0YzJLMEdHZmc0azIwbFlXOFJqbmR4SmRGcEJkZlR4Rlh4QVg4cnB3LUtraWFndjJvUUpOYmMwcmlvWWF1OTRoU21CWDY4SjBZWkZSdXBxOA?oc=5",
    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxOclRabTY0NHR5OTR0LVlQLXJhT2s5dVh0bXBlQ2pVUVNuSzRsWU02XzFZMy1VU1BZY196dFBLMy1ZblVjeVZxaEp3MVJrTk5QQjZxRmN2R1AwQjNHUm90dlhHdDlMc0ExSGJyWTRja0JOY0VXdGFBZXBmWXB0YzJLMEdHZmc0azIwbFlXOFJqbmR4SmRGcEJkZlR4Rlh4QVg4cnB3LUtraWFndj",
@@ -267,35 +284,6 @@
    ],
    "tags": [
     "Transfer"
-   ]
-  },
-  {
-   "title": "Konkurrenz klopft an: BVB droht ablösefreier Verlust von Talent Hoy",
-   "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPSXB1dVhhbHhLLVZJMWJZSjRxcmtCWVhoNDNZay1NVWhuMjNxOHpFS21ZSXNxZzFudXAyRVZQUnBUajJsQWRZcEhYMDZURmd5ekh3WWQyTE5TcTZYNU1sbjMybzItd28tSFdmY0dfZHo2R2VlbHJyRldQQzRtaXJ6eXdtbk5nVG5GS2p3YzlLN1N1LVBnSlpERmZUQjEwUk5lc0RCZ2htUFhIczZJa1NrMktVRWZWS1RPYkpsbGtxM2NYSUZ1SXdOSjVNRlB4M2NoVVAtZnRQdHRyVkk3N2VGN1ZBZjBuOEYyZHQwaExScTM4T3VtRllNU3lhSEJ1aVN2QmVHQw?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAJBVV95cUxPSXB1dVhhbHhLLVZJMWJZSjRxcmtCWVhoNDNZay1NVWhuMjNxOHpFS21ZSXNxZzFudXAyRVZQUnBUajJsQWRZcEhYMDZURmd5ekh3WWQyTE5TcTZYNU1sbjMybzItd28tSFdmY0dfZHo2R2VlbHJyRldQQzRtaXJ6eXdtbk5nVG5GS2p3YzlLN1N1LVBnSlpERmZUQjEwUk5lc0RCZ2htUFhIcz",
-   "source": "n-tv.de",
-   "date": "2026-11-19T17:30:00.000Z",
-   "fee": null,
-   "clubs": [
-    "BVB"
-   ],
-   "tags": [
-    "Transfer"
-   ]
-  },
-  {
-   "title": "Musiala-Verkauf? Brisantes Vertragsdetail beim Bayern-Superstar",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPS3pYSDNPY2pPbGxLejBjaWRhOEpVZEt3endpVHRLVXpEOGdvRlJpZjlsejA0ZmdON1JRY0s3ODJQSEJfR1V6eFB1Tks1dEFsMmpzQ2UyQ181cGZhRW0wekZnVWxjU3p6QTJUdEFBdUo0ZnpZWWN1c1Qwbmk2X01qZHBkaDREdEc4UDF3cnlSZzBzWkd3YmNVSWpINkNXY2RkZXRpZW1uNEtmZUQzSFJFaE53?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPS3pYSDNPY2pPbGxLejBjaWRhOEpVZEt3endpVHRLVXpEOGdvRlJpZjlsejA0ZmdON1JRY0s3ODJQSEJfR1V6eFB1Tks1dEFsMmpzQ2UyQ181cGZhRW0wekZnVWxjU3p6QTJUdEFBdUo0ZnpZWWN1c1Qwbmk2X01qZHBkaDREdEc4UDF3cnlSZzBzWkd3YmNVSWpINkNXY2RkZXRpZW1uNEtmZU",
-   "source": "Sky.de",
-   "date": "2026-11-19T17:12:00.000Z",
-   "fee": null,
-   "clubs": [
-    "Bayern"
-   ],
-   "tags": [
-    "Gerücht",
-    "Vertrag"
    ]
   },
   {
@@ -383,6 +371,20 @@
    ],
    "tags": [
     "Gerücht"
+   ]
+  },
+  {
+   "title": "Erstmals seit 12 Jahren: BVB plant seltenen Transfer",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNLS0yVXh6SV9Qa1dGaU1ka3FxMDVfV2VhVkNobzNvN0pQMkhkR2lDRzBOb3RuMzBCTTZIUEI4Wkl5V2FSLTBCMGxmVzRjRXVfcFc0NGFVcWNVS19nb3cwLXp3UVJZN0VDcFBuMFNHbFNzZ3IybjZYeHhFMGF1TWF6N3Azb0FWUEpTbFVMNW9qbw?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNLS0yVXh6SV9Qa1dGaU1ka3FxMDVfV2VhVkNobzNvN0pQMkhkR2lDRzBOb3RuMzBCTTZIUEI4Wkl5V2FSLTBCMGxmVzRjRXVfcFc0NGFVcWNVS19nb3cwLXp3UVJZN0VDcFBuMFNHbFNzZ3IybjZYeHhFMGF1TWF6N3Azb0FWUEpTbFVMNW9qbw?oc=5\" target=\"_blank\">Erstmals seit",
+   "source": "fussballdaten.de",
+   "date": "2026-11-19T09:10:00.000Z",
+   "fee": null,
+   "clubs": [
+    "BVB"
+   ],
+   "tags": [
+    "Transfer"
    ]
   }
  ]

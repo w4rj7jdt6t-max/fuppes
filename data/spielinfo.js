@@ -1,6 +1,6 @@
 window.FUPPES_DATA = window.FUPPES_DATA || {};
 window.FUPPES_DATA["spielinfo"] = {
- "updated": "2026-11-20T21:02:01.914Z",
+ "updated": "2026-11-20T22:58:48.437Z",
  "fc": [
   {
    "start": "2025-11-22T17:30:00.000Z",
@@ -1620,7 +1620,7 @@ window.FUPPES_DATA["spielinfo"] = {
   },
   {
    "start": "2026-11-20T19:30:00.000Z",
-   "title": "Bayern München - 1. FC Köln",
+   "title": "Bayern München 1:1 1. FC Köln",
    "result": null,
    "stadium": "Allianz Arena",
    "city": "München",
