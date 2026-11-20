@@ -1,6 +1,6 @@
 window.FUPPES_DATA = window.FUPPES_DATA || {};
 window.FUPPES_DATA["tv"] = {
- "updated": "2026-11-20T11:14:09.905Z",
+ "updated": "2026-11-20T13:28:16.530Z",
  "matches": [
   {
    "matchID": 83237,
@@ -12,7 +12,7 @@ window.FUPPES_DATA["tv"] = {
    ],
    "evidence": [
     {
-     "title": "FC Bayern München gegen 1. FC Köln LIVE: TV oder Stream? Alle Infos zur Bundesliga auf WOW!",
+     "title": "FC Bayern München gegen 1. FC Köln live: Bundesliga am Freitagabend auf Sky & WOW",
      "source": "RTL.de",
      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNT1dqUzZtT0ZpU3FES2Ewak9FV0lydm1oa0Q4TlJVS0pscHpWMnBBWW0yLWVVUXpSaHVRRlRCWXZLS05kLUxuLXRMeTJwNkY0aFJKaUt6TmZqZDhMQUlMSjNCS3pwVmZNLWFQbkRCWW1Wcm1DTDA5SEl2ZGdPQkNseFpwTHBodTNiY1oybFhNbTJrSHR5NzdQNFFVNWIyUU4zUERTZ1ZUV3ZhcTVqLVl0YlJscW1hX0xndXU2Y3ByYmliM3FYek5wbw?oc=5"
     }
@@ -85,8 +85,16 @@ window.FUPPES_DATA["tv"] = {
    "kick": "2026-11-25T20:00:00Z",
    "team1": "Lille OSC",
    "team2": "FC Bayern München",
-   "channels": [],
-   "evidence": [],
+   "channels": [
+    "DAZN"
+   ],
+   "evidence": [
+    {
+     "title": "OSC Lille - FC Bayern München live ► Die Übertragung der Champions League auf DAZN ✅",
+     "source": "DAZN",
+     "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQRl9sQkZmaFZTYks2MTdyb0t0SHNnWFIwNkZSdVlyU3lybE5mZWZiUlF2N0hZVVktWDVmREdncGpoUjMyOE94MjhISlc5WXRLaVdabTRxb2FqWGFKVkJtdGk4MmM3Rkt2Z2xvTmxkM2pRMVFKMVJPb1FaMGxtVDk2b2d6YTB0RExWYzlwM2lxTkJUb3ZxMHBRTW5hTnp4Y2J4enRHMVpBdDdpOUhyWWtqem9XN0Z3eW9CSlpzMVRxSGVubFd3R2hNdnpXR2E0YmFTOVBzYnpKdVRfS3YwMDBGVA?oc=5"
+    }
+   ],
    "kicker": null
   },
   {
