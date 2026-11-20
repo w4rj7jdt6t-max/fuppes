@@ -1,6 +1,6 @@
 window.FUPPES_DATA = window.FUPPES_DATA || {};
 window.FUPPES_DATA["transfers"] = {
- "updated": "2026-11-20T17:11:06.501Z",
+ "updated": "2026-11-20T19:15:05.911Z",
  "rules": {
   "minFeeMio": 20,
   "topClubs": [
@@ -44,6 +44,48 @@ window.FUPPES_DATA["transfers"] = {
  },
  "items": [
   {
+   "title": "\"Großartiger Anführer\" Groß verlängert in Brighton",
+   "link": "https://www.kicker.de/grossartiger-anfuehrer-gross-verlaengert-in-brighton-1273320/artikel#omrss",
+   "summary": "Nach seinem Intermezzo bei Borussia Dortmund ist Pascal Groß zu Brighton & Hove Albion zurückgekehrt - und spielt, als wäre er nie weg gewesen. Nun hat der 35 Jahre alte Mittelfeldspieler seinen Vertrag bis 2028 verlängert.",
+   "source": "kicker",
+   "date": "2026-11-20T18:30:53.000Z",
+   "fee": null,
+   "clubs": [
+    "Dortmund"
+   ],
+   "tags": [
+    "Vertrag"
+   ]
+  },
+  {
+   "title": "Brighton belohnt starke Form von Ex-BVB-Profi Pascal Groß mit Verlängerung",
+   "link": "https://www.transfermarkt.de/vor-300-einsatz-brighton-belohnt-starke-form-von-gross-ozils-bestmarke-eingestellt/view/news/490998",
+   "summary": "Brighton & Hove Albion hat die starke Form von Mittelfeldroutinier Pascal Gro&szlig; (35) mit einem neuen Vertrag belohnt. Vor seinem 300. Einsatz f&uuml;r die Seagulls am Sonntag (15 Uhr) bei...",
+   "source": "Transfermarkt",
+   "date": "2026-11-20T18:05:43.000Z",
+   "fee": null,
+   "clubs": [
+    "BVB"
+   ],
+   "tags": [
+    "Vertrag"
+   ]
+  },
+  {
+   "title": "Klausel macht Transfer möglich: Real Madrid will Nico Paz zurück",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQcUF1anp3Yzk0QlR2VHFTNUI2U2lFSkt3b0FNTWRBWExrNGxMSlNRS0ZqM0pEQThkSkx1MGxrZzA4WW1nSGQ3Ry1qTmNRTW1VODRmdmh6WWREcHk5OTFicjBwaE5LMUVKRTRMOUNvb1BpNlRxUlZzcUlaWTB0ZEF1Z0VSbjl4ZE5YNmVNNjJVd3BfQzg?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQcUF1anp3Yzk0QlR2VHFTNUI2U2lFSkt3b0FNTWRBWExrNGxMSlNRS0ZqM0pEQThkSkx1MGxrZzA4WW1nSGQ3Ry1qTmNRTW1VODRmdmh6WWREcHk5OTFicjBwaE5LMUVKRTRMOUNvb1BpNlRxUlZzcUlaWTB0ZEF1Z0VSbjl4ZE5YNmVNNjJVd3BfQzg?oc=5\" target=\"_blank\">Klausel ",
+   "source": "Fussball Europa",
+   "date": "2026-11-20T18:04:02.000Z",
+   "fee": null,
+   "clubs": [
+    "Real Madrid"
+   ],
+   "tags": [
+    "Vertrag"
+   ]
+  },
+  {
    "title": "BVB: Inácio durchkreuzt Transferplan",
    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQcm43dkxMZ1ZLM2NUSVhEVEZsa2RmQTJJb2lJc0dvVzg4dzF0MUk4a1NyaF8zYjVmQ0l0N0tPM29zNzNTVHFGNFlKal94VnB4d0R6TDZDM1R5RjNKYTljUUxJaGJhRjJ2NklCcmRYM0hDb3pfR2VZaUtBSUhWSkRYWktGdkliaXVSY1BsMDhndjZJdkJM?oc=5",
    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQcm43dkxMZ1ZLM2NUSVhEVEZsa2RmQTJJb2lJc0dvVzg4dzF0MUk4a1NyaF8zYjVmQ0l0N0tPM29zNzNTVHFGNFlKal94VnB4d0R6TDZDM1R5RjNKYTljUUxJaGJhRjJ2NklCcmRYM0hDb3pfR2VZaUtBSUhWSkRYWktGdkliaXVSY1BsMDhndjZJdkJM?oc=5\" target=\"_blank\">BVB: In",
@@ -83,20 +125,6 @@ window.FUPPES_DATA["transfers"] = {
    ],
    "tags": [
     "Fix"
-   ]
-  },
-  {
-   "title": "Real Madrid meldet Courtois-Verlängerung, Valverde soll folgen",
-   "link": "https://www.transfermarkt.de/real-meldet-courtois-deal-valverde-soll-folgen-275-millionen-kaderwert-verlangern/view/news/490965",
-   "summary": "Bei Real Madrid jagt eine Vertragsverl&auml;ngerung die n&auml;chste: Nach den Mittefeldspielern Arda G&uuml;ler (21) und Aur&eacute;lien Tchouam&eacute;ni (26, jeweils bis 2032) haben die...",
-   "source": "Transfermarkt",
-   "date": "2026-11-20T12:11:54.000Z",
-   "fee": null,
-   "clubs": [
-    "Real Madrid"
-   ],
-   "tags": [
-    "Vertrag"
    ]
   },
   {
@@ -229,20 +257,6 @@ window.FUPPES_DATA["transfers"] = {
    ]
   },
   {
-   "title": "FC Bayern trifft klare Transfer-Entscheidung | Frische Infos!",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQME9OQ2stZkxaRG01bmk4Um9xUzdQOEl2S1dSWFc2bXN3eUF4ZHZTaXM4WjlyQy1CNVhYVHJDUjdfWDFDNHQtN25mQXZ0QWRFVnpsSjZCbDJIWVhmdGoyWHFXaHVSMXBQSlpOcUpnbUhJWUdFdm84cDFoUlY2RGU5bE9aZGJHeHNrNWdPeXc0bm0xTnNMWjFYa2wtQnhCanFxRVNMbEJyUHJFbFRYZDVQaUl2OVFPNm1xdlJ2TnQ4d29hcnhjVTdUVWhwZUdyRmNyaWdB?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxQME9OQ2stZkxaRG01bmk4Um9xUzdQOEl2S1dSWFc2bXN3eUF4ZHZTaXM4WjlyQy1CNVhYVHJDUjdfWDFDNHQtN25mQXZ0QWRFVnpsSjZCbDJIWVhmdGoyWHFXaHVSMXBQSlpOcUpnbUhJWUdFdm84cDFoUlY2RGU5bE9aZGJHeHNrNWdPeXc0bm0xTnNMWjFYa2wtQnhCanFxRVNMbEJyUHJFbF",
-   "source": "Sport Bild",
-   "date": "2026-11-19T18:20:14.000Z",
-   "fee": null,
-   "clubs": [
-    "Bayern"
-   ],
-   "tags": [
-    "Transfer"
-   ]
-  },
-  {
    "title": "Top-Talent Gabriel vor Transfer: Man United behält sich rechtliche Schritte gegen Real vor",
    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPSG5HV2lXQk4tWEZiV2RmWFZseEREOGZSUVVGZmRRTTF1OVo4MHBfc3V6akxPSzVYODlmeHVxWXZuSnJnYi03QVhMQlpXQ0JLbkF4Wk1CYXQ0bWs4U1dIblQ2cWc3ai13ME9VeVNIN2p1ZldxM0tEb19XdnFrenVuYVhVVXFBZGZxMnlfVzNOMWlDMHZhakp1UzloQkFsRFZscWNaQlFVeTVIZ29DNkMyRXY0VTlGQjFuMGxVb1RxdHpEckRoNkVHeXpnMFg5aGxG?oc=5",
    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxPSG5HV2lXQk4tWEZiV2RmWFZseEREOGZSUVVGZmRRTTF1OVo4MHBfc3V6akxPSzVYODlmeHVxWXZuSnJnYi03QVhMQlpXQ0JLbkF4Wk1CYXQ0bWs4U1dIblQ2cWc3ai13ME9VeVNIN2p1ZldxM0tEb19XdnFrenVuYVhVVXFBZGZxMnlfVzNOMWlDMHZhakp1UzloQkFsRFZscWNaQlFVeTVIZ2",
@@ -300,6 +314,20 @@ window.FUPPES_DATA["transfers"] = {
    ]
   },
   {
+   "title": "100 Millionen Euro?: FC Barcelona bereitet wohl Mega-Angebot für Shootingstar vor",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPOWpuN1hJdWhHTUdYRjhXcDkwcWw2QlpqRnpaOUdob2FtM2dpWG5NYi1OMGl6b20zYm0yTFo5NjJJa0gzbUhGM0RhR0FIc2FiSzRvN1hYZjFpUFRuUG5xeVEyQTVtSlVVZUI0WUVlQmhQdVE2dldNYkMwWlZVWFhDYUFwMmJkTHRBTFhfYkpPS0VOZkdiYTN6OVBfTEJCeXdzT1l4amp3?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPOWpuN1hJdWhHTUdYRjhXcDkwcWw2QlpqRnpaOUdob2FtM2dpWG5NYi1OMGl6b20zYm0yTFo5NjJJa0gzbUhGM0RhR0FIc2FiSzRvN1hYZjFpUFRuUG5xeVEyQTVtSlVVZUI0WUVlQmhQdVE2dldNYkMwWlZVWFhDYUFwMmJkTHRBTFhfYkpPS0VOZkdiYTN6OVBfTEJCeXdzT1l4amp3?oc=5\"",
+   "source": "Express",
+   "date": "2026-11-19T15:41:45.000Z",
+   "fee": 100,
+   "clubs": [
+    "Barcelona"
+   ],
+   "tags": [
+    "Gerücht"
+   ]
+  },
+  {
    "title": "FC Barcelona arbeitet im Hintergrund an einem spektakulären Transfer",
    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQbDRwVlhlX1otck5xdlp6dXh4ZGF4S3hBaTFLSnNDNHRDRVZJUEVLYVJsUTRZOEJnbEs3cXozZ1lKcktlb2EwN1RVTjFLNUxwRVJNT2haZ1Y3UEZHaklDYzQ2aG9WeG1IV2ZWd3k1SDl3LXFZYzc3aHBjbm9UOFpHSDVQLTRab2xRRFBNVVNoOGd5STBiSkFEQnh4d1hIUWxTUzZ5UHBWbmVhbHhHLW5PWTdqYzVDV0NKbjE5RzdMSk11c2M4WW44THBQNUdYYVJmMHBiOUpTcnY0T1JwRHBfUVhUVENnb25ldWc?oc=5",
    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxQbDRwVlhlX1otck5xdlp6dXh4ZGF4S3hBaTFLSnNDNHRDRVZJUEVLYVJsUTRZOEJnbEs3cXozZ1lKcktlb2EwN1RVTjFLNUxwRVJNT2haZ1Y3UEZHaklDYzQ2aG9WeG1IV2ZWd3k1SDl3LXFZYzc3aHBjbm9UOFpHSDVQLTRab2xRRFBNVVNoOGd5STBiSkFEQnh4d1hIUWxTUzZ5UHBWbmVhbH",
@@ -353,37 +381,6 @@ window.FUPPES_DATA["transfers"] = {
    ],
    "tags": [
     "Transfer"
-   ]
-  },
-  {
-   "title": "Barça trauert diesem Transfer nach: Der Star ging stattdessen zum FC Bayern",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSzZ1Z3JaRG1udTdMcG1rZjFPVmhab0R4V3NRa1hweVZwMmpiZkFTdzhzaGU0TUNuamFfU0xUR29sWHVMMHpWOWluMUVHS21WQ2VmYlZWdUtaSFRobFlDcDlCcjNKUS1PSnNOeW9FWjFOeFFrbmFBNmxnS2w2c2hfZlY3WG5kOFpDVWhmUG5ZZXMxc25OaGpCclR6bHc?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQSzZ1Z3JaRG1udTdMcG1rZjFPVmhab0R4V3NRa1hweVZwMmpiZkFTdzhzaGU0TUNuamFfU0xUR29sWHVMMHpWOWluMUVHS21WQ2VmYlZWdUtaSFRobFlDcDlCcjNKUS1PSnNOeW9FWjFOeFFrbmFBNmxnS2w2c2hfZlY3WG5kOFpDVWhmUG5ZZXMxc25OaGpCclR6bHc?oc=5\" target=\"_bla",
-   "source": "fussballdaten.de",
-   "date": "2026-11-19T09:55:00.000Z",
-   "fee": null,
-   "clubs": [
-    "Bayern",
-    "Barça"
-   ],
-   "tags": [
-    "Transfer"
-   ]
-  },
-  {
-   "title": "Fußball-Transfergerüchte heute: BVB-Stars auf Shortlists von Barça und Man United",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9FSVUxSU9sbmNndHQ1WDlBTVNrd1lUS1gyM1R6TVVBdk5oQjd3OWUzaUc5WkNUSjQwbVhpcHh3QmNjMXQ2ckI0NUZ4a1hWMXlhNG56R0xhS0lPYnJhRmtKYUV1TkRWYmNacUVzYmtUR3M?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE9FSVUxSU9sbmNndHQ1WDlBTVNrd1lUS1gyM1R6TVVBdk5oQjd3OWUzaUc5WkNUSjQwbVhpcHh3QmNjMXQ2ckI0NUZ4a1hWMXlhNG56R0xhS0lPYnJhRmtKYUV1TkRWYmNacUVzYmtUR3M?oc=5\" target=\"_blank\">Fußball-Transfergerüchte heute: BVB-Stars auf Shortlists",
-   "source": "90min.de",
-   "date": "2026-11-19T09:15:37.000Z",
-   "fee": null,
-   "clubs": [
-    "BVB",
-    "Barça",
-    "Man United"
-   ],
-   "tags": [
-    "Gerücht"
    ]
   }
  ]
