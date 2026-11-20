@@ -1,6 +1,6 @@
 window.FUPPES_DATA = window.FUPPES_DATA || {};
 window.FUPPES_DATA["transfers"] = {
- "updated": "2026-11-20T05:14:41.168Z",
+ "updated": "2026-11-20T07:31:48.533Z",
  "rules": {
   "minFeeMio": 20,
   "topClubs": [
@@ -44,7 +44,36 @@ window.FUPPES_DATA["transfers"] = {
  },
  "items": [
   {
-   "title": "Nummer 2 hinter Urbig? Das sagt Bernd Leno zum FC-Bayern-Gerücht",
+   "title": "Transfer-Ticker: Ex-Bayern-Star Tel vor Bundesliga-Rückkehr? Gerücht um Mega-Tausch",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUXdwM3BvMGp0SU1uYU53OG0wWEdFZGZFYVFHZlF2d3RHa3Jtcy1wRXBYOXZuaFZHOW4tYmNaNGJtSHJJaVVlWlZ3U3hDcGZaRkJBWjVMWEdWNWRJOUZnUGhBUk9wUnJ2b05ma0xfQVVoOXJtQ0hHVmlrbFhuU2tldTFnZG90WWVIc0RKWGVYR09SYkFOU0dxLVl2Vzk3djN2MUo2UmpORzJQYUxhT1BmdDEyb3B6ZDdZbVNGNTRR?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPUXdwM3BvMGp0SU1uYU53OG0wWEdFZGZFYVFHZlF2d3RHa3Jtcy1wRXBYOXZuaFZHOW4tYmNaNGJtSHJJaVVlWlZ3U3hDcGZaRkJBWjVMWEdWNWRJOUZnUGhBUk9wUnJ2b05ma0xfQVVoOXJtQ0hHVmlrbFhuU2tldTFnZG90WWVIc0RKWGVYR09SYkFOU0dxLVl2Vzk3djN2MUo2UmpORzJQYU",
+   "source": "sport.de",
+   "date": "2026-11-20T06:41:00.000Z",
+   "fee": null,
+   "clubs": [
+    "Bayern"
+   ],
+   "tags": [
+    "Gerücht",
+    "Personal"
+   ]
+  },
+  {
+   "title": "Bayern-Bosse legen Transferstopp für den Winter fest",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOclRabTY0NHR5OTR0LVlQLXJhT2s5dVh0bXBlQ2pVUVNuSzRsWU02XzFZMy1VU1BZY196dFBLMy1ZblVjeVZxaEp3MVJrTk5QQjZxRmN2R1AwQjNHUm90dlhHdDlMc0ExSGJyWTRja0JOY0VXdGFBZXBmWXB0YzJLMEdHZmc0azIwbFlXOFJqbmR4SmRGcEJkZlR4Rlh4QVg4cnB3LUtraWFndjJvUUpOYmMwcmlvWWF1OTRoU21CWDY4SjBZWkZSdXBxOA?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxOclRabTY0NHR5OTR0LVlQLXJhT2s5dVh0bXBlQ2pVUVNuSzRsWU02XzFZMy1VU1BZY196dFBLMy1ZblVjeVZxaEp3MVJrTk5QQjZxRmN2R1AwQjNHUm90dlhHdDlMc0ExSGJyWTRja0JOY0VXdGFBZXBmWXB0YzJLMEdHZmc0azIwbFlXOFJqbmR4SmRGcEJkZlR4Rlh4QVg4cnB3LUtraWFndj",
+   "source": "FOCUS online",
+   "date": "2026-11-20T06:14:00.000Z",
+   "fee": null,
+   "clubs": [
+    "Bayern"
+   ],
+   "tags": [
+    "Transfer"
+   ]
+  },
+  {
+   "title": "Nummer 2 hinter Urbig? Das sagt Bernd Leno zum FC Bayern-Gerücht",
    "link": "https://www.transfermarkt.de/leno-uber-bayern-gerucht-vielleicht-eine-wertvolle-erfahrung-sich-mal-hinten-anzustellen-quot-/view/news/490936",
    "summary": "Ex-Nationalspieler Bernd Leno ist einer von mehreren erfahrenen deutschen Torh&uuml;tern, die zuletzt immer wieder mit einem Wechsel zum FC Bayern in Verbindung gebracht wurden. F&uuml;r die Rolle...",
    "source": "Transfermarkt",
@@ -172,20 +201,6 @@ window.FUPPES_DATA["transfers"] = {
    ]
   },
   {
-   "title": "Spannendes Profil für die Bayern: Leno könnte sich Wechsel vorstellen",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbTdUTUg5aWpKNnVpVF9scmpja0dMR3BTcHpDc2JTNERnLTl3THd5UXhPeWhScDFHNTh5YzhGNkFnVFZleTY1MHAtQ1BTazhCOGxGMXZremZEbHdVY2tTN0FuMzVtYURESnRXaUxOVVdRYkU1TFBFR0NVYm5ubXNJVGxzWjZtRkR4RVp0dDZvU1ZMTi1qenc4WU9RaGdnMUI3VFVCOU9BV2pPdE1HSW41WVlRXzVnZm56ak1PM2w0OXU?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbTdUTUg5aWpKNnVpVF9scmpja0dMR3BTcHpDc2JTNERnLTl3THd5UXhPeWhScDFHNTh5YzhGNkFnVFZleTY1MHAtQ1BTazhCOGxGMXZremZEbHdVY2tTN0FuMzVtYURESnRXaUxOVVdRYkU1TFBFR0NVYm5ubXNJVGxzWjZtRkR4RVp0dDZvU1ZMTi1qenc4WU9RaGdnMUI3VFVCOU9BV2pPdE",
-   "source": "Sky.de",
-   "date": "2026-11-19T15:13:00.000Z",
-   "fee": null,
-   "clubs": [
-    "Bayern"
-   ],
-   "tags": [
-    "Transfer"
-   ]
-  },
-  {
    "title": "FC Barcelona arbeitet im Hintergrund an einem spektakulären Transfer",
    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQbDRwVlhlX1otck5xdlp6dXh4ZGF4S3hBaTFLSnNDNHRDRVZJUEVLYVJsUTRZOEJnbEs3cXozZ1lKcktlb2EwN1RVTjFLNUxwRVJNT2haZ1Y3UEZHaklDYzQ2aG9WeG1IV2ZWd3k1SDl3LXFZYzc3aHBjbm9UOFpHSDVQLTRab2xRRFBNVVNoOGd5STBiSkFEQnh4d1hIUWxTUzZ5UHBWbmVhbHhHLW5PWTdqYzVDV0NKbjE5RzdMSk11c2M4WW44THBQNUdYYVJmMHBiOUpTcnY0T1JwRHBfUVhUVENnb25ldWc?oc=5",
    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxQbDRwVlhlX1otck5xdlp6dXh4ZGF4S3hBaTFLSnNDNHRDRVZJUEVLYVJsUTRZOEJnbEs3cXozZ1lKcktlb2EwN1RVTjFLNUxwRVJNT2haZ1Y3UEZHaklDYzQ2aG9WeG1IV2ZWd3k1SDl3LXFZYzc3aHBjbm9UOFpHSDVQLTRab2xRRFBNVVNoOGd5STBiSkFEQnh4d1hIUWxTUzZ5UHBWbmVhbH",
@@ -226,20 +241,6 @@ window.FUPPES_DATA["transfers"] = {
    ],
    "tags": [
     "Gerücht"
-   ]
-  },
-  {
-   "title": "Nach Güler: Real Madrid verlängert auch mit Tchouaméni",
-   "link": "https://www.transfermarkt.de/nach-guler-real-verlangert-auch-mit-tchouameni-nur-diomande-langer-gebunden/view/news/490918",
-   "summary": "Real Madrid hat nach Arda G&uuml;ler den n&auml;chsten Stammspieler im Mittelfeld langfristig an den Klub gebunden. Aur&eacute;lien Tchouam&eacute;ni unterschrieb am Donnerstag einen bis 2032...",
-   "source": "Transfermarkt",
-   "date": "2026-11-19T12:55:37.000Z",
-   "fee": null,
-   "clubs": [
-    "Real Madrid"
-   ],
-   "tags": [
-    "Vertrag"
    ]
   },
   {

@@ -1,6 +1,6 @@
 window.FUPPES_DATA = window.FUPPES_DATA || {};
 window.FUPPES_DATA["news-fc"] = {
- "updated": "2026-11-20T05:14:39.885Z",
+ "updated": "2026-11-20T07:31:47.093Z",
  "items": [
   {
    "title": "Die Krönung eines Transfer-Coups? Nur dank Ex-Star konnte der FC El Mala halten!",
@@ -11,17 +11,6 @@ window.FUPPES_DATA["news-fc"] = {
    "tags": [
     "Gerücht",
     "Leihe"
-   ]
-  },
-  {
-   "title": "FC Bayern Aufstellung gegen Köln: Steht Musiala nach dem Comeback im Kader?",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOa0RIVmd1RlpQQ2hpd3llbnplX0pSSHVOUFlDc3RSaGhobmVhNlUwNFNGWVRPc01BUVN3OTg0WDFYNm9VeU8ya3N4RkxfUHE1ZzJaUEM5SjJWY19yZjBDd2RvTTlIdEZyTkZYUEROSnBQaFRUSksyUUhZd0RlWkh1QWxsTVVrell3MUVhNktvMGpwNWlsMmxhb1FTOW8?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOa0RIVmd1RlpQQ2hpd3llbnplX0pSSHVOUFlDc3RSaGhobmVhNlUwNFNGWVRPc01BUVN3OTg0WDFYNm9VeU8ya3N4RkxfUHE1ZzJaUEM5SjJWY19yZjBDd2RvTTlIdEZyTkZYUEROSnBQaFRUSksyUUhZd0RlWkh1QWxsTVVrell3MUVhNktvMGpwNWlsMmxhb1FTOW8?oc=5\" target=\"_bla",
-   "source": "News zur deutschen Nationalmannschaft",
-   "date": "2026-11-19T20:18:00.000Z",
-   "tags": [
-    "Gerücht",
-    "Personal"
    ]
   },
   {
@@ -76,17 +65,6 @@ window.FUPPES_DATA["news-fc"] = {
    ]
   },
   {
-   "title": "Rückkehr vom FC-Bayern-Trainer Vincent Kompany: Das ist der aktuelle Stand",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbEJhei1UeldlMC1iX3E1RUtkWnFwTnB2ZWVCR2xjSkN4QXJKdnJrMEZIZC1nb3prMkZEWndVY0RldlozZ0F1aDFrN2xobHdRRnBERkFQMEwza3RqTW1VYWx5WDdQa2RSMERDLXpNak5OTkYtM0l2UVFYbEpldW15VXFFcGNNaGJoYmI3YmlDTWVVaGlYeDMtU1p0YnNEVVJCVmxXcGJBTElMZw?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbEJhei1UeldlMC1iX3E1RUtkWnFwTnB2ZWVCR2xjSkN4QXJKdnJrMEZIZC1nb3prMkZEWndVY0RldlozZ0F1aDFrN2xobHdRRnBERkFQMEwza3RqTW1VYWx5WDdQa2RSMERDLXpNak5OTkYtM0l2UVFYbEpldW15VXFFcGNNaGJoYmI3YmlDTWVVaGlYeDMtU1p0YnNEVVJCVmxXcGJBTElMZw",
-   "source": "Augsburger Allgemeine",
-   "date": "2026-11-19T12:07:50.000Z",
-   "tags": [
-    "Personal",
-    "Verein"
-   ]
-  },
-  {
    "title": "Kompany weiter lädiert: Bayern-Trainer mit Armschlinge bei Rückkehr gegen Köln",
    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMFF3ZF9KakhmRThYNEZhWmVkMllaS3dxU2Zsakt5YmFzWlZ2LU1xVkVzbDJtU04zbkdteWlsZkNJaGtPSnUwMFJtek9hOTlqUFFNQXpHd0hmRXlVM28zYlRKZ0dXbnloV3Z6a0Q1dmhrQm5kb1AzZFRFWnd6N05ZeW0tZVpnS0dFZnVSckVGcmFYTWE2TmxaUlozN0tnclU3LWU0Mk9QX1c1WWN5eVgzczhJSjhsSUZfZkR4VXp3?oc=5",
    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQMFF3ZF9KakhmRThYNEZhWmVkMllaS3dxU2Zsakt5YmFzWlZ2LU1xVkVzbDJtU04zbkdteWlsZkNJaGtPSnUwMFJtek9hOTlqUFFNQXpHd0hmRXlVM28zYlRKZ0dXbnloV3Z6a0Q1dmhrQm5kb1AzZFRFWnd6N05ZeW0tZVpnS0dFZnVSckVGcmFYTWE2TmxaUlozN0tnclU3LWU0Mk9QX1c1WW",
@@ -129,14 +107,13 @@ window.FUPPES_DATA["news-fc"] = {
    ]
   },
   {
-   "title": "Comeback gegen Köln? Kompany-Entscheidung gefallen!",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9hWURwaUVsWVdkX3pmZ0l1TUxyUlVmaEx3cEtDRkpkQlVHSm44Qk51akFtMVpld3daRzd3WGU3Z3pGTXVGZ3hpQVI1YUJHWmk1Tl9KbE9jb191Q3dMZkRwMDVqREtmSTh6SU9Ydzd6R083eGR0dHd0RDdn?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE9hWURwaUVsWVdkX3pmZ0l1TUxyUlVmaEx3cEtDRkpkQlVHSm44Qk51akFtMVpld3daRzd3WGU3Z3pGTXVGZ3hpQVI1YUJHWmk1Tl9KbE9jb191Q3dMZkRwMDVqREtmSTh6SU9Ydzd6R083eGR0dHd0RDdn?oc=5\" target=\"_blank\">Comeback gegen Köln? Kompany-Entscheidung g",
-   "source": "90min.de",
-   "date": "2026-11-19T07:08:23.000Z",
+   "title": "Bundesliga: Kompany kehrt gegen Köln auf Bayern-Trainerbank zurück",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOc0VkWXJOOXZQcDh3NDNhNXVkSFpOUmtxZUJPQk5WbGJMc1lWUzh5aVZVN25pdkJRX0t6OTJOdUx0N2h3VjhnWDRrMm9SRTBNVy1DNEsyWmZlbnpOQnVrRXVlUVNQeTJUY3FfS0gxRzlJYWVXWG5xMWFOTlZ2MzdtekVyZDVvVHFneWl3cEhqaUhlUFNXZENrdkZQWTByWHB3WFFjVlM5N042V2o5TDZTaURWT1ZQbGxMUUtBM3VHRFJYNlZF?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOc0VkWXJOOXZQcDh3NDNhNXVkSFpOUmtxZUJPQk5WbGJMc1lWUzh5aVZVN25pdkJRX0t6OTJOdUx0N2h3VjhnWDRrMm9SRTBNVy1DNEsyWmZlbnpOQnVrRXVlUVNQeTJUY3FfS0gxRzlJYWVXWG5xMWFOTlZ2MzdtekVyZDVvVHFneWl3cEhqaUhlUFNXZENrdkZQWTByWHB3WFFjVlM5N042V2",
+   "source": "Oldenburger Online Zeitung",
+   "date": "2026-11-18T19:22:00.000Z",
    "tags": [
-    "Gerücht",
-    "Personal"
+    "Verein"
    ]
   },
   {
@@ -144,7 +121,7 @@ window.FUPPES_DATA["news-fc"] = {
    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMzhIQ01uSFJkRVZ6dUtfOVJfd196UVVmR2o3cDFTTUpQYXEyRHVUX3pfblRNTkdhbEhVOEdQV3NsN3EtWjNycmVRTWZKWldkelJhdVQ5VDFlbHJjU3ZxcDZVZVhWT0tRNnZhUnp0bzhLXzVINU9ablg3UGV4SDdWb00yUVlRdHB5cEJ6MEFXNzJzaVl4TlNhSnFfT1ZZM2pDUjVHVzJoMEk1OF9reEhtTWlXX1g3a2paQUlLUHR3V3E0OGx0WVI3dw?oc=5",
    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMzhIQ01uSFJkRVZ6dUtfOVJfd196UVVmR2o3cDFTTUpQYXEyRHVUX3pfblRNTkdhbEhVOEdQV3NsN3EtWjNycmVRTWZKWldkelJhdVQ5VDFlbHJjU3ZxcDZVZVhWT0tRNnZhUnp0bzhLXzVINU9ablg3UGV4SDdWb00yUVlRdHB5cEJ6MEFXNzJzaVl4TlNhSnFfT1ZZM2pDUjVHVzJoMEk1OF",
    "source": "n-tv.de",
-   "date": "2026-11-19T06:53:07.000Z",
+   "date": "2026-11-18T19:19:57.000Z",
    "tags": [
     "Personal",
     "Verein"
@@ -161,6 +138,16 @@ window.FUPPES_DATA["news-fc"] = {
    ]
   },
   {
+   "title": "Bayern-Trainer Vincent Kompany ist nach Hirnhautreizung gegen Köln wieder dabei",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPN3dxWEFpcHgwazg3eFpKejR3WWRFRmVLekNfTlU3czd5cWlhMFB2S1djX3BuLVVhMWtVMXhYSFhOUkV4TmZoOTZ1cnhHdTZRQmFybWZJUGE4VDhUTUlSNlVjZTZmTkNyYTJJdFBVOFRVaGlDSF90Q0pnenBrY1loeVpQdWNHS2dLMUwtMGJNdnhyMlM4N2sxa1g0NUFPd2drMjVSbUlWN1hGc0lwU1BvWnVSMnVQY1ZtVUU1eU9DUVN4b1NXZENGVmRzSjlCdw?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxPN3dxWEFpcHgwazg3eFpKejR3WWRFRmVLekNfTlU3czd5cWlhMFB2S1djX3BuLVVhMWtVMXhYSFhOUkV4TmZoOTZ1cnhHdTZRQmFybWZJUGE4VDhUTUlSNlVjZTZmTkNyYTJJdFBVOFRVaGlDSF90Q0pnenBrY1loeVpQdWNHS2dLMUwtMGJNdnhyMlM4N2sxa1g0NUFPd2drMjVSbUlWN1hGc0",
+   "source": "Sky.de",
+   "date": "2026-11-18T18:54:00.000Z",
+   "tags": [
+    "Verein"
+   ]
+  },
+  {
    "title": "Dreesen bestätigt: Bayern-Trainer Kompany kehrt zurück – Comeback gegen Köln",
    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNV2JEMmZiUDRFSUMwU0QwSVpOZk5qMUVMQVZFSXpyTkhDRC12U1BDbmZJMUhveFk1Y0dyNzNMNFV6d2RPUXRxZnVDVHladWx4OGxWSE8tWHhDMlItSlVscFI5c014QVFaOHZ6LS1mMk40aURLMXhxLTE5SzJWeHZGejA0Z3N4aXNyRmR0RHNEWEhHQkVNQ0JLWkJZQm95RkxjV1VVTF9uU3dMNHV3aFlpV3o4QVlZZ3l4enVj?oc=5",
    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNV2JEMmZiUDRFSUMwU0QwSVpOZk5qMUVMQVZFSXpyTkhDRC12U1BDbmZJMUhveFk1Y0dyNzNMNFV6d2RPUXRxZnVDVHladWx4OGxWSE8tWHhDMlItSlVscFI5c014QVFaOHZ6LS1mMk40aURLMXhxLTE5SzJWeHZGejA0Z3N4aXNyRmR0RHNEWEhHQkVNQ0JLWkJZQm95RkxjV1VVTF9uU3dMNH",
@@ -172,11 +159,11 @@ window.FUPPES_DATA["news-fc"] = {
    ]
   },
   {
-   "title": "Fußball-Bundesliga: Bayern-Trainer Kompany gegen Köln wieder dabei",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQzZzYU5sdUdlWGhfNkZUdkRkZ1VrRjdDcTdjRnM2TVFkSVF5VzFNT2Zlc1FoNnRWWDZmQ1pRMl94cXYyS1F5eHZhYmE1UFBXQlJZSHIzaEd1dXU1endGd3pVSDUzRExNUFhremFDc1E2ZEF4bHlWdm5KY01PaGtyM2JYelgxM2ItTTQyMExKdEkyZzFPTHJvUmEwZkE5ZHE5Rk0tUHY2N3RkRzEz?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQQzZzYU5sdUdlWGhfNkZUdkRkZ1VrRjdDcTdjRnM2TVFkSVF5VzFNT2Zlc1FoNnRWWDZmQ1pRMl94cXYyS1F5eHZhYmE1UFBXQlJZSHIzaEd1dXU1endGd3pVSDUzRExNUFhremFDc1E2ZEF4bHlWdm5KY01PaGtyM2JYelgxM2ItTTQyMExKdEkyZzFPTHJvUmEwZkE5ZHE5Rk0tUHY2N3RkRz",
-   "source": "STERN.de",
-   "date": "2026-11-18T18:43:21.000Z",
+   "title": "Bayern-Trainer Kompany gegen Köln wieder dabei",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONFY3Q01YSzY1S1FyS0g0X0lYTjhUQ0F1c3A0MEJkcVhZM0xxcENyanE4MXN3ZDNZcE81eUNqbmpEWWsxZnV2VVRISmVnQ3AtMTdrTDdIdlhjdnpQSm53MWNyZHZ4NXlPaXhYLTN6Uks2UjBKMEQzN1pjR1VNSml6Zkw1T3dqS0E2WHRwM09pUUU1am9ZaEJoZkdhNUdoQWh0VzFCNXhyMA?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxONFY3Q01YSzY1S1FyS0g0X0lYTjhUQ0F1c3A0MEJkcVhZM0xxcENyanE4MXN3ZDNZcE81eUNqbmpEWWsxZnV2VVRISmVnQ3AtMTdrTDdIdlhjdnpQSm53MWNyZHZ4NXlPaXhYLTN6Uks2UjBKMEQzN1pjR1VNSml6Zkw1T3dqS0E2WHRwM09pUUU1am9ZaEJoZkdhNUdoQWh0VzFCNXhyMA?oc=",
+   "source": "Mindener Tageblatt",
+   "date": "2026-11-18T18:43:07.000Z",
    "tags": [
     "Verein"
    ]
@@ -209,6 +196,17 @@ window.FUPPES_DATA["news-fc"] = {
    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-gFBVV95cUxQMnVfTW9lYURsLVgzMWowRDI0eEMyeEJYUldTWWFwVW5KQUZhWFFtN3o5QXU0OHpPYmdBRjg2SElOYWRpZmd2aXVOOVJUUTdvQ3p2UlhibGREanNzN1NRZlZxZmNHbmJqaDBjc29YTU9lbXhUTlVtUDM3YWhKaEh3YWR1LS1wTzVCX2lDcTU5VHhkMlNMak11MW9wcmYweEVjUlFDcHRHWUx3aG",
    "source": "SPOX.com",
    "date": "2026-11-18T16:02:51.000Z",
+   "tags": [
+    "Gerücht",
+    "Verein"
+   ]
+  },
+  {
+   "title": "1. FC Köln: Wagner reagiert auf Trainer-Gerüchte",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOREFsYWY2TVc4Z3FrWDdpWlRYWFlQd1NnOUktb2R1eVloOERLSTBXQVZPQ1FOTEhIamltc0JRZEtzVnloaERPYmtTLUw1Q0ZTMXVTZlZGRWN1T0JMODdhZmRvaWJvNHM3dHo4d1h4TTRhZXpQNHZDcmIxOUtEamZuTFg3a2dPMDBCNHZQUElEUGlveGEwOWRj?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOREFsYWY2TVc4Z3FrWDdpWlRYWFlQd1NnOUktb2R1eVloOERLSTBXQVZPQ1FOTEhIamltc0JRZEtzVnloaERPYmtTLUw1Q0ZTMXVTZlZGRWN1T0JMODdhZmRvaWJvNHM3dHo4d1h4TTRhZXpQNHZDcmIxOUtEamZuTFg3a2dPMDBCNHZQUElEUGlveGEwOWRj?oc=5\" target=\"_blank\">1. ",
+   "source": "Fussball Transfers",
+   "date": "2026-11-18T15:51:41.000Z",
    "tags": [
     "Gerücht",
     "Verein"
