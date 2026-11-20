@@ -1,22 +1,10 @@
 window.FUPPES_DATA = window.FUPPES_DATA || {};
 window.FUPPES_DATA["vorverkauf"] = {
- "updated": "2026-11-20T07:31:45.919Z",
+ "updated": "2026-11-20T09:16:14.799Z",
  "source": "1. FC Köln · Vorverkaufsstarts (calovo)",
  "subscribe": "webcal://i.cal.to/ical/218/fckoeln/1-fc-koeln-vorverkaufsstarts/12345.12345-54321.ics",
  "shop": "https://www.ticket-onlineshop.com/ols/fckoeln/",
  "items": [
-  {
-   "id": "6a56307d91d1b@218.calovo",
-   "start": "2026-07-23T08:00:00.000Z",
-   "match": "Würzburger Kickers - 1. FC Köln",
-   "competition": "DFB-Pokal",
-   "round": "1. Runde",
-   "phase": "Mitgliederverkauf",
-   "limit": "Die Begegnung ist auf eine Karte pro Mitglied begrenzt.",
-   "note": null,
-   "location": "Akon Arena",
-   "extraPhases": []
-  },
   {
    "id": "6a61e5cd12db3@218.calovo",
    "start": "2026-07-30T08:00:00.000Z",

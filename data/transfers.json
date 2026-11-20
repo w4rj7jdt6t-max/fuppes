@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T07:31:48.533Z",
+ "updated": "2026-11-20T09:16:18.170Z",
  "rules": {
   "minFeeMio": 20,
   "topClubs": [
@@ -47,7 +47,7 @@
    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUXdwM3BvMGp0SU1uYU53OG0wWEdFZGZFYVFHZlF2d3RHa3Jtcy1wRXBYOXZuaFZHOW4tYmNaNGJtSHJJaVVlWlZ3U3hDcGZaRkJBWjVMWEdWNWRJOUZnUGhBUk9wUnJ2b05ma0xfQVVoOXJtQ0hHVmlrbFhuU2tldTFnZG90WWVIc0RKWGVYR09SYkFOU0dxLVl2Vzk3djN2MUo2UmpORzJQYUxhT1BmdDEyb3B6ZDdZbVNGNTRR?oc=5",
    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPUXdwM3BvMGp0SU1uYU53OG0wWEdFZGZFYVFHZlF2d3RHa3Jtcy1wRXBYOXZuaFZHOW4tYmNaNGJtSHJJaVVlWlZ3U3hDcGZaRkJBWjVMWEdWNWRJOUZnUGhBUk9wUnJ2b05ma0xfQVVoOXJtQ0hHVmlrbFhuU2tldTFnZG90WWVIc0RKWGVYR09SYkFOU0dxLVl2Vzk3djN2MUo2UmpORzJQYU",
    "source": "sport.de",
-   "date": "2026-11-20T06:41:00.000Z",
+   "date": "2026-11-20T08:22:00.000Z",
    "fee": null,
    "clubs": [
     "Bayern"
@@ -55,6 +55,64 @@
    "tags": [
     "Gerücht",
     "Personal"
+   ]
+  },
+  {
+   "title": "Fußball-Transfergerüchte heute: BVB-Konkurrenz im Werben um Hertha-Juwel – XXL-Budget für Pochettino",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5qbE5mUDQ5QjJJTXhZS0J6ek01aU4tQ21YYXNFVmVrc2VoNFFVRDhURTROdWVxaVZfTlBFWDRMamRGX2ZtVWN6Q2VNWEVPbGVVdXZwWUJLYkh3WEtDc2tyNE96UnE0VkpXNWZjeGx5Zjg?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE5qbE5mUDQ5QjJJTXhZS0J6ek01aU4tQ21YYXNFVmVrc2VoNFFVRDhURTROdWVxaVZfTlBFWDRMamRGX2ZtVWN6Q2VNWEVPbGVVdXZwWUJLYkh3WEtDc2tyNE96UnE0VkpXNWZjeGx5Zjg?oc=5\" target=\"_blank\">Fußball-Transfergerüchte heute: BVB-Konkurrenz im Werben",
+   "source": "90min.de",
+   "date": "2026-11-20T08:07:32.000Z",
+   "fee": null,
+   "clubs": [
+    "BVB"
+   ],
+   "tags": [
+    "Gerücht"
+   ]
+  },
+  {
+   "title": "Star-Spieler wechselte zu Bayern: Barça-Sportdirektor: ER war mein Wunschtransfer",
+   "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNS21oeFJEaTFULTlOU2p5RXg1UUpRUm1GeEdEcFBhbVl4bEVienpSSHE4TUJKcU9LVGZLYnBCbWYyRUI0ZTFfZy1FejUtMnhDLV94Vi1Lc3ZubVFPZ1REa3JyeHNFSTFSbGNnWEhib0hKYnZkd0Q3c2N0TGZ0MWZBblVUSUF1ckN4OS1aeTZ4QlpvWWpOc0dWc1VqNlZ4OVY2RDBtdVhjc0dDdFAxRlROd0VDMjYyUFc2YlY4bnJHSW81bVc4TEVub0NuTDEwR1hYVjRfMHI3Nkx4ajV1dzJUSzdWeDY5UUFFYlFOX2t1SGlCc3dsNTRz?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9wFBVV95cUxNS21oeFJEaTFULTlOU2p5RXg1UUpRUm1GeEdEcFBhbVl4bEVienpSSHE4TUJKcU9LVGZLYnBCbWYyRUI0ZTFfZy1FejUtMnhDLV94Vi1Lc3ZubVFPZ1REa3JyeHNFSTFSbGNnWEhib0hKYnZkd0Q3c2N0TGZ0MWZBblVUSUF1ckN4OS1aeTZ4QlpvWWpOc0dWc1VqNlZ4OVY2RDBtdVhjc0dDdF",
+   "source": "Sport Bild",
+   "date": "2026-11-20T07:44:58.000Z",
+   "fee": null,
+   "clubs": [
+    "Bayern",
+    "Barça"
+   ],
+   "tags": [
+    "Fix",
+    "Verein"
+   ]
+  },
+  {
+   "title": "BVB zeigt Interesse an spanischem Top-Talent",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPM0E5Y1VtUm5tTVJTU2szdVRCNmFfdDlXaFd6dW9DVkhDT1pfandWbEo1Q0dLOVZJakJHbzhfU1piZjh5M1ZBaWE3NkZacXJjclVYWjJkNFd2czR2OGQ3bjVwd2ZqeVJ6U0RXUFJoRTh0MEJld1BVYUJmdDhFT01CNjhSTWVBdw?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPM0E5Y1VtUm5tTVJTU2szdVRCNmFfdDlXaFd6dW9DVkhDT1pfandWbEo1Q0dLOVZJakJHbzhfU1piZjh5M1ZBaWE3NkZacXJjclVYWjJkNFd2czR2OGQ3bjVwd2ZqeVJ6U0RXUFJoRTh0MEJld1BVYUJmdDhFT01CNjhSTWVBdw?oc=5\" target=\"_blank\">BVB zeigt Interesse an sp",
+   "source": "fussballdaten.de",
+   "date": "2026-11-20T07:35:00.000Z",
+   "fee": null,
+   "clubs": [
+    "BVB"
+   ],
+   "tags": [
+    "Gerücht"
+   ]
+  },
+  {
+   "title": "FC Bayern trifft \"klare\" Transferentscheidung",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOYUtQWUVwUnpwdXhmTy1yR2tYclhnc0szWmExVmNIRjVIRlBHU29EUEFaOUdIZURBaVFpOWh4WndaeGZwR2xMX1Bob05hVzVfS0V0ZFVsUzEwNUhLYWNPMnhoV3AwY1ZfbHBHSk1EYi1FV2toLWtrYmlOZHBHUkpYNFF6T1locXI0?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOYUtQWUVwUnpwdXhmTy1yR2tYclhnc0szWmExVmNIRjVIRlBHU29EUEFaOUdIZURBaVFpOWh4WndaeGZwR2xMX1Bob05hVzVfS0V0ZFVsUzEwNUhLYWNPMnhoV3AwY1ZfbHBHSk1EYi1FV2toLWtrYmlOZHBHUkpYNFF6T1locXI0?oc=5\" target=\"_blank\">FC Bayern trifft \"klare",
+   "source": "sport.de",
+   "date": "2026-11-20T07:17:00.000Z",
+   "fee": null,
+   "clubs": [
+    "Bayern"
+   ],
+   "tags": [
+    "Transfer"
    ]
   },
   {
@@ -200,6 +258,20 @@
    ]
   },
   {
+   "title": "Spannendes Profil für die Bayern: Leno könnte sich Wechsel vorstellen",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbTdUTUg5aWpKNnVpVF9scmpja0dMR3BTcHpDc2JTNERnLTl3THd5UXhPeWhScDFHNTh5YzhGNkFnVFZleTY1MHAtQ1BTazhCOGxGMXZremZEbHdVY2tTN0FuMzVtYURESnRXaUxOVVdRYkU1TFBFR0NVYm5ubXNJVGxzWjZtRkR4RVp0dDZvU1ZMTi1qenc4WU9RaGdnMUI3VFVCOU9BV2pPdE1HSW41WVlRXzVnZm56ak1PM2w0OXU?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbTdUTUg5aWpKNnVpVF9scmpja0dMR3BTcHpDc2JTNERnLTl3THd5UXhPeWhScDFHNTh5YzhGNkFnVFZleTY1MHAtQ1BTazhCOGxGMXZremZEbHdVY2tTN0FuMzVtYURESnRXaUxOVVdRYkU1TFBFR0NVYm5ubXNJVGxzWjZtRkR4RVp0dDZvU1ZMTi1qenc4WU9RaGdnMUI3VFVCOU9BV2pPdE",
+   "source": "Sky.de",
+   "date": "2026-11-19T15:13:00.000Z",
+   "fee": null,
+   "clubs": [
+    "Bayern"
+   ],
+   "tags": [
+    "Transfer"
+   ]
+  },
+  {
    "title": "FC Barcelona arbeitet im Hintergrund an einem spektakulären Transfer",
    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQbDRwVlhlX1otck5xdlp6dXh4ZGF4S3hBaTFLSnNDNHRDRVZJUEVLYVJsUTRZOEJnbEs3cXozZ1lKcktlb2EwN1RVTjFLNUxwRVJNT2haZ1Y3UEZHaklDYzQ2aG9WeG1IV2ZWd3k1SDl3LXFZYzc3aHBjbm9UOFpHSDVQLTRab2xRRFBNVVNoOGd5STBiSkFEQnh4d1hIUWxTUzZ5UHBWbmVhbHhHLW5PWTdqYzVDV0NKbjE5RzdMSk11c2M4WW44THBQNUdYYVJmMHBiOUpTcnY0T1JwRHBfUVhUVENnb25ldWc?oc=5",
    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxQbDRwVlhlX1otck5xdlp6dXh4ZGF4S3hBaTFLSnNDNHRDRVZJUEVLYVJsUTRZOEJnbEs3cXozZ1lKcktlb2EwN1RVTjFLNUxwRVJNT2haZ1Y3UEZHaklDYzQ2aG9WeG1IV2ZWd3k1SDl3LXFZYzc3aHBjbm9UOFpHSDVQLTRab2xRRFBNVVNoOGd5STBiSkFEQnh4d1hIUWxTUzZ5UHBWbmVhbH",
@@ -214,21 +286,6 @@
    ]
   },
   {
-   "title": "40-Millionen-Transfer des FC Bayern schießt Heimatklub zum Titel – Nationaltrainer nach Karriereende?",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWlhaRFhfVTB0YzNtSXBfenNpNlBFTFhUeGlUYjNCeVVPUU8xWlp6LXZXemhPTTVKQlJEU1lqaUY4TmhDZ011dks5SEhkRDFWdnhZQW1MUl9iT2FKR0R0NHJ1NUxlWTRRMG8yTWhvandLVmRxeDFyY25GNXhVd2tOQXBRTXdUY2FiZUVOSW5lSGtRbDUzRkJONmRzWWw0OHprOGR1WjBMQkZjeS1G?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPWlhaRFhfVTB0YzNtSXBfenNpNlBFTFhUeGlUYjNCeVVPUU8xWlp6LXZXemhPTTVKQlJEU1lqaUY4TmhDZ011dks5SEhkRDFWdnhZQW1MUl9iT2FKR0R0NHJ1NUxlWTRRMG8yTWhvandLVmRxeDFyY25GNXhVd2tOQXBRTXdUY2FiZUVOSW5lSGtRbDUzRkJONmRzWWw0OHprOGR1WjBMQkZjeS",
-   "source": "TZ",
-   "date": "2026-11-19T14:23:29.000Z",
-   "fee": null,
-   "clubs": [
-    "Bayern"
-   ],
-   "tags": [
-    "Gerücht",
-    "Verein"
-   ]
-  },
-  {
    "title": "Weg frei für den BVB? Entwarnung bei Transferziel Marcel Regula",
    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNU2Y5dXdnM2h1VWVTSjlFUHpXNndMM01MX2pBbVFWS2JqNjlfdkRfX0J0YWJLV3AzNzB0UmRtLURaZi1HTHVPYTlPZUluUTZqR1l4RG5zbkdyWHpZSUxUWXM1ZzVIS0RNbVpiUk5FOVpXZEdwYl9PMnVzdVNDcUJ3Uy15eTNSOTNxUF9Uazhn?oc=5",
    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNU2Y5dXdnM2h1VWVTSjlFUHpXNndMM01MX2pBbVFWS2JqNjlfdkRfX0J0YWJLV3AzNzB0UmRtLURaZi1HTHVPYTlPZUluUTZqR1l4RG5zbkdyWHpZSUxUWXM1ZzVIS0RNbVpiUk5FOVpXZEdwYl9PMnVzdVNDcUJ3Uy15eTNSOTNxUF9Uazhn?oc=5\" target=\"_blank\">Weg frei für de",
@@ -240,20 +297,6 @@
    ],
    "tags": [
     "Gerücht"
-   ]
-  },
-  {
-   "title": "30 Millionen Euro: Real Madrid will Star Mega-Vertrag geben",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdTNicWY2QURibEtfdF80RW9tR0dnM2hJMVNHdEFlbjBsZzBnVXdxVE1TSWdIUVhKZmp0SmZCWVZLYXhobThxMTR2NThETnBlaHRGLTctM1JtMUpNdXVUVW02N0daUU5Wc3RaVEJkdFhCcjVYVWtUYXdfZzNCeUo1d0M3NjIwbU5HczJmdFRxZWVUTzdZMXBseg?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOdTNicWY2QURibEtfdF80RW9tR0dnM2hJMVNHdEFlbjBsZzBnVXdxVE1TSWdIUVhKZmp0SmZCWVZLYXhobThxMTR2NThETnBlaHRGLTctM1JtMUpNdXVUVW02N0daUU5Wc3RaVEJkdFhCcjVYVWtUYXdfZzNCeUo1d0M3NjIwbU5HczJmdFRxZWVUTzdZMXBseg?oc=5\" target=\"_blank\">3",
-   "source": "fussballdaten.de",
-   "date": "2026-11-19T12:29:00.000Z",
-   "fee": 30,
-   "clubs": [
-    "Real Madrid"
-   ],
-   "tags": [
-    "Vertrag"
    ]
   },
   {
@@ -341,50 +384,6 @@
    ],
    "tags": [
     "Fix"
-   ]
-  },
-  {
-   "title": "Barça-Boss heizt Gerüchte um BVB-Star Schlotterbeck an",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNb3l5V1lidFplM1Vod2dRX1Rzak1SVkROenJFcmdjUUJyREFNNEhtTkNIdEp1ODd5YVUxclNISmh6RDlSUlpSa2o4QnA4dnVzOER6cWstVzZlTnd1Rmd4YURhQ3ZwRnJwem5PVXNOZlJRcnhmeW9VeTdka084ZEtWd3VoeU9jUHB0MGMybA?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNb3l5V1lidFplM1Vod2dRX1Rzak1SVkROenJFcmdjUUJyREFNNEhtTkNIdEp1ODd5YVUxclNISmh6RDlSUlpSa2o4QnA4dnVzOER6cWstVzZlTnd1Rmd4YURhQ3ZwRnJwem5PVXNOZlJRcnhmeW9VeTdka084ZEtWd3VoeU9jUHB0MGMybA?oc=5\" target=\"_blank\">Barça-Boss heizt ",
-   "source": "fussballdaten.de",
-   "date": "2026-11-19T08:10:00.000Z",
-   "fee": null,
-   "clubs": [
-    "BVB",
-    "Barça"
-   ],
-   "tags": [
-    "Gerücht"
-   ]
-  },
-  {
-   "title": "Barça-Manager Deco über verpassten Wunsch-Transfer – und Araujos Zukunft",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPOTBzUHRvd3ZKTHRWblBLU2czT09NRlNUZkR1STZ4ZEdHd0J4UzFwanRuQzlwVVRib19ZbkdOZS0tTVJrSjZiZTlNOGhPaTlySWFEQzRHdUQ0bTVSNWlkTTI2b0tpWXhXRXAyaXp4X1gtUlBZNjBrTGViT3g1aFMwMGtCUUt4VTZkTElDeFpmQXlJTEItTmxZTUZSN1pmSHc0?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPOTBzUHRvd3ZKTHRWblBLU2czT09NRlNUZkR1STZ4ZEdHd0J4UzFwanRuQzlwVVRib19ZbkdOZS0tTVJrSjZiZTlNOGhPaTlySWFEQzRHdUQ0bTVSNWlkTTI2b0tpWXhXRXAyaXp4X1gtUlBZNjBrTGViT3g1aFMwMGtCUUt4VTZkTElDeFpmQXlJTEItTmxZTUZSN1pmSHc0?oc=5\" target=",
-   "source": "Fussball Europa",
-   "date": "2026-11-19T07:47:01.000Z",
-   "fee": null,
-   "clubs": [
-    "Barça"
-   ],
-   "tags": [
-    "Transfer"
-   ]
-  },
-  {
-   "title": "Transfer-Ticker: Pochettino schmeißt Ex-Bayern-Star bei ManUnited raus",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMURJcGRybjBQQ3hab3ZjTzFuaml6TzRFRl8ycVlqUE5zR2dKZG9TYVNiMUlrMmpvR2stLWhRWXVCeHNGNlF2Vm85X1drb0VXN19lRjJQekxnTnBsZGl5czBhdVZFX2JHdlNoV2l0cUVBNnNpU1JxNVUwSXZkUlFXb3gxTms2Q2tPQm1ISnkzNG12Zjg4clVKalJLamgzWUd6VzJGYU9FWlNLNm9X?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPMURJcGRybjBQQ3hab3ZjTzFuaml6TzRFRl8ycVlqUE5zR2dKZG9TYVNiMUlrMmpvR2stLWhRWXVCeHNGNlF2Vm85X1drb0VXN19lRjJQekxnTnBsZGl5czBhdVZFX2JHdlNoV2l0cUVBNnNpU1JxNVUwSXZkUlFXb3gxTms2Q2tPQm1ISnkzNG12Zjg4clVKalJLamgzWUd6VzJGYU9FWlNLNm",
-   "source": "sport.de",
-   "date": "2026-11-19T06:14:00.000Z",
-   "fee": null,
-   "clubs": [
-    "Bayern",
-    "ManUnited"
-   ],
-   "tags": [
-    "Transfer"
    ]
   }
  ]
