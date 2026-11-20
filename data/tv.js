@@ -1,6 +1,6 @@
 window.FUPPES_DATA = window.FUPPES_DATA || {};
 window.FUPPES_DATA["tv"] = {
- "updated": "2026-11-20T09:16:19.330Z",
+ "updated": "2026-11-20T11:14:09.905Z",
  "matches": [
   {
    "matchID": 83237,
@@ -12,9 +12,9 @@ window.FUPPES_DATA["tv"] = {
    ],
    "evidence": [
     {
-     "title": "FC Bayern München gegen 1. FC Köln: Bundesliga live auf Sky & WOW",
+     "title": "FC Bayern München gegen 1. FC Köln LIVE: TV oder Stream? Alle Infos zur Bundesliga auf WOW!",
      "source": "RTL.de",
-     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPblJzeS1fR215Ny00c3o0d1JRSUYzZ1FGa2pQZU53dWxBZk5EdXJ1R1lWRG9zdHV0bkhRTEdCODdLc2F2UTZzNXdSTFdOTXN6d2NjU0J0dGZPSERGbDJfRUQ4YVJpS055OHZPenlxRTJ6UGV5UkgwWnFjZ05mNDF3RjJmdnR1dUZ0ZlpuSkttbVYxRXlUcUZHUXREdXF6dWhUQWdXNnNnUGFpOGdGdTFTMS1kbw?oc=5"
+     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNT1dqUzZtT0ZpU3FES2Ewak9FV0lydm1oa0Q4TlJVS0pscHpWMnBBWW0yLWVVUXpSaHVRRlRCWXZLS05kLUxuLXRMeTJwNkY0aFJKaUt6TmZqZDhMQUlMSjNCS3pwVmZNLWFQbkRCWW1Wcm1DTDA5SEl2ZGdPQkNseFpwTHBodTNiY1oybFhNbTJrSHR5NzdQNFFVNWIyUU4zUERTZ1ZUV3ZhcTVqLVl0YlJscW1hX0xndXU2Y3ByYmliM3FYek5wbw?oc=5"
     }
    ],
    "kicker": "https://www.kicker.de/wer-uebertraegt-fc-bayern-muenchen-gegen-1-fc-koeln-live-im-tv-und-stream-1271330/artikel"
@@ -85,16 +85,8 @@ window.FUPPES_DATA["tv"] = {
    "kick": "2026-11-25T20:00:00Z",
    "team1": "Lille OSC",
    "team2": "FC Bayern München",
-   "channels": [
-    "DAZN"
-   ],
-   "evidence": [
-    {
-     "title": "OSC Lille - FC Bayern München live ► Die Übertragung der Champions League auf DAZN ✅",
-     "source": "DAZN",
-     "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQRl9sQkZmaFZTYks2MTdyb0t0SHNnWFIwNkZSdVlyU3lybE5mZWZiUlF2N0hZVVktWDVmREdncGpoUjMyOE94MjhISlc5WXRLaVdabTRxb2FqWGFKVkJtdGk4MmM3Rkt2Z2xvTmxkM2pRMVFKMVJPb1FaMGxtVDk2b2d6YTB0RExWYzlwM2lxTkJUb3ZxMHBRTW5hTnp4Y2J4enRHMVpBdDdpOUhyWWtqem9XN0Z3eW9CSlpzMVRxSGVubFd3R2hNdnpXR2E0YmFTOVBzYnpKdVRfS3YwMDBGVA?oc=5"
-    }
-   ],
+   "channels": [],
+   "evidence": [],
    "kicker": null
   },
   {
