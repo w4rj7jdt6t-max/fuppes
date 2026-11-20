@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T01:23:11.089Z",
+ "updated": "2026-11-20T02:58:23.902Z",
  "rules": {
   "minFeeMio": 20,
   "topClubs": [
@@ -256,20 +256,6 @@
    ]
   },
   {
-   "title": "Offiziell: Real Madrid verkündet nächste Verlängerung",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdUJkNU1XQVZLSENzMlVyQ2ZnNmN5a0I5VzVNSkc2V2N2Y1c1UXdUaEtKUlRJTDVqOHZ2VEZGRXhCSXZNXzVvelJzb3VsSVhSZ0tZYnd0UDdETVhSN0pRdGpMakhuN2Q2Qy1ib2ZiUlFYXzlmU29TbVFlcTBCM2lub1U3Z0g2QW9VRlZmTWZGaWljWndQRzRUSA?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPdUJkNU1XQVZLSENzMlVyQ2ZnNmN5a0I5VzVNSkc2V2N2Y1c1UXdUaEtKUlRJTDVqOHZ2VEZGRXhCSXZNXzVvelJzb3VsSVhSZ0tZYnd0UDdETVhSN0pRdGpMakhuN2Q2Qy1ib2ZiUlFYXzlmU29TbVFlcTBCM2lub1U3Z0g2QW9VRlZmTWZGaWljWndQRzRUSA?oc=5\" target=\"_blank\">O",
-   "source": "Fussball Transfers",
-   "date": "2026-11-19T12:03:31.000Z",
-   "fee": null,
-   "clubs": [
-    "Real Madrid"
-   ],
-   "tags": [
-    "Vertrag"
-   ]
-  },
-  {
    "title": "Offiziell: Real Madrid verlängert schon wieder mit Tchouaméni",
    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOS2dRN3ZIOGJkN0M1WVRnQmVrM005WGlsTEpiRjFhSU1YYU9hZVVmZmN6bW11UVVMaHo0QWZTVVRHNU9KOWM2Z1RZY2VMUlc5S3ZfMWpzZTNjU09yM0pwZ2lSc0haNWtQU0t0MmY1VkkyTm9Tdm8yd05ybzhWVUhrVFMxdTFGUDY0TFZpWHFZalBmM1dGUVEzMGdVVTdLYkdGbVJZa1NDUWRkdGVzZ0pfUGRGNlhhU0k1b2lFMVRIUFJxbEhVLWVTdTZLR0MzZUZ2TnUtSWgyWUNUbU11?oc=5",
    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxOS2dRN3ZIOGJkN0M1WVRnQmVrM005WGlsTEpiRjFhSU1YYU9hZVVmZmN6bW11UVVMaHo0QWZTVVRHNU9KOWM2Z1RZY2VMUlc5S3ZfMWpzZTNjU09yM0pwZ2lSc0haNWtQU0t0MmY1VkkyTm9Tdm8yd05ybzhWVUhrVFMxdTFGUDY0TFZpWHFZalBmM1dGUVEzMGdVVTdLYkdGbVJZa1NDUWRkdG",
@@ -380,6 +366,21 @@
    "fee": null,
    "clubs": [
     "Barça"
+   ],
+   "tags": [
+    "Transfer"
+   ]
+  },
+  {
+   "title": "Transfer-Ticker: Pochettino schmeißt Ex-Bayern-Star bei ManUnited raus",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMURJcGRybjBQQ3hab3ZjTzFuaml6TzRFRl8ycVlqUE5zR2dKZG9TYVNiMUlrMmpvR2stLWhRWXVCeHNGNlF2Vm85X1drb0VXN19lRjJQekxnTnBsZGl5czBhdVZFX2JHdlNoV2l0cUVBNnNpU1JxNVUwSXZkUlFXb3gxTms2Q2tPQm1ISnkzNG12Zjg4clVKalJLamgzWUd6VzJGYU9FWlNLNm9X?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPMURJcGRybjBQQ3hab3ZjTzFuaml6TzRFRl8ycVlqUE5zR2dKZG9TYVNiMUlrMmpvR2stLWhRWXVCeHNGNlF2Vm85X1drb0VXN19lRjJQekxnTnBsZGl5czBhdVZFX2JHdlNoV2l0cUVBNnNpU1JxNVUwSXZkUlFXb3gxTms2Q2tPQm1ISnkzNG12Zjg4clVKalJLamgzWUd6VzJGYU9FWlNLNm",
+   "source": "sport.de",
+   "date": "2026-11-19T06:14:00.000Z",
+   "fee": null,
+   "clubs": [
+    "Bayern",
+    "ManUnited"
    ],
    "tags": [
     "Transfer"
