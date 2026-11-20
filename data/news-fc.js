@@ -1,6 +1,6 @@
 window.FUPPES_DATA = window.FUPPES_DATA || {};
 window.FUPPES_DATA["news-fc"] = {
- "updated": "2026-11-20T02:58:22.651Z",
+ "updated": "2026-11-20T05:14:39.885Z",
  "items": [
   {
    "title": "Die Krönung eines Transfer-Coups? Nur dank Ex-Star konnte der FC El Mala halten!",
@@ -32,16 +32,6 @@ window.FUPPES_DATA["news-fc"] = {
    "date": "2026-11-19T19:15:36.000Z",
    "tags": [
     "Gerücht",
-    "Personal"
-   ]
-  },
-  {
-   "title": "Hoeneß zweifelt an Musiala: Kompany schützt seinen Bayern-Star vor dem Comeback gegen Köln",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNVmxiRUpjNlZtMlFHSFRQUkZYWGlfT1VXSnZBNzNVQlRVRlVfNGhuMXZ2bnZBSlFMMldVa3cyZnAtaTdMc0RtRGlOME5Qb2xHMDZmT2JpenlvcERUTkRfUFVXcHdPMWhNQTFYeFlyLUFDZWZaVTNySFhUWWUzYmlpRngzSzVvZWNVUUgyT0RMQkY0WEVRY0RQNl9aYkdvYUNaZFZwY0Npcy1kN2JyRnJQMTNqbDRJQjJQZVdkV3JXSDlUVnBFN3ptaUEzYWd0ZmM4TWc?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxNVmxiRUpjNlZtMlFHSFRQUkZYWGlfT1VXSnZBNzNVQlRVRlVfNGhuMXZ2bnZBSlFMMldVa3cyZnAtaTdMc0RtRGlOME5Qb2xHMDZmT2JpenlvcERUTkRfUFVXcHdPMWhNQTFYeFlyLUFDZWZaVTNySFhUWWUzYmlpRngzSzVvZWNVUUgyT0RMQkY0WEVRY0RQNl9aYkdvYUNaZFZwY0Npcy1kN2",
-   "source": "Absolut Fussball",
-   "date": "2026-11-19T15:34:01.000Z",
-   "tags": [
     "Personal"
    ]
   },
@@ -204,13 +194,24 @@ window.FUPPES_DATA["news-fc"] = {
    ]
   },
   {
-   "title": "FC-Bayern-Ausfallliste für das Köln-Spiel",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQYktqdl9ValRsME1yMlZ6STRHT3R2MGF0dXBmSnVmODd4cVlyOHAxT292NmVYQ2FfQlN2cDlXVzVXUkoyZ1Fxa3I3ck9aS1RvNGcxbjhmc0lMTGZLSjhyM0NHZ2ZGbEk4MjJIZFlYR0FSRl9ZQ0ZkYUJVZW1uVWVfY2tLR3U?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQYktqdl9ValRsME1yMlZ6STRHT3R2MGF0dXBmSnVmODd4cVlyOHAxT292NmVYQ2FfQlN2cDlXVzVXUkoyZ1Fxa3I3ck9aS1RvNGcxbjhmc0lMTGZLSjhyM0NHZ2ZGbEk4MjJIZFlYR0FSRl9ZQ0ZkYUJVZW1uVWVfY2tLR3U?oc=5\" target=\"_blank\">FC-Bayern-Ausfallliste für d",
-   "source": "fussballdaten.de",
-   "date": "2026-11-18T16:46:00.000Z",
+   "title": "Nachfolger-Gerüchte beim 1. FC Köln: So reagiert René Wagner",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPdlpYVGwzcmZiZk9jNS1SUERpN1NSaVRrN2MxSUh6NjRxTHlicjJ3bG5tWE1TVnE3Y3M3c0dKNUxFUHlrUms3VzVCM1Rub183eElObXBaWjg4UEprRk43ZENWRGRYemVHd2ZpdDhPckVmQjdOWTBlYl9EM0tSd2ZOLVNqcEZhZw?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPdlpYVGwzcmZiZk9jNS1SUERpN1NSaVRrN2MxSUh6NjRxTHlicjJ3bG5tWE1TVnE3Y3M3c0dKNUxFUHlrUms3VzVCM1Rub183eElObXBaWjg4UEprRk43ZENWRGRYemVHd2ZpdDhPckVmQjdOWTBlYl9EM0tSd2ZOLVNqcEZhZw?oc=5\" target=\"_blank\">Nachfolger-Gerüchte beim ",
+   "source": "90min.de",
+   "date": "2026-11-18T16:07:15.000Z",
    "tags": [
-    "Personal"
+    "Gerücht"
+   ]
+  },
+  {
+   "title": "\"Den Namen hat man ja schön öfter gehört\": Kölns Trainer Rene Wagner reagiert auf Gerüchte um Ex-Bayern-Coach",
+   "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQMnVfTW9lYURsLVgzMWowRDI0eEMyeEJYUldTWWFwVW5KQUZhWFFtN3o5QXU0OHpPYmdBRjg2SElOYWRpZmd2aXVOOVJUUTdvQ3p2UlhibGREanNzN1NRZlZxZmNHbmJqaDBjc29YTU9lbXhUTlVtUDM3YWhKaEh3YWR1LS1wTzVCX2lDcTU5VHhkMlNMak11MW9wcmYweEVjUlFDcHRHWUx3aG9uWWxfOHgzZC15eVdQNTV5ZmNhRW00YlItQ3I3eGQ0S1dBai1QS093YVpoUGJnNTdoNWl6S2FaOUpscUh4S0ZiMWNVYlVQcXFZU0N6ZHBR?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-gFBVV95cUxQMnVfTW9lYURsLVgzMWowRDI0eEMyeEJYUldTWWFwVW5KQUZhWFFtN3o5QXU0OHpPYmdBRjg2SElOYWRpZmd2aXVOOVJUUTdvQ3p2UlhibGREanNzN1NRZlZxZmNHbmJqaDBjc29YTU9lbXhUTlVtUDM3YWhKaEh3YWR1LS1wTzVCX2lDcTU5VHhkMlNMak11MW9wcmYweEVjUlFDcHRHWUx3aG",
+   "source": "SPOX.com",
+   "date": "2026-11-18T16:02:51.000Z",
+   "tags": [
+    "Gerücht",
+    "Verein"
    ]
   }
  ]
