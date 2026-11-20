@@ -1,7 +1,18 @@
 window.FUPPES_DATA = window.FUPPES_DATA || {};
 window.FUPPES_DATA["news-fc"] = {
- "updated": "2026-11-20T15:08:26.846Z",
+ "updated": "2026-11-20T17:11:05.164Z",
  "items": [
+  {
+   "title": "FC Bayern gegen 1. FC Köln: Gelingt der Sieg zum Kompany-Comeback?",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQVWtjR2xYYWxKQmdmSzVROUYzRnVoVnBUYXlDRy1oQzc4Y3pMUi0wRzRXalpjYVF0c2l4NzZ5aGswV1BzX3htVzY3bU56X1NPLTNUWlZ3bkFNMVh2MnZnTWpmZnVHMGhxbU9NUWZHMF9nMEZaUWtnQV9ydU1pNzBoZTFpdEt6cmc1aElhX2tYVm1QX0U3UFhkd3ZoUzM0bnR1Zm9oeWlkTEpLak83ODBQeTBJaFhjZnhUd0JZQkx3SUp6TUVYNk9ZTi11RVFNTU54eHow?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxQVWtjR2xYYWxKQmdmSzVROUYzRnVoVnBUYXlDRy1oQzc4Y3pMUi0wRzRXalpjYVF0c2l4NzZ5aGswV1BzX3htVzY3bU56X1NPLTNUWlZ3bkFNMVh2MnZnTWpmZnVHMGhxbU9NUWZHMF9nMEZaUWtnQV9ydU1pNzBoZTFpdEt6cmc1aElhX2tYVm1QX0U3UFhkd3ZoUzM0bnR1Zm9oeWlkTEpLak",
+   "source": "Absolut Fussball",
+   "date": "2026-11-20T15:39:37.000Z",
+   "tags": [
+    "Gerücht",
+    "Personal"
+   ]
+  },
   {
    "title": "Bayern-Startelf gegen den 1. FC Köln: Überrascht Kompany nach Davies-Ausfall bei der Aufstellung?",
    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdG1qclBVSDh6aC1xQU1mTk81VVhVN0xDNGdOVXhUMVBhbzYxeG1OcXB3UWRGS0FrUDIzR044S2xVR3c0eGtoNFhsTzctczcxdlVTcTFEalRUblhIem95MnIxTDUzRHVENHpiWGxCek81bzMwU1BKMUxzeldydzNYWVU5aElBcko4aGxYdS1mZk9Yc3Fzb0hKNUJVWjl0dVVtei05RUpVNzZodUM3cXJNRWR5WkVSbkhDaUlvNTMtSUZTMTA?oc=5",
@@ -144,16 +155,6 @@ window.FUPPES_DATA["news-fc"] = {
    "date": "2026-11-18T19:19:57.000Z",
    "tags": [
     "Personal",
-    "Verein"
-   ]
-  },
-  {
-   "title": "Trainer Vincent Kompany gegen Köln wieder auf der Bayern-Bank",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOX1dBTjdMOS12UkNJWjhxeHpxWUJDVlduamZobHZUWS0zcVp2eUV3bndyNHhvU0c2cWV1dVQ2ZzZYTWFDVENUR3k4NXloS3RBYXNGbU9YODZ2aEMxVVJzQzNET0lBajlmSmxZZVQydmRGd0xYWFNjdDRrbzNZZ0FwamRoVEk1ajZ2cDhNWXRRc004TnhwMHZBbThKODVSVmFwTklra0pPRzR5WWsxRy16STk3cjltTDlBbGVXSVotdi1yOE5oR1Ew?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxOX1dBTjdMOS12UkNJWjhxeHpxWUJDVlduamZobHZUWS0zcVp2eUV3bndyNHhvU0c2cWV1dVQ2ZzZYTWFDVENUR3k4NXloS3RBYXNGbU9YODZ2aEMxVVJzQzNET0lBajlmSmxZZVQydmRGd0xYWFNjdDRrbzNZZ0FwamRoVEk1ajZ2cDhNWXRRc004TnhwMHZBbThKODVSVmFwTklra0pPRzR5WW",
-   "source": "RND.de",
-   "date": "2026-11-18T19:06:47.000Z",
-   "tags": [
     "Verein"
    ]
   },

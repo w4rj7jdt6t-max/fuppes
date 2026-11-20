@@ -1,6 +1,6 @@
 window.FUPPES_DATA = window.FUPPES_DATA || {};
 window.FUPPES_DATA["transfers"] = {
- "updated": "2026-11-20T15:08:28.258Z",
+ "updated": "2026-11-20T17:11:06.501Z",
  "rules": {
   "minFeeMio": 20,
   "topClubs": [
@@ -58,6 +58,20 @@ window.FUPPES_DATA["transfers"] = {
    ]
   },
   {
+   "title": "Drei Torhüter auf der Bayern-Wunschliste: Karius als „perfekte Option“?",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNVZ5Z2RSWXEwVnNhV0NfZFJ6SEpIVk1kWGpZeTdiRDU1bnI4cFllLXpid2gwQTZ4MlRXTnRjZ25yanh2TVBIQm9aUnlpNnNtUlVQUmxscHpCcXhBRXU4WFI2ajZqOUNmbFZJU1RRT1NpQVlmTWFfQm1iTHFyeWVaNnNDY0FZZjNmeVBQY3hwXzEwRVVYdWc?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQNVZ5Z2RSWXEwVnNhV0NfZFJ6SEpIVk1kWGpZeTdiRDU1bnI4cFllLXpid2gwQTZ4MlRXTnRjZ25yanh2TVBIQm9aUnlpNnNtUlVQUmxscHpCcXhBRXU4WFI2ajZqOUNmbFZJU1RRT1NpQVlmTWFfQm1iTHFyeWVaNnNDY0FZZjNmeVBQY3hwXzEwRVVYdWc?oc=5\" target=\"_blank\">Drei",
+   "source": "fussballdaten.de",
+   "date": "2026-11-20T13:22:00.000Z",
+   "fee": null,
+   "clubs": [
+    "Bayern"
+   ],
+   "tags": [
+    "Gerücht"
+   ]
+  },
+  {
    "title": "FC Bayern: Ibrahimovic bereut Wechsel zum FC Augsburg überhaupt nicht",
    "link": "https://www.transfermarkt.de/ibrahimovic-bereut-bayern-abschied-uberhaupt-nicht-quot-augsburg-schon-4-leihstation/view/news/490958",
    "summary": "Arijon Ibrahimovic ist angesichts der Konkurrenzsituation beim FC Bayern auf Leihbasis zum FC Augsburg gewechselt und mit diesem Schritt auch im Nachgang im Reinen. Dabei hatte der 20 Jahre alte...",
@@ -100,20 +114,6 @@ window.FUPPES_DATA["transfers"] = {
    ]
   },
   {
-   "title": "Bis 2028: Courtois verlängert bei Real Madrid",
-   "link": "https://www.kicker.de/bis-2028-courtois-verlaengert-bei-real-madrid-1273228/artikel#omrss",
-   "summary": "Thibaut Courtois steht bei Real Madrid noch mindestens eine weitere Saison zwischen den Pfosten. Der Belgier hat seinen ursprünglich im Juni 2027 auslaufenden Vertrag um ein Jahr verlängert.",
-   "source": "kicker",
-   "date": "2026-11-20T11:42:07.000Z",
-   "fee": null,
-   "clubs": [
-    "Real Madrid"
-   ],
-   "tags": [
-    "Vertrag"
-   ]
-  },
-  {
    "title": "Transfer-Ticker: Ex-Bayern-Star Tel vor Bundesliga-Rückkehr? Gerücht um Mega-Tausch",
    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUXdwM3BvMGp0SU1uYU53OG0wWEdFZGZFYVFHZlF2d3RHa3Jtcy1wRXBYOXZuaFZHOW4tYmNaNGJtSHJJaVVlWlZ3U3hDcGZaRkJBWjVMWEdWNWRJOUZnUGhBUk9wUnJ2b05ma0xfQVVoOXJtQ0hHVmlrbFhuU2tldTFnZG90WWVIc0RKWGVYR09SYkFOU0dxLVl2Vzk3djN2MUo2UmpORzJQYUxhT1BmdDEyb3B6ZDdZbVNGNTRR?oc=5",
    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPUXdwM3BvMGp0SU1uYU53OG0wWEdFZGZFYVFHZlF2d3RHa3Jtcy1wRXBYOXZuaFZHOW4tYmNaNGJtSHJJaVVlWlZ3U3hDcGZaRkJBWjVMWEdWNWRJOUZnUGhBUk9wUnJ2b05ma0xfQVVoOXJtQ0hHVmlrbFhuU2tldTFnZG90WWVIc0RKWGVYR09SYkFOU0dxLVl2Vzk3djN2MUo2UmpORzJQYU",
@@ -126,6 +126,20 @@ window.FUPPES_DATA["transfers"] = {
    "tags": [
     "Gerücht",
     "Personal"
+   ]
+  },
+  {
+   "title": "Valverde vor Vertragsverlängerung bei Real Madrid",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNOWdqRjNreXhhNzZXbHkyeFFJaDg2VDdBbGdiVlowWFAtVTlGaXF6cmVFOVhqSWpPZ01adGdRNTlzZERNOGNoaGxEeG00YkpHV0dCQjZ1S1UzQm1SMERua1FYdjFaRGQ0RTcyWDRVLWhiRXVCaDRrVVNkbnZDUmYyNjFsc1BmeWZGVXNpVXBwMHR1bmhKTExPbXowLUZBUDFwSWJZYg?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNOWdqRjNreXhhNzZXbHkyeFFJaDg2VDdBbGdiVlowWFAtVTlGaXF6cmVFOVhqSWpPZ01adGdRNTlzZERNOGNoaGxEeG00YkpHV0dCQjZ1S1UzQm1SMERua1FYdjFaRGQ0RTcyWDRVLWhiRXVCaDRrVVNkbnZDUmYyNjFsc1BmeWZGVXNpVXBwMHR1bmhKTExPbXowLUZBUDFwSWJZYg?oc=5\" t",
+   "source": "Kicker",
+   "date": "2026-11-20T10:04:41.000Z",
+   "fee": null,
+   "clubs": [
+    "Real Madrid"
+   ],
+   "tags": [
+    "Vertrag"
    ]
   },
   {
@@ -223,6 +237,20 @@ window.FUPPES_DATA["transfers"] = {
    "fee": null,
    "clubs": [
     "Bayern"
+   ],
+   "tags": [
+    "Transfer"
+   ]
+  },
+  {
+   "title": "Top-Talent Gabriel vor Transfer: Man United behält sich rechtliche Schritte gegen Real vor",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPSG5HV2lXQk4tWEZiV2RmWFZseEREOGZSUVVGZmRRTTF1OVo4MHBfc3V6akxPSzVYODlmeHVxWXZuSnJnYi03QVhMQlpXQ0JLbkF4Wk1CYXQ0bWs4U1dIblQ2cWc3ai13ME9VeVNIN2p1ZldxM0tEb19XdnFrenVuYVhVVXFBZGZxMnlfVzNOMWlDMHZhakp1UzloQkFsRFZscWNaQlFVeTVIZ29DNkMyRXY0VTlGQjFuMGxVb1RxdHpEckRoNkVHeXpnMFg5aGxG?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxPSG5HV2lXQk4tWEZiV2RmWFZseEREOGZSUVVGZmRRTTF1OVo4MHBfc3V6akxPSzVYODlmeHVxWXZuSnJnYi03QVhMQlpXQ0JLbkF4Wk1CYXQ0bWs4U1dIblQ2cWc3ai13ME9VeVNIN2p1ZldxM0tEb19XdnFrenVuYVhVVXFBZGZxMnlfVzNOMWlDMHZhakp1UzloQkFsRFZscWNaQlFVeTVIZ2",
+   "source": "Transfermarkt",
+   "date": "2026-11-19T18:07:00.000Z",
+   "fee": null,
+   "clubs": [
+    "Man United"
    ],
    "tags": [
     "Transfer"
@@ -353,36 +381,6 @@ window.FUPPES_DATA["transfers"] = {
     "BVB",
     "Barça",
     "Man United"
-   ],
-   "tags": [
-    "Gerücht"
-   ]
-  },
-  {
-   "title": "Medien: VfB Stuttgart verpflichtet Nationalspieler",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONEZEd29oMko4ZGg2SVB2Q0IwMEdqby04SXhvX1ZzNEY4X3k4bk5sMW01ZXFfdGxpMklMM29zRTNONEhvdmpCN3M0SUJmakpNTTlnZ2dvdDhtTTR6RkJZRTJEd3p5RGJGUkVreVAydFVFamxXYllhVVJnS3lXM28wejNJcEh1d2VBUmF2cmJWcExSbUs4YU5qNG9B?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxONEZEd29oMko4ZGg2SVB2Q0IwMEdqby04SXhvX1ZzNEY4X3k4bk5sMW01ZXFfdGxpMklMM29zRTNONEhvdmpCN3M0SUJmakpNTTlnZ2dvdDhtTTR6RkJZRTJEd3p5RGJGUkVreVAydFVFamxXYllhVVJnS3lXM28wejNJcEh1d2VBUmF2cmJWcExSbUs4YU5qNG9B?oc=5\" target=\"_blank\"",
-   "source": "Fussball Transfers",
-   "date": "2026-11-19T08:46:24.000Z",
-   "fee": null,
-   "clubs": [
-    "Stuttgart",
-    "VfB"
-   ],
-   "tags": [
-    "Fix"
-   ]
-  },
-  {
-   "title": "Barça-Boss heizt Gerüchte um BVB-Star Schlotterbeck an",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNb3l5V1lidFplM1Vod2dRX1Rzak1SVkROenJFcmdjUUJyREFNNEhtTkNIdEp1ODd5YVUxclNISmh6RDlSUlpSa2o4QnA4dnVzOER6cWstVzZlTnd1Rmd4YURhQ3ZwRnJwem5PVXNOZlJRcnhmeW9VeTdka084ZEtWd3VoeU9jUHB0MGMybA?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNb3l5V1lidFplM1Vod2dRX1Rzak1SVkROenJFcmdjUUJyREFNNEhtTkNIdEp1ODd5YVUxclNISmh6RDlSUlpSa2o4QnA4dnVzOER6cWstVzZlTnd1Rmd4YURhQ3ZwRnJwem5PVXNOZlJRcnhmeW9VeTdka084ZEtWd3VoeU9jUHB0MGMybA?oc=5\" target=\"_blank\">Barça-Boss heizt ",
-   "source": "fussballdaten.de",
-   "date": "2026-11-19T08:10:00.000Z",
-   "fee": null,
-   "clubs": [
-    "BVB",
-    "Barça"
    ],
    "tags": [
     "Gerücht"
