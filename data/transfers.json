@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T08:59:01.319Z",
+ "updated": "2026-11-21T10:58:25.793Z",
  "rules": {
   "minFeeMio": 20,
   "topClubs": [
@@ -42,6 +42,35 @@
   ]
  },
  "items": [
+  {
+   "title": "Inacios Verletzung und die Folgen beim BVB - auch für den Transfermarkt?",
+   "link": "https://www.kicker.de/inacios-verletzung-und-die-folgen-beim-bvb-auch-fuer-den-transfermarkt-1273240/artikel#omrss",
+   "summary": "Samuele Inacio wird dem BVB mehrere Monate fehlen. Was heißt das für die nächste Transferperiode? Wer nun besonders im Fokus steht - und wem sich eine neue Chance auftut.",
+   "source": "kicker",
+   "date": "2026-11-21T09:19:55.000Z",
+   "fee": null,
+   "clubs": [
+    "BVB"
+   ],
+   "tags": [
+    "Gerücht",
+    "Personal"
+   ]
+  },
+  {
+   "title": "Ex-Bayern-Juwel Ibrahimovic spricht über seinen Transfer",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRFkyUGJwX245LTRSLUhlclIwQkExM01HUGdfY3lEYWhmVTdyQjdSZUE5SEtZcGFJUHV2TUlTT1pDRWxGRDlzYjZQUzg3UkZHZDUyTk9QcFNiYlN3Q18xUkJQSEpObDNkQmlkc01hRjhPOW5NZWZqbUhSZFhzQmVNb0N1VWVvQXFTbUJEeEJwV3B1bzU5YVBoUk9KVFNDSld3bFBYZg?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQRFkyUGJwX245LTRSLUhlclIwQkExM01HUGdfY3lEYWhmVTdyQjdSZUE5SEtZcGFJUHV2TUlTT1pDRWxGRDlzYjZQUzg3UkZHZDUyTk9QcFNiYlN3Q18xUkJQSEpObDNkQmlkc01hRjhPOW5NZWZqbUhSZFhzQmVNb0N1VWVvQXFTbUJEeEJwV3B1bzU5YVBoUk9KVFNDSld3bFBYZg?oc=5\" t",
+   "source": "Fussball Europa",
+   "date": "2026-11-21T09:04:01.000Z",
+   "fee": null,
+   "clubs": [
+    "Bayern"
+   ],
+   "tags": [
+    "Transfer"
+   ]
+  },
   {
    "title": "Nach Bayern-Gerüchten: Hürzeler macht klare Ansage zu seiner Zukunft",
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZDIxcmJCaDdRWXJPQm82WXRqb3JpTWNBLWF1WHlfemxGWUpDaTNBQmtYQzJudDNTZmdFSGV4QWF3aEc0TnpBcmNiVk1GWExuR2pGblBtUF8yb05WNWZINzBQRTdDLTUwdWZQUEYtNmdMR3R3ODNaWmt1bTFDYTZSME9rdG5GLUt2eEZGZUFPdU5Bc09oeGRGeEtFcXo?oc=5",
@@ -286,49 +315,6 @@
    ]
   },
   {
-   "title": "Weg frei für den BVB? Entwarnung bei Transferziel Marcel Regula",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNU2Y5dXdnM2h1VWVTSjlFUHpXNndMM01MX2pBbVFWS2JqNjlfdkRfX0J0YWJLV3AzNzB0UmRtLURaZi1HTHVPYTlPZUluUTZqR1l4RG5zbkdyWHpZSUxUWXM1ZzVIS0RNbVpiUk5FOVpXZEdwYl9PMnVzdVNDcUJ3Uy15eTNSOTNxUF9Uazhn?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNU2Y5dXdnM2h1VWVTSjlFUHpXNndMM01MX2pBbVFWS2JqNjlfdkRfX0J0YWJLV3AzNzB0UmRtLURaZi1HTHVPYTlPZUluUTZqR1l4RG5zbkdyWHpZSUxUWXM1ZzVIS0RNbVpiUk5FOVpXZEdwYl9PMnVzdVNDcUJ3Uy15eTNSOTNxUF9Uazhn?oc=5\" target=\"_blank\">Weg frei für de",
-   "source": "fussballdaten.de",
-   "date": "2026-11-19T14:10:00.000Z",
-   "fee": null,
-   "clubs": [
-    "BVB"
-   ],
-   "tags": [
-    "Gerücht"
-   ]
-  },
-  {
-   "title": "Offiziell: Real Madrid verlängert schon wieder mit Tchouaméni",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOS2dRN3ZIOGJkN0M1WVRnQmVrM005WGlsTEpiRjFhSU1YYU9hZVVmZmN6bW11UVVMaHo0QWZTVVRHNU9KOWM2Z1RZY2VMUlc5S3ZfMWpzZTNjU09yM0pwZ2lSc0haNWtQU0t0MmY1VkkyTm9Tdm8yd05ybzhWVUhrVFMxdTFGUDY0TFZpWHFZalBmM1dGUVEzMGdVVTdLYkdGbVJZa1NDUWRkdGVzZ0pfUGRGNlhhU0k1b2lFMVRIUFJxbEhVLWVTdTZLR0MzZUZ2TnUtSWgyWUNUbU11?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxOS2dRN3ZIOGJkN0M1WVRnQmVrM005WGlsTEpiRjFhSU1YYU9hZVVmZmN6bW11UVVMaHo0QWZTVVRHNU9KOWM2Z1RZY2VMUlc5S3ZfMWpzZTNjU09yM0pwZ2lSc0haNWtQU0t0MmY1VkkyTm9Tdm8yd05ybzhWVUhrVFMxdTFGUDY0TFZpWHFZalBmM1dGUVEzMGdVVTdLYkdGbVJZa1NDUWRkdG",
-   "source": "n-tv.de",
-   "date": "2026-11-19T10:55:00.000Z",
-   "fee": null,
-   "clubs": [
-    "Real Madrid"
-   ],
-   "tags": [
-    "Vertrag"
-   ]
-  },
-  {
-   "title": "Barça trauert diesem Transfer nach: Der Star ging stattdessen zum FC Bayern",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSzZ1Z3JaRG1udTdMcG1rZjFPVmhab0R4V3NRa1hweVZwMmpiZkFTdzhzaGU0TUNuamFfU0xUR29sWHVMMHpWOWluMUVHS21WQ2VmYlZWdUtaSFRobFlDcDlCcjNKUS1PSnNOeW9FWjFOeFFrbmFBNmxnS2w2c2hfZlY3WG5kOFpDVWhmUG5ZZXMxc25OaGpCclR6bHc?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQSzZ1Z3JaRG1udTdMcG1rZjFPVmhab0R4V3NRa1hweVZwMmpiZkFTdzhzaGU0TUNuamFfU0xUR29sWHVMMHpWOWluMUVHS21WQ2VmYlZWdUtaSFRobFlDcDlCcjNKUS1PSnNOeW9FWjFOeFFrbmFBNmxnS2w2c2hfZlY3WG5kOFpDVWhmUG5ZZXMxc25OaGpCclR6bHc?oc=5\" target=\"_bla",
-   "source": "fussballdaten.de",
-   "date": "2026-11-19T09:55:00.000Z",
-   "fee": null,
-   "clubs": [
-    "Bayern",
-    "Barça"
-   ],
-   "tags": [
-    "Transfer"
-   ]
-  },
-  {
    "title": "Fußball-Transfergerüchte heute: BVB-Stars auf Shortlists von Barça und Man United",
    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9FSVUxSU9sbmNndHQ1WDlBTVNrd1lUS1gyM1R6TVVBdk5oQjd3OWUzaUc5WkNUSjQwbVhpcHh3QmNjMXQ2ckI0NUZ4a1hWMXlhNG56R0xhS0lPYnJhRmtKYUV1TkRWYmNacUVzYmtUR3M?oc=5",
    "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE9FSVUxSU9sbmNndHQ1WDlBTVNrd1lUS1gyM1R6TVVBdk5oQjd3OWUzaUc5WkNUSjQwbVhpcHh3QmNjMXQ2ckI0NUZ4a1hWMXlhNG56R0xhS0lPYnJhRmtKYUV1TkRWYmNacUVzYmtUR3M?oc=5\" target=\"_blank\">Fußball-Transfergerüchte heute: BVB-Stars auf Shortlists",
@@ -385,6 +371,22 @@
    ],
    "tags": [
     "Gerücht"
+   ]
+  },
+  {
+   "title": "BVB-Wunschspieler Regula verletzt: Platzt der Transfer nach Dortmund?",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTGUzcDRSTWh0aUxnSXF5ZW5MaFl4TGdIVG84Mm41X0xSQUJWdUxKMmFlUlhUeVEwT0lJajBuam9jNnhYWTBmajlMT2g5MURuNTB4Y3JRVmpzV01zSzVya2hKRGlKTm5rVmx0Ry1ucmdTbGN1aVpINWRHc0diNkswOTZfQTNGcEtiZExjSzNOdDJweG85WTBWUw?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQTGUzcDRSTWh0aUxnSXF5ZW5MaFl4TGdIVG84Mm41X0xSQUJWdUxKMmFlUlhUeVEwT0lJajBuam9jNnhYWTBmajlMT2g5MURuNTB4Y3JRVmpzV01zSzVya2hKRGlKTm5rVmx0Ry1ucmdTbGN1aVpINWRHc0diNkswOTZfQTNGcEtiZExjSzNOdDJweG85WTBWUw?oc=5\" target=\"_blank\">B",
+   "source": "fussballdaten.de",
+   "date": "2026-11-18T18:00:00.000Z",
+   "fee": null,
+   "clubs": [
+    "Dortmund",
+    "BVB"
+   ],
+   "tags": [
+    "Gerücht",
+    "Personal"
    ]
   }
  ]

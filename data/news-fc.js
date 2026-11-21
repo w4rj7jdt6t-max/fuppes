@@ -1,7 +1,17 @@
 window.FUPPES_DATA = window.FUPPES_DATA || {};
 window.FUPPES_DATA["news-fc"] = {
- "updated": "2026-11-21T08:58:57.971Z",
+ "updated": "2026-11-21T10:58:24.442Z",
  "items": [
+  {
+   "title": "Moore besiegt die Angst und zerstreut alle Gerüchte",
+   "link": "https://www.kicker.de/moore-besiegt-die-angst-und-zerstreut-alle-geruechte-1273429/artikel#omrss",
+   "summary": "Mikey Moore stand beim 1. FC Köln zuletzt stark in der Kritik. Nun bewies der 19-Jährige beim 1:1 in München, weshalb er große Fantasien weckt. Kann Moore das wiederholen?",
+   "source": "kicker",
+   "date": "2026-11-21T09:59:32.000Z",
+   "tags": [
+    "Gerücht"
+   ]
+  },
   {
    "title": "Bayern-Star Harry Kane gegen Köln ausgewechselt - auch Olise verletzt",
    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQ0xVaElGaUUwamZvRXhEUjRqbjN1S19HWmo1WXAtLUU1c0RYYlozSkJhZmFXUWh6NkVJVlA3ci1pX1J1QW51WG50Z1NqbHVJd2U4Nmp4RndXbjgySEpwR3J3NTlPZG4xV0NjR1pFWC16ekJlbG5aQ0FkV2lGaTFROHl6UUhJNDhURXlZNmxGRkE5RGNSeXVTMndUVkNITzBkeTlWcjNJX3poczZoSG40?oc=5",
@@ -75,16 +85,6 @@ window.FUPPES_DATA["news-fc"] = {
    ]
   },
   {
-   "title": "Verletzungs-Horror bei den Bayern geht weiter! Kane und Olise gegen Köln runter",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPaUtOZmVFWHNRMV9VTWc4VURLR1JLbWRTR0c5WVdhZ2VBeDZDeFYxTW5NWGI1ZHk0Zng3eHNENGkzNUdvZG81T3pWU1E5NEZMLUFqM0M1WGpRazZyQXllTEFNR2FxeU5VWFdreGFEWkE0cWZ4TDlWckgxSnZvbTFmV1RFR0ZJWVM2SUMyV3gzWVRZaGVvWnRvTkhkSDhlX1RNQU5uOA?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPaUtOZmVFWHNRMV9VTWc4VURLR1JLbWRTR0c5WVdhZ2VBeDZDeFYxTW5NWGI1ZHk0Zng3eHNENGkzNUdvZG81T3pWU1E5NEZMLUFqM0M1WGpRazZyQXllTEFNR2FxeU5VWFdreGFEWkE0cWZ4TDlWckgxSnZvbTFmV1RFR0ZJWVM2SUMyV3gzWVRZaGVvWnRvTkhkSDhlX1RNQU5uOA?oc=5\" t",
-   "source": "DerWesten",
-   "date": "2026-11-20T20:47:17.000Z",
-   "tags": [
-    "Personal"
-   ]
-  },
-  {
    "title": "Kölns größte Transfer-Enttäuschung",
    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPT2NVX25MY0haWG5vNi1qd015WVVkdTczWTVzYlA0Z2JMcGdlNnAwOUpCVHY4cjhxa1dwNHBwb1RJbU44bHVJOFN3Mmd4SUNJRTZVOE5yN1dGTWFnbjRmbVhTYlRraXBCczlFN1Nvc0lWWnducEN5aVlSb1VGaUQ2WHpJcGNDaVV5WEplWUdwV3o0ekFPdng4Tg?oc=5",
    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPT2NVX25MY0haWG5vNi1qd015WVVkdTczWTVzYlA0Z2JMcGdlNnAwOUpCVHY4cjhxa1dwNHBwb1RJbU44bHVJOFN3Mmd4SUNJRTZVOE5yN1dGTWFnbjRmbVhTYlRraXBCczlFN1Nvc0lWWnducEN5aVlSb1VGaUQ2WHpJcGNDaVV5WEplWUdwV3o0ekFPdng4Tg?oc=5\" target=\"_blank\">K",
@@ -92,17 +92,6 @@ window.FUPPES_DATA["news-fc"] = {
    "date": "2026-11-20T19:12:00.000Z",
    "tags": [
     "Transfer"
-   ]
-  },
-  {
-   "title": "Trainer kehrt gegen Köln zurück: Diese Elf startet beim Kompany-Comeback",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNU09RNlJObTNiWEZ1RVhldXBPZ3c0dUc4MmFzdmhmZ0theWZMOXJmSDdJU0VEek9KTEJjZ3ozREN1c0x6MThjc1BBb1ZaenpMTUxUczFQX1VSQW4zejJ0SF8zSVd1VFV4YktlQldJUFVYV2pKN2lyYU4wd1dDRU1ucTBsOVBnbVJKTVlFWnFOdU9CU0xGbFQ2M0FkTkFLYVRUZmhSeDRZcnhmWXotRE4wMm04SkhMWEdRUnNxVlVlNXROOG5v?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNU09RNlJObTNiWEZ1RVhldXBPZ3c0dUc4MmFzdmhmZ0theWZMOXJmSDdJU0VEek9KTEJjZ3ozREN1c0x6MThjc1BBb1ZaenpMTUxUczFQX1VSQW4zejJ0SF8zSVd1VFV4YktlQldJUFVYV2pKN2lyYU4wd1dDRU1ucTBsOVBnbVJKTVlFWnFOdU9CU0xGbFQ2M0FkTkFLYVRUZmhSeDRZcnhmWX",
-   "source": "T-Online",
-   "date": "2026-11-20T18:28:43.000Z",
-   "tags": [
-    "Personal",
-    "Verein"
    ]
   },
   {
@@ -134,17 +123,6 @@ window.FUPPES_DATA["news-fc"] = {
    "date": "2026-11-20T09:00:00.000Z",
    "tags": [
     "Transfer"
-   ]
-  },
-  {
-   "title": "Die Krönung eines Transfer-Coups? Nur dank Ex-Star konnte der FC El Mala halten!",
-   "link": "https://geissblog.koeln/2026/11/doppelter-transfer-coup-nur-wegen-ihm-konnte-der-fc-el-mala-halten/",
-   "summary": "Die Leihe von Jakub Kaminski mit anschließender fester Verpflichtung und Weiterverkauf zu Benfica Lissabon war bislang wohl Thomas Kesslers größter Transfer-Coup beim 1. FC Köln.... Der Beitrag Die Krönung eines Transfer-Coups? Nur dank Ex-Star konnte der FC El Mala halten! ersch",
-   "source": "GEISSBLOG",
-   "date": "2026-11-19T23:01:00.000Z",
-   "tags": [
-    "Gerücht",
-    "Leihe"
    ]
   },
   {
@@ -207,6 +185,27 @@ window.FUPPES_DATA["news-fc"] = {
    "date": "2026-11-18T17:19:58.000Z",
    "tags": [
     "Personal"
+   ]
+  },
+  {
+   "title": "Köln-Coach Wagner zu Toppmöller-Gerüchten: \"Da spüre ich gar nichts\"",
+   "link": "https://www.kicker.de/koeln-coach-wagner-zu-toppmoeller-geruechten-da-spuere-ich-gar-nichts-1272684/video#omrss",
+   "summary": "Köln-Trainer René Wagner spricht auf der Pressekonferenz vor dem Spiel gegen den FC Bayern München über die aktuellen Gerüchte rund um Dino Toppmöller und wie man auftreten muss, um gegen die Bayern etwas mitzunehmen.",
+   "source": "kicker",
+   "date": "2026-11-18T13:41:14.000Z",
+   "tags": [
+    "Gerücht",
+    "Verein"
+   ]
+  },
+  {
+   "title": "1. FC Köln: Dino Toppmöller im Nacken: René Wagner reagiert auf Trainer-Diskussion",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNRkVTbUJVZ09qdkc4a1kzR2diWHlIU1VVNjNDbVNIa0N2WnhuclpEZjlMWTJmaVk2ZmJBekpfNE92eTZ6ODZpWG5vTUt4N3l4d3pVd2UzSVZDWWdxa2ZSMHhlM3kyOUh3SVpNQUY1WnhPWmZqVWdzTzQtemFZSGRyUXB4UXEwV0UwNnZoNjZNN0xJZ1YyY3NrNFB4MXRwM2w0elVYREVpWEt4RDR4akRPbnRJSnlxNUc2MDFwdWVsN0VTXzc4V0dVQnFWS0F1NGxac093NzgzdmU?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxNRkVTbUJVZ09qdkc4a1kzR2diWHlIU1VVNjNDbVNIa0N2WnhuclpEZjlMWTJmaVk2ZmJBekpfNE92eTZ6ODZpWG5vTUt4N3l4d3pVd2UzSVZDWWdxa2ZSMHhlM3kyOUh3SVpNQUY1WnhPWmZqVWdzTzQtemFZSGRyUXB4UXEwV0UwNnZoNjZNN0xJZ1YyY3NrNFB4MXRwM2w0elVYREVpWEt4RD",
+   "source": "BILD",
+   "date": "2026-11-18T13:39:28.000Z",
+   "tags": [
+    "Verein"
    ]
   }
  ]
