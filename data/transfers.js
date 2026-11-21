@@ -1,6 +1,6 @@
 window.FUPPES_DATA = window.FUPPES_DATA || {};
 window.FUPPES_DATA["transfers"] = {
- "updated": "2026-11-21T13:11:59.171Z",
+ "updated": "2026-11-21T15:00:23.843Z",
  "rules": {
   "minFeeMio": 20,
   "topClubs": [
@@ -44,8 +44,51 @@ window.FUPPES_DATA["transfers"] = {
  },
  "items": [
   {
+   "title": "Orbán nun Bundesliga-Rekordspieler für RB Leipzig – Auch Poulsen-Bestmarke rückt näher",
+   "link": "https://www.transfermarkt.de/orban-nun-bundesliga-rekordspieler-fur-rb-leipzig-auch-poulsens-bestmarke-ruckt-naher/view/news/490971",
+   "summary": "Dieser Artikel erschien auf Transfermarkt in seiner ersten Fassung am 20.11. um 15:22 Uhr und wurde anschlie&szlig;end aktualisiert. Seit 2016/17 spielt RB Leipzig in der Bundesliga. Damals schon...",
+   "source": "Transfermarkt",
+   "date": "2026-11-21T14:58:40.000Z",
+   "fee": null,
+   "clubs": [
+    "RB Leipzig",
+    "Leipzig"
+   ],
+   "tags": [
+    "Transfer"
+   ]
+  },
+  {
+   "title": "Remis gegen Fulham: ManCity zum vierten Mal in Serie ohne Sieg",
+   "link": "https://www.kicker.de/mancity-gegen-fulham-2026-premier-league-5213377/spielbericht#omrss",
+   "summary": "Nach drei Niederlagen in Serie holte Manchester City zwar ein Remis gegen den FC Fulham, bleibt aber zum vierten Mal in Serie ohne dreifachen Punktgewinn und verliert damit an der Tabellenspitze weiter Boden.",
+   "source": "kicker",
+   "date": "2026-11-21T14:25:26.000Z",
+   "fee": null,
+   "clubs": [
+    "Manchester City"
+   ],
+   "tags": [
+    "Fix"
+   ]
+  },
+  {
+   "title": "Nach Kane-Schock: FC Bayern überdenkt Transfer-Pläne",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPLWFZSXFmZHkwTHhLUnBmQnhoSl9QSVJYVVZDVHd0bTIzakJ6QlVKSXZqczloOVZjSFhKZjFObklwc25iMlFKUDlydEVSXzBOVWQxYUc5UTdGM1BfV1kyUW1TQkdzRHdJWVcwUF85MFVUY3FnbHIxZ2ZhWS1OVHJVYXJHdVFiM2MybnNnMmxXdWgtUTUxTFE?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPLWFZSXFmZHkwTHhLUnBmQnhoSl9QSVJYVVZDVHd0bTIzakJ6QlVKSXZqczloOVZjSFhKZjFObklwc25iMlFKUDlydEVSXzBOVWQxYUc5UTdGM1BfV1kyUW1TQkdzRHdJWVcwUF85MFVUY3FnbHIxZ2ZhWS1OVHJVYXJHdVFiM2MybnNnMmxXdWgtUTUxTFE?oc=5\" target=\"_blank\">Nach",
+   "source": "sport.de",
+   "date": "2026-11-21T13:15:00.000Z",
+   "fee": null,
+   "clubs": [
+    "Bayern"
+   ],
+   "tags": [
+    "Transfer"
+   ]
+  },
+  {
    "title": "Raso erzwingt den späten Sieg: Frankfurt verteidigt gegen den HSV Platz 3",
-   "link": "https://www.kicker.de/koeln-gegen-bremen-2026-frauen-bundesliga-5243504/spielbericht#omrss",
+   "link": "https://www.kicker.de/frankfurt-gegen-hsv-2026-frauen-bundesliga-5243505/spielbericht#omrss",
    "summary": "Eintracht Frankfurt feiert einen knappen, aber hochverdienten Arbeitssieg gegen den Hamburger SV und holt sich Platz 3 von Bayer Leverkusen zurück. Nach einer durchwachsenen ersten Hälfte wachte die SGE auf und belohnte sich durch Raso spät doppelt für den betriebenen Aufwand.",
    "source": "kicker",
    "date": "2026-11-21T13:02:52.000Z",
@@ -90,21 +133,6 @@ window.FUPPES_DATA["transfers"] = {
    ]
   },
   {
-   "title": "FC Bayern: Verletzungs-Schock bei Harry Kane! Holt Eberl im Winter einen Sturm-Ersatz?",
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQYXd3TmVXTTZZQWFRMnVIVGNxaFkyaVk2TG5ua01mczUyS0tlS2tFRUZXdmZaSDhIcDcwXy0tSTZESlZDTlNHTmRaR0R2Vkx3TUo3aHAwWEZ3WjlweXg4aHlISUgtN3JtLUp3dExtMFJsN01xLVNfNS1pVGpoYlAtRHc3YXdHdmpIYy15NUJEUDZGMnJzUV9BN2hRZGFhMU9QX0lCQzI5VGxnd29wUEdqaUFhaG5ITDB0bWxsVzRvV2Z4Sm0tWHdnOUQtbl9YQ1o3aHlxOF9zeDJKdmc?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxQYXd3TmVXTTZZQWFRMnVIVGNxaFkyaVk2TG5ua01mczUyS0tlS2tFRUZXdmZaSDhIcDcwXy0tSTZESlZDTlNHTmRaR0R2Vkx3TUo3aHAwWEZ3WjlweXg4aHlISUgtN3JtLUp3dExtMFJsN01xLVNfNS1pVGpoYlAtRHc3YXdHdmpIYy15NUJEUDZGMnJzUV9BN2hRZGFhMU9QX0lCQzI5VGxnd2",
-   "source": "BILD",
-   "date": "2026-11-21T11:09:25.000Z",
-   "fee": null,
-   "clubs": [
-    "Bayern"
-   ],
-   "tags": [
-    "Gerücht",
-    "Personal"
-   ]
-  },
-  {
    "title": "Inacios Verletzung und die Folgen beim BVB - auch für den Transfermarkt?",
    "link": "https://www.kicker.de/inacios-verletzung-und-die-folgen-beim-bvb-auch-fuer-den-transfermarkt-1273240/artikel#omrss",
    "summary": "Samuele Inacio wird dem BVB mehrere Monate fehlen. Was heißt das für die nächste Transferperiode? Wer nun besonders im Fokus steht - und wem sich eine neue Chance auftut.",
@@ -131,35 +159,6 @@ window.FUPPES_DATA["transfers"] = {
    ],
    "tags": [
     "Transfer"
-   ]
-  },
-  {
-   "title": "Nach Bayern-Gerüchten: Hürzeler macht klare Ansage zu seiner Zukunft",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZDIxcmJCaDdRWXJPQm82WXRqb3JpTWNBLWF1WHlfemxGWUpDaTNBQmtYQzJudDNTZmdFSGV4QWF3aEc0TnpBcmNiVk1GWExuR2pGblBtUF8yb05WNWZINzBQRTdDLTUwdWZQUEYtNmdMR3R3ODNaWmt1bTFDYTZSME9rdG5GLUt2eEZGZUFPdU5Bc09oeGRGeEtFcXo?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOZDIxcmJCaDdRWXJPQm82WXRqb3JpTWNBLWF1WHlfemxGWUpDaTNBQmtYQzJudDNTZmdFSGV4QWF3aEc0TnpBcmNiVk1GWExuR2pGblBtUF8yb05WNWZINzBQRTdDLTUwdWZQUEYtNmdMR3R3ODNaWmt1bTFDYTZSME9rdG5GLUt2eEZGZUFPdU5Bc09oeGRGeEtFcXo?oc=5\" target=\"_bla",
-   "source": "fussballdaten.de",
-   "date": "2026-11-21T07:35:00.000Z",
-   "fee": null,
-   "clubs": [
-    "Bayern"
-   ],
-   "tags": [
-    "Gerücht"
-   ]
-  },
-  {
-   "title": "Ablösefreier Abgang droht: Schnappt sich der FC Chelsea ein Juwel des FC Bayern?",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVFFWaG5YaGNQcWo5M1ZQdThzdWpWYWJ0WlNfN1V6cldZVnR0ZmYzN0EzUTNZMzBXbVNoeFdwWWFKY0kwVlR1WTJtS3AtcE1WQ3JVQl8wNXNWdWpMUTQzYzF3RHowUXpTWEtXR1FSS3lOandDamtUeTFzcHNsZXNqdGhLaDVINkMtc192SUZtYzVndTdDQWd6TnJMWk9OQlE1NHc?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPVFFWaG5YaGNQcWo5M1ZQdThzdWpWYWJ0WlNfN1V6cldZVnR0ZmYzN0EzUTNZMzBXbVNoeFdwWWFKY0kwVlR1WTJtS3AtcE1WQ3JVQl8wNXNWdWpMUTQzYzF3RHowUXpTWEtXR1FSS3lOandDamtUeTFzcHNsZXNqdGhLaDVINkMtc192SUZtYzVndTdDQWd6TnJMWk9OQlE1NHc?oc=5\" targ",
-   "source": "TZ",
-   "date": "2026-11-21T04:33:00.000Z",
-   "fee": null,
-   "clubs": [
-    "Bayern",
-    "Chelsea"
-   ],
-   "tags": [
-    "Gerücht"
    ]
   },
   {
@@ -206,18 +205,47 @@ window.FUPPES_DATA["transfers"] = {
    ]
   },
   {
-   "title": "Transfer dank Ausstiegsklausel? Bayern-Bosse beschäftigen sich mit DFB-Überflieger Scherhant",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONTVPRHBIeEVwWjl5dlZqSnMyMTB5bXhOMzNyQ001Z3JqNjM1ZWVBMTdodzRhNFdGcmlNNVZGUTE2LVRjZzQ2amktVmg3ZlpJeTdBM0hPTzBzd2VJc3B2VVBzSFNlWlc0cXBlVG5NQkNvTzFaQ29QZkRsM1RnSXNER3RQU3RDT3lNNFp1TWNjeGNfaWRMUHpsbFVmdVJnMDhBcEVlVDJuSW81REIyeUtv?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxONTVPRHBIeEVwWjl5dlZqSnMyMTB5bXhOMzNyQ001Z3JqNjM1ZWVBMTdodzRhNFdGcmlNNVZGUTE2LVRjZzQ2amktVmg3ZlpJeTdBM0hPTzBzd2VJc3B2VVBzSFNlWlc0cXBlVG5NQkNvTzFaQ29QZkRsM1RnSXNER3RQU3RDT3lNNFp1TWNjeGNfaWRMUHpsbFVmdVJnMDhBcEVlVDJuSW81RE",
-   "source": "TZ",
-   "date": "2026-11-20T13:19:21.000Z",
+   "title": "FC Bayern plant offenbar überraschenden Transfer-Coup – Star von Inter Mailand im Anflug?",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSUttajgyYUFpUC1RMkoxSXlhRWVkZktKWVptQldDNjcxeWxFNHE0bmdnSC1xQzJUcW9ZWVBhZV96SDNZQTBWakJQdEpyS0pXYkM1V0htLW9RSDRROTh5NXpvaXQ1aERqNkNra25Ta20zd053OFJPQTROT3hGUVVwM0hDelpZUzg4ZExYcklrMWI4QjBpaUczeDg3dm5ZOVRvRnFuYl9BbzJ6WnBfb2dnVw?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNSUttajgyYUFpUC1RMkoxSXlhRWVkZktKWVptQldDNjcxeWxFNHE0bmdnSC1xQzJUcW9ZWVBhZV96SDNZQTBWakJQdEpyS0pXYkM1V0htLW9RSDRROTh5NXpvaXQ1aERqNkNra25Ta20zd053OFJPQTROT3hGUVVwM0hDelpZUzg4ZExYcklrMWI4QjBpaUczeDg3dm5ZOVRvRnFuYl9BbzJ6Wn",
+   "source": "Merkur",
+   "date": "2026-11-20T16:25:23.000Z",
+   "fee": null,
+   "clubs": [
+    "Bayern",
+    "Inter Mailand",
+    "Inter"
+   ],
+   "tags": [
+    "Gerücht"
+   ]
+  },
+  {
+   "title": "BVB: Inácio durchkreuzt Transferplan",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQcm43dkxMZ1ZLM2NUSVhEVEZsa2RmQTJJb2lJc0dvVzg4dzF0MUk4a1NyaF8zYjVmQ0l0N0tPM29zNzNTVHFGNFlKal94VnB4d0R6TDZDM1R5RjNKYTljUUxJaGJhRjJ2NklCcmRYM0hDb3pfR2VZaUtBSUhWSkRYWktGdkliaXVSY1BsMDhndjZJdkJM?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQcm43dkxMZ1ZLM2NUSVhEVEZsa2RmQTJJb2lJc0dvVzg4dzF0MUk4a1NyaF8zYjVmQ0l0N0tPM29zNzNTVHFGNFlKal94VnB4d0R6TDZDM1R5RjNKYTljUUxJaGJhRjJ2NklCcmRYM0hDb3pfR2VZaUtBSUhWSkRYWktGdkliaXVSY1BsMDhndjZJdkJM?oc=5\" target=\"_blank\">BVB: In",
+   "source": "Fussball Transfers",
+   "date": "2026-11-20T13:29:27.000Z",
+   "fee": null,
+   "clubs": [
+    "BVB"
+   ],
+   "tags": [
+    "Transfer"
+   ]
+  },
+  {
+   "title": "FC Bayern | Insider beerdigt drei Gerüchte",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZ2szWnIzZG1zQkJNSTFuNmVvZVd6MEdqNVRERExaVTJJdUlsZEdyMEcwZEVQTlNrY0NCQ0lxQ3hZVml3aVFwRl94ZmpwRllfTlJSZE5ieE1hNjJlS19FSkdzNjBxYW9rTUFEeUZTY0pyR1J0dGtZYWJsTHZ6VnoxekFGVnVtZzg?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNZ2szWnIzZG1zQkJNSTFuNmVvZVd6MEdqNVRERExaVTJJdUlsZEdyMEcwZEVQTlNrY0NCQ0lxQ3hZVml3aVFwRl94ZmpwRllfTlJSZE5ieE1hNjJlS19FSkdzNjBxYW9rTUFEeUZTY0pyR1J0dGtZYWJsTHZ6VnoxekFGVnVtZzg?oc=5\" target=\"_blank\">FC Bayern | Insider beer",
+   "source": "sport.de",
+   "date": "2026-11-20T12:42:00.000Z",
    "fee": null,
    "clubs": [
     "Bayern"
    ],
    "tags": [
-    "Gerücht",
-    "Vertrag"
+    "Gerücht"
    ]
   },
   {
@@ -232,21 +260,6 @@ window.FUPPES_DATA["transfers"] = {
    ],
    "tags": [
     "Vertrag"
-   ]
-  },
-  {
-   "title": "Transfer-Ticker: Ex-Bayern-Star Tel vor Bundesliga-Rückkehr? Gerücht um Mega-Tausch",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUXdwM3BvMGp0SU1uYU53OG0wWEdFZGZFYVFHZlF2d3RHa3Jtcy1wRXBYOXZuaFZHOW4tYmNaNGJtSHJJaVVlWlZ3U3hDcGZaRkJBWjVMWEdWNWRJOUZnUGhBUk9wUnJ2b05ma0xfQVVoOXJtQ0hHVmlrbFhuU2tldTFnZG90WWVIc0RKWGVYR09SYkFOU0dxLVl2Vzk3djN2MUo2UmpORzJQYUxhT1BmdDEyb3B6ZDdZbVNGNTRR?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPUXdwM3BvMGp0SU1uYU53OG0wWEdFZGZFYVFHZlF2d3RHa3Jtcy1wRXBYOXZuaFZHOW4tYmNaNGJtSHJJaVVlWlZ3U3hDcGZaRkJBWjVMWEdWNWRJOUZnUGhBUk9wUnJ2b05ma0xfQVVoOXJtQ0hHVmlrbFhuU2tldTFnZG90WWVIc0RKWGVYR09SYkFOU0dxLVl2Vzk3djN2MUo2UmpORzJQYU",
-   "source": "sport.de",
-   "date": "2026-11-20T10:38:00.000Z",
-   "fee": null,
-   "clubs": [
-    "Bayern"
-   ],
-   "tags": [
-    "Gerücht",
-    "Personal"
    ]
   },
   {
@@ -277,20 +290,6 @@ window.FUPPES_DATA["transfers"] = {
    "tags": [
     "Fix",
     "Verein"
-   ]
-  },
-  {
-   "title": "FC Bayern trifft \"klare\" Transferentscheidung",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOYUtQWUVwUnpwdXhmTy1yR2tYclhnc0szWmExVmNIRjVIRlBHU29EUEFaOUdIZURBaVFpOWh4WndaeGZwR2xMX1Bob05hVzVfS0V0ZFVsUzEwNUhLYWNPMnhoV3AwY1ZfbHBHSk1EYi1FV2toLWtrYmlOZHBHUkpYNFF6T1locXI0?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOYUtQWUVwUnpwdXhmTy1yR2tYclhnc0szWmExVmNIRjVIRlBHU29EUEFaOUdIZURBaVFpOWh4WndaeGZwR2xMX1Bob05hVzVfS0V0ZFVsUzEwNUhLYWNPMnhoV3AwY1ZfbHBHSk1EYi1FV2toLWtrYmlOZHBHUkpYNFF6T1locXI0?oc=5\" target=\"_blank\">FC Bayern trifft \"klare",
-   "source": "sport.de",
-   "date": "2026-11-20T07:17:00.000Z",
-   "fee": null,
-   "clubs": [
-    "Bayern"
-   ],
-   "tags": [
-    "Transfer"
    ]
   },
   {
@@ -350,20 +349,6 @@ window.FUPPES_DATA["transfers"] = {
    ]
   },
   {
-   "title": "FC Barcelona arbeitet im Hintergrund an einem spektakulären Transfer",
-   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQbDRwVlhlX1otck5xdlp6dXh4ZGF4S3hBaTFLSnNDNHRDRVZJUEVLYVJsUTRZOEJnbEs3cXozZ1lKcktlb2EwN1RVTjFLNUxwRVJNT2haZ1Y3UEZHaklDYzQ2aG9WeG1IV2ZWd3k1SDl3LXFZYzc3aHBjbm9UOFpHSDVQLTRab2xRRFBNVVNoOGd5STBiSkFEQnh4d1hIUWxTUzZ5UHBWbmVhbHhHLW5PWTdqYzVDV0NKbjE5RzdMSk11c2M4WW44THBQNUdYYVJmMHBiOUpTcnY0T1JwRHBfUVhUVENnb25ldWc?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxQbDRwVlhlX1otck5xdlp6dXh4ZGF4S3hBaTFLSnNDNHRDRVZJUEVLYVJsUTRZOEJnbEs3cXozZ1lKcktlb2EwN1RVTjFLNUxwRVJNT2haZ1Y3UEZHaklDYzQ2aG9WeG1IV2ZWd3k1SDl3LXFZYzc3aHBjbm9UOFpHSDVQLTRab2xRRFBNVVNoOGd5STBiSkFEQnh4d1hIUWxTUzZ5UHBWbmVhbH",
-   "source": "Sport Bild",
-   "date": "2026-11-19T14:27:01.000Z",
-   "fee": null,
-   "clubs": [
-    "Barcelona"
-   ],
-   "tags": [
-    "Transfer"
-   ]
-  },
-  {
    "title": "BVB wittert Schnäppchen-Transfer",
    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWmFlTHFDb2lfN0RCRllncHdaSXJBdE5BMTZUdDU2U2FEc2tvVnpDM3VnVGVFeXRBaTMybmhrcGNrVnNjWE1Hc01tazlIM0lrNUo0Q3d6ME5iUEh3eDVQNHExWlZGZC00dFRsOFlqdFdsaDEtbkJ3b0cxbXJEanh1eDdDY2dKaXowZDN2UHpxRjZsdw?oc=5",
    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNWmFlTHFDb2lfN0RCRllncHdaSXJBdE5BMTZUdDU2U2FEc2tvVnpDM3VnVGVFeXRBaTMybmhrcGNrVnNjWE1Hc01tazlIM0lrNUo0Q3d6ME5iUEh3eDVQNHExWlZGZC00dFRsOFlqdFdsaDEtbkJ3b0cxbXJEanh1eDdDY2dKaXowZDN2UHpxRjZsdw?oc=5\" target=\"_blank\">BVB witte",
@@ -391,6 +376,20 @@ window.FUPPES_DATA["transfers"] = {
    ],
    "tags": [
     "Gerücht"
+   ]
+  },
+  {
+   "title": "Erstmals seit 12 Jahren: BVB plant seltenen Transfer",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNLS0yVXh6SV9Qa1dGaU1ka3FxMDVfV2VhVkNobzNvN0pQMkhkR2lDRzBOb3RuMzBCTTZIUEI4Wkl5V2FSLTBCMGxmVzRjRXVfcFc0NGFVcWNVS19nb3cwLXp3UVJZN0VDcFBuMFNHbFNzZ3IybjZYeHhFMGF1TWF6N3Azb0FWUEpTbFVMNW9qbw?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNLS0yVXh6SV9Qa1dGaU1ka3FxMDVfV2VhVkNobzNvN0pQMkhkR2lDRzBOb3RuMzBCTTZIUEI4Wkl5V2FSLTBCMGxmVzRjRXVfcFc0NGFVcWNVS19nb3cwLXp3UVJZN0VDcFBuMFNHbFNzZ3IybjZYeHhFMGF1TWF6N3Azb0FWUEpTbFVMNW9qbw?oc=5\" target=\"_blank\">Erstmals seit",
+   "source": "fussballdaten.de",
+   "date": "2026-11-19T09:10:00.000Z",
+   "fee": null,
+   "clubs": [
+    "BVB"
+   ],
+   "tags": [
+    "Transfer"
    ]
   }
  ]
