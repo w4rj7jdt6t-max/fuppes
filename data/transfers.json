@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T20:53:40.956Z",
+ "updated": "2026-11-21T22:53:47.472Z",
  "rules": {
   "minFeeMio": 20,
   "topClubs": [
@@ -42,6 +42,36 @@
   ]
  },
  "items": [
+  {
+   "title": "Elfmeter-Fehlschuss und späte Rettung: Real feiert Comeback-Sieg",
+   "link": "https://www.kicker.de/elfmeter-fehlschuss-und-spaete-rettung-real-feiert-comeback-sieg-1273706/video#omrss",
+   "summary": "Real Madrid hatte im Heimspiel gegen Celta Vigo lang Schwierigkeiten, drehte gegen Ende dann aber doch auf und holte den Sieg. Die Highlights der Partie gibt es hier.",
+   "source": "kicker",
+   "date": "2026-11-21T22:35:41.000Z",
+   "fee": null,
+   "clubs": [
+    "Real Madrid"
+   ],
+   "tags": [
+    "Fix",
+    "Personal"
+   ]
+  },
+  {
+   "title": "\"Wetten, dass der Schalker Torknoten gegen den BVB platzt?\"",
+   "link": "https://www.kicker.de/wetten-dass-der-schalker-torknoten-gegen-den-bvb-platzt-1273678/video#omrss",
+   "summary": "Gegen Stuttgart holte Schalke zwar einen Punkt, verpasste aber erneut den ersten Treffer der Saison vor heimischer Kulisse. Die nächste Gelegenheit würde sich durchaus für die Premiere anbieten, immerhin wartet das Revierderby.",
+   "source": "kicker",
+   "date": "2026-11-21T21:00:32.000Z",
+   "fee": null,
+   "clubs": [
+    "BVB",
+    "Stuttgart"
+   ],
+   "tags": [
+    "Gerücht"
+   ]
+  },
   {
    "title": "Wird Premier-League-Star plötzlich nächster Neuzugang beim FC Bayern?",
    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRUlsWFh6MXhpbW4yMUtjSDJESFAyY3ZXenNzSDI1cGZSb1E1d294aXVXQ05mcEdjamk1UjJhdms4WVl6SEpMX1JUeVQ4OWI5cUtXSm00Qk1WbFJEYnctTklKR09wSXh3a2FBVzZHRExLUnNEcXBIbXptTlVqSGY0aE9ONThMZHZUZlh4M3NiOEpRSmdEMndIRG9yLU1sMXB5U3dCdzJaSWFNUQ?oc=5",
@@ -121,6 +151,20 @@
    "fee": null,
    "clubs": [
     "Bayern"
+   ],
+   "tags": [
+    "Transfer"
+   ]
+  },
+  {
+   "title": "Klare Transfer-Präferenz beim BVB",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE02TnlINnVuMzdsekZzTkpOcy04eEVGVmtNSzhIQ3dHY3p6ZEd1aS01bUhvLUdPaVFSeDNvQjR3UENsOU0weUM5Ym15QTdZVmpOcGRNS3RJMTVuMXllWkRHcEZOVXVrVVI4U2tjMUhfeGtzc1FCdUVEVjd1OVQ?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE02TnlINnVuMzdsekZzTkpOcy04eEVGVmtNSzhIQ3dHY3p6ZEd1aS01bUhvLUdPaVFSeDNvQjR3UENsOU0weUM5Ym15QTdZVmpOcGRNS3RJMTVuMXllWkRHcEZOVXVrVVI4U2tjMUhfeGtzc1FCdUVEVjd1OVQ?oc=5\" target=\"_blank\">Klare Transfer-Präferenz beim BVB</a>&nb",
+   "source": "sport.de",
+   "date": "2026-11-21T15:07:00.000Z",
+   "fee": null,
+   "clubs": [
+    "BVB"
    ],
    "tags": [
     "Transfer"
@@ -327,20 +371,6 @@
    ]
   },
   {
-   "title": "Reguła nach MRT – erste Diagnose für BVB-Transferziel",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQV1ZBaG5zOUJNdFJXdl80cnFaQ2JjUFFZaWkxdVJ6eGhFRTJ4Zmc0aTRqNjUyUUZ2U09Sd0czdlUwR1hVUjJMTEEwbW1KMkk1MXJIWkZPcHl0Q2tXaGM1SHVpSTROd3F5TDRVMXc4cTZ2U2JrM0FWdW56ZnItRVoySjdzYw?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQV1ZBaG5zOUJNdFJXdl80cnFaQ2JjUFFZaWkxdVJ6eGhFRTJ4Zmc0aTRqNjUyUUZ2U09Sd0czdlUwR1hVUjJMTEEwbW1KMkk1MXJIWkZPcHl0Q2tXaGM1SHVpSTROd3F5TDRVMXc4cTZ2U2JrM0FWdW56ZnItRVoySjdzYw?oc=5\" target=\"_blank\">Reguła nach MRT – erste Diagn",
-   "source": "fussballdaten.de",
-   "date": "2026-11-19T14:51:00.000Z",
-   "fee": null,
-   "clubs": [
-    "BVB"
-   ],
-   "tags": [
-    "Transfer"
-   ]
-  },
-  {
    "title": "FC Barcelona arbeitet im Hintergrund an einem spektakulären Transfer",
    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQbDRwVlhlX1otck5xdlp6dXh4ZGF4S3hBaTFLSnNDNHRDRVZJUEVLYVJsUTRZOEJnbEs3cXozZ1lKcktlb2EwN1RVTjFLNUxwRVJNT2haZ1Y3UEZHaklDYzQ2aG9WeG1IV2ZWd3k1SDl3LXFZYzc3aHBjbm9UOFpHSDVQLTRab2xRRFBNVVNoOGd5STBiSkFEQnh4d1hIUWxTUzZ5UHBWbmVhbHhHLW5PWTdqYzVDV0NKbjE5RzdMSk11c2M4WW44THBQNUdYYVJmMHBiOUpTcnY0T1JwRHBfUVhUVENnb25ldWc?oc=5",
    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxQbDRwVlhlX1otck5xdlp6dXh4ZGF4S3hBaTFLSnNDNHRDRVZJUEVLYVJsUTRZOEJnbEs3cXozZ1lKcktlb2EwN1RVTjFLNUxwRVJNT2haZ1Y3UEZHaklDYzQ2aG9WeG1IV2ZWd3k1SDl3LXFZYzc3aHBjbm9UOFpHSDVQLTRab2xRRFBNVVNoOGd5STBiSkFEQnh4d1hIUWxTUzZ5UHBWbmVhbH",
@@ -352,36 +382,6 @@
    ],
    "tags": [
     "Transfer"
-   ]
-  },
-  {
-   "title": "BVB wittert Schnäppchen-Transfer",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWmFlTHFDb2lfN0RCRllncHdaSXJBdE5BMTZUdDU2U2FEc2tvVnpDM3VnVGVFeXRBaTMybmhrcGNrVnNjWE1Hc01tazlIM0lrNUo0Q3d6ME5iUEh3eDVQNHExWlZGZC00dFRsOFlqdFdsaDEtbkJ3b0cxbXJEanh1eDdDY2dKaXowZDN2UHpxRjZsdw?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNWmFlTHFDb2lfN0RCRllncHdaSXJBdE5BMTZUdDU2U2FEc2tvVnpDM3VnVGVFeXRBaTMybmhrcGNrVnNjWE1Hc01tazlIM0lrNUo0Q3d6ME5iUEh3eDVQNHExWlZGZC00dFRsOFlqdFdsaDEtbkJ3b0cxbXJEanh1eDdDY2dKaXowZDN2UHpxRjZsdw?oc=5\" target=\"_blank\">BVB witte",
-   "source": "Fussball Transfers",
-   "date": "2026-11-19T10:19:06.000Z",
-   "fee": null,
-   "clubs": [
-    "BVB"
-   ],
-   "tags": [
-    "Transfer"
-   ]
-  },
-  {
-   "title": "Fußball-Transfergerüchte heute: BVB-Stars auf Shortlists von Barça und Man United",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9FSVUxSU9sbmNndHQ1WDlBTVNrd1lUS1gyM1R6TVVBdk5oQjd3OWUzaUc5WkNUSjQwbVhpcHh3QmNjMXQ2ckI0NUZ4a1hWMXlhNG56R0xhS0lPYnJhRmtKYUV1TkRWYmNacUVzYmtUR3M?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE9FSVUxSU9sbmNndHQ1WDlBTVNrd1lUS1gyM1R6TVVBdk5oQjd3OWUzaUc5WkNUSjQwbVhpcHh3QmNjMXQ2ckI0NUZ4a1hWMXlhNG56R0xhS0lPYnJhRmtKYUV1TkRWYmNacUVzYmtUR3M?oc=5\" target=\"_blank\">Fußball-Transfergerüchte heute: BVB-Stars auf Shortlists",
-   "source": "90min.de",
-   "date": "2026-11-19T09:15:37.000Z",
-   "fee": null,
-   "clubs": [
-    "BVB",
-    "Barça",
-    "Man United"
-   ],
-   "tags": [
-    "Gerücht"
    ]
   }
  ]
