@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T22:58:47.862Z",
+ "updated": "2026-11-21T01:26:34.823Z",
  "rules": {
   "minFeeMio": 20,
   "topClubs": [
@@ -42,6 +42,20 @@
   ]
  },
  "items": [
+  {
+   "title": "Offiziell: Flicks Aufsteiger Espart unterschreibt bei Barça bis 2030",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOWGNwTW9EaVMwVDAzSlZ6N0RrUVloaGlEOHRKd01kSUlncXFpQ3llazhjd0w2UkdUd0xncHlsWGNvMnNpekhIVlV3OVBkcnFXcHFlMHNpdWxQUEQzV1NIckVjZzlrWmdybk96VnV3NWtBVHZRNTFjekRsYlJhb2tja2drQ1d0aUU4by1YNGNjNWcyRUJWdjNpYjhlU0dwbWJENE1WSklydGd5ZVlYSFp3WFhQd2tVaGRpak9raW5iQ3Q3SnZ6a0VHZmZR?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxOWGNwTW9EaVMwVDAzSlZ6N0RrUVloaGlEOHRKd01kSUlncXFpQ3llazhjd0w2UkdUd0xncHlsWGNvMnNpekhIVlV3OVBkcnFXcHFlMHNpdWxQUEQzV1NIckVjZzlrWmdybk96VnV3NWtBVHZRNTFjekRsYlJhb2tja2drQ1d0aUU4by1YNGNjNWcyRUJWdjNpYjhlU0dwbWJENE1WSklydGd5ZV",
+   "source": "n-tv.de",
+   "date": "2026-11-20T23:58:37.000Z",
+   "fee": null,
+   "clubs": [
+    "Barça"
+   ],
+   "tags": [
+    "Vertrag"
+   ]
+  },
   {
    "title": "\"Kann mir nicht vorstellen, dass irgendein Verein Musiala unter diesen Voraussetzungen kaufen wird\"",
    "link": "https://www.kicker.de/kann-mir-nicht-vorstellen-dass-irgendein-verein-musiala-unter-diesen-voraussetzungen-kaufen-wird-1273374/artikel#omrss",
@@ -86,22 +100,6 @@
    ]
   },
   {
-   "title": "FC Bayern plant offenbar überraschenden Transfer-Coup – Star von Inter Mailand im Anflug?",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSUttajgyYUFpUC1RMkoxSXlhRWVkZktKWVptQldDNjcxeWxFNHE0bmdnSC1xQzJUcW9ZWVBhZV96SDNZQTBWakJQdEpyS0pXYkM1V0htLW9RSDRROTh5NXpvaXQ1aERqNkNra25Ta20zd053OFJPQTROT3hGUVVwM0hDelpZUzg4ZExYcklrMWI4QjBpaUczeDg3dm5ZOVRvRnFuYl9BbzJ6WnBfb2dnVw?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNSUttajgyYUFpUC1RMkoxSXlhRWVkZktKWVptQldDNjcxeWxFNHE0bmdnSC1xQzJUcW9ZWVBhZV96SDNZQTBWakJQdEpyS0pXYkM1V0htLW9RSDRROTh5NXpvaXQ1aERqNkNra25Ta20zd053OFJPQTROT3hGUVVwM0hDelpZUzg4ZExYcklrMWI4QjBpaUczeDg3dm5ZOVRvRnFuYl9BbzJ6Wn",
-   "source": "Merkur",
-   "date": "2026-11-20T16:25:23.000Z",
-   "fee": null,
-   "clubs": [
-    "Bayern",
-    "Inter Mailand",
-    "Inter"
-   ],
-   "tags": [
-    "Gerücht"
-   ]
-  },
-  {
    "title": "BVB: Inácio durchkreuzt Transferplan",
    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQcm43dkxMZ1ZLM2NUSVhEVEZsa2RmQTJJb2lJc0dvVzg4dzF0MUk4a1NyaF8zYjVmQ0l0N0tPM29zNzNTVHFGNFlKal94VnB4d0R6TDZDM1R5RjNKYTljUUxJaGJhRjJ2NklCcmRYM0hDb3pfR2VZaUtBSUhWSkRYWktGdkliaXVSY1BsMDhndjZJdkJM?oc=5",
    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQcm43dkxMZ1ZLM2NUSVhEVEZsa2RmQTJJb2lJc0dvVzg4dzF0MUk4a1NyaF8zYjVmQ0l0N0tPM29zNzNTVHFGNFlKal94VnB4d0R6TDZDM1R5RjNKYTljUUxJaGJhRjJ2NklCcmRYM0hDb3pfR2VZaUtBSUhWSkRYWktGdkliaXVSY1BsMDhndjZJdkJM?oc=5\" target=\"_blank\">BVB: In",
@@ -113,20 +111,6 @@
    ],
    "tags": [
     "Transfer"
-   ]
-  },
-  {
-   "title": "Drei Torhüter auf der Bayern-Wunschliste: Karius als „perfekte Option“?",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNVZ5Z2RSWXEwVnNhV0NfZFJ6SEpIVk1kWGpZeTdiRDU1bnI4cFllLXpid2gwQTZ4MlRXTnRjZ25yanh2TVBIQm9aUnlpNnNtUlVQUmxscHpCcXhBRXU4WFI2ajZqOUNmbFZJU1RRT1NpQVlmTWFfQm1iTHFyeWVaNnNDY0FZZjNmeVBQY3hwXzEwRVVYdWc?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQNVZ5Z2RSWXEwVnNhV0NfZFJ6SEpIVk1kWGpZeTdiRDU1bnI4cFllLXpid2gwQTZ4MlRXTnRjZ25yanh2TVBIQm9aUnlpNnNtUlVQUmxscHpCcXhBRXU4WFI2ajZqOUNmbFZJU1RRT1NpQVlmTWFfQm1iTHFyeWVaNnNDY0FZZjNmeVBQY3hwXzEwRVVYdWc?oc=5\" target=\"_blank\">Drei",
-   "source": "fussballdaten.de",
-   "date": "2026-11-20T13:22:00.000Z",
-   "fee": null,
-   "clubs": [
-    "Bayern"
-   ],
-   "tags": [
-    "Gerücht"
    ]
   },
   {
@@ -259,14 +243,14 @@
    ]
   },
   {
-   "title": "Bayern-Bosse legen Transferstopp für den Winter fest",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOclRabTY0NHR5OTR0LVlQLXJhT2s5dVh0bXBlQ2pVUVNuSzRsWU02XzFZMy1VU1BZY196dFBLMy1ZblVjeVZxaEp3MVJrTk5QQjZxRmN2R1AwQjNHUm90dlhHdDlMc0ExSGJyWTRja0JOY0VXdGFBZXBmWXB0YzJLMEdHZmc0azIwbFlXOFJqbmR4SmRGcEJkZlR4Rlh4QVg4cnB3LUtraWFndjJvUUpOYmMwcmlvWWF1OTRoU21CWDY4SjBZWkZSdXBxOA?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxOclRabTY0NHR5OTR0LVlQLXJhT2s5dVh0bXBlQ2pVUVNuSzRsWU02XzFZMy1VU1BZY196dFBLMy1ZblVjeVZxaEp3MVJrTk5QQjZxRmN2R1AwQjNHUm90dlhHdDlMc0ExSGJyWTRja0JOY0VXdGFBZXBmWXB0YzJLMEdHZmc0azIwbFlXOFJqbmR4SmRGcEJkZlR4Rlh4QVg4cnB3LUtraWFndj",
-   "source": "FOCUS online",
-   "date": "2026-11-20T06:14:00.000Z",
+   "title": "Top-Talent Gabriel vor Transfer: Man United behält sich rechtliche Schritte gegen Real vor",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPSG5HV2lXQk4tWEZiV2RmWFZseEREOGZSUVVGZmRRTTF1OVo4MHBfc3V6akxPSzVYODlmeHVxWXZuSnJnYi03QVhMQlpXQ0JLbkF4Wk1CYXQ0bWs4U1dIblQ2cWc3ai13ME9VeVNIN2p1ZldxM0tEb19XdnFrenVuYVhVVXFBZGZxMnlfVzNOMWlDMHZhakp1UzloQkFsRFZscWNaQlFVeTVIZ29DNkMyRXY0VTlGQjFuMGxVb1RxdHpEckRoNkVHeXpnMFg5aGxG?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxPSG5HV2lXQk4tWEZiV2RmWFZseEREOGZSUVVGZmRRTTF1OVo4MHBfc3V6akxPSzVYODlmeHVxWXZuSnJnYi03QVhMQlpXQ0JLbkF4Wk1CYXQ0bWs4U1dIblQ2cWc3ai13ME9VeVNIN2p1ZldxM0tEb19XdnFrenVuYVhVVXFBZGZxMnlfVzNOMWlDMHZhakp1UzloQkFsRFZscWNaQlFVeTVIZ2",
+   "source": "Transfermarkt",
+   "date": "2026-11-19T18:07:00.000Z",
    "fee": null,
    "clubs": [
-    "Bayern"
+    "Man United"
    ],
    "tags": [
     "Transfer"
@@ -284,6 +268,21 @@
    ],
    "tags": [
     "Transfer"
+   ]
+  },
+  {
+   "title": "Musiala-Verkauf? Brisantes Vertragsdetail beim Bayern-Superstar",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPS3pYSDNPY2pPbGxLejBjaWRhOEpVZEt3endpVHRLVXpEOGdvRlJpZjlsejA0ZmdON1JRY0s3ODJQSEJfR1V6eFB1Tks1dEFsMmpzQ2UyQ181cGZhRW0wekZnVWxjU3p6QTJUdEFBdUo0ZnpZWWN1c1Qwbmk2X01qZHBkaDREdEc4UDF3cnlSZzBzWkd3YmNVSWpINkNXY2RkZXRpZW1uNEtmZUQzSFJFaE53?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPS3pYSDNPY2pPbGxLejBjaWRhOEpVZEt3endpVHRLVXpEOGdvRlJpZjlsejA0ZmdON1JRY0s3ODJQSEJfR1V6eFB1Tks1dEFsMmpzQ2UyQ181cGZhRW0wekZnVWxjU3p6QTJUdEFBdUo0ZnpZWWN1c1Qwbmk2X01qZHBkaDREdEc4UDF3cnlSZzBzWkd3YmNVSWpINkNXY2RkZXRpZW1uNEtmZU",
+   "source": "Sky.de",
+   "date": "2026-11-19T17:12:00.000Z",
+   "fee": null,
+   "clubs": [
+    "Bayern"
+   ],
+   "tags": [
+    "Gerücht",
+    "Vertrag"
    ]
   },
   {

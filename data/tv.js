@@ -1,6 +1,6 @@
 window.FUPPES_DATA = window.FUPPES_DATA || {};
 window.FUPPES_DATA["tv"] = {
- "updated": "2026-11-20T22:58:48.787Z",
+ "updated": "2026-11-21T01:26:36.330Z",
  "matches": [
   {
    "matchID": 83237,
@@ -17,7 +17,7 @@ window.FUPPES_DATA["tv"] = {
      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNT1dqUzZtT0ZpU3FES2Ewak9FV0lydm1oa0Q4TlJVS0pscHpWMnBBWW0yLWVVUXpSaHVRRlRCWXZLS05kLUxuLXRMeTJwNkY0aFJKaUt6TmZqZDhMQUlMSjNCS3pwVmZNLWFQbkRCWW1Wcm1DTDA5SEl2ZGdPQkNseFpwTHBodTNiY1oybFhNbTJrSHR5NzdQNFFVNWIyUU4zUERTZ1ZUV3ZhcTVqLVl0YlJscW1hX0xndXU2Y3ByYmliM3FYek5wbw?oc=5"
     }
    ],
-   "kicker": "https://www.kicker.de/wer-uebertraegt-fc-bayern-muenchen-gegen-1-fc-koeln-live-im-tv-und-stream-1271330/artikel"
+   "kicker": null
   },
   {
    "matchID": 83252,

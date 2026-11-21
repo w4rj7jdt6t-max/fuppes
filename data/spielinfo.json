@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T22:58:48.437Z",
+ "updated": "2026-11-21T01:26:35.994Z",
  "fc": [
   {
    "start": "2025-11-22T17:30:00.000Z",
@@ -1619,12 +1619,48 @@
   },
   {
    "start": "2026-11-20T19:30:00.000Z",
-   "title": "Bayern München 1:1 1. FC Köln",
-   "result": null,
+   "title": "Bayern München 1:1 (1:1) KOE",
+   "result": "Bayern München 1:1 (1:1) 1. FC Köln",
    "stadium": "Allianz Arena",
    "city": "München",
-   "lineups": [],
-   "goals": []
+   "lineups": [
+    {
+     "team": "Bayern München",
+     "players": [
+      "Kane (20. Bischof)",
+      "Tah",
+      "Kimmich",
+      "Laimer (70. Musiala)",
+      "Upamecano (70. Kim)",
+      "Stanišić",
+      "Brown",
+      "Urbig",
+      "Pavlović (87. Codjo-Evora)",
+      "Olise (46. Binder)",
+      "Karl"
+     ]
+    },
+    {
+     "team": "1. FC Köln",
+     "players": [
+      "Schwäbe",
+      "Sosa",
+      "Maina (77. Thielmann)",
+      "Schmied",
+      "Krauß",
+      "Lochoshvili",
+      "Moore (90. Bülter)",
+      "Sebulonsen (85. Castro-Montes)",
+      "Simpson-Pusey",
+      "El Mala (85. Heskey)",
+      "Okon-Engstler (77. Jóhannesson)"
+     ]
+    }
+   ],
+   "goals": [
+    "0:1 Moore (12.)",
+    "1:1 Brown (37.)"
+   ]
   },
   {
    "start": "2026-11-28T14:30:00.000Z",
@@ -1855,6 +1891,17 @@
  "press": [
   {
    "who": "fc",
+   "id": "BfVoD04xELg",
+   "title": "„Eine Top Leistung“ - Pressekonferenz nach Bayern | FC Bayern München - 1. FC Köln 1:1",
+   "date": "2026-11-21T00:23:53+00:00",
+   "url": "https://www.youtube.com/watch?v=BfVoD04xELg",
+   "summary": "Nach dem 1:1-Unentschieden im Auswärtsspiel beim FC Bayern sprechen die beiden Cheftrainer Vincent Kompay und René Wagner mit der Presse in der Allianz Arena. #effzeh #FCBKOE",
+   "quotes": [
+    "Eine Top Leistung"
+   ]
+  },
+  {
+   "who": "fc",
    "id": "i7K0Z1myins",
    "title": "Pressekonferenz vor FC Bayern München | 1. FC Köln",
    "date": "2026-11-18T12:57:31+00:00",
@@ -1881,17 +1928,6 @@
    "url": "https://www.youtube.com/watch?v=cRrkIXhAhWE",
    "summary": "Der 1. FC Köln trifft am 9. Spieltag der Bundesliga-Saison 2026/27 auf Bayer 04 Leverkusen. Das Spiel findet am Sonntag, 08. November 2026, um 15.30 Uhr im RheinEnergieSTADION statt. Im Vorfeld der Partie beantwortet Cheftrainer René Wagner in der Pressekonferenz am Freitag, 06. November 2026, um 13.30 Uhr die Fragen d",
    "quotes": []
-  },
-  {
-   "who": "fc",
-   "id": "6EKYDJkxcdA",
-   "title": "„Gerechtes Unentschieden“ - Pressekonferenz nach Union | 1. FC Union Berlin - 1. FC Köln 1:1",
-   "date": "2026-11-01T18:29:52+00:00",
-   "url": "https://www.youtube.com/watch?v=6EKYDJkxcdA",
-   "summary": "Nach dem 1:1-Unentschieden im Auswärtsspiel beim 1. FC Union Berlin sprechen die beiden Cheftrainer Mauro Lustrinelli und René Wagner mit der Presse.",
-   "quotes": [
-    "Gerechtes Unentschieden"
-   ]
   }
  ],
  "referees": [
