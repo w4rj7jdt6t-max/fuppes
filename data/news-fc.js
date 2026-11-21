@@ -1,6 +1,6 @@
 window.FUPPES_DATA = window.FUPPES_DATA || {};
 window.FUPPES_DATA["news-fc"] = {
- "updated": "2026-11-21T07:24:39.363Z",
+ "updated": "2026-11-21T08:58:57.971Z",
  "items": [
   {
    "title": "Bayern-Star Harry Kane gegen Köln ausgewechselt - auch Olise verletzt",
@@ -14,7 +14,7 @@ window.FUPPES_DATA["news-fc"] = {
    ]
   },
   {
-   "title": "Bei Remis gegen Köln: Kane und Olise verletzt ausgewechselt",
+   "title": "Bei Remis gegen Köln: Bayerns Kane und Olise verletzt ausgewechselt",
    "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPVGhwUENVSVlibXlNdE5wVVVKODJpT21rNHlNZFk3VmFzRWdRU2Rob0c2bVNzMDZqcEN3OFhvLUczQ1p4RVNnVnRBZTNnMWs5RWEwektIQnQ1R3F5VG91bGl4RGtGZDA0dkl2THhsaGZWNnJHWWF4VzZKRWUzR2x5R2FtajQ2SG04UzloZnJzWVlTM0lkRHBrTFFaVHdiWHQwRldfNmxZc2VhZ21MUUJ4RkMxaVNIb1B0b2ItYUFxbkt1QmtBbVdsd1pfSm1qZVZ5UzNWWVc1aVRiWTBiWlNORlNaRWRnR2REUmRQMW9n?oc=5",
    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxPVGhwUENVSVlibXlNdE5wVVVKODJpT21rNHlNZFk3VmFzRWdRU2Rob0c2bVNzMDZqcEN3OFhvLUczQ1p4RVNnVnRBZTNnMWs5RWEwektIQnQ1R3F5VG91bGl4RGtGZDA0dkl2THhsaGZWNnJHWWF4VzZKRWUzR2x5R2FtajQ2SG04UzloZnJzWVlTM0lkRHBrTFFaVHdiWHQwRldfNmxZc2VhZ2",
    "source": "sportschau.de",
@@ -189,16 +189,6 @@ window.FUPPES_DATA["news-fc"] = {
    ]
   },
   {
-   "title": "Vier Wochen nach Zusammenbruch: Bayern-Trainer Kompany gegen Köln wieder dabei",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPY202RTlqYmFtRTlMTnlUM3ZCeXVoWVlGMERWeUxkeTY5SFpYU1Z3SjRJVjVSR0wzUENzaUJKSTUyQU9ibXRTQ0c0Y3JEVTU1TnpiU3ZvYXFxdnBpb1RCN0ZGeG9Hb3hUUGxOaUFMUDIwSHc3SmFVQThIaFFwc09ZQkMyQTk0MXlKcUN6LWRoaWNtdWJyYnhlZHBqWVo4ZnRVNkpvMTFB?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPY202RTlqYmFtRTlMTnlUM3ZCeXVoWVlGMERWeUxkeTY5SFpYU1Z3SjRJVjVSR0wzUENzaUJKSTUyQU9ibXRTQ0c0Y3JEVTU1TnpiU3ZvYXFxdnBpb1RCN0ZGeG9Hb3hUUGxOaUFMUDIwSHc3SmFVQThIaFFwc09ZQkMyQTk0MXlKcUN6LWRoaWNtdWJyYnhlZHBqWVo4ZnRVNkpvMTFB?oc=5\"",
-   "source": "sportschau.de",
-   "date": "2026-11-18T19:03:00.000Z",
-   "tags": [
-    "Verein"
-   ]
-  },
-  {
    "title": "Dreesen bestätigt: Bayern-Trainer Kompany kehrt zurück – Comeback gegen Köln",
    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNV2JEMmZiUDRFSUMwU0QwSVpOZk5qMUVMQVZFSXpyTkhDRC12U1BDbmZJMUhveFk1Y0dyNzNMNFV6d2RPUXRxZnVDVHladWx4OGxWSE8tWHhDMlItSlVscFI5c014QVFaOHZ6LS1mMk40aURLMXhxLTE5SzJWeHZGejA0Z3N4aXNyRmR0RHNEWEhHQkVNQ0JLWkJZQm95RkxjV1VVTF9uU3dMNHV3aFlpV3o4QVlZZ3l4enVj?oc=5",
    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNV2JEMmZiUDRFSUMwU0QwSVpOZk5qMUVMQVZFSXpyTkhDRC12U1BDbmZJMUhveFk1Y0dyNzNMNFV6d2RPUXRxZnVDVHladWx4OGxWSE8tWHhDMlItSlVscFI5c014QVFaOHZ6LS1mMk40aURLMXhxLTE5SzJWeHZGejA0Z3N4aXNyRmR0RHNEWEhHQkVNQ0JLWkJZQm95RkxjV1VVTF9uU3dMNH",
@@ -207,6 +197,16 @@ window.FUPPES_DATA["news-fc"] = {
    "tags": [
     "Personal",
     "Verein"
+   ]
+  },
+  {
+   "title": "Köln bietet Bayern die Stirn - Kane schwer verletzt",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQWERHWC0zcGstZUxJbFFIaFhhX1A2N1BkYmp2U2tFejNudVZzOXgtUTcxeld1N2xvTXpIdE8yY2E1STFLSmhGdHFXSmExaFJLdjA3ZWc3dmZFb25STXEzTkJQTTBHcjNXbkE1ZTZ0MWZ0amlOMWFDTkVCbFdVSjB0TDlR?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxQWERHWC0zcGstZUxJbFFIaFhhX1A2N1BkYmp2U2tFejNudVZzOXgtUTcxeld1N2xvTXpIdE8yY2E1STFLSmhGdHFXSmExaFJLdjA3ZWc3dmZFb25STXEzTkJQTTBHcjNXbkE1ZTZ0MWZ0amlOMWFDTkVCbFdVSjB0TDlR?oc=5\" target=\"_blank\">Köln bietet Bayern die Stirn - ",
+   "source": "Kicker",
+   "date": "2026-11-18T17:19:58.000Z",
+   "tags": [
+    "Personal"
    ]
   }
  ]
