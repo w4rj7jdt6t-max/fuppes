@@ -1,13 +1,33 @@
 window.FUPPES_DATA = window.FUPPES_DATA || {};
 window.FUPPES_DATA["news-fc"] = {
- "updated": "2026-11-21T19:00:25.781Z",
+ "updated": "2026-11-21T20:53:39.492Z",
  "items": [
+  {
+   "title": "1. FC Köln: Wochenlange Spekulationen um Moore - haben die Gerüchte endgültig ein Ende?",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQcl9BN2dpczYybTQyajIwdkhoODNRV181MHZOSU5xbVBsa2ZBNWpZSi1nX0pnWlcxd2haWngyQnpRMHhRX3FzMWVHeUZMeF93REE5ZGNRbVhzMXAxTmU2aGtnOEpackEzX2l1djBINkx2MW85bkVtYXAwTTFINUtqWGRzQnQ0MWpKWlo0b2N0V0lFbGNV?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQcl9BN2dpczYybTQyajIwdkhoODNRV181MHZOSU5xbVBsa2ZBNWpZSi1nX0pnWlcxd2haWngyQnpRMHhRX3FzMWVHeUZMeF93REE5ZGNRbVhzMXAxTmU2aGtnOEpackEzX2l1djBINkx2MW85bkVtYXAwTTFINUtqWGRzQnQ0MWpKWlo0b2N0V0lFbGNV?oc=5\" target=\"_blank\">1. FC K",
+   "source": "DerWesten",
+   "date": "2026-11-21T20:33:01.000Z",
+   "tags": [
+    "Gerücht"
+   ]
+  },
   {
    "title": "MV ohne Team und Trainer: Stars dürfen „mit Hund und Katze durchatmen“",
    "link": "https://geissblog.koeln/2026/11/mv-ohne-spieler-und-trainer-stars-duerfen-mit-hund-und-katze-durchatmen/",
    "summary": "Die Mitglieder des 1. FC Köln treffen sich am Sonntag zur großen Versammlung in der KölnMesse. Doch die MV muss in diesem Jahr ohne Stars... Der Beitrag MV ohne Team und Trainer: Stars dürfen „mit Hund und Katze durchatmen“ erschien zuerst auf GEISSBLOG .",
    "source": "GEISSBLOG",
    "date": "2026-11-21T18:48:00.000Z",
+   "tags": [
+    "Verein"
+   ]
+  },
+  {
+   "title": "1. FC Köln: Trainer Wagner trauert Sieg nach – „Froh über den Punkt, aber...“",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQalpJUnBycVE5MGRfY19sMXluRlBwSlFKTWlLUW16ZG9SSXpRZFBEYUVwaDRPZy13NWVGRmlEeG83OXdFTjhwLTFmRkIwNWdXSmxjd2FBeEU4LWtIZmdBM1c5TDlaNTZNQzB1NGRWNDg3UXFWZ0NBNXpPdFc3RHZKMmppTVl2d25ycFd4QWFPbGs1Y09IN1dqWnZKMVhRZXBJTGw1aTdtWkpNckpOMkNCZk5rbl91eXh1b3BxM2ZuUFhfWHl2ZHZGbGR3?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQalpJUnBycVE5MGRfY19sMXluRlBwSlFKTWlLUW16ZG9SSXpRZFBEYUVwaDRPZy13NWVGRmlEeG83OXdFTjhwLTFmRkIwNWdXSmxjd2FBeEU4LWtIZmdBM1c5TDlaNTZNQzB1NGRWNDg3UXFWZ0NBNXpPdFc3RHZKMmppTVl2d25ycFd4QWFPbGs1Y09IN1dqWnZKMVhRZXBJTGw1aTdtWkpNck",
+   "source": "Joyn",
+   "date": "2026-11-21T17:08:09.000Z",
    "tags": [
     "Verein"
    ]
@@ -20,16 +40,6 @@ window.FUPPES_DATA["news-fc"] = {
    "date": "2026-11-21T15:45:00.000Z",
    "tags": [
     "Gerücht"
-   ]
-  },
-  {
-   "title": "1. FC Köln: Trainer Wagner trauert Sieg nach – „Froh über den Punkt, aber...“",
-   "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOS19xWWx2eXJSWFM3WjdKZW45YVRRVkRMM1U3T3N3MGlKcC0tanY4eFd2UmRsMFpUSVRmVl9QZWVpY29nSGFHMFdMYmliUGRxU3BKQWxWWVJBZ0xFQWw2clpsTDJqa1pidy01NjhtNXRLbXJTVFVGTk95VGRvMjZoWUwxcDlLOGJwRmVyLWthaDRmNWFWODhZeEFxUzB6ZXI1WVNDS281U2NPNjREOFNONjBLOGNPM08wN2dZSzlPM1c3bUQwTVNEZWllQlZfMEl3Y2VwRGRjRmxYd0FfQmtzMlJPSHJjMXJKTjBkZTJST0E3dnd0NkRXWnEwMVc?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_AFBVV95cUxOS19xWWx2eXJSWFM3WjdKZW45YVRRVkRMM1U3T3N3MGlKcC0tanY4eFd2UmRsMFpUSVRmVl9QZWVpY29nSGFHMFdMYmliUGRxU3BKQWxWWVJBZ0xFQWw2clpsTDJqa1pidy01NjhtNXRLbXJTVFVGTk95VGRvMjZoWUwxcDlLOGJwRmVyLWthaDRmNWFWODhZeEFxUzB6ZXI1WVNDS281U2NPNj",
-   "source": "Joyn",
-   "date": "2026-11-21T11:54:13.000Z",
-   "tags": [
-    "Verein"
    ]
   },
   {
@@ -166,27 +176,6 @@ window.FUPPES_DATA["news-fc"] = {
    ]
   },
   {
-   "title": "Bayern-Startelf gegen den 1. FC Köln: Überrascht Kompany nach Davies-Ausfall bei der Aufstellung?",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSWh6UlFaLVR0TUxhM0c0MjlFeDhNbmdZS2EzeTFtUkx6NEs4ZzBEVXBnOHdUTVdyRjlOdXdtc0RPSzlmS3RmbzZmMGlvYzBxUm5YQXRLX2VLVUJBcmJ0bjAwMWZJRjc3NkkwQUZCZlNZZ05zd3RXLUw5MXNER1JkSnZOdW9fU1FoaUFBT1dfT1doNlU4YTB5Z083akF6anRHd2RnTUNrMXBmY1M4UjZGSnlfY1ZUSFdXc2l4WA?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNSWh6UlFaLVR0TUxhM0c0MjlFeDhNbmdZS2EzeTFtUkx6NEs4ZzBEVXBnOHdUTVdyRjlOdXdtc0RPSzlmS3RmbzZmMGlvYzBxUm5YQXRLX2VLVUJBcmJ0bjAwMWZJRjc3NkkwQUZCZlNZZ05zd3RXLUw5MXNER1JkSnZOdW9fU1FoaUFBT1dfT1doNlU4YTB5Z083akF6anRHd2RnTUNrMXBmY1",
-   "source": "Frankfurter Rundschau",
-   "date": "2026-11-19T19:15:36.000Z",
-   "tags": [
-    "Gerücht",
-    "Personal"
-   ]
-  },
-  {
-   "title": "Defensiv-Akteur macht Platz für Ache: Der FC-Kader für das Bayern-Gastspiel",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTHBQN3AxRTVSR2txN2JkUlg2U09wbHc0Zk4zTElMYU9TQ3VUbVZtaEwtaU9NX0J4OUdoTUNvQ3RpYlh4SjVQc3FMa0pjbkZ6eWRYRG5RVlZrUURQWVNjQXRDNXk5Y21peFBBODRscldFQnJfOTRPSE00dFZIMUxrRUxmU3R5ZVBJMk1peExERUZmSkRGcktHeFNkLUt0eEZnUnYwU1RYMG9uYTlXR2JjemhpaE9qQ1hlSHpV?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTHBQN3AxRTVSR2txN2JkUlg2U09wbHc0Zk4zTElMYU9TQ3VUbVZtaEwtaU9NX0J4OUdoTUNvQ3RpYlh4SjVQc3FMa0pjbkZ6eWRYRG5RVlZrUURQWVNjQXRDNXk5Y21peFBBODRscldFQnJfOTRPSE00dFZIMUxrRUxmU3R5ZVBJMk1peExERUZmSkRGcktHeFNkLUt0eEZnUnYwU1RYMG9uYT",
-   "source": "Express",
-   "date": "2026-11-19T14:40:50.000Z",
-   "tags": [
-    "Personal"
-   ]
-  },
-  {
    "title": "Vincent Kompany: FC-Bayern-München-Trainer auf Bank gegen 1. FC Köln",
    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPdGJ6UGVPck9TNHlkc056bWtNaTJUcEdteTdCYnZCclNjNmVTQlJraDQ3NWNsTG5hb0pobG5VaU5PbElCX0hibkE0WDk2OWFNNHFlRFFubElxbDVhWTRjWDF6dE5OVFhic291R1NrRU5aMG4zX29DTExUeEcwOTBpYTNkemdMalo5cDBnY0ZLMlhuc1o0ZmNvcjNVcVpKZ2hCdnJ4TVBjbGo5WlVkXzVtdUlOSEhNNG1jTk03Y3ZDb21DTUpJSjl6eXRKbS1HLUwwQlVsRzA4cVVwZw?oc=5",
    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxPdGJ6UGVPck9TNHlkc056bWtNaTJUcEdteTdCYnZCclNjNmVTQlJraDQ3NWNsTG5hb0pobG5VaU5PbElCX0hibkE0WDk2OWFNNHFlRFFubElxbDVhWTRjWDF6dE5OVFhic291R1NrRU5aMG4zX29DTExUeEcwOTBpYTNkemdMalo5cDBnY0ZLMlhuc1o0ZmNvcjNVcVpKZ2hCdnJ4TVBjbGo5Wl",
@@ -197,13 +186,22 @@ window.FUPPES_DATA["news-fc"] = {
    ]
   },
   {
-   "title": "Kompany weiter lädiert: Bayern-Trainer mit Armschlinge bei Rückkehr gegen Köln",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMFF3ZF9KakhmRThYNEZhWmVkMllaS3dxU2Zsakt5YmFzWlZ2LU1xVkVzbDJtU04zbkdteWlsZkNJaGtPSnUwMFJtek9hOTlqUFFNQXpHd0hmRXlVM28zYlRKZ0dXbnloV3Z6a0Q1dmhrQm5kb1AzZFRFWnd6N05ZeW0tZVpnS0dFZnVSckVGcmFYTWE2TmxaUlozN0tnclU3LWU0Mk9QX1c1WWN5eVgzczhJSjhsSUZfZkR4VXp3?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQMFF3ZF9KakhmRThYNEZhWmVkMllaS3dxU2Zsakt5YmFzWlZ2LU1xVkVzbDJtU04zbkdteWlsZkNJaGtPSnUwMFJtek9hOTlqUFFNQXpHd0hmRXlVM28zYlRKZ0dXbnloV3Z6a0Q1dmhrQm5kb1AzZFRFWnd6N05ZeW0tZVpnS0dFZnVSckVGcmFYTWE2TmxaUlozN0tnclU3LWU0Mk9QX1c1WW",
-   "source": "Express",
-   "date": "2026-11-19T11:20:21.000Z",
+   "title": "Heimspiel gegen Köln: FC-Bayern-Trainer Kompany zu Zusammenbruch: \"Es war ein Schock\"",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOTZqbU9aR1g2dHA1cU91WWIyRl8xNVFVTW9tbGFxTUtaWmIzaG14ck80VXF3VzN2VEZoM2ZRdUEyM2dMQVN5bXlUSWIwSVlwa2pPaF9yV0RuNEU1dHJudTBhanhTZmZ3c0NsdW96VUsyZzc3SGEtMm1RbWFaREgxNnBkUkk1TVBUbFE4Q0ozSkI2US03RkpwSFhESmNKQTBKcUd6VkVWUE81LXZOVXFF?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQOTZqbU9aR1g2dHA1cU91WWIyRl8xNVFVTW9tbGFxTUtaWmIzaG14ck80VXF3VzN2VEZoM2ZRdUEyM2dMQVN5bXlUSWIwSVlwa2pPaF9yV0RuNEU1dHJudTBhanhTZmZ3c0NsdW96VUsyZzc3SGEtMm1RbWFaREgxNnBkUkk1TVBUbFE4Q0ozSkI2US03RkpwSFhESmNKQTBKcUd6VkVWUE81LX",
+   "source": "sportschau.de",
+   "date": "2026-11-19T09:59:37.000Z",
    "tags": [
-    "Personal",
+    "Verein"
+   ]
+  },
+  {
+   "title": "1. FC Köln beim FC Bayern: Trainer Wagner spürt keinen Druck vom FC",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZ3E3STlteHU5WGNnbGtCcmxKMmFzY09wYk5ERDBuVUZSZ0U5SmJJbTgzWXM4cXdmbE5ORjBCT05WOFNPOEYzQUs5TE1nclRuWUJ1MzJEQ1NVMzNXR19BNkhpWTBHX3c0eVEtVjRpZHA1MVdyZGpCT09hMjN3MnZoT25rSVFzR2gzekV0dXF0OC1MRHFSMjB6Ng?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPZ3E3STlteHU5WGNnbGtCcmxKMmFzY09wYk5ERDBuVUZSZ0U5SmJJbTgzWXM4cXdmbE5ORjBCT05WOFNPOEYzQUs5TE1nclRuWUJ1MzJEQ1NVMzNXR19BNkhpWTBHX3c0eVEtVjRpZHA1MVdyZGpCT09hMjN3MnZoT25rSVFzR2gzekV0dXF0OC1MRHFSMjB6Ng?oc=5\" target=\"_blank\">1",
+   "source": "sportschau.de",
+   "date": "2026-11-19T09:15:14.000Z",
+   "tags": [
     "Verein"
    ]
   }
