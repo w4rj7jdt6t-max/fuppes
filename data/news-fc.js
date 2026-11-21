@@ -1,6 +1,6 @@
 window.FUPPES_DATA = window.FUPPES_DATA || {};
 window.FUPPES_DATA["news-fc"] = {
- "updated": "2026-11-21T02:58:19.431Z",
+ "updated": "2026-11-21T05:07:27.352Z",
  "items": [
   {
    "title": "Rückschlag im Heimspiel – FC Bayern kommt ohne die verletzten Kane und Olise gegen Köln nur zu Remis",
