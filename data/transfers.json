@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T05:07:28.800Z",
+ "updated": "2026-11-21T07:24:40.917Z",
  "rules": {
   "minFeeMio": 20,
   "topClubs": [
@@ -271,6 +271,20 @@
    ]
   },
   {
+   "title": "Konkurrenz klopft an: BVB droht ablösefreier Verlust von Talent Hoy",
+   "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPSXB1dVhhbHhLLVZJMWJZSjRxcmtCWVhoNDNZay1NVWhuMjNxOHpFS21ZSXNxZzFudXAyRVZQUnBUajJsQWRZcEhYMDZURmd5ekh3WWQyTE5TcTZYNU1sbjMybzItd28tSFdmY0dfZHo2R2VlbHJyRldQQzRtaXJ6eXdtbk5nVG5GS2p3YzlLN1N1LVBnSlpERmZUQjEwUk5lc0RCZ2htUFhIczZJa1NrMktVRWZWS1RPYkpsbGtxM2NYSUZ1SXdOSjVNRlB4M2NoVVAtZnRQdHRyVkk3N2VGN1ZBZjBuOEYyZHQwaExScTM4T3VtRllNU3lhSEJ1aVN2QmVHQw?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAJBVV95cUxPSXB1dVhhbHhLLVZJMWJZSjRxcmtCWVhoNDNZay1NVWhuMjNxOHpFS21ZSXNxZzFudXAyRVZQUnBUajJsQWRZcEhYMDZURmd5ekh3WWQyTE5TcTZYNU1sbjMybzItd28tSFdmY0dfZHo2R2VlbHJyRldQQzRtaXJ6eXdtbk5nVG5GS2p3YzlLN1N1LVBnSlpERmZUQjEwUk5lc0RCZ2htUFhIcz",
+   "source": "n-tv.de",
+   "date": "2026-11-19T17:30:00.000Z",
+   "fee": null,
+   "clubs": [
+    "BVB"
+   ],
+   "tags": [
+    "Transfer"
+   ]
+  },
+  {
    "title": "Musiala-Verkauf? Brisantes Vertragsdetail beim Bayern-Superstar",
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPS3pYSDNPY2pPbGxLejBjaWRhOEpVZEt3endpVHRLVXpEOGdvRlJpZjlsejA0ZmdON1JRY0s3ODJQSEJfR1V6eFB1Tks1dEFsMmpzQ2UyQ181cGZhRW0wekZnVWxjU3p6QTJUdEFBdUo0ZnpZWWN1c1Qwbmk2X01qZHBkaDREdEc4UDF3cnlSZzBzWkd3YmNVSWpINkNXY2RkZXRpZW1uNEtmZUQzSFJFaE53?oc=5",
    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPS3pYSDNPY2pPbGxLejBjaWRhOEpVZEt3endpVHRLVXpEOGdvRlJpZjlsejA0ZmdON1JRY0s3ODJQSEJfR1V6eFB1Tks1dEFsMmpzQ2UyQ181cGZhRW0wekZnVWxjU3p6QTJUdEFBdUo0ZnpZWWN1c1Qwbmk2X01qZHBkaDREdEc4UDF3cnlSZzBzWkd3YmNVSWpINkNXY2RkZXRpZW1uNEtmZU",
@@ -369,22 +383,6 @@
    ],
    "tags": [
     "Transfer"
-   ]
-  },
-  {
-   "title": "Fußball-Transfergerüchte heute: BVB-Stars auf Shortlists von Barça und Man United",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9FSVUxSU9sbmNndHQ1WDlBTVNrd1lUS1gyM1R6TVVBdk5oQjd3OWUzaUc5WkNUSjQwbVhpcHh3QmNjMXQ2ckI0NUZ4a1hWMXlhNG56R0xhS0lPYnJhRmtKYUV1TkRWYmNacUVzYmtUR3M?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE9FSVUxSU9sbmNndHQ1WDlBTVNrd1lUS1gyM1R6TVVBdk5oQjd3OWUzaUc5WkNUSjQwbVhpcHh3QmNjMXQ2ckI0NUZ4a1hWMXlhNG56R0xhS0lPYnJhRmtKYUV1TkRWYmNacUVzYmtUR3M?oc=5\" target=\"_blank\">Fußball-Transfergerüchte heute: BVB-Stars auf Shortlists",
-   "source": "90min.de",
-   "date": "2026-11-19T09:15:37.000Z",
-   "fee": null,
-   "clubs": [
-    "BVB",
-    "Barça",
-    "Man United"
-   ],
-   "tags": [
-    "Gerücht"
    ]
   }
  ]
