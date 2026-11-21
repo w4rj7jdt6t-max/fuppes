@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T10:58:29.740Z",
+ "updated": "2026-11-21T13:12:00.201Z",
  "matches": [
   {
    "matchID": 83237,
@@ -67,16 +67,8 @@
    "kick": "2026-11-25T20:00:00Z",
    "team1": "Inter Mailand",
    "team2": "VfB Stuttgart",
-   "channels": [
-    "DAZN"
-   ],
-   "evidence": [
-    {
-     "title": "Inter Mailand - VfB Stuttgart live ► Die Übertragung der Champions League auf DAZN ✅",
-     "source": "DAZN",
-     "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNWkxVNkh2RHdnYkVOclZFZmVQZEJSX1pQMWtJYlEwa0laSWcxVUxBclhrbkFFLUE1dXJpMEQ1a0tYTkZmUGpZOW1uQlZUMEp4eE5kYl9aRG1IWGZ6eEFfM19XWXV5QTV3cFNtX3VnQ0h4OEF2QzE4UUNsU3pKaEZkbHFLR3VRVDR5LTFLMU5YeXdVWkx6MjNtT0lRd3BWYzlvdExKcWY3alAwSzEwOEVIQUFTeGxZaVV5MVF0LWFMN0g1X0tsWkxkck91ZFEzZkNma01yQjhtdzhiQQ?oc=5"
-    }
-   ],
+   "channels": [],
+   "evidence": [],
    "kicker": null
   },
   {
