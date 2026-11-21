@@ -1,6 +1,6 @@
 window.FUPPES_DATA = window.FUPPES_DATA || {};
 window.FUPPES_DATA["news-fc"] = {
- "updated": "2026-11-21T01:26:33.530Z",
+ "updated": "2026-11-21T02:58:19.431Z",
  "items": [
   {
    "title": "Rückschlag im Heimspiel – FC Bayern kommt ohne die verletzten Kane und Olise gegen Köln nur zu Remis",
@@ -30,6 +30,17 @@ window.FUPPES_DATA["news-fc"] = {
    "source": "ad-hoc-news.de",
    "date": "2026-11-20T22:20:04.000Z",
    "tags": [
+    "Personal"
+   ]
+  },
+  {
+   "title": "Bei Remis gegen Köln: Kane und Olise verletzt ausgewechselt",
+   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPVGhwUENVSVlibXlNdE5wVVVKODJpT21rNHlNZFk3VmFzRWdRU2Rob0c2bVNzMDZqcEN3OFhvLUczQ1p4RVNnVnRBZTNnMWs5RWEwektIQnQ1R3F5VG91bGl4RGtGZDA0dkl2THhsaGZWNnJHWWF4VzZKRWUzR2x5R2FtajQ2SG04UzloZnJzWVlTM0lkRHBrTFFaVHdiWHQwRldfNmxZc2VhZ21MUUJ4RkMxaVNIb1B0b2ItYUFxbkt1QmtBbVdsd1pfSm1qZVZ5UzNWWVc1aVRiWTBiWlNORlNaRWRnR2REUmRQMW9n?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxPVGhwUENVSVlibXlNdE5wVVVKODJpT21rNHlNZFk3VmFzRWdRU2Rob0c2bVNzMDZqcEN3OFhvLUczQ1p4RVNnVnRBZTNnMWs5RWEwektIQnQ1R3F5VG91bGl4RGtGZDA0dkl2THhsaGZWNnJHWWF4VzZKRWUzR2x5R2FtajQ2SG04UzloZnJzWVlTM0lkRHBrTFFaVHdiWHQwRldfNmxZc2VhZ2",
+   "source": "sportschau.de",
+   "date": "2026-11-20T22:08:00.000Z",
+   "tags": [
+    "Fix",
     "Personal"
    ]
   },
@@ -90,17 +101,6 @@ window.FUPPES_DATA["news-fc"] = {
    "source": "DerWesten",
    "date": "2026-11-20T20:47:17.000Z",
    "tags": [
-    "Personal"
-   ]
-  },
-  {
-   "title": "Sorgen um Kane und Olise: Bayern-Stars verletzt ausgewechselt gegen Köln",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdWtKYll4a2VlWktSbElHelllYTdYMXFtbFBzU0haSE13eGV5Tjdva2dvUUJqR2JUaERsMDdLMDFJcnJJYlUwTkFhUWxPVENaMHdKN0xyQmhET2JZWFI3eXdGWjUwZmpXazJGX0l5WDNnaUxYMktwQnRqX183YU5icUZGOUd4aUZXd19ZQU9BSFdmU2ZPRHRuQXlZTUgzUWloZnZDVmM1RGt4WmhYQW1fY1JTUTdHRVM2SWh3TE9HSXU?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdWtKYll4a2VlWktSbElHelllYTdYMXFtbFBzU0haSE13eGV5Tjdva2dvUUJqR2JUaERsMDdLMDFJcnJJYlUwTkFhUWxPVENaMHdKN0xyQmhET2JZWFI3eXdGWjUwZmpXazJGX0l5WDNnaUxYMktwQnRqX183YU5icUZGOUd4aUZXd19ZQU9BSFdmU2ZPRHRuQXlZTUgzUWloZnZDVmM1RGt4Wm",
-   "source": "T-Online",
-   "date": "2026-11-20T20:01:17.000Z",
-   "tags": [
-    "Fix",
     "Personal"
    ]
   },

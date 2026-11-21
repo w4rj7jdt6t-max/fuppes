@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T01:26:34.823Z",
+ "updated": "2026-11-21T02:58:20.726Z",
  "rules": {
   "minFeeMio": 20,
   "topClubs": [
@@ -42,20 +42,6 @@
   ]
  },
  "items": [
-  {
-   "title": "Offiziell: Flicks Aufsteiger Espart unterschreibt bei Barça bis 2030",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOWGNwTW9EaVMwVDAzSlZ6N0RrUVloaGlEOHRKd01kSUlncXFpQ3llazhjd0w2UkdUd0xncHlsWGNvMnNpekhIVlV3OVBkcnFXcHFlMHNpdWxQUEQzV1NIckVjZzlrWmdybk96VnV3NWtBVHZRNTFjekRsYlJhb2tja2drQ1d0aUU4by1YNGNjNWcyRUJWdjNpYjhlU0dwbWJENE1WSklydGd5ZVlYSFp3WFhQd2tVaGRpak9raW5iQ3Q3SnZ6a0VHZmZR?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxOWGNwTW9EaVMwVDAzSlZ6N0RrUVloaGlEOHRKd01kSUlncXFpQ3llazhjd0w2UkdUd0xncHlsWGNvMnNpekhIVlV3OVBkcnFXcHFlMHNpdWxQUEQzV1NIckVjZzlrWmdybk96VnV3NWtBVHZRNTFjekRsYlJhb2tja2drQ1d0aUU4by1YNGNjNWcyRUJWdjNpYjhlU0dwbWJENE1WSklydGd5ZV",
-   "source": "n-tv.de",
-   "date": "2026-11-20T23:58:37.000Z",
-   "fee": null,
-   "clubs": [
-    "Barça"
-   ],
-   "tags": [
-    "Vertrag"
-   ]
-  },
   {
    "title": "\"Kann mir nicht vorstellen, dass irgendein Verein Musiala unter diesen Voraussetzungen kaufen wird\"",
    "link": "https://www.kicker.de/kann-mir-nicht-vorstellen-dass-irgendein-verein-musiala-unter-diesen-voraussetzungen-kaufen-wird-1273374/artikel#omrss",
@@ -100,17 +86,17 @@
    ]
   },
   {
-   "title": "BVB: Inácio durchkreuzt Transferplan",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQcm43dkxMZ1ZLM2NUSVhEVEZsa2RmQTJJb2lJc0dvVzg4dzF0MUk4a1NyaF8zYjVmQ0l0N0tPM29zNzNTVHFGNFlKal94VnB4d0R6TDZDM1R5RjNKYTljUUxJaGJhRjJ2NklCcmRYM0hDb3pfR2VZaUtBSUhWSkRYWktGdkliaXVSY1BsMDhndjZJdkJM?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQcm43dkxMZ1ZLM2NUSVhEVEZsa2RmQTJJb2lJc0dvVzg4dzF0MUk4a1NyaF8zYjVmQ0l0N0tPM29zNzNTVHFGNFlKal94VnB4d0R6TDZDM1R5RjNKYTljUUxJaGJhRjJ2NklCcmRYM0hDb3pfR2VZaUtBSUhWSkRYWktGdkliaXVSY1BsMDhndjZJdkJM?oc=5\" target=\"_blank\">BVB: In",
-   "source": "Fussball Transfers",
-   "date": "2026-11-20T13:29:27.000Z",
+   "title": "Offiziell: Flicks Aufsteiger Espart unterschreibt bei Barça bis 2030",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOWGNwTW9EaVMwVDAzSlZ6N0RrUVloaGlEOHRKd01kSUlncXFpQ3llazhjd0w2UkdUd0xncHlsWGNvMnNpekhIVlV3OVBkcnFXcHFlMHNpdWxQUEQzV1NIckVjZzlrWmdybk96VnV3NWtBVHZRNTFjekRsYlJhb2tja2drQ1d0aUU4by1YNGNjNWcyRUJWdjNpYjhlU0dwbWJENE1WSklydGd5ZVlYSFp3WFhQd2tVaGRpak9raW5iQ3Q3SnZ6a0VHZmZR?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxOWGNwTW9EaVMwVDAzSlZ6N0RrUVloaGlEOHRKd01kSUlncXFpQ3llazhjd0w2UkdUd0xncHlsWGNvMnNpekhIVlV3OVBkcnFXcHFlMHNpdWxQUEQzV1NIckVjZzlrWmdybk96VnV3NWtBVHZRNTFjekRsYlJhb2tja2drQ1d0aUU4by1YNGNjNWcyRUJWdjNpYjhlU0dwbWJENE1WSklydGd5ZV",
+   "source": "n-tv.de",
+   "date": "2026-11-20T18:00:00.000Z",
    "fee": null,
    "clubs": [
-    "BVB"
+    "Barça"
    ],
    "tags": [
-    "Transfer"
+    "Vertrag"
    ]
   },
   {
@@ -243,6 +229,20 @@
    ]
   },
   {
+   "title": "Bayern-Bosse legen Transferstopp für den Winter fest",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOclRabTY0NHR5OTR0LVlQLXJhT2s5dVh0bXBlQ2pVUVNuSzRsWU02XzFZMy1VU1BZY196dFBLMy1ZblVjeVZxaEp3MVJrTk5QQjZxRmN2R1AwQjNHUm90dlhHdDlMc0ExSGJyWTRja0JOY0VXdGFBZXBmWXB0YzJLMEdHZmc0azIwbFlXOFJqbmR4SmRGcEJkZlR4Rlh4QVg4cnB3LUtraWFndjJvUUpOYmMwcmlvWWF1OTRoU21CWDY4SjBZWkZSdXBxOA?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxOclRabTY0NHR5OTR0LVlQLXJhT2s5dVh0bXBlQ2pVUVNuSzRsWU02XzFZMy1VU1BZY196dFBLMy1ZblVjeVZxaEp3MVJrTk5QQjZxRmN2R1AwQjNHUm90dlhHdDlMc0ExSGJyWTRja0JOY0VXdGFBZXBmWXB0YzJLMEdHZmc0azIwbFlXOFJqbmR4SmRGcEJkZlR4Rlh4QVg4cnB3LUtraWFndj",
+   "source": "FOCUS online",
+   "date": "2026-11-20T06:14:00.000Z",
+   "fee": null,
+   "clubs": [
+    "Bayern"
+   ],
+   "tags": [
+    "Transfer"
+   ]
+  },
+  {
    "title": "Top-Talent Gabriel vor Transfer: Man United behält sich rechtliche Schritte gegen Real vor",
    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPSG5HV2lXQk4tWEZiV2RmWFZseEREOGZSUVVGZmRRTTF1OVo4MHBfc3V6akxPSzVYODlmeHVxWXZuSnJnYi03QVhMQlpXQ0JLbkF4Wk1CYXQ0bWs4U1dIblQ2cWc3ai13ME9VeVNIN2p1ZldxM0tEb19XdnFrenVuYVhVVXFBZGZxMnlfVzNOMWlDMHZhakp1UzloQkFsRFZscWNaQlFVeTVIZ29DNkMyRXY0VTlGQjFuMGxVb1RxdHpEckRoNkVHeXpnMFg5aGxG?oc=5",
    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxPSG5HV2lXQk4tWEZiV2RmWFZseEREOGZSUVVGZmRRTTF1OVo4MHBfc3V6akxPSzVYODlmeHVxWXZuSnJnYi03QVhMQlpXQ0JLbkF4Wk1CYXQ0bWs4U1dIblQ2cWc3ai13ME9VeVNIN2p1ZldxM0tEb19XdnFrenVuYVhVVXFBZGZxMnlfVzNOMWlDMHZhakp1UzloQkFsRFZscWNaQlFVeTVIZ2",
@@ -297,6 +297,21 @@
    ],
    "tags": [
     "Transfer"
+   ]
+  },
+  {
+   "title": "40-Millionen-Transfer des FC Bayern schießt Heimatklub zum Titel – Nationaltrainer nach Karriereende?",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWlhaRFhfVTB0YzNtSXBfenNpNlBFTFhUeGlUYjNCeVVPUU8xWlp6LXZXemhPTTVKQlJEU1lqaUY4TmhDZ011dks5SEhkRDFWdnhZQW1MUl9iT2FKR0R0NHJ1NUxlWTRRMG8yTWhvandLVmRxeDFyY25GNXhVd2tOQXBRTXdUY2FiZUVOSW5lSGtRbDUzRkJONmRzWWw0OHprOGR1WjBMQkZjeS1G?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPWlhaRFhfVTB0YzNtSXBfenNpNlBFTFhUeGlUYjNCeVVPUU8xWlp6LXZXemhPTTVKQlJEU1lqaUY4TmhDZ011dks5SEhkRDFWdnhZQW1MUl9iT2FKR0R0NHJ1NUxlWTRRMG8yTWhvandLVmRxeDFyY25GNXhVd2tOQXBRTXdUY2FiZUVOSW5lSGtRbDUzRkJONmRzWWw0OHprOGR1WjBMQkZjeS",
+   "source": "TZ",
+   "date": "2026-11-19T14:25:10.000Z",
+   "fee": null,
+   "clubs": [
+    "Bayern"
+   ],
+   "tags": [
+    "Gerücht",
+    "Verein"
    ]
   },
   {
@@ -370,20 +385,6 @@
    ],
    "tags": [
     "Gerücht"
-   ]
-  },
-  {
-   "title": "Erstmals seit 12 Jahren: BVB plant seltenen Transfer",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNLS0yVXh6SV9Qa1dGaU1ka3FxMDVfV2VhVkNobzNvN0pQMkhkR2lDRzBOb3RuMzBCTTZIUEI4Wkl5V2FSLTBCMGxmVzRjRXVfcFc0NGFVcWNVS19nb3cwLXp3UVJZN0VDcFBuMFNHbFNzZ3IybjZYeHhFMGF1TWF6N3Azb0FWUEpTbFVMNW9qbw?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNLS0yVXh6SV9Qa1dGaU1ka3FxMDVfV2VhVkNobzNvN0pQMkhkR2lDRzBOb3RuMzBCTTZIUEI4Wkl5V2FSLTBCMGxmVzRjRXVfcFc0NGFVcWNVS19nb3cwLXp3UVJZN0VDcFBuMFNHbFNzZ3IybjZYeHhFMGF1TWF6N3Azb0FWUEpTbFVMNW9qbw?oc=5\" target=\"_blank\">Erstmals seit",
-   "source": "fussballdaten.de",
-   "date": "2026-11-19T09:10:00.000Z",
-   "fee": null,
-   "clubs": [
-    "BVB"
-   ],
-   "tags": [
-    "Transfer"
    ]
   }
  ]
