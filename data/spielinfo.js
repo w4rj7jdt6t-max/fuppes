@@ -1,6 +1,6 @@
 window.FUPPES_DATA = window.FUPPES_DATA || {};
 window.FUPPES_DATA["spielinfo"] = {
- "updated": "2026-11-22T20:55:56.657Z",
+ "updated": "2026-11-22T22:56:04.296Z",
  "fc": [
   {
    "start": "2025-11-22T17:30:00.000Z",
@@ -1931,20 +1931,5 @@ window.FUPPES_DATA["spielinfo"] = {
    "quotes": []
   }
  ],
- "referees": [
-  {
-   "title": "Die Schiedsrichter-Ansetzungen am 10. Spieltag",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBCODc4YkpXaFFjclEwMkFZLTAtdk1XUndGX3YyV01rdm40TTVZVm8zNUR3TUdoSTQ3WXhOUkFHb2cyYmNCQXFya0FsRnZCNXR1MDJzVGM4RFZmcjJpUUJ3TXYwTDBDQTItYzdNUURTWmlELUh3TVltMjdPYw?oc=5",
-   "source": "Bundesliga | official website",
-   "date": "2026-11-19T08:00:00.000Z",
-   "matchday": 10
-  },
-  {
-   "title": "Die Schiedsrichter-Ansetzungen am 12. Spieltag",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZGh2RkFDSUF6YnNNQkRIOWRLLVVtQzZuTDVoa1VELWNIbVV2V2tZdS1iTUVfcW1tckdwbU1hY18xM01mc3g3TzFRTWFDVkdrXzR1MzgwTm95cGJPWEgzUGRPOXdKeFdwMy1TZHhMV3k4NXd6MkZnZ2duQ2hCSmlWM09vaEpaNzdYTldfcUVlR0hCSmRFOTNuT0huZUtFX0It?oc=5",
-   "source": "Bundesliga | official website",
-   "date": "2026-11-19T08:00:00.000Z",
-   "matchday": 12
-  }
- ]
+ "referees": []
 };
