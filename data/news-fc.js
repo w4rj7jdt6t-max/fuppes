@@ -1,6 +1,6 @@
 window.FUPPES_DATA = window.FUPPES_DATA || {};
 window.FUPPES_DATA["news-fc"] = {
- "updated": "2026-11-22T08:58:54.574Z",
+ "updated": "2026-11-22T10:56:51.968Z",
  "items": [
   {
    "title": "MV ohne Team und Trainer: Stars dürfen „mit Hund und Katze durchatmen“",
@@ -63,6 +63,17 @@ window.FUPPES_DATA["news-fc"] = {
    ]
   },
   {
+   "title": "Bayern-Star Harry Kane gegen Köln ausgewechselt - auch Olise verletzt",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQ0xVaElGaUUwamZvRXhEUjRqbjN1S19HWmo1WXAtLUU1c0RYYlozSkJhZmFXUWh6NkVJVlA3ci1pX1J1QW51WG50Z1NqbHVJd2U4Nmp4RndXbjgySEpwR3J3NTlPZG4xV0NjR1pFWC16ekJlbG5aQ0FkV2lGaTFROHl6UUhJNDhURXlZNmxGRkE5RGNSeXVTMndUVkNITzBkeTlWcjNJX3poczZoSG40?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPQ0xVaElGaUUwamZvRXhEUjRqbjN1S19HWmo1WXAtLUU1c0RYYlozSkJhZmFXUWh6NkVJVlA3ci1pX1J1QW51WG50Z1NqbHVJd2U4Nmp4RndXbjgySEpwR3J3NTlPZG4xV0NjR1pFWC16ekJlbG5aQ0FkV2lGaTFROHl6UUhJNDhURXlZNmxGRkE5RGNSeXVTMndUVkNITzBkeTlWcjNJX3pocz",
+   "source": "Sky.de",
+   "date": "2026-11-20T22:48:00.000Z",
+   "tags": [
+    "Fix",
+    "Personal"
+   ]
+  },
+  {
    "title": "Bei Remis gegen Köln: Bayerns Kane und Olise verletzt ausgewechselt",
    "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPVGhwUENVSVlibXlNdE5wVVVKODJpT21rNHlNZFk3VmFzRWdRU2Rob0c2bVNzMDZqcEN3OFhvLUczQ1p4RVNnVnRBZTNnMWs5RWEwektIQnQ1R3F5VG91bGl4RGtGZDA0dkl2THhsaGZWNnJHWWF4VzZKRWUzR2x5R2FtajQ2SG04UzloZnJzWVlTM0lkRHBrTFFaVHdiWHQwRldfNmxZc2VhZ21MUUJ4RkMxaVNIb1B0b2ItYUFxbkt1QmtBbVdsd1pfSm1qZVZ5UzNWWVc1aVRiWTBiWlNORlNaRWRnR2REUmRQMW9n?oc=5",
    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxPVGhwUENVSVlibXlNdE5wVVVKODJpT21rNHlNZFk3VmFzRWdRU2Rob0c2bVNzMDZqcEN3OFhvLUczQ1p4RVNnVnRBZTNnMWs5RWEwektIQnQ1R3F5VG91bGl4RGtGZDA0dkl2THhsaGZWNnJHWWF4VzZKRWUzR2x5R2FtajQ2SG04UzloZnJzWVlTM0lkRHBrTFFaVHdiWHQwRldfNmxZc2VhZ2",
@@ -70,6 +81,16 @@ window.FUPPES_DATA["news-fc"] = {
    "date": "2026-11-20T22:08:00.000Z",
    "tags": [
     "Fix",
+    "Personal"
+   ]
+  },
+  {
+   "title": "Bayern: Schock gegen Köln! Kane und Olise verletzt – Superstar verlässt Stadion an Krücken",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxORENiSmVXelhWY3pfc2sxWlcxeEFQdmw1N2U3TVl3OEx6QlQ0Z0FMNHk3aG1jX2tlMElXRzRJSjRuSDMzRmlZT2RHT3ZLSngzLUNPd1FiYTFlMkRkUTJPY3BvS3hLNzZmWHU0dV96Z2VSdndUMVBRSlFkeGpTTWk3STFTTDcxQVhfd0t5blZkZHphWGdxWkZWX2tSdWpMMnlGVjh5cVRSbEJBaGZPVDFLbFVBR1AwcmozcXJEN1hLYzQ4T1FxU0x1aS1vMEtiT3hOM1M4eGxtOWNWRlgyTFE?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxORENiSmVXelhWY3pfc2sxWlcxeEFQdmw1N2U3TVl3OEx6QlQ0Z0FMNHk3aG1jX2tlMElXRzRJSjRuSDMzRmlZT2RHT3ZLSngzLUNPd1FiYTFlMkRkUTJPY3BvS3hLNzZmWHU0dV96Z2VSdndUMVBRSlFkeGpTTWk3STFTTDcxQVhfd0t5blZkZHphWGdxWkZWX2tSdWpMMnlGVjh5cVRSbEJBaG",
+   "source": "RevierSport online",
+   "date": "2026-11-20T22:06:27.000Z",
+   "tags": [
     "Personal"
    ]
   },
@@ -104,11 +125,53 @@ window.FUPPES_DATA["news-fc"] = {
    ]
   },
   {
+   "title": "Sorgen um Kane und Olise: Bayern-Stars verletzt ausgewechselt gegen Köln",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPcE0wSzA5TnM5SzRwNHlTU2NpWUI3SURNUjJXemplUllKNlFFR290WERWNjVqN2VFdnlkUmlNcEcydFZzdVhhRXp3U1AzWEM2N0xoNWdxY0tNLWQzc0daMFUyeERyWlotSFFDUzlxS19mS18tWElpOUNpU0JJdkZtRjBoY0djdm1DZV9NNjdjaHZhVVJYNzlxMzRRUjMwZFFmNGRNeG9Dc1BlMFlrODB2cnhXQU1YY0Z5YlZ4emhn?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPcE0wSzA5TnM5SzRwNHlTU2NpWUI3SURNUjJXemplUllKNlFFR290WERWNjVqN2VFdnlkUmlNcEcydFZzdVhhRXp3U1AzWEM2N0xoNWdxY0tNLWQzc0daMFUyeERyWlotSFFDUzlxS19mS18tWElpOUNpU0JJdkZtRjBoY0djdm1DZV9NNjdjaHZhVVJYNzlxMzRRUjMwZFFmNGRNeG9Dc1BlMF",
+   "source": "T-Online",
+   "date": "2026-11-20T20:01:17.000Z",
+   "tags": [
+    "Fix",
+    "Personal"
+   ]
+  },
+  {
+   "title": "Kölns größte Transfer-Enttäuschung",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPT2NVX25MY0haWG5vNi1qd015WVVkdTczWTVzYlA0Z2JMcGdlNnAwOUpCVHY4cjhxa1dwNHBwb1RJbU44bHVJOFN3Mmd4SUNJRTZVOE5yN1dGTWFnbjRmbVhTYlRraXBCczlFN1Nvc0lWWnducEN5aVlSb1VGaUQ2WHpJcGNDaVV5WEplWUdwV3o0ekFPdng4Tg?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPT2NVX25MY0haWG5vNi1qd015WVVkdTczWTVzYlA0Z2JMcGdlNnAwOUpCVHY4cjhxa1dwNHBwb1RJbU44bHVJOFN3Mmd4SUNJRTZVOE5yN1dGTWFnbjRmbVhTYlRraXBCczlFN1Nvc0lWWnducEN5aVlSb1VGaUQ2WHpJcGNDaVV5WEplWUdwV3o0ekFPdng4Tg?oc=5\" target=\"_blank\">K",
+   "source": "Fussball Transfers",
+   "date": "2026-11-20T19:12:00.000Z",
+   "tags": [
+    "Transfer"
+   ]
+  },
+  {
    "title": "Kompany-Rückkehr: Hier läuft FC Bayern gegen Köln jetzt live im TV und Stream",
    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOZlZOZFVJZE5mNUYtNmZKcmNpOEdvMThtcEY5T0YzRTM5RlNvM1hHeS1sNV9SSU5fSUwzenRMbFVJWWdwbVFnQlZXUGIteklqaURwVkdsckJ6c3dxNTFOR0J3dnZ3ZWdDLWhtVmJoVEhFM0dkNExWSWtkSzFScC1LampVLUhWUUlGQ3NPLWowRWoxNy04THV6N1VMRU9HWGdmTndRaHpqZUl2Y1FYV1d0NlN4dHYtZFlYcGt5RkVwb2VOMW1PSVA1eldBSUJrWlRw?oc=5",
    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxOZlZOZFVJZE5mNUYtNmZKcmNpOEdvMThtcEY5T0YzRTM5RlNvM1hHeS1sNV9SSU5fSUwzenRMbFVJWWdwbVFnQlZXUGIteklqaURwVkdsckJ6c3dxNTFOR0J3dnZ3ZWdDLWhtVmJoVEhFM0dkNExWSWtkSzFScC1LampVLUhWUUlGQ3NPLWowRWoxNy04THV6N1VMRU9HWGdmTndRaHpqZUl2Y1",
    "source": "t-online – München",
    "date": "2026-11-20T09:00:57.000Z",
+   "tags": [
+    "Personal"
+   ]
+  },
+  {
+   "title": "Bayern-Startelf gegen den 1. FC Köln: Überrascht Kompany nach Davies-Ausfall bei der Aufstellung?",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSWh6UlFaLVR0TUxhM0c0MjlFeDhNbmdZS2EzeTFtUkx6NEs4ZzBEVXBnOHdUTVdyRjlOdXdtc0RPSzlmS3RmbzZmMGlvYzBxUm5YQXRLX2VLVUJBcmJ0bjAwMWZJRjc3NkkwQUZCZlNZZ05zd3RXLUw5MXNER1JkSnZOdW9fU1FoaUFBT1dfT1doNlU4YTB5Z083akF6anRHd2RnTUNrMXBmY1M4UjZGSnlfY1ZUSFdXc2l4WA?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNSWh6UlFaLVR0TUxhM0c0MjlFeDhNbmdZS2EzeTFtUkx6NEs4ZzBEVXBnOHdUTVdyRjlOdXdtc0RPSzlmS3RmbzZmMGlvYzBxUm5YQXRLX2VLVUJBcmJ0bjAwMWZJRjc3NkkwQUZCZlNZZ05zd3RXLUw5MXNER1JkSnZOdW9fU1FoaUFBT1dfT1doNlU4YTB5Z083akF6anRHd2RnTUNrMXBmY1",
+   "source": "Frankfurter Rundschau",
+   "date": "2026-11-19T19:15:36.000Z",
+   "tags": [
+    "Gerücht",
+    "Personal"
+   ]
+  },
+  {
+   "title": "Defensiv-Akteur macht Platz für Ache: Der FC-Kader für das Bayern-Gastspiel",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTHBQN3AxRTVSR2txN2JkUlg2U09wbHc0Zk4zTElMYU9TQ3VUbVZtaEwtaU9NX0J4OUdoTUNvQ3RpYlh4SjVQc3FMa0pjbkZ6eWRYRG5RVlZrUURQWVNjQXRDNXk5Y21peFBBODRscldFQnJfOTRPSE00dFZIMUxrRUxmU3R5ZVBJMk1peExERUZmSkRGcktHeFNkLUt0eEZnUnYwU1RYMG9uYTlXR2JjemhpaE9qQ1hlSHpV?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTHBQN3AxRTVSR2txN2JkUlg2U09wbHc0Zk4zTElMYU9TQ3VUbVZtaEwtaU9NX0J4OUdoTUNvQ3RpYlh4SjVQc3FMa0pjbkZ6eWRYRG5RVlZrUURQWVNjQXRDNXk5Y21peFBBODRscldFQnJfOTRPSE00dFZIMUxrRUxmU3R5ZVBJMk1peExERUZmSkRGcktHeFNkLUt0eEZnUnYwU1RYMG9uYT",
+   "source": "Express",
+   "date": "2026-11-19T14:40:50.000Z",
    "tags": [
     "Personal"
    ]
@@ -124,88 +187,25 @@ window.FUPPES_DATA["news-fc"] = {
    ]
   },
   {
-   "title": "1. FC Köln beim FC Bayern: Trainer Wagner spürt keinen Druck vom FC",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZ3E3STlteHU5WGNnbGtCcmxKMmFzY09wYk5ERDBuVUZSZ0U5SmJJbTgzWXM4cXdmbE5ORjBCT05WOFNPOEYzQUs5TE1nclRuWUJ1MzJEQ1NVMzNXR19BNkhpWTBHX3c0eVEtVjRpZHA1MVdyZGpCT09hMjN3MnZoT25rSVFzR2gzekV0dXF0OC1MRHFSMjB6Ng?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPZ3E3STlteHU5WGNnbGtCcmxKMmFzY09wYk5ERDBuVUZSZ0U5SmJJbTgzWXM4cXdmbE5ORjBCT05WOFNPOEYzQUs5TE1nclRuWUJ1MzJEQ1NVMzNXR19BNkhpWTBHX3c0eVEtVjRpZHA1MVdyZGpCT09hMjN3MnZoT25rSVFzR2gzekV0dXF0OC1MRHFSMjB6Ng?oc=5\" target=\"_blank\">1",
-   "source": "sportschau.de",
-   "date": "2026-11-19T09:15:14.000Z",
-   "tags": [
-    "Verein"
-   ]
-  },
-  {
-   "title": "Kompany-Comeback freut Köln-Trainer Wagner \"ungemein\"",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMzhIQ01uSFJkRVZ6dUtfOVJfd196UVVmR2o3cDFTTUpQYXEyRHVUX3pfblRNTkdhbEhVOEdQV3NsN3EtWjNycmVRTWZKWldkelJhdVQ5VDFlbHJjU3ZxcDZVZVhWT0tRNnZhUnp0bzhLXzVINU9ablg3UGV4SDdWb00yUVlRdHB5cEJ6MEFXNzJzaVl4TlNhSnFfT1ZZM2pDUjVHVzJoMEk1OF9reEhtTWlXX1g3a2paQUlLUHR3V3E0OGx0WVI3dw?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMzhIQ01uSFJkRVZ6dUtfOVJfd196UVVmR2o3cDFTTUpQYXEyRHVUX3pfblRNTkdhbEhVOEdQV3NsN3EtWjNycmVRTWZKWldkelJhdVQ5VDFlbHJjU3ZxcDZVZVhWT0tRNnZhUnp0bzhLXzVINU9ablg3UGV4SDdWb00yUVlRdHB5cEJ6MEFXNzJzaVl4TlNhSnFfT1ZZM2pDUjVHVzJoMEk1OF",
-   "source": "n-tv.de",
-   "date": "2026-11-18T19:19:57.000Z",
+   "title": "Rückkehr vom FC-Bayern-Trainer Vincent Kompany: Das ist der aktuelle Stand",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbEJhei1UeldlMC1iX3E1RUtkWnFwTnB2ZWVCR2xjSkN4QXJKdnJrMEZIZC1nb3prMkZEWndVY0RldlozZ0F1aDFrN2xobHdRRnBERkFQMEwza3RqTW1VYWx5WDdQa2RSMERDLXpNak5OTkYtM0l2UVFYbEpldW15VXFFcGNNaGJoYmI3YmlDTWVVaGlYeDMtU1p0YnNEVVJCVmxXcGJBTElMZw?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbEJhei1UeldlMC1iX3E1RUtkWnFwTnB2ZWVCR2xjSkN4QXJKdnJrMEZIZC1nb3prMkZEWndVY0RldlozZ0F1aDFrN2xobHdRRnBERkFQMEwza3RqTW1VYWx5WDdQa2RSMERDLXpNak5OTkYtM0l2UVFYbEpldW15VXFFcGNNaGJoYmI3YmlDTWVVaGlYeDMtU1p0YnNEVVJCVmxXcGJBTElMZw",
+   "source": "Augsburger Allgemeine",
+   "date": "2026-11-19T12:07:50.000Z",
    "tags": [
     "Personal",
     "Verein"
    ]
   },
   {
-   "title": "Dreesen bestätigt: Bayern-Trainer Kompany kehrt zurück – Comeback gegen Köln",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNV2JEMmZiUDRFSUMwU0QwSVpOZk5qMUVMQVZFSXpyTkhDRC12U1BDbmZJMUhveFk1Y0dyNzNMNFV6d2RPUXRxZnVDVHladWx4OGxWSE8tWHhDMlItSlVscFI5c014QVFaOHZ6LS1mMk40aURLMXhxLTE5SzJWeHZGejA0Z3N4aXNyRmR0RHNEWEhHQkVNQ0JLWkJZQm95RkxjV1VVTF9uU3dMNHV3aFlpV3o4QVlZZ3l4enVj?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNV2JEMmZiUDRFSUMwU0QwSVpOZk5qMUVMQVZFSXpyTkhDRC12U1BDbmZJMUhveFk1Y0dyNzNMNFV6d2RPUXRxZnVDVHladWx4OGxWSE8tWHhDMlItSlVscFI5c014QVFaOHZ6LS1mMk40aURLMXhxLTE5SzJWeHZGejA0Z3N4aXNyRmR0RHNEWEhHQkVNQ0JLWkJZQm95RkxjV1VVTF9uU3dMNH",
-   "source": "Transfermarkt",
-   "date": "2026-11-18T18:52:00.000Z",
-   "tags": [
-    "Personal",
-    "Verein"
-   ]
-  },
-  {
-   "title": "Köln-Coach Wagner zu Toppmöller-Gerüchten: \"Da spüre ich gar nichts\"",
-   "link": "https://www.kicker.de/koeln-coach-wagner-zu-toppmoeller-geruechten-da-spuere-ich-gar-nichts-1272684/video#omrss",
-   "summary": "Köln-Trainer René Wagner spricht auf der Pressekonferenz vor dem Spiel gegen den FC Bayern München über die aktuellen Gerüchte rund um Dino Toppmöller und wie man auftreten muss, um gegen die Bayern etwas mitzunehmen.",
-   "source": "kicker",
-   "date": "2026-11-18T13:41:14.000Z",
-   "tags": [
-    "Gerücht",
-    "Verein"
-   ]
-  },
-  {
-   "title": "1. FC Köln: Dino Toppmöller im Nacken: René Wagner reagiert auf Trainer-Diskussion",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNRkVTbUJVZ09qdkc4a1kzR2diWHlIU1VVNjNDbVNIa0N2WnhuclpEZjlMWTJmaVk2ZmJBekpfNE92eTZ6ODZpWG5vTUt4N3l4d3pVd2UzSVZDWWdxa2ZSMHhlM3kyOUh3SVpNQUY1WnhPWmZqVWdzTzQtemFZSGRyUXB4UXEwV0UwNnZoNjZNN0xJZ1YyY3NrNFB4MXRwM2w0elVYREVpWEt4RDR4akRPbnRJSnlxNUc2MDFwdWVsN0VTXzc4V0dVQnFWS0F1NGxac093NzgzdmU?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxNRkVTbUJVZ09qdkc4a1kzR2diWHlIU1VVNjNDbVNIa0N2WnhuclpEZjlMWTJmaVk2ZmJBekpfNE92eTZ6ODZpWG5vTUt4N3l4d3pVd2UzSVZDWWdxa2ZSMHhlM3kyOUh3SVpNQUY1WnhPWmZqVWdzTzQtemFZSGRyUXB4UXEwV0UwNnZoNjZNN0xJZ1YyY3NrNFB4MXRwM2w0elVYREVpWEt4RD",
-   "source": "BILD",
-   "date": "2026-11-18T13:39:28.000Z",
-   "tags": [
-    "Verein"
-   ]
-  },
-  {
-   "title": "Trainer-Hammer? Ex-Frankfurter in Köln gehandelt",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdnVUSUV3OVhOX3NWX3lOcjd3bHlfejJ2d1l2cy1QOVdlUUFNUUVPYm05bS0yRFJ3TzdHQTByRlY5QjEzV2lpTkp1NnUyRnM0VThzMzVTbHptck5JeUl0ZlYtZWRHX1BnQV95Xy15VWExMGswRmx1b2IzUjFSd1RGdFFaYW9UdXB0UkJsV283RTJzeGhhVUNYdw?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOdnVUSUV3OVhOX3NWX3lOcjd3bHlfejJ2d1l2cy1QOVdlUUFNUUVPYm05bS0yRFJ3TzdHQTByRlY5QjEzV2lpTkp1NnUyRnM0VThzMzVTbHptck5JeUl0ZlYtZWRHX1BnQV95Xy15VWExMGswRmx1b2IzUjFSd1RGdFFaYW9UdXB0UkJsV283RTJzeGhhVUNYdw?oc=5\" target=\"_blank\">T",
-   "source": "sport.de",
-   "date": "2026-11-18T07:48:00.000Z",
-   "tags": [
-    "Gerücht",
-    "Verein"
-   ]
-  },
-  {
-   "title": "Vor Spiel gegen den 1. FC Köln: Kompany vor Rückkehr auf die Trainerbank",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNd0hXdl83WUF6azFFcWFhUlFYcEtiSS1WYndFRVl0dlFtT19MajRJaFY3MVdHazhqNVZfSUlaazFvWEs3Z3hHVDR2R2F2MGd3Tnd3bHJTQ3A4V2NPMnd4WTdHNEI4YmxNdHdXank0MllzT0dCOXE0SEw4ZUNIeW85UDgtU1lGc203UGVhNFRGNHctbFQzd2tkcW9NR1A2UGhKZkxJTWtaN2xDUlNjbUFWc2pXM0dNV1kyTkhxNl9JRV9sUQ?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNd0hXdl83WUF6azFFcWFhUlFYcEtiSS1WYndFRVl0dlFtT19MajRJaFY3MVdHazhqNVZfSUlaazFvWEs3Z3hHVDR2R2F2MGd3Tnd3bHJTQ3A4V2NPMnd4WTdHNEI4YmxNdHdXank0MllzT0dCOXE0SEw4ZUNIeW85UDgtU1lGc203UGVhNFRGNHctbFQzd2tkcW9NR1A2UGhKZkxJTWtaN2xDUl",
+   "title": "Kompany weiter lädiert: Bayern-Trainer mit Armschlinge bei Rückkehr gegen Köln",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMFF3ZF9KakhmRThYNEZhWmVkMllaS3dxU2Zsakt5YmFzWlZ2LU1xVkVzbDJtU04zbkdteWlsZkNJaGtPSnUwMFJtek9hOTlqUFFNQXpHd0hmRXlVM28zYlRKZ0dXbnloV3Z6a0Q1dmhrQm5kb1AzZFRFWnd6N05ZeW0tZVpnS0dFZnVSckVGcmFYTWE2TmxaUlozN0tnclU3LWU0Mk9QX1c1WWN5eVgzczhJSjhsSUZfZkR4VXp3?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQMFF3ZF9KakhmRThYNEZhWmVkMllaS3dxU2Zsakt5YmFzWlZ2LU1xVkVzbDJtU04zbkdteWlsZkNJaGtPSnUwMFJtek9hOTlqUFFNQXpHd0hmRXlVM28zYlRKZ0dXbnloV3Z6a0Q1dmhrQm5kb1AzZFRFWnd6N05ZeW0tZVpnS0dFZnVSckVGcmFYTWE2TmxaUlozN0tnclU3LWU0Mk9QX1c1WW",
    "source": "Express",
-   "date": "2026-11-17T14:23:58.000Z",
+   "date": "2026-11-19T11:20:21.000Z",
    "tags": [
     "Personal",
     "Verein"
-   ]
-  },
-  {
-   "title": "1. FC Köln startet Transfer-Offensive für Kamiński",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQc1BHZ3NwRzJIUVQxS2JHV2FuN0JlMkVjeDZuX1RHNU9iWkxfT0JoYkNxZlpvOExteFZ6WW9zZ2xIRkJlRDJzazFoNzlLbDVWNWhkOUNwcWNCUVdPU2JPM01ydFl5RHZBbVpSX3F1NFJSQ05oV2stLWl4bk9idnVpdW04SDZKV1JP?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQc1BHZ3NwRzJIUVQxS2JHV2FuN0JlMkVjeDZuX1RHNU9iWkxfT0JoYkNxZlpvOExteFZ6WW9zZ2xIRkJlRDJzazFoNzlLbDVWNWhkOUNwcWNCUVdPU2JPM01ydFl5RHZBbVpSX3F1NFJSQ05oV2stLWl4bk9idnVpdW04SDZKV1JP?oc=5\" target=\"_blank\">1. FC Köln startet Tran",
-   "source": "fussballdaten.de",
-   "date": "2026-11-17T14:13:00.000Z",
-   "tags": [
-    "Transfer"
    ]
   }
  ]

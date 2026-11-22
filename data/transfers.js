@@ -1,6 +1,6 @@
 window.FUPPES_DATA = window.FUPPES_DATA || {};
 window.FUPPES_DATA["transfers"] = {
- "updated": "2026-11-22T08:58:56.009Z",
+ "updated": "2026-11-22T10:56:53.195Z",
  "rules": {
   "minFeeMio": 20,
   "topClubs": [
@@ -44,6 +44,63 @@ window.FUPPES_DATA["transfers"] = {
  },
  "items": [
   {
+   "title": "Transfer-Ticker: FC Bayern kann bei Ödegaard weiter hoffen",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPU296dkhKS3NZZVpUdEpSRnBGV2R1am04aGJfbDVDYlZGcW1uT0MtTnp0TkJJblZiX1JJdFRSdzJkTVhBUTNfTmZRa2wtdWxYaVY2bmdoTmd3d1pzVzR0dXhfeFVGaU1QenBzTHpVX3p1WEFmTGNILTUzT1dWbWJjQXRubmFmUm50Q1JVRG5jVGV6b01RZnlaODItWTU?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPU296dkhKS3NZZVpUdEpSRnBGV2R1am04aGJfbDVDYlZGcW1uT0MtTnp0TkJJblZiX1JJdFRSdzJkTVhBUTNfTmZRa2wtdWxYaVY2bmdoTmd3d1pzVzR0dXhfeFVGaU1QenBzTHpVX3p1WEFmTGNILTUzT1dWbWJjQXRubmFmUm50Q1JVRG5jVGV6b01RZnlaODItWTU?oc=5\" target=\"_bla",
+   "source": "sport.de",
+   "date": "2026-11-22T09:39:00.000Z",
+   "fee": null,
+   "clubs": [
+    "Bayern"
+   ],
+   "tags": [
+    "Transfer"
+   ]
+  },
+  {
+   "title": "Schalke-Keeper Karius reagiert auf Bayern-Intereresse – Matthäus glaubt an Transfer",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQenJCeFI1YlZqVnlXTkstU0sybXZmSXZxZ2VnUXZycFkwUklsTExZbkRldk9uQ1VWMXlLd2d3bzFyWDZ3NjNqVUp3VlVJOWxnLUp1Y3ptYVRzbVdaQ280RU1KMVo5ZXNIZmFPSW1WQnFtV0szTmN4UjJWWEdXZ1gtVlkwYXpfTlA2OGZSdjhBWDJkN0VURHFEV3Q1eDFjWFYwZEpYSE1wdk5TeFJvR1RMTDNJR3o1d3N5cVJ6cFRPbEVTWGs?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQenJCeFI1YlZqVnlXTkstU0sybXZmSXZxZ2VnUXZycFkwUklsTExZbkRldk9uQ1VWMXlLd2d3bzFyWDZ3NjNqVUp3VlVJOWxnLUp1Y3ptYVRzbVdaQ280RU1KMVo5ZXNIZmFPSW1WQnFtV0szTmN4UjJWWEdXZ1gtVlkwYXpfTlA2OGZSdjhBWDJkN0VURHFEV3Q1eDFjWFYwZEpYSE1wdk5TeF",
+   "source": "MOPO",
+   "date": "2026-11-22T09:03:06.000Z",
+   "fee": null,
+   "clubs": [
+    "Bayern"
+   ],
+   "tags": [
+    "Transfer"
+   ]
+  },
+  {
+   "title": "FC Bayern München nach Kane-Ausfall: Planen die Münchner Winter-Transfers?",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQzFHQ2ZGelZ4dmJ2bk9TTFp0TVJmR2FZTlBmdEx6dzZLV0tULWpZckR5WXBQeWUzNjIwUGZmeDNfN0d2cnpIZWdKWEJLSnpZcjVtWTNVT1h1dEJrcDg4a1RwYWxmQ05fZ0d4YTZZM0xsejd3TTM0SEQycWo2bTRCd1JCUUpLR0o4S1NfcWhacmVRWmhva2lFTnJfaWllLXhyUXFWbXBjWEF2MUtOcDE1U0h0aEp0a3JPRnkxeUhldWdoUQ?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQzFHQ2ZGelZ4dmJ2bk9TTFp0TVJmR2FZTlBmdEx6dzZLV0tULWpZckR5WXBQeWUzNjIwUGZmeDNfN0d2cnpIZWdKWEJLSnpZcjVtWTNVT1h1dEJrcDg4a1RwYWxmQ05fZ0d4YTZZM0xsejd3TTM0SEQycWo2bTRCd1JCUUpLR0o4S1NfcWhacmVRWmhva2lFTnJfaWllLXhyUXFWbXBjWEF2MU",
+   "source": "Sky.de",
+   "date": "2026-11-22T09:00:00.000Z",
+   "fee": null,
+   "clubs": [
+    "Bayern"
+   ],
+   "tags": [
+    "Gerücht",
+    "Personal"
+   ]
+  },
+  {
+   "title": "Schalke: Karius zum FC Bayern München? S04-Torwart spricht über Wechselgerüchte",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNbzQxV1ZjZTFsVUR2YXYwYVJ0TzcxWEtVMVh0bGlTZmRUblVwaXVUV1NOMmZNaEp3RXpYeXZRYnJrUXRUcWk4clJhU0FYX0ZER0p4RTAzV01ZZTlGTzRpRFhsMFZqX1JpbjhGeFFlWV9EMUVEQUVDam51dXVIZTN6b3ZpbmlwazNLRlU5OWpkNmUwMVo3VGh0Q0o2Q2NTWDNDd2ZfejRQOGNQSng5bUJIMTloRHBEU3RFemoycnk4dDA0YzRuWW1aXzlvSWVZT00yLURUcW1iVjI3bEE?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxNbzQxV1ZjZTFsVUR2YXYwYVJ0TzcxWEtVMVh0bGlTZmRUblVwaXVUV1NOMmZNaEp3RXpYeXZRYnJrUXRUcWk4clJhU0FYX0ZER0p4RTAzV01ZZTlGTzRpRFhsMFZqX1JpbjhGeFFlWV9EMUVEQUVDam51dXVIZTN6b3ZpbmlwazNLRlU5OWpkNmUwMVo3VGh0Q0o2Q2NTWDNDd2ZfejRQOGNQSn",
+   "source": "RevierSport online",
+   "date": "2026-11-22T08:37:46.000Z",
+   "fee": null,
+   "clubs": [
+    "Bayern"
+   ],
+   "tags": [
+    "Gerücht"
+   ]
+  },
+  {
    "title": "Wird Premier-League-Star plötzlich nächster Neuzugang beim FC Bayern?",
    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdnQ0SHdQcURnUTladjVUVnhLZ3VNakVwVi0tTHBtUkNQbjlOSE1nNzVQYnlGSWdXd2FpSnFhQ0EyMkhnTUphNGxYdnNoWTE3WUdCbzg2OXVpN3M3amdqcTRtMXl0eVFyZlBEdXFWdHhxRVNIZnlSNWRFV21nVmdXckxKQXQ2ZFExT3ZYUk9RRXhnaF83STNJQ2h0c1dGSVlpWUZvWQ?oc=5",
    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQdnQ0SHdQcURnUTladjVUVnhLZ3VNakVwVi0tTHBtUkNQbjlOSE1nNzVQYnlGSWdXd2FpSnFhQ0EyMkhnTUphNGxYdnNoWTE3WUdCbzg2OXVpN3M3amdqcTRtMXl0eVFyZlBEdXFWdHhxRVNIZnlSNWRFV21nVmdXckxKQXQ2ZFExT3ZYUk9RRXhnaF83STNJQ2h0c1dGSVlpWUZvWQ?oc=5\" t",
@@ -72,54 +129,11 @@ window.FUPPES_DATA["transfers"] = {
    ]
   },
   {
-   "title": "FC Bayern: Loris Karius reagiert auf Wechsel-Gerücht",
+   "title": "FC Bayern: Karius reagiert auf Wechsel-Gerücht",
    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQ1ZtTEdKSnR4NWtuNmY5R2Nack1PRkNDbGVSWEdlR3h2UW1yTzhlNVQ3dDM4Ny1tbmlQUV8wVl9UMktsZzBULUFqaFl2YVhOQXBqaEI0b3VYZENBMGxQbi01VFg1WUxPMmpUbWFhZUNkZTcyN0J5d1ZOMWl6bnRrX3BTQUV0bV9TbEd4OHBjWGlqMENKaVQ3YmZVczNVVDQwaXFR?oc=5",
    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQQ1ZtTEdKSnR4NWtuNmY5R2Nack1PRkNDbGVSWEdlR3h2UW1yTzhlNVQ3dDM4Ny1tbmlQUV8wVl9UMktsZzBULUFqaFl2YVhOQXBqaEI0b3VYZENBMGxQbi01VFg1WUxPMmpUbWFhZUNkZTcyN0J5d1ZOMWl6bnRrX3BTQUV0bV9TbEd4OHBjWGlqMENKaVQ3YmZVczNVVDQwaXFR?oc=5\" tar",
    "source": "Fussball Transfers",
    "date": "2026-11-22T07:29:59.000Z",
-   "fee": null,
-   "clubs": [
-    "Bayern"
-   ],
-   "tags": [
-    "Gerücht"
-   ]
-  },
-  {
-   "title": "FC Bayern München, News und Gerüchte: \"Wenn ich zurückblicke, waren wir nicht so glücklich\": FCB-Bosse sprechen über mögliche Wintertransfers",
-   "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNS2hsY2psZ1dmQnNqa3gyUTI3SDFfTHhaMUZ6SmRZc29kb3FVNVJyanRlaG1DWkRkeF94WWVlUzZOYkQ4LVdaejh6QV8xZU5WeEgxOV8yWWt6SDVOUnY5SGJ4VEVNZXRoQzBybEM2UW92TlhBaGxETEtjUWI3c0JGUnpDWElpUy10UWxSQjdwdnhRclJEdWx5VWdNbEliVmlnNUx1bkx2UDBrQUdkMmY4d0gzLWZhX2NDcE1EY093RHZhUHJSVUVKdFBRNWp4WnZxSFFETHhxX0w0MTEtZGxZdTNwVlBEUVVsYjY5MkZhZVlxYzIzV2I1blRFZG5QZGhVOVpZSzNnYVg2bURQRnhodjc3Z21ERDIySFNrbTY5bkhhdw?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogJBVV95cUxNS2hsY2psZ1dmQnNqa3gyUTI3SDFfTHhaMUZ6SmRZc29kb3FVNVJyanRlaG1DWkRkeF94WWVlUzZOYkQ4LVdaejh6QV8xZU5WeEgxOV8yWWt6SDVOUnY5SGJ4VEVNZXRoQzBybEM2UW92TlhBaGxETEtjUWI3c0JGUnpDWElpUy10UWxSQjdwdnhRclJEdWx5VWdNbEliVmlnNUx1bkx2UDBrQU",
-   "source": "SPOX.com",
-   "date": "2026-11-22T06:03:39.000Z",
-   "fee": null,
-   "clubs": [
-    "Bayern",
-    "FCB"
-   ],
-   "tags": [
-    "Gerücht"
-   ]
-  },
-  {
-   "title": "Der Sport-Tag: Ersatz für Kane: Wildes Gerücht beim FC Bayern",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdGhQaE96QVlqcDRuTno2MnFTT0xkR2E2aGRIR2VMT01ycDlRNVBiVDJOYlBEYV91c0pORDhlMGlyS2MwQTdUczl2VDNjYVlCNjBKYWJ5Q0dHaWJwamhOMW13VDNlbFZ0cnp2aXBwYldpVGRjd1ZNRnJsQkNoSFNERk55RERmZ2JwWkZjTmlVNWxjWTZJdUl3c0JtVnhwUzVLa2dxcjdn?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPdGhQaE96QVlqcDRuTno2MnFTT0xkR2E2aGRIR2VMT01ycDlRNVBiVDJOYlBEYV91c0pORDhlMGlyS2MwQTdUczl2VDNjYVlCNjBKYWJ5Q0dHaWJwamhOMW13VDNlbFZ0cnp2aXBwYldpVGRjd1ZNRnJsQkNoSFNERk55RERmZ2JwWkZjTmlVNWxjWTZJdUl3c0JtVnhwUzVLa2dxcjdn?oc=5\"",
-   "source": "n-tv.de",
-   "date": "2026-11-22T05:44:00.000Z",
-   "fee": null,
-   "clubs": [
-    "Bayern"
-   ],
-   "tags": [
-    "Gerücht"
-   ]
-  },
-  {
-   "title": "Transfer zum FC Bayern? Jetzt spricht Karius",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOekV3TzR2SUw5WEtBOGU4TzNqb3NINUhSdXlZOFhVdTlYbFNhRThxOWpXSXNUMFItc0xWRUtiM19uQzM2SC1vaFIxbVV2alQ1dmVLbzlaN0h0a25WY0lDYXFzNEVHeE1Lb3JJX3psM09jOEw1SEJwc3RoX016MWx4ckliRDVFSlJIM0RTUjZWVmZnaFQtOERyOWZjLWpiRm9NMWVZb2ZNMzl0eVd5S1RMNQ?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOekV3TzR2SUw5WEtBOGU4TzNqb3NINUhSdXlZOFhVdTlYbFNhRThxOWpXSXNUMFItc0xWRUtiM19uQzM2SC1vaFIxbVV2alQ1dmVLbzlaN0h0a25WY0lDYXFzNEVHeE1Lb3JJX3psM09jOEw1SEJwc3RoX016MWx4ckliRDVFSlJIM0RTUjZWVmZnaFQtOERyOWZjLWpiRm9NMWVZb2ZNMzl0eV",
-   "source": "SPORT1",
-   "date": "2026-11-22T05:01:00.000Z",
    "fee": null,
    "clubs": [
     "Bayern"
@@ -368,20 +382,6 @@ window.FUPPES_DATA["transfers"] = {
    ],
    "tags": [
     "Transfer"
-   ]
-  },
-  {
-   "title": "Real Madrid verlängert Vertrag mit Thibaut Courtois bis 2028: Nächster Schlüsselspieler unterschreibt",
-   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQWnpsLVBuQmtuV0lORzZqYlY3b0hiamxrbXpldVVMNEMwSVh6LXBQYkdvUG1GWEFZMmdKT1ZJdnZpb0RDZlRjOU42SjMwUDVvanpzTWR4VG4zd09TUERCM3RiQkdWV3h4VWFMZE1BMkxQM2NSTzBVbmRzWHJRd3BIcFd0NGNWUllDZ3VVS3hDNW02VU80R05kYXNQQm5Rd3JPaEpYMzN5ZEFBRjZkclNEaXBzNmhaMW82SjhmZURaV1lfT3JkWERERnZHNDU1UV93RGQ1andoR0Rfc3E5ZE96VldDczRwTTdz?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxQWnpsLVBuQmtuV0lORzZqYlY3b0hiamxrbXpldVVMNEMwSVh6LXBQYkdvUG1GWEFZMmdKT1ZJdnZpb0RDZlRjOU42SjMwUDVvanpzTWR4VG4zd09TUERCM3RiQkdWV3h4VWFMZE1BMkxQM2NSTzBVbmRzWHJRd3BIcFd0NGNWUllDZ3VVS3hDNW02VU80R05kYXNQQm5Rd3JPaEpYMzN5ZEFBRj",
-   "source": "Sky.de",
-   "date": "2026-11-20T12:05:00.000Z",
-   "fee": null,
-   "clubs": [
-    "Real Madrid"
-   ],
-   "tags": [
-    "Vertrag"
    ]
   }
  ]
