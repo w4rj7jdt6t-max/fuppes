@@ -1,6 +1,6 @@
 window.FUPPES_DATA = window.FUPPES_DATA || {};
 window.FUPPES_DATA["news-fc"] = {
- "updated": "2026-11-22T05:10:11.897Z",
+ "updated": "2026-11-22T07:25:43.981Z",
  "items": [
   {
    "title": "1. FC Köln: Wochenlange Spekulationen um Moore - haben die Gerüchte endgültig ein Ende?",
@@ -69,17 +69,6 @@ window.FUPPES_DATA["news-fc"] = {
    "source": "SZ.de",
    "date": "2026-11-20T23:30:30.000Z",
    "tags": [
-    "Personal"
-   ]
-  },
-  {
-   "title": "Bayern-Star Harry Kane gegen Köln ausgewechselt - auch Olise verletzt",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQ0xVaElGaUUwamZvRXhEUjRqbjN1S19HWmo1WXAtLUU1c0RYYlozSkJhZmFXUWh6NkVJVlA3ci1pX1J1QW51WG50Z1NqbHVJd2U4Nmp4RndXbjgySEpwR3J3NTlPZG4xV0NjR1pFWC16ekJlbG5aQ0FkV2lGaTFROHl6UUhJNDhURXlZNmxGRkE5RGNSeXVTMndUVkNITzBkeTlWcjNJX3poczZoSG40?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPQ0xVaElGaUUwamZvRXhEUjRqbjN1S19HWmo1WXAtLUU1c0RYYlozSkJhZmFXUWh6NkVJVlA3ci1pX1J1QW51WG50Z1NqbHVJd2U4Nmp4RndXbjgySEpwR3J3NTlPZG4xV0NjR1pFWC16ekJlbG5aQ0FkV2lGaTFROHl6UUhJNDhURXlZNmxGRkE5RGNSeXVTMndUVkNITzBkeTlWcjNJX3pocz",
-   "source": "Sky.de",
-   "date": "2026-11-20T22:48:00.000Z",
-   "tags": [
-    "Fix",
     "Personal"
    ]
   },
@@ -175,16 +164,6 @@ window.FUPPES_DATA["news-fc"] = {
    ]
   },
   {
-   "title": "Heimspiel gegen Köln: FC-Bayern-Trainer Kompany zu Zusammenbruch: \"Es war ein Schock\"",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOTZqbU9aR1g2dHA1cU91WWIyRl8xNVFVTW9tbGFxTUtaWmIzaG14ck80VXF3VzN2VEZoM2ZRdUEyM2dMQVN5bXlUSWIwSVlwa2pPaF9yV0RuNEU1dHJudTBhanhTZmZ3c0NsdW96VUsyZzc3SGEtMm1RbWFaREgxNnBkUkk1TVBUbFE4Q0ozSkI2US03RkpwSFhESmNKQTBKcUd6VkVWUE81LXZOVXFF?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQOTZqbU9aR1g2dHA1cU91WWIyRl8xNVFVTW9tbGFxTUtaWmIzaG14ck80VXF3VzN2VEZoM2ZRdUEyM2dMQVN5bXlUSWIwSVlwa2pPaF9yV0RuNEU1dHJudTBhanhTZmZ3c0NsdW96VUsyZzc3SGEtMm1RbWFaREgxNnBkUkk1TVBUbFE4Q0ozSkI2US03RkpwSFhESmNKQTBKcUd6VkVWUE81LX",
-   "source": "sportschau.de",
-   "date": "2026-11-19T09:59:37.000Z",
-   "tags": [
-    "Verein"
-   ]
-  },
-  {
    "title": "1. FC Köln beim FC Bayern: Trainer Wagner spürt keinen Druck vom FC",
    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZ3E3STlteHU5WGNnbGtCcmxKMmFzY09wYk5ERDBuVUZSZ0U5SmJJbTgzWXM4cXdmbE5ORjBCT05WOFNPOEYzQUs5TE1nclRuWUJ1MzJEQ1NVMzNXR19BNkhpWTBHX3c0eVEtVjRpZHA1MVdyZGpCT09hMjN3MnZoT25rSVFzR2gzekV0dXF0OC1MRHFSMjB6Ng?oc=5",
    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPZ3E3STlteHU5WGNnbGtCcmxKMmFzY09wYk5ERDBuVUZSZ0U5SmJJbTgzWXM4cXdmbE5ORjBCT05WOFNPOEYzQUs5TE1nclRuWUJ1MzJEQ1NVMzNXR19BNkhpWTBHX3c0eVEtVjRpZHA1MVdyZGpCT09hMjN3MnZoT25rSVFzR2gzekV0dXF0OC1MRHFSMjB6Ng?oc=5\" target=\"_blank\">1",
@@ -202,6 +181,28 @@ window.FUPPES_DATA["news-fc"] = {
    "date": "2026-11-18T19:19:57.000Z",
    "tags": [
     "Personal",
+    "Verein"
+   ]
+  },
+  {
+   "title": "Dreesen bestätigt: Bayern-Trainer Kompany kehrt zurück – Comeback gegen Köln",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNV2JEMmZiUDRFSUMwU0QwSVpOZk5qMUVMQVZFSXpyTkhDRC12U1BDbmZJMUhveFk1Y0dyNzNMNFV6d2RPUXRxZnVDVHladWx4OGxWSE8tWHhDMlItSlVscFI5c014QVFaOHZ6LS1mMk40aURLMXhxLTE5SzJWeHZGejA0Z3N4aXNyRmR0RHNEWEhHQkVNQ0JLWkJZQm95RkxjV1VVTF9uU3dMNHV3aFlpV3o4QVlZZ3l4enVj?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNV2JEMmZiUDRFSUMwU0QwSVpOZk5qMUVMQVZFSXpyTkhDRC12U1BDbmZJMUhveFk1Y0dyNzNMNFV6d2RPUXRxZnVDVHladWx4OGxWSE8tWHhDMlItSlVscFI5c014QVFaOHZ6LS1mMk40aURLMXhxLTE5SzJWeHZGejA0Z3N4aXNyRmR0RHNEWEhHQkVNQ0JLWkJZQm95RkxjV1VVTF9uU3dMNH",
+   "source": "Transfermarkt",
+   "date": "2026-11-18T18:52:00.000Z",
+   "tags": [
+    "Personal",
+    "Verein"
+   ]
+  },
+  {
+   "title": "Köln-Coach Wagner zu Toppmöller-Gerüchten: \"Da spüre ich gar nichts\"",
+   "link": "https://www.kicker.de/koeln-coach-wagner-zu-toppmoeller-geruechten-da-spuere-ich-gar-nichts-1272684/video#omrss",
+   "summary": "Köln-Trainer René Wagner spricht auf der Pressekonferenz vor dem Spiel gegen den FC Bayern München über die aktuellen Gerüchte rund um Dino Toppmöller und wie man auftreten muss, um gegen die Bayern etwas mitzunehmen.",
+   "source": "kicker",
+   "date": "2026-11-18T13:41:14.000Z",
+   "tags": [
+    "Gerücht",
     "Verein"
    ]
   }
