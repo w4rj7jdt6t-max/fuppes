@@ -1,7 +1,17 @@
 window.FUPPES_DATA = window.FUPPES_DATA || {};
 window.FUPPES_DATA["news-fc"] = {
- "updated": "2026-11-22T14:58:46.565Z",
+ "updated": "2026-11-22T16:57:55.461Z",
  "items": [
+  {
+   "title": "Fußball-Bundesliga: Sportchef Kessler stellt sich hinter Köln-Trainer Wagner",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQWc1Z1c5N2xGaDZOZTBUQ19LcFlQQ3cyeWRPbExCLWNoUjJGcXFyTTAyamJtOV9Ic011b2JIbHdPQ3Q2Vmk2TnpXT1MtWU9veDZmQXFSUU44RWRNUmFaR29tOHNHQ2p1VWZXU0dOZVJETGROZkNhcFJJdEczMVJNTUNRbkZzVlc0T09ranhBQjdGclIwdjhHZQ?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOQWc1Z1c5N2xGaDZOZTBUQ19LcFlQQ3cyeWRPbExCLWNoUjJGcXFyTTAyamJtOV9Ic011b2JIbHdPQ3Q2Vmk2TnpXT1MtWU9veDZmQXFSUU44RWRNUmFaR29tOHNHQ2p1VWZXU0dOZVJETGROZkNhcFJJdEczMVJNTUNRbkZzVlc0T09ranhBQjdGclIwdjhHZQ?oc=5\" target=\"_blank\">F",
+   "source": "DIE ZEIT",
+   "date": "2026-11-22T15:07:04.000Z",
+   "tags": [
+    "Verein"
+   ]
+  },
   {
    "title": "MV ohne Team und Trainer: Stars dürfen „mit Hund und Katze durchatmen“",
    "link": "https://geissblog.koeln/2026/11/mv-ohne-spieler-und-trainer-stars-duerfen-mit-hund-und-katze-durchatmen/",
@@ -168,6 +178,17 @@ window.FUPPES_DATA["news-fc"] = {
    ]
   },
   {
+   "title": "FC-Bayern-Trainer Kompany vor Rückkehr gegen Köln",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPa0tPQ2xuYmw1WFNtVkNLRDFVdFRDa0ZJUkZ2NUZVMzRrWG95aGhSbEdONFZqdlBfQXRPRDM5ZVloVGY4RS1rMVB1MFVBVzREM2p1VmRLNkJpY1Z2QzBZa1JGYmEyWk9NX1R4Ym4zTDF3N0ZQWmx1dVlaUUNBeFRFMzhwclZHSjhjY1J1bl9JcDFrdnpDV2hMd1V5OU1OblJheU4weXZmOWlqMGxaR0kzczBR?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPa0tPQ2xuYmw1WFNtVkNLRDFVdFRDa0ZJUkZ2NUZVMzRrWG95aGhSbEdONFZqdlBfQXRPRDM5ZVloVGY4RS1rMVB1MFVBVzREM2p1VmRLNkJpY1Z2QzBZa1JGYmEyWk9NX1R4Ym4zTDF3N0ZQWmx1dVlaUUNBeFRFMzhwclZHSjhjY1J1bl9JcDFrdnpDV2hMd1V5OU1OblJheU4weXZmOWlqMG",
+   "source": "WEB.DE",
+   "date": "2026-11-18T12:34:15.000Z",
+   "tags": [
+    "Personal",
+    "Verein"
+   ]
+  },
+  {
    "title": "Trainer-Hammer? Ex-Frankfurter in Köln gehandelt",
    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdnVUSUV3OVhOX3NWX3lOcjd3bHlfejJ2d1l2cy1QOVdlUUFNUUVPYm05bS0yRFJ3TzdHQTByRlY5QjEzV2lpTkp1NnUyRnM0VThzMzVTbHptck5JeUl0ZlYtZWRHX1BnQV95Xy15VWExMGswRmx1b2IzUjFSd1RGdFFaYW9UdXB0UkJsV283RTJzeGhhVUNYdw?oc=5",
    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOdnVUSUV3OVhOX3NWX3lOcjd3bHlfejJ2d1l2cy1QOVdlUUFNUUVPYm05bS0yRFJ3TzdHQTByRlY5QjEzV2lpTkp1NnUyRnM0VThzMzVTbHptck5JeUl0ZlYtZWRHX1BnQV95Xy15VWExMGswRmx1b2IzUjFSd1RGdFFaYW9UdXB0UkJsV283RTJzeGhhVUNYdw?oc=5\" target=\"_blank\">T",
@@ -179,34 +200,13 @@ window.FUPPES_DATA["news-fc"] = {
    ]
   },
   {
-   "title": "Vor Spiel gegen den 1. FC Köln: Kompany vor Rückkehr auf die Trainerbank",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNd0hXdl83WUF6azFFcWFhUlFYcEtiSS1WYndFRVl0dlFtT19MajRJaFY3MVdHazhqNVZfSUlaazFvWEs3Z3hHVDR2R2F2MGd3Tnd3bHJTQ3A4V2NPMnd4WTdHNEI4YmxNdHdXank0MllzT0dCOXE0SEw4ZUNIeW85UDgtU1lGc203UGVhNFRGNHctbFQzd2tkcW9NR1A2UGhKZkxJTWtaN2xDUlNjbUFWc2pXM0dNV1kyTkhxNl9JRV9sUQ?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNd0hXdl83WUF6azFFcWFhUlFYcEtiSS1WYndFRVl0dlFtT19MajRJaFY3MVdHazhqNVZfSUlaazFvWEs3Z3hHVDR2R2F2MGd3Tnd3bHJTQ3A4V2NPMnd4WTdHNEI4YmxNdHdXank0MllzT0dCOXE0SEw4ZUNIeW85UDgtU1lGc203UGVhNFRGNHctbFQzd2tkcW9NR1A2UGhKZkxJTWtaN2xDUl",
-   "source": "Express",
-   "date": "2026-11-17T14:23:58.000Z",
+   "title": "Köln-Rückkehr konkreter: Benfica 6 Monate nach 17-Millionen-Deal offen für Kamiński-Abgang",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPR3lWUk0xaHYxY2d1MFE0amxGWVNfdTgtTWtxTHhqTXVYN1pUcmFiNXlfSzBNT0VDMzJQRXZxSlp2ejVOTlMtQkNfem9YaWJnS0lrNlFaSEI2SmE5dFVfb1B5ZlNzaUhfclFETGMyd2JXamdxaVZ0Y3FRelNLQ3JfRm9SVWN1cjlOemdZaG4tbzZoc0w1ZmI0ZlROUUp0Y0ZfT3ctS0JoN3ZVMFI1Y0NFOFpjYnNuc19GQS1peTdVY2xFbFh3aTZESFIxR2RzRmwt?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxPR3lWUk0xaHYxY2d1MFE0amxGWVNfdTgtTWtxTHhqTXVYN1pUcmFiNXlfSzBNT0VDMzJQRXZxSlp2ejVOTlMtQkNfem9YaWJnS0lrNlFaSEI2SmE5dFVfb1B5ZlNzaUhfclFETGMyd2JXamdxaVZ0Y3FRelNLQ3JfRm9SVWN1cjlOemdZaG4tbzZoc0w1ZmI0ZlROUUp0Y0ZfT3ctS0JoN3ZVMF",
+   "source": "Transfermarkt",
+   "date": "2026-11-17T15:43:00.000Z",
    "tags": [
-    "Personal",
-    "Verein"
-   ]
-  },
-  {
-   "title": "1. FC Köln startet Transfer-Offensive für Kamiński",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQc1BHZ3NwRzJIUVQxS2JHV2FuN0JlMkVjeDZuX1RHNU9iWkxfT0JoYkNxZlpvOExteFZ6WW9zZ2xIRkJlRDJzazFoNzlLbDVWNWhkOUNwcWNCUVdPU2JPM01ydFl5RHZBbVpSX3F1NFJSQ05oV2stLWl4bk9idnVpdW04SDZKV1JP?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQc1BHZ3NwRzJIUVQxS2JHV2FuN0JlMkVjeDZuX1RHNU9iWkxfT0JoYkNxZlpvOExteFZ6WW9zZ2xIRkJlRDJzazFoNzlLbDVWNWhkOUNwcWNCUVdPU2JPM01ydFl5RHZBbVpSX3F1NFJSQ05oV2stLWl4bk9idnVpdW04SDZKV1JP?oc=5\" target=\"_blank\">1. FC Köln startet Tran",
-   "source": "fussballdaten.de",
-   "date": "2026-11-17T14:13:00.000Z",
-   "tags": [
-    "Transfer"
-   ]
-  },
-  {
-   "title": "Transfer-Angriff: 1. FC Köln macht bei Wunschspieler ernst",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPcXNpd001ZTNDYUF5SWpYZUItMjdHOE5nM2p0dVdibGE5eW5RSmtZT2RyaWlIX2VMMnZuTjFUMXlQRWNiSVk2RTZ2Mjlpa1h2QlZUQ2lQcGJKelV2Z2d6M2xrOW1GWjJrdERTbUU4MklIX1ZNd3NMZnoyVnRSODVHRU5pYw?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPcXNpd001ZTNDYUF5SWpYZUItMjdHOE5nM2p0dVdibGE5eW5RSmtZT2RyaWlIX2VMMnZuTjFUMXlQRWNiSVk2RTZ2Mjlpa1h2QlZUQ2lQcGJKelV2Z2d6M2xrOW1GWjJrdERTbUU4MklIX1ZNd3NMZnoyVnRSODVHRU5pYw?oc=5\" target=\"_blank\">Transfer-Angriff: 1. FC Köln ",
-   "source": "90min.de",
-   "date": "2026-11-17T12:25:57.000Z",
-   "tags": [
-    "Transfer"
+    "Personal"
    ]
   }
  ]

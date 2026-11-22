@@ -1,6 +1,6 @@
 window.FUPPES_DATA = window.FUPPES_DATA || {};
 window.FUPPES_DATA["transfers"] = {
- "updated": "2026-11-22T14:58:48.031Z",
+ "updated": "2026-11-22T16:57:56.839Z",
  "rules": {
   "minFeeMio": 20,
   "topClubs": [
@@ -203,6 +203,20 @@ window.FUPPES_DATA["transfers"] = {
    ]
   },
   {
+   "title": "SCALVINI CLAIM MADE! ALEX SCOTT BOOST + EKITIKE RETURN DATE! Liverpool Latest Transfer News",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPTGpaVjJBcjdwZ1NoWjhnbTRwaGJjbWRrSk9xWlloYzJ5dUFSTGcxbXBsdWRaUmZOYTFTbktaOXZCMkx6Mnd1aWpsdmdiRWZDRnk4bE5LSVdfSXY3ckh0V29iLUxpc2VoRVZMMXYxOVJiZXRFQXNlS0QxdDdZUktqOXdMejZWY2lBN0FGR3haaUs1R3J5TDNzVWRZQW9zMWl1SW1KSE5WVlBVeHNFOW5iUVgtZVJ0ZlVmVjFvNFJSN0ZhcU14U2VpNA?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxPTGpaVjJBcjdwZ1NoWjhnbTRwaGJjbWRrSk9xWlloYzJ5dUFSTGcxbXBsdWRaUmZOYTFTbktaOXZCMkx6Mnd1aWpsdmdiRWZDRnk4bE5LSVdfSXY3ckh0V29iLUxpc2VoRVZMMXYxOVJiZXRFQXNlS0QxdDdZUktqOXdMejZWY2lBN0FGR3haaUs1R3J5TDNzVWRZQW9zMWl1SW1KSE5WVlBVeH",
+   "source": "OneFootball",
+   "date": "2026-11-22T06:46:08.000Z",
+   "fee": null,
+   "clubs": [
+    "Liverpool"
+   ],
+   "tags": [
+    "Transfer"
+   ]
+  },
+  {
    "title": "Schalke-Star Loris Karius reagiert auf Bayern-Gerüchte",
    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcEUzbkFUV3N3Y240NWk5VjRFbGduZm9fSF9TQ25tcUVHeU53Ty1TMXI1bm94ZjBkcFMyVkhUb3pFT2owOFVlczZoQ2RWRl9jQ2s5RUxEdkNtc0RFR3hNdy1wdHl0RXB5REU1c0trZmtwV1ptYVdPWjlhRUI4b1RfVEJIZUJ4RFJzUVgtWGFhMA?oc=5",
    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNcEUzbkFUV3N3Y240NWk5VjRFbGduZm9fSF9TQ25tcUVHeU53Ty1TMXI1bm94ZjBkcFMyVkhUb3pFT2owOFVlczZoQ2RWRl9jQ2s5RUxEdkNtc0RFR3hNdy1wdHl0RXB5REU1c0trZmtwV1ptYVdPWjlhRUI4b1RfVEJIZUJ4RFJzUVgtWGFhMA?oc=5\" target=\"_blank\">Schalke-Star ",
@@ -231,18 +245,31 @@ window.FUPPES_DATA["transfers"] = {
    ]
   },
   {
-   "title": "\"Wetten, dass der Schalker Torknoten gegen den BVB platzt?\"",
-   "link": "https://www.kicker.de/wetten-dass-der-schalker-torknoten-gegen-den-bvb-platzt-1273678/video#omrss",
-   "summary": "Gegen Stuttgart holte Schalke zwar einen Punkt, verpasste aber erneut den ersten Treffer der Saison vor heimischer Kulisse. Die nächste Gelegenheit würde sich durchaus für die Premiere anbieten, immerhin wartet das Revierderby.",
-   "source": "kicker",
-   "date": "2026-11-21T21:00:32.000Z",
+   "title": "Millionen-Abgang des FC Bayern erlebt Horror-Saison",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVHVUak5zLUVFcjBmTkNkd2RyWTJHam5SaG5tay1CLUZyd1VHdm1pMTFZZHR3NDlYZWExeVV3ZXRoTDR1cnUwaUFLYVVNd0NQZkFzYVJDVHhjbXJmb01iQ19zNzJUc0dzUzlQTHlVVzVITG5jLWRaR2h1bUxFYVdHRkxNalM0SGRocjdDMW5IYWN4UQ?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQVHVUak5zLUVFcjBmTkNkd2RyWTJHam5SaG5tay1CLUZyd1VHdm1pMTFZZHR3NDlYZWExeVV3ZXRoTDR1cnUwaUFLYVVNd0NQZkFzYVJDVHhjbXJmb01iQ19zNzJUc0dzUzlQTHlVVzVITG5jLWRaR2h1bUxFYVdHRkxNalM0SGRocjdDMW5IYWN4UQ?oc=5\" target=\"_blank\">Millionen",
+   "source": "TZ",
+   "date": "2026-11-22T04:55:00.000Z",
    "fee": null,
    "clubs": [
-    "BVB",
-    "Stuttgart"
+    "Bayern"
    ],
    "tags": [
-    "Gerücht"
+    "Transfer"
+   ]
+  },
+  {
+   "title": "LIVERPOOL IN BATTLE WITH RIVALS FOR STAR! + IRAOLA WANTS VVD STAY! Liverpool FC Latest Transfer News",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNMlFmMzhVa1BObW9JYkhSTmZJMDdHcmF5YjlRLVcydUhvNHVmRVNtNUFZMU9rQWptbkVkTnFPX3BPMFNPYy1rLVE2MXpyQUcxY195Z3piSVJYX2xsZXZLMGotdnp3Ykk2R2hEMXJKMGF6MzR1LUNtMEpTUHprN05mV18wdWhUMERkMUJxcnMxZFJwV3lJWWpKbVR2aG9UVjcxRU9SdE1iTlpXUVhOekluQ3hueXV0MzJfaWUxSG1DdHptYUUwc2hYNkpQQkd6ZUc2TU56QQ?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxNMlFmMzhVa1BObW9JYkhSTmZJMDdHcmF5YjlRLVcydUhvNHVmRVNtNUFZMU9rQWptbkVkTnFPX3BPMFNPYy1rLVE2MXpyQUcxY195Z3piSVJYX2xsZXZLMGotdnp3Ykk2R2hEMXJKMGF6MzR1LUNtMEpTUHprN05mV18wdWhUMERkMUJxcnMxZFJwV3lJWWpKbVR2aG9UVjcxRU9SdE1iTlpXUV",
+   "source": "OneFootball",
+   "date": "2026-11-21T23:46:48.000Z",
+   "fee": null,
+   "clubs": [
+    "Liverpool"
+   ],
+   "tags": [
+    "Transfer"
    ]
   },
   {
@@ -274,11 +301,11 @@ window.FUPPES_DATA["transfers"] = {
    ]
   },
   {
-   "title": "Woltemade-Wechsel wird forciert: Bayern mischt mit",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRzhYNWJVcUFJMkRkdGpDUHZCX1o4VUtTSFJ2T05lb2R1TGxQeEh4SC1HTFRRRUdpU3FFUjl4VW1nT2NGNnlwTTRVSk1yQ29fc3pRNHcwU3lhZHRYc084WHRVb0QzRDczNU9Wd2E3SGJpaEIwT1RkZndIVUhDNnNfZUpYUWdPem9MeWozQWtPVTdSdjBzUTY5S0wwTzhVXzdhYktvcHpLNA?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPRzhYNWJVcUFJMkRkdGpDUHZCX1o4VUtTSFJ2T05lb2R1TGxQeEh4SC1HTFRRRUdpU3FFUjl4VW1nT2NGNnlwTTRVSk1yQ29fc3pRNHcwU3lhZHRYc084WHRVb0QzRDczNU9Wd2E3SGJpaEIwT1RkZndIVUhDNnNfZUpYUWdPem9MeWozQWtPVTdSdjBzUTY5S0wwTzhVXzdhYktvcHpLNA?oc=",
-   "source": "Fussball Transfers",
-   "date": "2026-11-21T15:24:42.000Z",
+   "title": "Bayern-Abgang lässt Torgefahr bei neuem Klub vermissen",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUHRxS0E0Nkp1LWNWNmdYQ2ZkalNaeVBtc2FsXzg1VGRZWjJWME9PVFVHcEtwRmFiMUZtQ0E3N1lsa1NNMmluUFZGSE41TGNyQnFqdG1SR2N1S2FNUE1ndXdUMHRSRUwtNnFSVkdkdzBydDZCS19iOWp4eWJJalBYejNWVlJSdU1xU3kzOU1QR2lkR0lueXRPYkh3aUlSOTFv?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOUHRxS0E0Nkp1LWNWNmdYQ2ZkalNaeVBtc2FsXzg1VGRZWjJWME9PVFVHcEtwRmFiMUZtQ0E3N1lsa1NNMmluUFZGSE41TGNyQnFqdG1SR2N1S2FNUE1ndXdUMHRSRUwtNnFSVkdkdzBydDZCS19iOWp4eWJJalBYejNWVlJSdU1xU3kzOU1QR2lkR0lueXRPYkh3aUlSOTFv?oc=5\" target=",
+   "source": "TZ",
+   "date": "2026-11-21T16:35:00.000Z",
    "fee": null,
    "clubs": [
     "Bayern"
@@ -288,11 +315,11 @@ window.FUPPES_DATA["transfers"] = {
    ]
   },
   {
-   "title": "„Wir werden diesen Wahnsinn nicht mitgehen“: Bayern-Boss Dreesen mit klarer Transfer-Ansage",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNYnA5TGF2WUlrX2hPRUlQeExWWjJoSThQQ0MwMm5pVU1oXzNKUXdBaGN4YkhrS3hhR1J5VmY2MnpyLTkzNXVhamt5YmIwZ3ozSzhSanJpN0tTRzM0V1lBRFJJUENDeHJQZC02Z2FxdWFyM2NTUG44bTlDVFBOWmdhU1piUVRUeXcwWmEzeUQtM180NU1kMVQyWjNhd1ZFWTRTR1ZNV1c0OEYtU3ZLOUU4RXF6UVJrR3pJME53bE9Xc3V4bzR4MU5ncGJnX3NZbGhheGNDaVdYUHE?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxNYnA5TGF2WUlrX2hPRUlQeExWWjJoSThQQ0MwMm5pVU1oXzNKUXdBaGN4YkhrS3hhR1J5VmY2MnpyLTkzNXVhamt5YmIwZ3ozSzhSanJpN0tTRzM0V1lBRFJJUENDeHJQZC02Z2FxdWFyM2NTUG44bTlDVFBOWmdhU1piUVRUeXcwWmEzeUQtM180NU1kMVQyWjNhd1ZFWTRTR1ZNV1c0OEYtU3",
-   "source": "Absolut Fussball",
-   "date": "2026-11-21T15:16:55.000Z",
+   "title": "Woltemade-Wechsel wird forciert: Bayern mischt mit",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRzhYNWJVcUFJMkRkdGpDUHZCX1o4VUtTSFJ2T05lb2R1TGxQeEh4SC1HTFRRRUdpU3FFUjl4VW1nT2NGNnlwTTRVSk1yQ29fc3pRNHcwU3lhZHRYc084WHRVb0QzRDczNU9Wd2E3SGJpaEIwT1RkZndIVUhDNnNfZUpYUWdPem9MeWozQWtPVTdSdjBzUTY5S0wwTzhVXzdhYktvcHpLNA?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPRzhYNWJVcUFJMkRkdGpDUHZCX1o4VUtTSFJ2T05lb2R1TGxQeEh4SC1HTFRRRUdpU3FFUjl4VW1nT2NGNnlwTTRVSk1yQ29fc3pRNHcwU3lhZHRYc084WHRVb0QzRDczNU9Wd2E3SGJpaEIwT1RkZndIVUhDNnNfZUpYUWdPem9MeWozQWtPVTdSdjBzUTY5S0wwTzhVXzdhYktvcHpLNA?oc=",
+   "source": "Fussball Transfers",
+   "date": "2026-11-21T15:24:42.000Z",
    "fee": null,
    "clubs": [
     "Bayern"
@@ -357,34 +384,6 @@ window.FUPPES_DATA["transfers"] = {
    ],
    "tags": [
     "Gerücht"
-   ]
-  },
-  {
-   "title": "Kein Drei-Millionen-Deal: An Ivanišević-Wechsel zum VfB ist nichts dran",
-   "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQWHdjcDBVZWFfeEZvbUVubHZxV3RxeU5SWGVndFE5UVFxX0hyY0dQMFIwNnQ0dVVNSXYyZXVSNGNwaWxsQWNkUzVrSjhpdUY4TklYWnZBOEFrcGc4VEIxNFZtM2h5b3ZpQTVyeFg4TG45b2FMaXl4V2FydF9xeFZQRDJ0WVE2cV96cHpnNUtZZ1l3MEtGbF9nVFRiMkoyWWNCaUtodXZXT2lIRkR2U2ZkbS1uT3F6VVJONXl5Q3BRNmxpTjRYMGoyUTdFc3JCTEs3UmZyNkdad0RVSTRYeWRvbjJZU01mUUZNRHI3Sk45aVF1VW5lcVMyek9lZUxUcllQYkRkYw?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAJBVV95cUxQWHdjcDBVZWFfeEZvbUVubHZxV3RxeU5SWGVndFE5UVFxX0hyY0dQMFIwNnQ0dVVNSXYyZXVSNGNwaWxsQWNkUzVrSjhpdUY4TklYWnZBOEFrcGc4VEIxNFZtM2h5b3ZpQTVyeFg4TG45b2FMaXl4V2FydF9xeFZQRDJ0WVE2cV96cHpnNUtZZ1l3MEtGbF9nVFRiMkoyWWNCaUtodXZXT2lIRk",
-   "source": "n-tv.de",
-   "date": "2026-11-19T17:30:00.000Z",
-   "fee": null,
-   "clubs": [
-    "VfB"
-   ],
-   "tags": [
-    "Transfer"
-   ]
-  },
-  {
-   "title": "FC Barcelona arbeitet im Hintergrund an einem spektakulären Transfer",
-   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQbDRwVlhlX1otck5xdlp6dXh4ZGF4S3hBaTFLSnNDNHRDRVZJUEVLYVJsUTRZOEJnbEs3cXozZ1lKcktlb2EwN1RVTjFLNUxwRVJNT2haZ1Y3UEZHaklDYzQ2aG9WeG1IV2ZWd3k1SDl3LXFZYzc3aHBjbm9UOFpHSDVQLTRab2xRRFBNVVNoOGd5STBiSkFEQnh4d1hIUWxTUzZ5UHBWbmVhbHhHLW5PWTdqYzVDV0NKbjE5RzdMSk11c2M4WW44THBQNUdYYVJmMHBiOUpTcnY0T1JwRHBfUVhUVENnb25ldWc?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxQbDRwVlhlX1otck5xdlp6dXh4ZGF4S3hBaTFLSnNDNHRDRVZJUEVLYVJsUTRZOEJnbEs3cXozZ1lKcktlb2EwN1RVTjFLNUxwRVJNT2haZ1Y3UEZHaklDYzQ2aG9WeG1IV2ZWd3k1SDl3LXFZYzc3aHBjbm9UOFpHSDVQLTRab2xRRFBNVVNoOGd5STBiSkFEQnh4d1hIUWxTUzZ5UHBWbmVhbH",
-   "source": "Sport Bild",
-   "date": "2026-11-19T14:27:01.000Z",
-   "fee": null,
-   "clubs": [
-    "Barcelona"
-   ],
-   "tags": [
-    "Transfer"
    ]
   }
  ]
