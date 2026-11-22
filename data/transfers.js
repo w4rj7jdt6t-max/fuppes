@@ -1,6 +1,6 @@
 window.FUPPES_DATA = window.FUPPES_DATA || {};
 window.FUPPES_DATA["transfers"] = {
- "updated": "2026-11-22T03:00:10.834Z",
+ "updated": "2026-11-22T05:10:13.172Z",
  "rules": {
   "minFeeMio": 20,
   "topClubs": [
@@ -244,6 +244,20 @@ window.FUPPES_DATA["transfers"] = {
    ]
   },
   {
+   "title": "„Interessiert sie einen Dreck“: Scharfe Kritik am FC Bayern",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQajZsclNHeHlITTVNM2ZXajh6Ql9JUGY5MnlESkUxMVJvY1FvRTRnTEswWUhUXzNPQ1NxeFVCRFBIamE4d2VYVnAxSWZjYndHQ2M2OVpoU1YwUjJVT0E2d3pTSWlSUWpXbkVEUzRqS0o2TW9LV1lEOWdHQkpNVFRRMXU1QnpVd2poQV80T3JhZWx5czVpdzlKVjQyVm1lR180a2hRSFdjUGRvbnRqNXhjWQ?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQajZsclNHeHlITTVNM2ZXajh6Ql9JUGY5MnlESkUxMVJvY1FvRTRnTEswWUhUXzNPQ1NxeFVCRFBIamE4d2VYVnAxSWZjYndHQ2M2OVpoU1YwUjJVT0E2d3pTSWlSUWpXbkVEUzRqS0o2TW9LV1lEOWdHQkpNVFRRMXU1QnpVd2poQV80T3JhZWx5czVpdzlKVjQyVm1lR180a2hRSFdjUGRvbn",
+   "source": "Fussball Transfers",
+   "date": "2026-11-20T20:47:00.000Z",
+   "fee": null,
+   "clubs": [
+    "Bayern"
+   ],
+   "tags": [
+    "Gerücht"
+   ]
+  },
+  {
    "title": "Klausel macht Transfer möglich: Real Madrid will Nico Paz zurück",
    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQcUF1anp3Yzk0QlR2VHFTNUI2U2lFSkt3b0FNTWRBWExrNGxMSlNRS0ZqM0pEQThkSkx1MGxrZzA4WW1nSGQ3Ry1qTmNRTW1VODRmdmh6WWREcHk5OTFicjBwaE5LMUVKRTRMOUNvb1BpNlRxUlZzcUlaWTB0ZEF1Z0VSbjl4ZE5YNmVNNjJVd3BfQzg?oc=5",
    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQcUF1anp3Yzk0QlR2VHFTNUI2U2lFSkt3b0FNTWRBWExrNGxMSlNRS0ZqM0pEQThkSkx1MGxrZzA4WW1nSGQ3Ry1qTmNRTW1VODRmdmh6WWREcHk5OTFicjBwaE5LMUVKRTRMOUNvb1BpNlRxUlZzcUlaWTB0ZEF1Z0VSbjl4ZE5YNmVNNjJVd3BfQzg?oc=5\" target=\"_blank\">Klausel ",
@@ -366,20 +380,6 @@ window.FUPPES_DATA["transfers"] = {
    "fee": null,
    "clubs": [
     "Bayern"
-   ],
-   "tags": [
-    "Transfer"
-   ]
-  },
-  {
-   "title": "Kein Drei-Millionen-Deal: An Ivanišević-Wechsel zum VfB ist nichts dran",
-   "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQWHdjcDBVZWFfeEZvbUVubHZxV3RxeU5SWGVndFE5UVFxX0hyY0dQMFIwNnQ0dVVNSXYyZXVSNGNwaWxsQWNkUzVrSjhpdUY4TklYWnZBOEFrcGc4VEIxNFZtM2h5b3ZpQTVyeFg4TG45b2FMaXl4V2FydF9xeFZQRDJ0WVE2cV96cHpnNUtZZ1l3MEtGbF9nVFRiMkoyWWNCaUtodXZXT2lIRkR2U2ZkbS1uT3F6VVJONXl5Q3BRNmxpTjRYMGoyUTdFc3JCTEs3UmZyNkdad0RVSTRYeWRvbjJZU01mUUZNRHI3Sk45aVF1VW5lcVMyek9lZUxUcllQYkRkYw?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAJBVV95cUxQWHdjcDBVZWFfeEZvbUVubHZxV3RxeU5SWGVndFE5UVFxX0hyY0dQMFIwNnQ0dVVNSXYyZXVSNGNwaWxsQWNkUzVrSjhpdUY4TklYWnZBOEFrcGc4VEIxNFZtM2h5b3ZpQTVyeFg4TG45b2FMaXl4V2FydF9xeFZQRDJ0WVE2cV96cHpnNUtZZ1l3MEtGbF9nVFRiMkoyWWNCaUtodXZXT2lIRk",
-   "source": "n-tv.de",
-   "date": "2026-11-19T17:30:00.000Z",
-   "fee": null,
-   "clubs": [
-    "VfB"
    ],
    "tags": [
     "Transfer"
