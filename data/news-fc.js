@@ -1,6 +1,6 @@
 window.FUPPES_DATA = window.FUPPES_DATA || {};
 window.FUPPES_DATA["news-fc"] = {
- "updated": "2026-11-22T10:56:51.968Z",
+ "updated": "2026-11-22T13:09:55.254Z",
  "items": [
   {
    "title": "MV ohne Team und Trainer: Stars dürfen „mit Hund und Katze durchatmen“",

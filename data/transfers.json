@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T10:56:53.195Z",
+ "updated": "2026-11-22T13:09:56.526Z",
  "rules": {
   "minFeeMio": 20,
   "topClubs": [
@@ -43,14 +43,30 @@
  },
  "items": [
   {
-   "title": "Transfer-Ticker: FC Bayern kann bei Ödegaard weiter hoffen",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPU296dkhKS3NZZVpUdEpSRnBGV2R1am04aGJfbDVDYlZGcW1uT0MtTnp0TkJJblZiX1JJdFRSdzJkTVhBUTNfTmZRa2wtdWxYaVY2bmdoTmd3d1pzVzR0dXhfeFVGaU1QenBzTHpVX3p1WEFmTGNILTUzT1dWbWJjQXRubmFmUm50Q1JVRG5jVGV6b01RZnlaODItWTU?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPU296dkhKS3NZZVpUdEpSRnBGV2R1am04aGJfbDVDYlZGcW1uT0MtTnp0TkJJblZiX1JJdFRSdzJkTVhBUTNfTmZRa2wtdWxYaVY2bmdoTmd3d1pzVzR0dXhfeFVGaU1QenBzTHpVX3p1WEFmTGNILTUzT1dWbWJjQXRubmFmUm50Q1JVRG5jVGV6b01RZnlaODItWTU?oc=5\" target=\"_bla",
-   "source": "sport.de",
-   "date": "2026-11-22T09:39:00.000Z",
+   "title": "Fußball-Transfergerüchte heute: Musiala vor Bayern-Flucht? Kane-Ersatz aus Spanien? 4 Top-Klubs heiß auf BVB-Star",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBHR3JuWlBkWVBvSEVtZ2NESndwaFFoVzFSVTA5QWxxSm9kRXpVVUpIUXYxaUJSanpGX2EtQlY0VEZYVFBRc0RTRFVKLXZ4WTVqVThzX0xHanVSeXFUS2FVRmZmVU1vZExIWndpOXNEdUg?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFBHR3JuWlBkWVBvSEVtZ2NESndwaFFoVzFSVTA5QWxxSm9kRXpVVUpIUXYxaUJSanpGX2EtQlY0VEZYVFBRc0RTRFVKLXZ4WTVqVThzX0xHanVSeXFUS2FVRmZmVU1vZExIWndpOXNEdUg?oc=5\" target=\"_blank\">Fußball-Transfergerüchte heute: Musiala vor Bayern-Fluch",
+   "source": "90min.de",
+   "date": "2026-11-22T12:48:03.000Z",
    "fee": null,
    "clubs": [
-    "Bayern"
+    "Bayern",
+    "BVB"
+   ],
+   "tags": [
+    "Gerücht"
+   ]
+  },
+  {
+   "title": "Barça: Komplizierter Nijstad-Transfer – FC Barcelona",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNcnhWbFdnd0lPaHBlaVlGRU9zLTJYTU4tNEJ0MkpMb0YtUmJmdWZfODRsR2VGNW1hM3pNUkJVYnVmZnA0YVMwdTh0amZTSjdFenhDU1VtMDlZcjBheHRBR18yX01GRkFNU29JMlE4a3pUUFNENFJ1Nkt6WTJ4dVc3ZjFwT1Y1RHBBUXFoX3JWWGdYbVFVUWc?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNcnhWbFdnd0lPaHBlaVlGRU9zLTJYTU4tNEJ0MkpMb0YtUmJmdWZfODRsR2VGNW1hM3pNUkJVYnVmZnA0YVMwdTh0amZTSjdFenhDU1VtMDlZcjBheHRBR18yX01GRkFNU29JMlE4a3pUUFNENFJ1Nkt6WTJ4dVc3ZjFwT1Y1RHBBUXFoX3JWWGdYbVFVUWc?oc=5\" target=\"_blank\">Barç",
+   "source": "Fussball Transfers",
+   "date": "2026-11-22T11:12:00.000Z",
+   "fee": null,
+   "clubs": [
+    "Barcelona",
+    "Barça"
    ],
    "tags": [
     "Transfer"
@@ -86,20 +102,6 @@
    ]
   },
   {
-   "title": "Schalke: Karius zum FC Bayern München? S04-Torwart spricht über Wechselgerüchte",
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNbzQxV1ZjZTFsVUR2YXYwYVJ0TzcxWEtVMVh0bGlTZmRUblVwaXVUV1NOMmZNaEp3RXpYeXZRYnJrUXRUcWk4clJhU0FYX0ZER0p4RTAzV01ZZTlGTzRpRFhsMFZqX1JpbjhGeFFlWV9EMUVEQUVDam51dXVIZTN6b3ZpbmlwazNLRlU5OWpkNmUwMVo3VGh0Q0o2Q2NTWDNDd2ZfejRQOGNQSng5bUJIMTloRHBEU3RFemoycnk4dDA0YzRuWW1aXzlvSWVZT00yLURUcW1iVjI3bEE?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxNbzQxV1ZjZTFsVUR2YXYwYVJ0TzcxWEtVMVh0bGlTZmRUblVwaXVUV1NOMmZNaEp3RXpYeXZRYnJrUXRUcWk4clJhU0FYX0ZER0p4RTAzV01ZZTlGTzRpRFhsMFZqX1JpbjhGeFFlWV9EMUVEQUVDam51dXVIZTN6b3ZpbmlwazNLRlU5OWpkNmUwMVo3VGh0Q0o2Q2NTWDNDd2ZfejRQOGNQSn",
-   "source": "RevierSport online",
-   "date": "2026-11-22T08:37:46.000Z",
-   "fee": null,
-   "clubs": [
-    "Bayern"
-   ],
-   "tags": [
-    "Gerücht"
-   ]
-  },
-  {
    "title": "Wird Premier-League-Star plötzlich nächster Neuzugang beim FC Bayern?",
    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdnQ0SHdQcURnUTladjVUVnhLZ3VNakVwVi0tTHBtUkNQbjlOSE1nNzVQYnlGSWdXd2FpSnFhQ0EyMkhnTUphNGxYdnNoWTE3WUdCbzg2OXVpN3M3amdqcTRtMXl0eVFyZlBEdXFWdHhxRVNIZnlSNWRFV21nVmdXckxKQXQ2ZFExT3ZYUk9RRXhnaF83STNJQ2h0c1dGSVlpWUZvWQ?oc=5",
    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQdnQ0SHdQcURnUTladjVUVnhLZ3VNakVwVi0tTHBtUkNQbjlOSE1nNzVQYnlGSWdXd2FpSnFhQ0EyMkhnTUphNGxYdnNoWTE3WUdCbzg2OXVpN3M3amdqcTRtMXl0eVFyZlBEdXFWdHhxRVNIZnlSNWRFV21nVmdXckxKQXQ2ZFExT3ZYUk9RRXhnaF83STNJQ2h0c1dGSVlpWUZvWQ?oc=5\" t",
@@ -128,6 +130,20 @@
    ]
   },
   {
+   "title": "Schalke-Rückhalt vor Wechsel zum FC Bayern? Jetzt äußert sich Loris Karius erstmals selbst zu den Gerüchten",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPck02NmRCVFlhVE51dEs5OHg2Sk55aXVRT3dmTGswcVlndWJnQU5ZUFIzTVg1dlRJQ1VTbTQ2blI2TWVONEVsQ3M2OVp1WGhsMnhMeS05N3k5eG1RbEozYmF5MHl4TjBjYnl4OXFmeVM0X3pmQ19JUFNFTmVHSEtKdkplNUpzTE1tQll2OURySzlQQ3N2VWFrbF94VHF3R3prRTNyOC1lOVJmN2R4SzNVQWFHaENHMW5yOVBCZWZzZEptWVZzalNjcmdJWmY0enlxWWJiakFYYw?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxPck02NmRCVFlhVE51dEs5OHg2Sk55aXVRT3dmTGswcVlndWJnQU5ZUFIzTVg1dlRJQ1VTbTQ2blI2TWVONEVsQ3M2OVp1WGhsMnhMeS05N3k5eG1RbEozYmF5MHl4TjBjYnl4OXFmeVM0X3pmQ19JUFNFTmVHSEtKdkplNUpzTE1tQll2OURySzlQQ3N2VWFrbF94VHF3R3prRTNyOC1lOVJmN2",
+   "source": "Absolut Fussball",
+   "date": "2026-11-22T07:56:02.000Z",
+   "fee": null,
+   "clubs": [
+    "Bayern"
+   ],
+   "tags": [
+    "Gerücht"
+   ]
+  },
+  {
    "title": "FC Bayern: Karius reagiert auf Wechsel-Gerücht",
    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQ1ZtTEdKSnR4NWtuNmY5R2Nack1PRkNDbGVSWEdlR3h2UW1yTzhlNVQ3dDM4Ny1tbmlQUV8wVl9UMktsZzBULUFqaFl2YVhOQXBqaEI0b3VYZENBMGxQbi01VFg1WUxPMmpUbWFhZUNkZTcyN0J5d1ZOMWl6bnRrX3BTQUV0bV9TbEd4OHBjWGlqMENKaVQ3YmZVczNVVDQwaXFR?oc=5",
    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQQ1ZtTEdKSnR4NWtuNmY5R2Nack1PRkNDbGVSWEdlR3h2UW1yTzhlNVQ3dDM4Ny1tbmlQUV8wVl9UMktsZzBULUFqaFl2YVhOQXBqaEI0b3VYZENBMGxQbi01VFg1WUxPMmpUbWFhZUNkZTcyN0J5d1ZOMWl6bnRrX3BTQUV0bV9TbEd4OHBjWGlqMENKaVQ3YmZVczNVVDQwaXFR?oc=5\" tar",
@@ -142,18 +158,31 @@
    ]
   },
   {
-   "title": "Elfmeter-Fehlschuss und späte Rettung: Real feiert Comeback-Sieg",
-   "link": "https://www.kicker.de/elfmeter-fehlschuss-und-spaete-rettung-real-feiert-comeback-sieg-1273706/video#omrss",
-   "summary": "Real Madrid hatte im Heimspiel gegen Celta Vigo lang Schwierigkeiten, drehte gegen Ende dann aber doch auf und holte den Sieg. Die Highlights der Partie gibt es hier.",
-   "source": "kicker",
-   "date": "2026-11-21T22:35:41.000Z",
+   "title": "Schalke-Star Loris Karius reagiert auf Bayern-Gerüchte",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcEUzbkFUV3N3Y240NWk5VjRFbGduZm9fSF9TQ25tcUVHeU53Ty1TMXI1bm94ZjBkcFMyVkhUb3pFT2owOFVlczZoQ2RWRl9jQ2s5RUxEdkNtc0RFR3hNdy1wdHl0RXB5REU1c0trZmtwV1ptYVdPWjlhRUI4b1RfVEJIZUJ4RFJzUVgtWGFhMA?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNcEUzbkFUV3N3Y240NWk5VjRFbGduZm9fSF9TQ25tcUVHeU53Ty1TMXI1bm94ZjBkcFMyVkhUb3pFT2owOFVlczZoQ2RWRl9jQ2s5RUxEdkNtc0RFR3hNdy1wdHl0RXB5REU1c0trZmtwV1ptYVdPWjlhRUI4b1RfVEJIZUJ4RFJzUVgtWGFhMA?oc=5\" target=\"_blank\">Schalke-Star ",
+   "source": "fussballdaten.de",
+   "date": "2026-11-22T06:34:00.000Z",
    "fee": null,
    "clubs": [
-    "Real Madrid"
+    "Bayern"
    ],
    "tags": [
-    "Fix",
-    "Personal"
+    "Gerücht"
+   ]
+  },
+  {
+   "title": "Wilde Gerüchte um FC Bayern: Matthäus zweifelt an Worten von Spitzen-Torwart Karius",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPOHhrVm05QW9sSHhVWlZfN29sQ1JpblJjTXktdEVra0VJb3BySDBEb01nb1UyZ2dBVm1qVWJZMG5aajRuR3hnVmFkWnZkaUwwaV94UmczeFd3ZERReFRfQThXQWlmWmhyWmRDWU1zdnB4dWQzaFA0WV9IYzZhNjhBbG1pX04xczZXcmJvOWtySl9aNUFoZ3haQjY1N0dRaVZEZ3NxcTBHNjRjQQ?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPOHhrVm05QW9sSHhVWlZfN29sQ1JpblJjTXktdEVra0VJb3BySDBEb01nb1UyZ2dBVm1qVWJZMG5aajRuR3hnVmFkWnZkaUwwaV94UmczeFd3ZERReFRfQThXQWlmWmhyWmRDWU1zdnB4dWQzaFA0WV9IYzZhNjhBbG1pX04xczZXcmJvOWtySl9aNUFoZ3haQjY1N0dRaVZEZ3NxcTBHNjRjQQ",
+   "source": "n-tv.de",
+   "date": "2026-11-22T05:47:00.000Z",
+   "fee": null,
+   "clubs": [
+    "Bayern"
+   ],
+   "tags": [
+    "Gerücht"
    ]
   },
   {
@@ -214,9 +243,9 @@
    ]
   },
   {
-   "title": "Spielergewerkschaft Fifpro kritisiert FC Bayern wegen Umgang mit Musiala",
+   "title": "Spielergewerkschaft FIFPro kritisiert FC Bayern wegen Umgang mit Musiala",
    "link": "https://www.transfermarkt.de/fifpro-kritisiert-fc-bayern-koordinierte-strategie-um-druck-auf-musiala-auszuuben-quot-/view/news/491020",
-   "summary": "Die Spielergewerkschaft Fifpro hat die Spitze des FC Bayern wegen ihres Verhaltens in der Debatte um Jamal Musialas Gesundheit und seinen Vertrag ger&uuml;gt. Bei den Aussagen von...",
+   "summary": "Die Spielergewerkschaft FIFPro hat die Spitze des FC Bayern wegen ihres Verhaltens in der Debatte um Jamal Musialas Gesundheit und seinen Vertrag ger&uuml;gt. Bei den Aussagen von...",
    "source": "Transfermarkt",
    "date": "2026-11-21T17:58:50.000Z",
    "fee": null,
@@ -228,53 +257,11 @@
    ]
   },
   {
-   "title": "Transfer-Hammer? Woltemade erneut beim FC Bayern gehandelt",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWlkzcjh3c3N3d3NjcjVPRl9jejVtY1htVWNvbmpidkdfSHJpNEhvaUlseTRaS3luR0FMekdwbFpLRkduS0hvU0FtYXBacnpVSWx1aTU4MlNoZlNkb2t5UzFUY1dlWE1BaDZCeUtHREdqUy1sNVNnSHVnZUlSUVFpN3FLMGpvYlBRVF9jUlZwelJYV0hDdHIyUldNNA?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNWlkzcjh3c3N3d3NjcjVPRl9jejVtY1htVWNvbmpidkdfSHJpNEhvaUlseTRaS3luR0FMekdwbFpLRkduS0hvU0FtYXBacnpVSWx1aTU4MlNoZlNkb2t5UzFUY1dlWE1BaDZCeUtHREdqUy1sNVNnSHVnZUlSUVFpN3FLMGpvYlBRVF9jUlZwelJYV0hDdHIyUldNNA?oc=5\" target=\"_blan",
-   "source": "sport.de",
-   "date": "2026-11-21T16:16:00.000Z",
-   "fee": null,
-   "clubs": [
-    "Bayern"
-   ],
-   "tags": [
-    "Gerücht"
-   ]
-  },
-  {
    "title": "Woltemade-Wechsel wird forciert: Bayern mischt mit",
    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRzhYNWJVcUFJMkRkdGpDUHZCX1o4VUtTSFJ2T05lb2R1TGxQeEh4SC1HTFRRRUdpU3FFUjl4VW1nT2NGNnlwTTRVSk1yQ29fc3pRNHcwU3lhZHRYc084WHRVb0QzRDczNU9Wd2E3SGJpaEIwT1RkZndIVUhDNnNfZUpYUWdPem9MeWozQWtPVTdSdjBzUTY5S0wwTzhVXzdhYktvcHpLNA?oc=5",
    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPRzhYNWJVcUFJMkRkdGpDUHZCX1o4VUtTSFJ2T05lb2R1TGxQeEh4SC1HTFRRRUdpU3FFUjl4VW1nT2NGNnlwTTRVSk1yQ29fc3pRNHcwU3lhZHRYc084WHRVb0QzRDczNU9Wd2E3SGJpaEIwT1RkZndIVUhDNnNfZUpYUWdPem9MeWozQWtPVTdSdjBzUTY5S0wwTzhVXzdhYktvcHpLNA?oc=",
    "source": "Fussball Transfers",
    "date": "2026-11-21T15:24:42.000Z",
-   "fee": null,
-   "clubs": [
-    "Bayern"
-   ],
-   "tags": [
-    "Transfer"
-   ]
-  },
-  {
-   "title": "„Wir werden diesen Wahnsinn nicht mitgehen“: Bayern-Boss Dreesen mit klarer Transfer-Ansage",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNYnA5TGF2WUlrX2hPRUlQeExWWjJoSThQQ0MwMm5pVU1oXzNKUXdBaGN4YkhrS3hhR1J5VmY2MnpyLTkzNXVhamt5YmIwZ3ozSzhSanJpN0tTRzM0V1lBRFJJUENDeHJQZC02Z2FxdWFyM2NTUG44bTlDVFBOWmdhU1piUVRUeXcwWmEzeUQtM180NU1kMVQyWjNhd1ZFWTRTR1ZNV1c0OEYtU3ZLOUU4RXF6UVJrR3pJME53bE9Xc3V4bzR4MU5ncGJnX3NZbGhheGNDaVdYUHE?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxNYnA5TGF2WUlrX2hPRUlQeExWWjJoSThQQ0MwMm5pVU1oXzNKUXdBaGN4YkhrS3hhR1J5VmY2MnpyLTkzNXVhamt5YmIwZ3ozSzhSanJpN0tTRzM0V1lBRFJJUENDeHJQZC02Z2FxdWFyM2NTUG44bTlDVFBOWmdhU1piUVRUeXcwWmEzeUQtM180NU1kMVQyWjNhd1ZFWTRTR1ZNV1c0OEYtU3",
-   "source": "Absolut Fussball",
-   "date": "2026-11-21T15:16:55.000Z",
-   "fee": null,
-   "clubs": [
-    "Bayern"
-   ],
-   "tags": [
-    "Transfer"
-   ]
-  },
-  {
-   "title": "Transfer-Kehrtwende beim FC Bayern wegen Kane-Schock",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOd0RXVnNtSmUxTE9OcGstOFlNSXNRSUdRdlVxa3BKYlFwZ2Q4YzhZbzRFRFctU2xndGFJUWgzMlkyVHgzaV9ncXM0SWZGS1VEbEYwZXFnY3JuVVpkc0JNYXFYOFNQOE1vaWJsOUxaTmo2dElaQXZxa3VhNWtqbkp0QnR4dk1XbTFSU1A0emtiQ2pZX2x3?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOd0RXVnNtSmUxTE9OcGstOFlNSXNRSUdRdlVxa3BKYlFwZ2Q4YzhZbzRFRFctU2xndGFJUWgzMlkyVHgzaV9ncXM0SWZGS1VEbEYwZXFnY3JuVVpkc0JNYXFYOFNQOE1vaWJsOUxaTmo2dElaQXZxa3VhNWtqbkp0QnR4dk1XbTFSU1A0emtiQ2pZX2x3?oc=5\" target=\"_blank\">Transfe",
-   "source": "sport.de",
-   "date": "2026-11-21T14:27:00.000Z",
    "fee": null,
    "clubs": [
     "Bayern"
@@ -378,6 +365,20 @@
    "fee": null,
    "clubs": [
     "BVB"
+   ],
+   "tags": [
+    "Transfer"
+   ]
+  },
+  {
+   "title": "Kein Drei-Millionen-Deal: An Ivanišević-Wechsel zum VfB ist nichts dran",
+   "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQWHdjcDBVZWFfeEZvbUVubHZxV3RxeU5SWGVndFE5UVFxX0hyY0dQMFIwNnQ0dVVNSXYyZXVSNGNwaWxsQWNkUzVrSjhpdUY4TklYWnZBOEFrcGc4VEIxNFZtM2h5b3ZpQTVyeFg4TG45b2FMaXl4V2FydF9xeFZQRDJ0WVE2cV96cHpnNUtZZ1l3MEtGbF9nVFRiMkoyWWNCaUtodXZXT2lIRkR2U2ZkbS1uT3F6VVJONXl5Q3BRNmxpTjRYMGoyUTdFc3JCTEs3UmZyNkdad0RVSTRYeWRvbjJZU01mUUZNRHI3Sk45aVF1VW5lcVMyek9lZUxUcllQYkRkYw?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAJBVV95cUxQWHdjcDBVZWFfeEZvbUVubHZxV3RxeU5SWGVndFE5UVFxX0hyY0dQMFIwNnQ0dVVNSXYyZXVSNGNwaWxsQWNkUzVrSjhpdUY4TklYWnZBOEFrcGc4VEIxNFZtM2h5b3ZpQTVyeFg4TG45b2FMaXl4V2FydF9xeFZQRDJ0WVE2cV96cHpnNUtZZ1l3MEtGbF9nVFRiMkoyWWNCaUtodXZXT2lIRk",
+   "source": "n-tv.de",
+   "date": "2026-11-19T17:30:00.000Z",
+   "fee": null,
+   "clubs": [
+    "VfB"
    ],
    "tags": [
     "Transfer"
