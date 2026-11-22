@@ -1,6 +1,6 @@
 window.FUPPES_DATA = window.FUPPES_DATA || {};
 window.FUPPES_DATA["news-fc"] = {
- "updated": "2026-11-21T22:53:46.111Z",
+ "updated": "2026-11-22T01:23:55.621Z",
  "items": [
   {
    "title": "1. FC Köln: Wochenlange Spekulationen um Moore - haben die Gerüchte endgültig ein Ende?",
@@ -155,17 +155,6 @@ window.FUPPES_DATA["news-fc"] = {
    ]
   },
   {
-   "title": "FC Bayern gegen 1. FC Köln: Gelingt der Sieg zum Kompany-Comeback?",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQVWtjR2xYYWxKQmdmSzVROUYzRnVoVnBUYXlDRy1oQzc4Y3pMUi0wRzRXalpjYVF0c2l4NzZ5aGswV1BzX3htVzY3bU56X1NPLTNUWlZ3bkFNMVh2MnZnTWpmZnVHMGhxbU9NUWZHMF9nMEZaUWtnQV9ydU1pNzBoZTFpdEt6cmc1aElhX2tYVm1QX0U3UFhkd3ZoUzM0bnR1Zm9oeWlkTEpLak83ODBQeTBJaFhjZnhUd0JZQkx3SUp6TUVYNk9ZTi11RVFNTU54eHow?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxQVWtjR2xYYWxKQmdmSzVROUYzRnVoVnBUYXlDRy1oQzc4Y3pMUi0wRzRXalpjYVF0c2l4NzZ5aGswV1BzX3htVzY3bU56X1NPLTNUWlZ3bkFNMVh2MnZnTWpmZnVHMGhxbU9NUWZHMF9nMEZaUWtnQV9ydU1pNzBoZTFpdEt6cmc1aElhX2tYVm1QX0U3UFhkd3ZoUzM0bnR1Zm9oeWlkTEpLak",
-   "source": "Absolut Fussball",
-   "date": "2026-11-20T15:39:37.000Z",
-   "tags": [
-    "Gerücht",
-    "Personal"
-   ]
-  },
-  {
    "title": "Kompany-Rückkehr: Hier läuft FC Bayern gegen Köln jetzt live im TV und Stream",
    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOZlZOZFVJZE5mNUYtNmZKcmNpOEdvMThtcEY5T0YzRTM5RlNvM1hHeS1sNV9SSU5fSUwzenRMbFVJWWdwbVFnQlZXUGIteklqaURwVkdsckJ6c3dxNTFOR0J3dnZ3ZWdDLWhtVmJoVEhFM0dkNExWSWtkSzFScC1LampVLUhWUUlGQ3NPLWowRWoxNy04THV6N1VMRU9HWGdmTndRaHpqZUl2Y1FYV1d0NlN4dHYtZFlYcGt5RkVwb2VOMW1PSVA1eldBSUJrWlRw?oc=5",
    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxOZlZOZFVJZE5mNUYtNmZKcmNpOEdvMThtcEY5T0YzRTM5RlNvM1hHeS1sNV9SSU5fSUwzenRMbFVJWWdwbVFnQlZXUGIteklqaURwVkdsckJ6c3dxNTFOR0J3dnZ3ZWdDLWhtVmJoVEhFM0dkNExWSWtkSzFScC1LampVLUhWUUlGQ3NPLWowRWoxNy04THV6N1VMRU9HWGdmTndRaHpqZUl2Y1",
@@ -186,6 +175,16 @@ window.FUPPES_DATA["news-fc"] = {
    ]
   },
   {
+   "title": "Heimspiel gegen Köln: FC-Bayern-Trainer Kompany zu Zusammenbruch: \"Es war ein Schock\"",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOTZqbU9aR1g2dHA1cU91WWIyRl8xNVFVTW9tbGFxTUtaWmIzaG14ck80VXF3VzN2VEZoM2ZRdUEyM2dMQVN5bXlUSWIwSVlwa2pPaF9yV0RuNEU1dHJudTBhanhTZmZ3c0NsdW96VUsyZzc3SGEtMm1RbWFaREgxNnBkUkk1TVBUbFE4Q0ozSkI2US03RkpwSFhESmNKQTBKcUd6VkVWUE81LXZOVXFF?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQOTZqbU9aR1g2dHA1cU91WWIyRl8xNVFVTW9tbGFxTUtaWmIzaG14ck80VXF3VzN2VEZoM2ZRdUEyM2dMQVN5bXlUSWIwSVlwa2pPaF9yV0RuNEU1dHJudTBhanhTZmZ3c0NsdW96VUsyZzc3SGEtMm1RbWFaREgxNnBkUkk1TVBUbFE4Q0ozSkI2US03RkpwSFhESmNKQTBKcUd6VkVWUE81LX",
+   "source": "sportschau.de",
+   "date": "2026-11-19T09:59:37.000Z",
+   "tags": [
+    "Verein"
+   ]
+  },
+  {
    "title": "1. FC Köln beim FC Bayern: Trainer Wagner spürt keinen Druck vom FC",
    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZ3E3STlteHU5WGNnbGtCcmxKMmFzY09wYk5ERDBuVUZSZ0U5SmJJbTgzWXM4cXdmbE5ORjBCT05WOFNPOEYzQUs5TE1nclRuWUJ1MzJEQ1NVMzNXR19BNkhpWTBHX3c0eVEtVjRpZHA1MVdyZGpCT09hMjN3MnZoT25rSVFzR2gzekV0dXF0OC1MRHFSMjB6Ng?oc=5",
    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPZ3E3STlteHU5WGNnbGtCcmxKMmFzY09wYk5ERDBuVUZSZ0U5SmJJbTgzWXM4cXdmbE5ORjBCT05WOFNPOEYzQUs5TE1nclRuWUJ1MzJEQ1NVMzNXR19BNkhpWTBHX3c0eVEtVjRpZHA1MVdyZGpCT09hMjN3MnZoT25rSVFzR2gzekV0dXF0OC1MRHFSMjB6Ng?oc=5\" target=\"_blank\">1",
@@ -196,11 +195,11 @@ window.FUPPES_DATA["news-fc"] = {
    ]
   },
   {
-   "title": "Dreesen bestätigt: Bayern-Trainer Kompany kehrt zurück – Comeback gegen Köln",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNV2JEMmZiUDRFSUMwU0QwSVpOZk5qMUVMQVZFSXpyTkhDRC12U1BDbmZJMUhveFk1Y0dyNzNMNFV6d2RPUXRxZnVDVHladWx4OGxWSE8tWHhDMlItSlVscFI5c014QVFaOHZ6LS1mMk40aURLMXhxLTE5SzJWeHZGejA0Z3N4aXNyRmR0RHNEWEhHQkVNQ0JLWkJZQm95RkxjV1VVTF9uU3dMNHV3aFlpV3o4QVlZZ3l4enVj?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNV2JEMmZiUDRFSUMwU0QwSVpOZk5qMUVMQVZFSXpyTkhDRC12U1BDbmZJMUhveFk1Y0dyNzNMNFV6d2RPUXRxZnVDVHladWx4OGxWSE8tWHhDMlItSlVscFI5c014QVFaOHZ6LS1mMk40aURLMXhxLTE5SzJWeHZGejA0Z3N4aXNyRmR0RHNEWEhHQkVNQ0JLWkJZQm95RkxjV1VVTF9uU3dMNH",
-   "source": "Transfermarkt",
-   "date": "2026-11-18T18:52:00.000Z",
+   "title": "Kompany-Comeback freut Köln-Trainer Wagner \"ungemein\"",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMzhIQ01uSFJkRVZ6dUtfOVJfd196UVVmR2o3cDFTTUpQYXEyRHVUX3pfblRNTkdhbEhVOEdQV3NsN3EtWjNycmVRTWZKWldkelJhdVQ5VDFlbHJjU3ZxcDZVZVhWT0tRNnZhUnp0bzhLXzVINU9ablg3UGV4SDdWb00yUVlRdHB5cEJ6MEFXNzJzaVl4TlNhSnFfT1ZZM2pDUjVHVzJoMEk1OF9reEhtTWlXX1g3a2paQUlLUHR3V3E0OGx0WVI3dw?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMzhIQ01uSFJkRVZ6dUtfOVJfd196UVVmR2o3cDFTTUpQYXEyRHVUX3pfblRNTkdhbEhVOEdQV3NsN3EtWjNycmVRTWZKWldkelJhdVQ5VDFlbHJjU3ZxcDZVZVhWT0tRNnZhUnp0bzhLXzVINU9ablg3UGV4SDdWb00yUVlRdHB5cEJ6MEFXNzJzaVl4TlNhSnFfT1ZZM2pDUjVHVzJoMEk1OF",
+   "source": "n-tv.de",
+   "date": "2026-11-18T19:19:57.000Z",
    "tags": [
     "Personal",
     "Verein"
