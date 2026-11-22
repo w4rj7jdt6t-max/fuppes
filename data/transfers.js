@@ -1,6 +1,6 @@
 window.FUPPES_DATA = window.FUPPES_DATA || {};
 window.FUPPES_DATA["transfers"] = {
- "updated": "2026-11-22T01:23:56.862Z",
+ "updated": "2026-11-22T03:00:10.834Z",
  "rules": {
   "minFeeMio": 20,
   "topClubs": [
