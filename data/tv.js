@@ -1,20 +1,23 @@
 window.FUPPES_DATA = window.FUPPES_DATA || {};
 window.FUPPES_DATA["tv"] = {
- "updated": "2026-11-22T19:01:51.854Z",
+ "updated": "2026-11-22T20:55:56.996Z",
  "matches": [
   {
    "matchID": 83237,
    "kick": "2026-11-20T19:30:00Z",
    "team1": "FC Bayern München",
    "team2": "1. FC Köln",
-   "channels": [
-    "Sky"
-   ],
+   "channels": [],
    "evidence": [
     {
      "title": "FC Bayern München gegen 1. FC Köln live: Bundesliga am Freitagabend auf Sky & WOW",
      "source": "RTL.de",
      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNT1dqUzZtT0ZpU3FES2Ewak9FV0lydm1oa0Q4TlJVS0pscHpWMnBBWW0yLWVVUXpSaHVRRlRCWXZLS05kLUxuLXRMeTJwNkY0aFJKaUt6TmZqZDhMQUlMSjNCS3pwVmZNLWFQbkRCWW1Wcm1DTDA5SEl2ZGdPQkNseFpwTHBodTNiY1oybFhNbTJrSHR5NzdQNFFVNWIyUU4zUERTZ1ZUV3ZhcTVqLVl0YlJscW1hX0xndXU2Y3ByYmliM3FYek5wbw?oc=5"
+    },
+    {
+     "title": "FC Bayern München - 1. FC Köln Live Stream | Jetzt Anmelden | DAZN DE",
+     "source": "DAZN",
+     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOd2Z6eVViMVkzQ0x6RjZWcWtSNkxwWDZpR1BPcUxtV1d6V0FEYUJ6WTUwVDc2VU9CRG13SWtVNnZGOXpKcWN4ZlRwRWRIc2s3dkkwdmtBaGVLZ0R5NGVlc1NKbkpOZGNaV1FNUVZVVW1yNVRUbFcyV0d2N3BCQlAwVDZnaWJ5emthY1ZTNA?oc=5"
     }
    ],
    "kicker": null
@@ -59,6 +62,11 @@ window.FUPPES_DATA["tv"] = {
      "title": "RB Leipzig - RC Lens live ► Die Übertragung der Champions League auf DAZN ✅",
      "source": "DAZN",
      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMDRrUFBISWl5VnhxY0h5MkwxYWZJc1AzbGVrMkxlUk9CMzNDanJlcmQwRUVNdHQ4ZDNmeHRzN2R4VXpVTDlhM1FadVhfeTU0U25WcjZhYVNPNEtDaW9TV0pwc0NnLURRelBtZ3RCSG5uM1NGRVlHbGE1QTBJXzBaS3k3R1MzWWxlMWlFdjJDdU9GVnp4b1dFSUJYUVV3QVNuc2ZjeEo3aHZxdnhhMUNEclB3aTU0c1Fwbkp0Um40ZDliemV1MWFkel9xQUFwYlhQci1DbA?oc=5"
+    },
+    {
+     "title": "RB Leipzig - Lens Live Stream | Jetzt Anmelden | DAZN DE",
+     "source": "DAZN",
+     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPR2RmeDAtVFpMM2wwQVQyUWtEeVVJZjZKVWVUdWE2UkZTbEx1eHJKOEtrQl9wcTJ2VEdRODhYYkFlZzBwQjJwUUdyaDJ3X3NkXzdPUEtnNzFEb3V6OGJrVUwzaVpRaVJiSGZfb045ZlZNWjBjNkdsa1RmcVo5ZWdoN09xTHlqeE9XWi1zQw?oc=5"
     }
    ],
    "kicker": null

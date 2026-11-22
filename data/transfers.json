@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T19:01:50.846Z",
+ "updated": "2026-11-22T20:55:56.048Z",
  "rules": {
   "minFeeMio": 20,
   "topClubs": [
@@ -43,32 +43,17 @@
  },
  "items": [
   {
-   "title": "\"Es ehrt mich unfassbar\": Gechter äußert sich zu BVB-Gerüchten",
-   "link": "https://www.kicker.de/es-ehrt-mich-unfassbar-gechter-aeussert-sich-zu-bvb-geruechten-1273992/artikel#omrss",
-   "summary": "Wie ein Spitzenreiter präsentierte sich Hertha BSC am Sonntag bei Aufsteiger Energie Cottbus und baute durch den 4:0-Erfolg seine Tabellenführung auf zehn Punkte aus. Glücklich waren sie alle bei der Alten Dame, bei einer Frage zum umworbenen Linus Gechter wurde Trainer Stefan Le",
-   "source": "kicker",
-   "date": "2026-11-22T18:19:07.000Z",
-   "fee": null,
-   "clubs": [
-    "BVB"
-   ],
-   "tags": [
-    "Gerücht",
-    "Verein"
-   ]
-  },
-  {
-   "title": "Millionen-Abgang des FC Bayern erlebt Horror-Saison",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOc1BwN3RLNEZlRkRleFd1RkJDVDJ5Tl8xcG5JNHBmYjBYbDZHaGdHSEJKd2pxamNkdTA5V1V3bkhERjNyRU95NVdJMFZjckZqdl9FaGhRMFhmaXlzdlJwWHRSTmptaDE5dnEyWW5SSDlYaWU2QVpoeDRPSnFtbmx2UDkyLWZFalpKOE9SV2pIbF9ULXpEUXBkU280Zw?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOc1BwN3RLNEZlRkRleFd1RkJDVDJ5Tl8xcG5JNHBmYjBYbDZHaGdHSEJKd2pxamNkdTA5V1V3bkhERjNyRU95NVdJMFZjckZqdl9FaGhRMFhmaXlzdlJwWHRSTmptaDE5dnEyWW5SSDlYaWU2QVpoeDRPSnFtbmx2UDkyLWZFalpKOE9SV2pIbF9ULXpEUXBkU280Zw?oc=5\" target=\"_blan",
-   "source": "TZ",
-   "date": "2026-11-22T14:37:00.000Z",
+   "title": "Holt der FC Bayern München ein ehemaliges Torwart-Talent zurück?",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOcUh1UXRBb0thaXdOWE5nMEtJaDhHR2ViTW5HeVlXZG4tQTI3TnA0cmkxN2lmSjBPT3ZqN2RTeElKOW1jc3BDSUJad2lOTlEtOFpmVGJmRGZGSEEtdWY5V3hyUmF3Q201ZkxNaGJheGF6OXRFWmpiWXhMT09ZTjFLeHh3ZEhNUUV3QkYyTGdsaHRNd19WRlZJ?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOcUh1UXRBb0thaXdOWE5nMEtJaDhHR2ViTW5HeVlXZG4tQTI3TnA0cmkxN2lmSjBPT3ZqN2RTeElKOW1jc3BDSUJad2lOTlEtOFpmVGJmRGZGSEEtdWY5V3hyUmF3Q201ZkxNaGJheGF6OXRFWmpiWXhMT09ZTjFLeHh3ZEhNUUV3QkYyTGdsaHRNd19WRlZJ?oc=5\" target=\"_blank\">Hol",
+   "source": "fussballdaten.de",
+   "date": "2026-11-22T19:25:00.000Z",
    "fee": null,
    "clubs": [
     "Bayern"
    ],
    "tags": [
-    "Transfer"
+    "Gerücht"
    ]
   },
   {
@@ -128,6 +113,21 @@
    ],
    "tags": [
     "Gerücht"
+   ]
+  },
+  {
+   "title": "Barça: Komplizierter Nijstad-Transfer – FC Barcelona",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNcnhWbFdnd0lPaHBlaVlGRU9zLTJYTU4tNEJ0MkpMb0YtUmJmdWZfODRsR2VGNW1hM3pNUkJVYnVmZnA0YVMwdTh0amZTSjdFenhDU1VtMDlZcjBheHRBR18yX01GRkFNU29JMlE4a3pUUFNENFJ1Nkt6WTJ4dVc3ZjFwT1Y1RHBBUXFoX3JWWGdYbVFVUWc?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNcnhWbFdnd0lPaHBlaVlGRU9zLTJYTU4tNEJ0MkpMb0YtUmJmdWZfODRsR2VGNW1hM3pNUkJVYnVmZnA0YVMwdTh0amZTSjdFenhDU1VtMDlZcjBheHRBR18yX01GRkFNU29JMlE4a3pUUFNENFJ1Nkt6WTJ4dVc3ZjFwT1Y1RHBBUXFoX3JWWGdYbVFVUWc?oc=5\" target=\"_blank\">Barç",
+   "source": "Fussball Transfers",
+   "date": "2026-11-22T11:12:00.000Z",
+   "fee": null,
+   "clubs": [
+    "Barcelona",
+    "Barça"
+   ],
+   "tags": [
+    "Transfer"
    ]
   },
   {
@@ -202,20 +202,6 @@
    ]
   },
   {
-   "title": "FC Bayern: Karius reagiert auf Wechsel-Gerücht",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQ1ZtTEdKSnR4NWtuNmY5R2Nack1PRkNDbGVSWEdlR3h2UW1yTzhlNVQ3dDM4Ny1tbmlQUV8wVl9UMktsZzBULUFqaFl2YVhOQXBqaEI0b3VYZENBMGxQbi01VFg1WUxPMmpUbWFhZUNkZTcyN0J5d1ZOMWl6bnRrX3BTQUV0bV9TbEd4OHBjWGlqMENKaVQ3YmZVczNVVDQwaXFR?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQQ1ZtTEdKSnR4NWtuNmY5R2Nack1PRkNDbGVSWEdlR3h2UW1yTzhlNVQ3dDM4Ny1tbmlQUV8wVl9UMktsZzBULUFqaFl2YVhOQXBqaEI0b3VYZENBMGxQbi01VFg1WUxPMmpUbWFhZUNkZTcyN0J5d1ZOMWl6bnRrX3BTQUV0bV9TbEd4OHBjWGlqMENKaVQ3YmZVczNVVDQwaXFR?oc=5\" tar",
-   "source": "Fussball Transfers",
-   "date": "2026-11-22T07:29:59.000Z",
-   "fee": null,
-   "clubs": [
-    "Bayern"
-   ],
-   "tags": [
-    "Gerücht"
-   ]
-  },
-  {
    "title": "SCALVINI CLAIM MADE! ALEX SCOTT BOOST + EKITIKE RETURN DATE! Liverpool Latest Transfer News",
    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPTGpaVjJBcjdwZ1NoWjhnbTRwaGJjbWRrSk9xWlloYzJ5dUFSTGcxbXBsdWRaUmZOYTFTbktaOXZCMkx6Mnd1aWpsdmdiRWZDRnk4bE5LSVdfSXY3ckh0V29iLUxpc2VoRVZMMXYxOVJiZXRFQXNlS0QxdDdZUktqOXdMejZWY2lBN0FGR3haaUs1R3J5TDNzVWRZQW9zMWl1SW1KSE5WVlBVeHNFOW5iUVgtZVJ0ZlVmVjFvNFJSN0ZhcU14U2VpNA?oc=5",
    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxPTGpaVjJBcjdwZ1NoWjhnbTRwaGJjbWRrSk9xWlloYzJ5dUFSTGcxbXBsdWRaUmZOYTFTbktaOXZCMkx6Mnd1aWpsdmdiRWZDRnk4bE5LSVdfSXY3ckh0V29iLUxpc2VoRVZMMXYxOVJiZXRFQXNlS0QxdDdZUktqOXdMejZWY2lBN0FGR3haaUs1R3J5TDNzVWRZQW9zMWl1SW1KSE5WVlBVeH",
@@ -272,20 +258,6 @@
    ]
   },
   {
-   "title": "Woltemade-Wechsel wird forciert: Bayern mischt mit",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRzhYNWJVcUFJMkRkdGpDUHZCX1o4VUtTSFJ2T05lb2R1TGxQeEh4SC1HTFRRRUdpU3FFUjl4VW1nT2NGNnlwTTRVSk1yQ29fc3pRNHcwU3lhZHRYc084WHRVb0QzRDczNU9Wd2E3SGJpaEIwT1RkZndIVUhDNnNfZUpYUWdPem9MeWozQWtPVTdSdjBzUTY5S0wwTzhVXzdhYktvcHpLNA?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPRzhYNWJVcUFJMkRkdGpDUHZCX1o4VUtTSFJ2T05lb2R1TGxQeEh4SC1HTFRRRUdpU3FFUjl4VW1nT2NGNnlwTTRVSk1yQ29fc3pRNHcwU3lhZHRYc084WHRVb0QzRDczNU9Wd2E3SGJpaEIwT1RkZndIVUhDNnNfZUpYUWdPem9MeWozQWtPVTdSdjBzUTY5S0wwTzhVXzdhYktvcHpLNA?oc=",
-   "source": "Fussball Transfers",
-   "date": "2026-11-21T15:24:42.000Z",
-   "fee": null,
-   "clubs": [
-    "Bayern"
-   ],
-   "tags": [
-    "Transfer"
-   ]
-  },
-  {
    "title": "Kane monatelang out: Bayern-Boss plant Not-Transfer",
    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZVpjVDdYaVNrczRCWUstY3o5bko4N19MckJ0WXRNYzRtc2JQRUdLYXRaUVBQMUNsNEJVMk5XcGZ1VDdYakQtazhjRWF3Tnc4RUxtMnByNk92dXRfMGNCcWRrZEVaR0plc19ibnQ4RUNYUzJ1MGNIWkNmTDdVSXcydDMtYUlUZHk1N3fSAY8BQVVfeXFMT3pfWUFWeS1ITms1WGJEZDhvVnJ4aFA3YmVuOHNRZXA4bkNfVEpxeUpzbzJQOVlTbFNCdk8tRFU5eGNIdE9Wbjh4aFBKWVJqQWdMeGtvOGN3bVRpTWhuMTBPdm5LZmk3MmRhXzlocUg0WG9EcmNDcnFicUg4VHh0a0JHUWltVE1BNTR4bzRGVDA?oc=5",
    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNZVpjVDdYaVNrczRCWUstY3o5bko4N19MckJ0WXRNYzRtc2JQRUdLYXRaUVBQMUNsNEJVMk5XcGZ1VDdYakQtazhjRWF3Tnc4RUxtMnByNk92dXRfMGNCcWRrZEVaR0plc19ibnQ4RUNYUzJ1MGNIWkNmTDdVSXcydDMtYUlUZHk1N3fSAY8BQVVfeXFMT3pfWUFWeS1ITms1WGJEZDhvVnJ4aF",
@@ -297,22 +269,6 @@
    ],
    "tags": [
     "Transfer"
-   ]
-  },
-  {
-   "title": "Bayern, BVB und Leverkusen gehen bei Mohya wohl leer aus: Neuer Favorit im Transferpoker",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPampuODRaMTluNUhFaVIyUlNvTmFydEQ4akozLUpLT2Y3WDB5bzdVejRuY1hQLXlGS0tJVUdvakNhNktSQ3c0SHQxMHV2SmQteGk3REkzZ0owRS1QUWEzb0FWOE5KQlk4YVFjYlE3NW9mZm5pUnJrZEpqWXN3UE10ZkViZWh6WDlhLXY2d2NzZ2doTnM4WGY2dnkzV1o?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPampuODRaMTluNUhFaVIyUlNvTmFydEQ4akozLUpLT2Y3WDB5bzdVejRuY1hQLXlGS0tJVUdvakNhNktSQ3c0SHQxMHV2SmQteGk3REkzZ0owRS1QUWEzb0FWOE5KQlk4YVFjYlE3NW9mZm5pUnJrZEpqWXN3UE10ZkViZWh6WDlhLXY2d2NzZ2doTnM4WGY2dnkzV1o?oc=5\" target=\"_bla",
-   "source": "fussballdaten.de",
-   "date": "2026-11-21T12:30:00.000Z",
-   "fee": null,
-   "clubs": [
-    "Bayern",
-    "BVB",
-    "Leverkusen"
-   ],
-   "tags": [
-    "Gerücht"
    ]
   },
   {
@@ -382,6 +338,50 @@
    "fee": null,
    "clubs": [
     "Barcelona"
+   ],
+   "tags": [
+    "Transfer"
+   ]
+  },
+  {
+   "title": "BVB wittert Schnäppchen-Transfer",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWmFlTHFDb2lfN0RCRllncHdaSXJBdE5BMTZUdDU2U2FEc2tvVnpDM3VnVGVFeXRBaTMybmhrcGNrVnNjWE1Hc01tazlIM0lrNUo0Q3d6ME5iUEh3eDVQNHExWlZGZC00dFRsOFlqdFdsaDEtbkJ3b0cxbXJEanh1eDdDY2dKaXowZDN2UHpxRjZsdw?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNWmFlTHFDb2lfN0RCRllncHdaSXJBdE5BMTZUdDU2U2FEc2tvVnpDM3VnVGVFeXRBaTMybmhrcGNrVnNjWE1Hc01tazlIM0lrNUo0Q3d6ME5iUEh3eDVQNHExWlZGZC00dFRsOFlqdFdsaDEtbkJ3b0cxbXJEanh1eDdDY2dKaXowZDN2UHpxRjZsdw?oc=5\" target=\"_blank\">BVB witte",
+   "source": "Fussball Transfers",
+   "date": "2026-11-19T10:19:06.000Z",
+   "fee": null,
+   "clubs": [
+    "BVB"
+   ],
+   "tags": [
+    "Transfer"
+   ]
+  },
+  {
+   "title": "Fußball-Transfergerüchte heute: BVB-Stars auf Shortlists von Barça und Man United",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9FSVUxSU9sbmNndHQ1WDlBTVNrd1lUS1gyM1R6TVVBdk5oQjd3OWUzaUc5WkNUSjQwbVhpcHh3QmNjMXQ2ckI0NUZ4a1hWMXlhNG56R0xhS0lPYnJhRmtKYUV1TkRWYmNacUVzYmtUR3M?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE9FSVUxSU9sbmNndHQ1WDlBTVNrd1lUS1gyM1R6TVVBdk5oQjd3OWUzaUc5WkNUSjQwbVhpcHh3QmNjMXQ2ckI0NUZ4a1hWMXlhNG56R0xhS0lPYnJhRmtKYUV1TkRWYmNacUVzYmtUR3M?oc=5\" target=\"_blank\">Fußball-Transfergerüchte heute: BVB-Stars auf Shortlists",
+   "source": "90min.de",
+   "date": "2026-11-19T09:15:37.000Z",
+   "fee": null,
+   "clubs": [
+    "BVB",
+    "Barça",
+    "Man United"
+   ],
+   "tags": [
+    "Gerücht"
+   ]
+  },
+  {
+   "title": "Erstmals seit 12 Jahren: BVB plant seltenen Transfer",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNLS0yVXh6SV9Qa1dGaU1ka3FxMDVfV2VhVkNobzNvN0pQMkhkR2lDRzBOb3RuMzBCTTZIUEI4Wkl5V2FSLTBCMGxmVzRjRXVfcFc0NGFVcWNVS19nb3cwLXp3UVJZN0VDcFBuMFNHbFNzZ3IybjZYeHhFMGF1TWF6N3Azb0FWUEpTbFVMNW9qbw?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNLS0yVXh6SV9Qa1dGaU1ka3FxMDVfV2VhVkNobzNvN0pQMkhkR2lDRzBOb3RuMzBCTTZIUEI4Wkl5V2FSLTBCMGxmVzRjRXVfcFc0NGFVcWNVS19nb3cwLXp3UVJZN0VDcFBuMFNHbFNzZ3IybjZYeHhFMGF1TWF6N3Azb0FWUEpTbFVMNW9qbw?oc=5\" target=\"_blank\">Erstmals seit",
+   "source": "fussballdaten.de",
+   "date": "2026-11-19T09:10:00.000Z",
+   "fee": null,
+   "clubs": [
+    "BVB"
    ],
    "tags": [
     "Transfer"
