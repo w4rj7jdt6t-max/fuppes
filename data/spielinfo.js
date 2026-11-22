@@ -1,6 +1,6 @@
 window.FUPPES_DATA = window.FUPPES_DATA || {};
 window.FUPPES_DATA["spielinfo"] = {
- "updated": "2026-11-22T16:57:57.445Z",
+ "updated": "2026-11-22T19:01:51.396Z",
  "fc": [
   {
    "start": "2025-11-22T17:30:00.000Z",
