@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T17:16:18.394Z",
+ "updated": "2026-11-23T19:14:37.292Z",
  "rules": {
   "minFeeMio": 20,
   "topClubs": [
@@ -43,6 +43,63 @@
  },
  "items": [
   {
+   "title": "BVB: Spannende Transfer-Spur bei Mathis Albert",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVHQ4OG5kVzN1LURhNURSNUhqWFdHS2lXZkI0c0ZJTHB6TFRfdmg4ZzNyWWJMdHUzV0docDVQTXRORTJpZjNsclNDZnpWUktXVWduc3J2b0N0MnpwXzRkVWVUZW4wc1BnU3RicU83QnUwSzEyaUphSk9QQ2lQX3J2NndxUkJDN2txOHdQLUhzTW5JVHBQUkJPSg?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPVHQ4OG5kVzN1LURhNURSNUhqWFdHS2lXZkI0c0ZJTHB6TFRfdmg4ZzNyWWJMdHUzV0docDVQTXRORTJpZjNsclNDZnpWUktXVWduc3J2b0N0MnpwXzRkVWVUZW4wc1BnU3RicU83QnUwSzEyaUphSk9QQ2lQX3J2NndxUkJDN2txOHdQLUhzTW5JVHBQUkJPSg?oc=5\" target=\"_blank\">B",
+   "source": "Fussball Transfers",
+   "date": "2026-11-23T19:04:00.000Z",
+   "fee": null,
+   "clubs": [
+    "BVB"
+   ],
+   "tags": [
+    "Gerücht"
+   ]
+  },
+  {
+   "title": "Max Eberl lässt Winter-Transfers beim FC Bayern offen",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOaF9iOTBKOHd1ZndaeGdpeFRGTldCb2tGQno1eFRUTllQdl9VcmMwXzBYYmxZUmNxOHVEcWhFNWZnN19ja1ZlMmcxam44eENzRXdwb1lwUHV2QzBJbEE1Qzk4d3FCd0JYQXZ0LXg3T2VOTEdCeUlUQ1RKRmtCODY2VmZJRG5QSU0ySTk4?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOaF9iOTBKOHd1ZndaeGdpeFRGTldCb2tGQno1eFRUTllQdl9VcmMwXzBYYmxZUmNxOHVEcWhFNWZnN19ja1ZlMmcxam44eENzRXdwb1lwUHV2QzBJbEE1Qzk4d3FCd0JYQXZ0LXg3T2VOTEdCeUlUQ1RKRmtCODY2VmZJRG5QSU0ySTk4?oc=5\" target=\"_blank\">Max Eberl lässt Win",
+   "source": "sport.de",
+   "date": "2026-11-23T17:45:00.000Z",
+   "fee": null,
+   "clubs": [
+    "Bayern"
+   ],
+   "tags": [
+    "Transfer"
+   ]
+  },
+  {
+   "title": "Holt Pochettino unzufriedenes BVB-Talent Albert zu Manchester United?",
+   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNR2x4dXNDV2lVQnlLcFQyMmx6ZkQ3S1BlZlVYR01YcnJkemd0UXRseGhoS1hEaFRvam1JRTFJTjFURUdHWFRBZEs0Rks5MWZxOThvVDZZRl9IMVNvWnRSd2JHdERMM0E3SWFITXVhNXREdlJpZldqVklMSl9XaWJocU5jUngtMDFVVEFvd0hBak0ycmRpaU8yMm9yWjNrSXpPUHMtT2hiWkhWWUg5Y2doNmc1QWtVdDV5QXVrMXVlYUg2R29CTnFWODhDVmk1cFJjZ1I3YU02bFBEQ3F2a3dEN1dHVWxHMnM?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxNR2x4dXNDV2lVQnlLcFQyMmx6ZkQ3S1BlZlVYR01YcnJkemd0UXRseGhoS1hEaFRvam1JRTFJTjFURUdHWFRBZEs0Rks5MWZxOThvVDZZRl9IMVNvWnRSd2JHdERMM0E3SWFITXVhNXREdlJpZldqVklMSl9XaWJocU5jUngtMDFVVEFvd0hBak0ycmRpaU8yMm9yWjNrSXpPUHMtT2hiWkhWWU",
+   "source": "n-tv.de",
+   "date": "2026-11-23T17:45:00.000Z",
+   "fee": null,
+   "clubs": [
+    "BVB",
+    "Manchester United"
+   ],
+   "tags": [
+    "Gerücht"
+   ]
+  },
+  {
+   "title": "Jude Bellingham vor Vertragsverlängerung bei Real Madrid bis 2032",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOaGNldjlqSDYzLUtoaHJxY2dlVDJpWldLUGlGZ2xmbmE5V2d0MEt0aEFvaVF4U21NN3pweFVuUFc0UFY4cWdVajByTDRlUG9xQVlnbU54Y2lrZUdZMTN0UTRaeUZIeFB2eXM2WGVSYkZlLWxyRkw5Wm1yVXNPSjFoeWJRR2JEVU5icWRncjRhM2hoeGpzaG5Zak9PTDlmcFZDZkhhTElEcjZsYS1sZkZiS0JjMkJTbjA?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOaGNldjlqSDYzLUtoaHJxY2dlVDJpWldLUGlGZ2xmbmE5V2d0MEt0aEFvaVF4U21NN3pweFVuUFc0UFY4cWdVajByTDRlUG9xQVlnbU54Y2lrZUdZMTN0UTRaeUZIeFB2eXM2WGVSYkZlLWxyRkw5Wm1yVXNPSjFoeWJRR2JEVU5icWRncjRhM2hoeGpzaG5Zak9PTDlmcFZDZkhhTElEcjZsYS",
+   "source": "Sky.de",
+   "date": "2026-11-23T17:26:00.000Z",
+   "fee": null,
+   "clubs": [
+    "Real Madrid"
+   ],
+   "tags": [
+    "Vertrag"
+   ]
+  },
+  {
    "title": "Musiala und die Lage beim FC Bayern: Wer zahlt bei Verletzungen das Gehalt?",
    "link": "https://www.transfermarkt.de/musiala-und-die-millionenfrage-wer-zahlt-wenn-fussballprofis-lange-ausfallen-/view/news/491107",
    "summary": "Der Fall Jamal Musiala sorgt seit Tagen f&uuml;r kontroverse Diskussionen beim FC Bayern und im deutschen Fu&szlig;ball. Rund anderthalb Jahre nach seiner Vertragsverl&auml;ngerung hat der...",
@@ -56,20 +113,6 @@
     "Gerücht",
     "Vertrag",
     "Personal"
-   ]
-  },
-  {
-   "title": "LIVE! Imade steht goldrichtig: Bayern führt früh gegen Hoffenheim",
-   "link": "https://www.kicker.de/bayern-gegen-hoffenheim-2026-frauen-bundesliga-5243507/spielbericht#omrss",
-   "summary": "30 Punkte aus zehn Spielen: Bayern München setzt in der Frauen-Bundesliga neue Maßstäbe. Hält die perfekte Serie auch gegen die TSG aus Hoffenheim?",
-   "source": "kicker",
-   "date": "2026-11-23T16:14:09.000Z",
-   "fee": null,
-   "clubs": [
-    "Bayern"
-   ],
-   "tags": [
-    "Fix"
    ]
   },
   {
@@ -99,22 +142,6 @@
    "tags": [
     "Gerücht",
     "Vertrag"
-   ]
-  },
-  {
-   "title": "Krösche steht offenbar vor Wechsel nach Mailand",
-   "link": "https://www.kicker.de/kroesche-steht-offenbar-vor-wechsel-nach-mailand-1274353/artikel#omrss",
-   "summary": "Rund einen Monat nach dessen Abschied als Sportvorstand von Eintracht Frankfurt steht Markus Krösche vor einer neuen Aufgabe. Es soll nach Italien gehen - zur AC Mailand. Die SGE kassiert eine Ablöse in Millionenhöhe.",
-   "source": "kicker",
-   "date": "2026-11-23T14:17:57.000Z",
-   "fee": null,
-   "clubs": [
-    "Eintracht Frankfurt",
-    "Frankfurt",
-    "AC Mailand"
-   ],
-   "tags": [
-    "Gerücht"
    ]
   },
   {
@@ -179,35 +206,6 @@
    ]
   },
   {
-   "title": "Krösche-Deal mit Milan fix: Frankfurt kassiert kräftig ab",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxON1FESVFjdWd1dWJGdWpzQThkdkpraVJBaEpxYlNZeFFsQm94alhCRURhcGV4Sm1WZXhsNDFOYy14aFRPZWx1OXhMY0RkM2NCVkNjLVJmbVp2cHhYdlE0R0JCSjRQWDRLbFJRUV9SWnNBTkRZMHRHOHlOTWdjdjBHMVdSdGpCY3dqX0kxYmFHWQ?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxON1FESVFjdWd1dWJGdWpzQThkdkpraVJBaEpxYlNZeFFsQm94alhCRURhcGV4Sm1WZXhsNDFOYy14aFRPZWx1OXhMY0RkM2NCVkNjLVJmbVp2cHhYdlE0R0JCSjRQWDRLbFJRUV9SWnNBTkRZMHRHOHlOTWdjdjBHMVdSdGpCY3dqX0kxYmFHWQ?oc=5\" target=\"_blank\">Krösche-Deal ",
-   "source": "fussballdaten.de",
-   "date": "2026-11-23T12:15:00.000Z",
-   "fee": null,
-   "clubs": [
-    "Frankfurt",
-    "Milan"
-   ],
-   "tags": [
-    "Transfer"
-   ]
-  },
-  {
-   "title": "Eberl lässt Winter-Transfers beim FC Bayern offen",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdDJCWUZQMzZPaDRYc1NDWHNGRXMtUkhOTEJTSDF1QkhvOVhpLVNOV3NnRDJGNE5JR19Tb1F6SHJMa0owZHJySmRvMWVhUTJhVlJvV1EyOWdROUlobkg1ZkhIS2RFM2NyaVZqcksxMGN5T0dIenZoZXhpUnVsRGVVazN3dndNTlJ2RkJvX0JSRUw?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPdDJCWUZQMzZPaDRYc1NDWHNGRXMtUkhOTEJTSDF1QkhvOVhpLVNOV3NnRDJGNE5JR19Tb1F6SHJMa0owZHJySmRvMWVhUTJhVlJvV1EyOWdROUlobkg1ZkhIS2RFM2NyaVZqcksxMGN5T0dIenZoZXhpUnVsRGVVazN3dndNTlJ2RkJvX0JSRUw?oc=5\" target=\"_blank\">Eberl lässt ",
-   "source": "sport.de",
-   "date": "2026-11-23T12:13:00.000Z",
-   "fee": null,
-   "clubs": [
-    "Bayern"
-   ],
-   "tags": [
-    "Transfer"
-   ]
-  },
-  {
    "title": "Eintracht Frankfurt: Wechsel von Krösche zur AC Milan vor Abschluss – Millionenablöse",
    "link": "https://www.transfermarkt.de/-bild-quot-wechsel-von-krosche-zur-ac-milan-vor-abschluss-frankfurt-erhalt-millionenablose/view/news/491092",
    "summary": "Lange wurde gemunkelt, nun steht der Wechsel von Eintracht Frankfurts fr&uuml;herem Sportvorstand Markus Kr&ouml;sche zur AC Mailand offenbar vor dem Abschluss. Der &bdquo;Bild&ldquo; zufolge soll...",
@@ -222,21 +220,6 @@
    ],
    "tags": [
     "Transfer"
-   ]
-  },
-  {
-   "title": "BVB-Interesse an Linus Gechter: Hertha BSC spricht Machtwort",
-   "link": "https://www.transfermarkt.de/gechter-sieht-bvb-interesse-als-riesen-ehre-quot-leitl-bekraftigt-linus-muss-bleiben-quot-/view/news/491075",
-   "summary": "Die Spekulationen um einen m&ouml;glichen Wechsel von Herthas U21-Nationalspieler Linus Gechter zu Borussia Dortmund nehmen weiter Fahrt auf. Nach dem 4:0-Ausw&auml;rtssieg der Berliner bei Energie...",
-   "source": "Transfermarkt",
-   "date": "2026-11-23T10:10:47.000Z",
-   "fee": null,
-   "clubs": [
-    "Dortmund",
-    "BVB"
-   ],
-   "tags": [
-    "Gerücht"
    ]
   },
   {
@@ -392,6 +375,21 @@
    ],
    "tags": [
     "Transfer"
+   ]
+  },
+  {
+   "title": "FC Bayern München nach Kane-Ausfall: Planen die Münchner Winter-Transfers?",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQzFHQ2ZGelZ4dmJ2bk9TTFp0TVJmR2FZTlBmdEx6dzZLV0tULWpZckR5WXBQeWUzNjIwUGZmeDNfN0d2cnpIZWdKWEJLSnpZcjVtWTNVT1h1dEJrcDg4a1RwYWxmQ05fZ0d4YTZZM0xsejd3TTM0SEQycWo2bTRCd1JCUUpLR0o4S1NfcWhacmVRWmhva2lFTnJfaWllLXhyUXFWbXBjWEF2MUtOcDE1U0h0aEp0a3JPRnkxeUhldWdoUQ?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQzFHQ2ZGelZ4dmJ2bk9TTFp0TVJmR2FZTlBmdEx6dzZLV0tULWpZckR5WXBQeWUzNjIwUGZmeDNfN0d2cnpIZWdKWEJLSnpZcjVtWTNVT1h1dEJrcDg4a1RwYWxmQ05fZ0d4YTZZM0xsejd3TTM0SEQycWo2bTRCd1JCUUpLR0o4S1NfcWhacmVRWmhva2lFTnJfaWllLXhyUXFWbXBjWEF2MU",
+   "source": "Sky.de",
+   "date": "2026-11-22T09:00:00.000Z",
+   "fee": null,
+   "clubs": [
+    "Bayern"
+   ],
+   "tags": [
+    "Gerücht",
+    "Personal"
    ]
   }
  ]

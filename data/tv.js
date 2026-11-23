@@ -1,6 +1,6 @@
 window.FUPPES_DATA = window.FUPPES_DATA || {};
 window.FUPPES_DATA["tv"] = {
- "updated": "2026-11-23T17:16:19.321Z",
+ "updated": "2026-11-23T19:14:38.370Z",
  "matches": [
   {
    "matchID": 83237,
@@ -73,6 +73,11 @@ window.FUPPES_DATA["tv"] = {
      "title": "RB Leipzig - Lens Live Stream | Jetzt Anmelden | DAZN DE",
      "source": "DAZN",
      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPR2RmeDAtVFpMM2wwQVQyUWtEeVVJZjZKVWVUdWE2UkZTbEx1eHJKOEtrQl9wcTJ2VEdRODhYYkFlZzBwQjJwUUdyaDJ3X3NkXzdPUEtnNzFEb3V6OGJrVUwzaVpRaVJiSGZfb045ZlZNWjBjNkdsa1RmcVo5ZWdoN09xTHlqeE9XWi1zQw?oc=5"
+    },
+    {
+     "title": "Champions League - DAZN zeigt RC Lens gegen RB Leipzig live",
+     "source": "Yahoo Nachrichten",
+     "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOOVZHZmFKZVlxNHlZSHZsQWQ1NUM3U2M4aXFzR3lBN3FXeGdvZ3UyVGtFS3kyUC1faFc0VlVkNmNraHN5N2xnNy1LLW1hYk1TNkVXa05JeDM5bVNDcFJyX2d1RUNzY3ZzSlJiTlpKWUFnRHFmdnVsV18yQnRMV05WM3otZk8?oc=5"
     }
    ],
    "kicker": null
