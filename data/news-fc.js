@@ -1,6 +1,6 @@
 window.FUPPES_DATA = window.FUPPES_DATA || {};
 window.FUPPES_DATA["news-fc"] = {
- "updated": "2026-11-23T11:16:52.889Z",
+ "updated": "2026-11-23T13:35:05.672Z",
  "items": [
   {
    "title": "Nach unsanfter Landung in München: Kapitän Schwäbe pausiert zum Wochenstart",
@@ -116,16 +116,6 @@ window.FUPPES_DATA["news-fc"] = {
    ]
   },
   {
-   "title": "Trainer Vincent Kompany gegen Köln wieder auf der Bayern-Bank",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOX1dBTjdMOS12UkNJWjhxeHpxWUJDVlduamZobHZUWS0zcVp2eUV3bndyNHhvU0c2cWV1dVQ2ZzZYTWFDVENUR3k4NXloS3RBYXNGbU9YODZ2aEMxVVJzQzNET0lBajlmSmxZZVQydmRGd0xYWFNjdDRrbzNZZ0FwamRoVEk1ajZ2cDhNWXRRc004TnhwMHZBbThKODVSVmFwTklra0pPRzR5WWsxRy16STk3cjltTDlBbGVXSVotdi1yOE5oR1Ew?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxOX1dBTjdMOS12UkNJWjhxeHpxWUJDVlduamZobHZUWS0zcVp2eUV3bndyNHhvU0c2cWV1dVQ2ZzZYTWFDVENUR3k4NXloS3RBYXNGbU9YODZ2aEMxVVJzQzNET0lBajlmSmxZZVQydmRGd0xYWFNjdDRrbzNZZ0FwamRoVEk1ajZ2cDhNWXRRc004TnhwMHZBbThKODVSVmFwTklra0pPRzR5WW",
-   "source": "RND.de",
-   "date": "2026-11-18T19:06:47.000Z",
-   "tags": [
-    "Verein"
-   ]
-  },
-  {
    "title": "Dreesen bestätigt: Bayern-Trainer Kompany kehrt zurück – Comeback gegen Köln",
    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNV2JEMmZiUDRFSUMwU0QwSVpOZk5qMUVMQVZFSXpyTkhDRC12U1BDbmZJMUhveFk1Y0dyNzNMNFV6d2RPUXRxZnVDVHladWx4OGxWSE8tWHhDMlItSlVscFI5c014QVFaOHZ6LS1mMk40aURLMXhxLTE5SzJWeHZGejA0Z3N4aXNyRmR0RHNEWEhHQkVNQ0JLWkJZQm95RkxjV1VVTF9uU3dMNHV3aFlpV3o4QVlZZ3l4enVj?oc=5",
    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNV2JEMmZiUDRFSUMwU0QwSVpOZk5qMUVMQVZFSXpyTkhDRC12U1BDbmZJMUhveFk1Y0dyNzNMNFV6d2RPUXRxZnVDVHladWx4OGxWSE8tWHhDMlItSlVscFI5c014QVFaOHZ6LS1mMk40aURLMXhxLTE5SzJWeHZGejA0Z3N4aXNyRmR0RHNEWEhHQkVNQ0JLWkJZQm95RkxjV1VVTF9uU3dMNH",
@@ -206,6 +196,16 @@ window.FUPPES_DATA["news-fc"] = {
    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNQkhXVUtwX25kOUQzcHpvbmlGQS1NOWJYM0VVV0pyakZPLWR6WmgwZWlwVVN3WWoxUWRrNHB0X1VtX20tLVQtU0ZTYmUxeDRDcGN6dGlwN216Njh0d3dJa0FPQXNMWkZSYjVIMXlXMFBMb19fZVNJVEVJdEZiUkwyWUxYNUg0N25tNDRZSVNWVHVVenFybjQw?oc=5\" target=\"_blank\">1. ",
    "source": "Fussball Transfers",
    "date": "2026-11-17T12:28:09.000Z",
+   "tags": [
+    "Transfer"
+   ]
+  },
+  {
+   "title": "Transfer-Angriff: 1. FC Köln macht bei Wunschspieler ernst",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPcXNpd001ZTNDYUF5SWpYZUItMjdHOE5nM2p0dVdibGE5eW5RSmtZT2RyaWlIX2VMMnZuTjFUMXlQRWNiSVk2RTZ2Mjlpa1h2QlZUQ2lQcGJKelV2Z2d6M2xrOW1GWjJrdERTbUU4MklIX1ZNd3NMZnoyVnRSODVHRU5pYw?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPcXNpd001ZTNDYUF5SWpYZUItMjdHOE5nM2p0dVdibGE5eW5RSmtZT2RyaWlIX2VMMnZuTjFUMXlQRWNiSVk2RTZ2Mjlpa1h2QlZUQ2lQcGJKelV2Z2d6M2xrOW1GWjJrdERTbUU4MklIX1ZNd3NMZnoyVnRSODVHRU5pYw?oc=5\" target=\"_blank\">Transfer-Angriff: 1. FC Köln ",
+   "source": "90min.de",
+   "date": "2026-11-17T12:25:57.000Z",
    "tags": [
     "Transfer"
    ]
