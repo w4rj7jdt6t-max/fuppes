@@ -1,56 +1,6 @@
 {
- "updated": "2026-11-23T05:31:36.312Z",
+ "updated": "2026-11-23T07:50:21.446Z",
  "fc": [
-  {
-   "start": "2025-11-22T17:30:00.000Z",
-   "title": "KOE 3:4 (1:2) Eintracht Frankfurt",
-   "result": "1. FC Köln 3:4 (1:2) Eintracht Frankfurt",
-   "stadium": "RheinEnergieStadion",
-   "city": "Köln",
-   "lineups": [
-    {
-     "team": "1. FC Köln",
-     "players": [
-      "Heintz",
-      "Schwäbe",
-      "Schmied (63. Kainz)",
-      "Thielmann (63. El Mala)",
-      "Huseinbašić (76. Waldschmidt)",
-      "Ache (76. Bülter)",
-      "Martel",
-      "Kamiński",
-      "Jóhannesson",
-      "Sebulonsen (81. Castro-Montes)",
-      "Lund"
-     ]
-    },
-    {
-     "team": "Eintracht Frankfurt",
-     "players": [
-      "Theate",
-      "Götze",
-      "Zetterer",
-      "Dahoud (78. Skhiri)",
-      "Koch",
-      "Burkardt (77. Wahi)",
-      "Dōan (84. Kristensen)",
-      "Brown (90. Amenda)",
-      "Collins",
-      "Knauff (77. Bahoya)",
-      "Chaïbi"
-     ]
-    }
-   ],
-   "goals": [
-    "1:0 Kamiński (4.)",
-    "1:1 Theate (39.)",
-    "1:2 Dahoud (45.)",
-    "1:3 Burkardt (59.)",
-    "1:4 Burkardt (63.)",
-    "2:4 Bülter (83.)",
-    "3:4 Waldschmidt (90.)"
-   ]
-  },
   {
    "start": "2025-11-29T14:30:00.000Z",
    "title": "Werder Bremen 1:1 (1:0) KOE",

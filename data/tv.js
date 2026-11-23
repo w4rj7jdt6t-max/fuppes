@@ -1,14 +1,22 @@
 window.FUPPES_DATA = window.FUPPES_DATA || {};
 window.FUPPES_DATA["tv"] = {
- "updated": "2026-11-23T05:31:36.798Z",
+ "updated": "2026-11-23T07:50:21.845Z",
  "matches": [
   {
    "matchID": 83237,
    "kick": "2026-11-20T19:30:00Z",
    "team1": "FC Bayern München",
    "team2": "1. FC Köln",
-   "channels": [],
-   "evidence": [],
+   "channels": [
+    "Sky"
+   ],
+   "evidence": [
+    {
+     "title": "FC Bayern München gegen 1. FC Köln live: Bundesliga am Freitagabend auf Sky & WOW",
+     "source": "RTL.de",
+     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNT1dqUzZtT0ZpU3FES2Ewak9FV0lydm1oa0Q4TlJVS0pscHpWMnBBWW0yLWVVUXpSaHVRRlRCWXZLS05kLUxuLXRMeTJwNkY0aFJKaUt6TmZqZDhMQUlMSjNCS3pwVmZNLWFQbkRCWW1Wcm1DTDA5SEl2ZGdPQkNseFpwTHBodTNiY1oybFhNbTJrSHR5NzdQNFFVNWIyUU4zUERTZ1ZUV3ZhcTVqLVl0YlJscW1hX0xndXU2Y3ByYmliM3FYek5wbw?oc=5"
+    }
+   ],
    "kicker": null
   },
   {
@@ -43,8 +51,26 @@ window.FUPPES_DATA["tv"] = {
    "kick": "2026-11-24T20:00:00Z",
    "team1": "RB Leipzig",
    "team2": "RC Lens",
-   "channels": [],
-   "evidence": [],
+   "channels": [
+    "DAZN"
+   ],
+   "evidence": [
+    {
+     "title": "RB Leipzig - RC Lens live ► Die Übertragung der Champions League auf DAZN ✅",
+     "source": "DAZN",
+     "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMDRrUFBISWl5VnhxY0h5MkwxYWZJc1AzbGVrMkxlUk9CMzNDanJlcmQwRUVNdHQ4ZDNmeHRzN2R4VXpVTDlhM1FadVhfeTU0U25WcjZhYVNPNEtDaW9TV0pwc0NnLURRelBtZ3RCSG5uM1NGRVlHbGE1QTBJXzBaS3k3R1MzWWxlMWlFdjJDdU9GVnp4b1dFSUJYUVV3QVNuc2ZjeEo3aHZxdnhhMUNEclB3aTU0c1Fwbkp0Um40ZDliemV1MWFkel9xQUFwYlhQci1DbA?oc=5"
+    },
+    {
+     "title": "RB Leipzig - Lens Live Stream | Jetzt Anmelden | DAZN DE",
+     "source": "DAZN",
+     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPR2RmeDAtVFpMM2wwQVQyUWtEeVVJZjZKVWVUdWE2UkZTbEx1eHJKOEtrQl9wcTJ2VEdRODhYYkFlZzBwQjJwUUdyaDJ3X3NkXzdPUEtnNzFEb3V6OGJrVUwzaVpRaVJiSGZfb045ZlZNWjBjNkdsa1RmcVo5ZWdoN09xTHlqeE9XWi1zQw?oc=5"
+    },
+    {
+     "title": "Champions League - DAZN zeigt RC Lens gegen RB Leipzig live",
+     "source": "Yahoo Nachrichten",
+     "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOOVZHZmFKZVlxNHlZSHZsQWQ1NUM3U2M4aXFzR3lBN3FXeGdvZ3UyVGtFS3kyUC1faFc0VlVkNmNraHN5N2xnNy1LLW1hYk1TNkVXa05JeDM5bVNDcFJyX2d1RUNzY3ZzSlJiTlpKWUFnRHFmdnVsV18yQnRMV05WM3otZk8?oc=5"
+    }
+   ],
    "kicker": null
   },
   {
@@ -52,8 +78,16 @@ window.FUPPES_DATA["tv"] = {
    "kick": "2026-11-25T20:00:00Z",
    "team1": "Inter Mailand",
    "team2": "VfB Stuttgart",
-   "channels": [],
-   "evidence": [],
+   "channels": [
+    "DAZN"
+   ],
+   "evidence": [
+    {
+     "title": "Inter Mailand - VfB Stuttgart live ► Die Übertragung der Champions League auf DAZN ✅",
+     "source": "DAZN",
+     "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNWkxVNkh2RHdnYkVOclZFZmVQZEJSX1pQMWtJYlEwa0laSWcxVUxBclhrbkFFLUE1dXJpMEQ1a0tYTkZmUGpZOW1uQlZUMEp4eE5kYl9aRG1IWGZ6eEFfM19XWXV5QTV3cFNtX3VnQ0h4OEF2QzE4UUNsU3pKaEZkbHFLR3VRVDR5LTFLMU5YeXdVWkx6MjNtT0lRd3BWYzlvdExKcWY3alAwSzEwOEVIQUFTeGxZaVV5MVF0LWFMN0g1X0tsWkxkck91ZFEzZkNma01yQjhtdzhiQQ?oc=5"
+    }
+   ],
    "kicker": null
   },
   {

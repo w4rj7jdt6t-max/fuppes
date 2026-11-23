@@ -1,6 +1,6 @@
 window.FUPPES_DATA = window.FUPPES_DATA || {};
 window.FUPPES_DATA["transfers"] = {
- "updated": "2026-11-23T05:31:35.829Z",
+ "updated": "2026-11-23T07:50:20.894Z",
  "rules": {
   "minFeeMio": 20,
   "topClubs": [
@@ -44,11 +44,11 @@ window.FUPPES_DATA["transfers"] = {
  },
  "items": [
   {
-   "title": "Keine Reaktion auf Kane-Schock?: Der FC Bayern will nur sehr ungern neue Spieler verpflichten",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRGQ5TUdnbEg5WEljZDB0bzZjLVE0dTFvSjhrdTJBMnE0NW5FazFON1ZJTExyeXpGUlZsNE42YWc1N0tNRko3VkljNGIzQVBKLVNnRWNTcF9nVEVBaE9QV0pCMlJwVDJ5QUUxeFUyb0NVTUxJX1VKb3h3MmMyX2tlRXhxQTBIV3hjbGhtVFVzOWE5WUk3TzhBR2VSeWxFOWs1eVpvZjI5S0ctT3FKbmFUUQ?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPRGQ5TUdnbEg5WEljZDB0bzZjLVE0dTFvSjhrdTJBMnE0NW5FazFON1ZJTExyeXpGUlZsNE42YWc1N0tNRko3VkljNGIzQVBKLVNnRWNTcF9nVEVBaE9QV0pCMlJwVDJ5QUUxeFUyb0NVTUxJX1VKb3h3MmMyX2tlRXhxQTBIV3hjbGhtVFVzOWE5WUk3TzhBR2VSeWxFOWs1eVpvZjI5S0ctT3",
-   "source": "n-tv.de",
-   "date": "2026-11-23T04:50:36.000Z",
+   "title": "Transfer-Ticker: FC Bayern und Co. beobachten Abwehr-Juwel",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZVMySkJQQkFFOGlFSEVPWWJhXzdodEJ3REl1N3FQekdSdExqUFZkRjBoek5PbHg2VndqSnpPWTdKMTlkTEJqMlhxQ2JlRjU3NTdCSUNfTnhWeTNKZ3hUZ0xMVHJPcWdfRE1tdG5vZ1djc3cxX19XZkxxTlByQzJ6TERZSnJLMUdxMEVZU0ZzTzRIczFqX3hxZFdn?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNZVMySkJQQkFFOGlFSEVPWWJhXzdodEJ3REl1N3FQekdSdExqUFZkRjBoek5PbHg2VndqSnpPWTdKMTlkTEJqMlhxQ2JlRjU3NTdCSUNfTnhWeTNKZ3hUZ0xMVHJPcWdfRE1tdG5vZ1djc3cxX19XZkxxTlByQzJ6TERZSnJLMUdxMEVZU0ZzTzRIczFqX3hxZFdn?oc=5\" target=\"_blank\"",
+   "source": "sport.de",
+   "date": "2026-11-23T06:42:00.000Z",
    "fee": null,
    "clubs": [
     "Bayern"
@@ -98,36 +98,6 @@ window.FUPPES_DATA["transfers"] = {
    ],
    "tags": [
     "Transfer"
-   ]
-  },
-  {
-   "title": "Karius reagiert erstmals auf Bayern-Gerüchte",
-   "link": "https://www.kicker.de/karius-reagiert-erstmals-auf-bayern-geruechte-1273884/artikel#omrss",
-   "summary": "Läuft da was zwischen dem FC Bayern und Schalkes Torwart Loris Karius? Auf kicker-Nachfrage reagierte der Keeper nach dem 0:0 gegen den VfB Stuttgart erstmals auf das Gerücht.",
-   "source": "kicker",
-   "date": "2026-11-22T14:19:44.000Z",
-   "fee": null,
-   "clubs": [
-    "Bayern",
-    "Stuttgart",
-    "VfB"
-   ],
-   "tags": [
-    "Gerücht"
-   ]
-  },
-  {
-   "title": "Manchester United: Fernandes wehrt sich gegen Vorwürfe – Angebot abgelehnt",
-   "link": "https://www.transfermarkt.de/united-angebot-abgelehnt-fernandes-wehrt-sich-gegen-vorwurfe-hatte-immer-gehen-konnen-quot-/view/news/491037",
-   "summary": "Bruno Fernandes steht nur noch f&uuml;r die aktuelle Saison bei Manchester United unter Vertrag. W&auml;re es nach den Red Devils gegangen, w&auml;re das Arbeitspapier l&auml;ngst ausgeweitet...",
-   "source": "Transfermarkt",
-   "date": "2026-11-22T13:57:22.000Z",
-   "fee": null,
-   "clubs": [
-    "Manchester United"
-   ],
-   "tags": [
-    "Vertrag"
    ]
   },
   {
@@ -273,6 +243,20 @@ window.FUPPES_DATA["transfers"] = {
    ]
   },
   {
+   "title": "Kane monatelang out: Bayern-Boss plant Not-Transfer",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZVpjVDdYaVNrczRCWUstY3o5bko4N19MckJ0WXRNYzRtc2JQRUdLYXRaUVBQMUNsNEJVMk5XcGZ1VDdYakQtazhjRWF3Tnc4RUxtMnByNk92dXRfMGNCcWRrZEVaR0plc19ibnQ4RUNYUzJ1MGNIWkNmTDdVSXcydDMtYUlUZHk1N3fSAY8BQVVfeXFMT3pfWUFWeS1ITms1WGJEZDhvVnJ4aFA3YmVuOHNRZXA4bkNfVEpxeUpzbzJQOVlTbFNCdk8tRFU5eGNIdE9Wbjh4aFBKWVJqQWdMeGtvOGN3bVRpTWhuMTBPdm5LZmk3MmRhXzlocUg0WG9EcmNDcnFicUg4VHh0a0JHUWltVE1BNTR4bzRGVDA?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNZVpjVDdYaVNrczRCWUstY3o5bko4N19MckJ0WXRNYzRtc2JQRUdLYXRaUVBQMUNsNEJVMk5XcGZ1VDdYakQtazhjRWF3Tnc4RUxtMnByNk92dXRfMGNCcWRrZEVaR0plc19ibnQ4RUNYUzJ1MGNIWkNmTDdVSXcydDMtYUlUZHk1N3fSAY8BQVVfeXFMT3pfWUFWeS1ITms1WGJEZDhvVnJ4aF",
+   "source": "oe24",
+   "date": "2026-11-21T15:18:21.000Z",
+   "fee": null,
+   "clubs": [
+    "Bayern"
+   ],
+   "tags": [
+    "Transfer"
+   ]
+  },
+  {
    "title": "„Wir werden diesen Wahnsinn nicht mitgehen“: Bayern-Boss Dreesen mit klarer Transfer-Ansage",
    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNYnA5TGF2WUlrX2hPRUlQeExWWjJoSThQQ0MwMm5pVU1oXzNKUXdBaGN4YkhrS3hhR1J5VmY2MnpyLTkzNXVhamt5YmIwZ3ozSzhSanJpN0tTRzM0V1lBRFJJUENDeHJQZC02Z2FxdWFyM2NTUG44bTlDVFBOWmdhU1piUVRUeXcwWmEzeUQtM180NU1kMVQyWjNhd1ZFWTRTR1ZNV1c0OEYtU3ZLOUU4RXF6UVJrR3pJME53bE9Xc3V4bzR4MU5ncGJnX3NZbGhheGNDaVdYUHE?oc=5",
    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxNYnA5TGF2WUlrX2hPRUlQeExWWjJoSThQQ0MwMm5pVU1oXzNKUXdBaGN4YkhrS3hhR1J5VmY2MnpyLTkzNXVhamt5YmIwZ3ozSzhSanJpN0tTRzM0V1lBRFJJUENDeHJQZC02Z2FxdWFyM2NTUG44bTlDVFBOWmdhU1piUVRUeXcwWmEzeUQtM180NU1kMVQyWjNhd1ZFWTRTR1ZNV1c0OEYtU3",
@@ -384,6 +368,20 @@ window.FUPPES_DATA["transfers"] = {
    ],
    "tags": [
     "Gerücht"
+   ]
+  },
+  {
+   "title": "Erstmals seit 12 Jahren: BVB plant seltenen Transfer",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNLS0yVXh6SV9Qa1dGaU1ka3FxMDVfV2VhVkNobzNvN0pQMkhkR2lDRzBOb3RuMzBCTTZIUEI4Wkl5V2FSLTBCMGxmVzRjRXVfcFc0NGFVcWNVS19nb3cwLXp3UVJZN0VDcFBuMFNHbFNzZ3IybjZYeHhFMGF1TWF6N3Azb0FWUEpTbFVMNW9qbw?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNLS0yVXh6SV9Qa1dGaU1ka3FxMDVfV2VhVkNobzNvN0pQMkhkR2lDRzBOb3RuMzBCTTZIUEI4Wkl5V2FSLTBCMGxmVzRjRXVfcFc0NGFVcWNVS19nb3cwLXp3UVJZN0VDcFBuMFNHbFNzZ3IybjZYeHhFMGF1TWF6N3Azb0FWUEpTbFVMNW9qbw?oc=5\" target=\"_blank\">Erstmals seit",
+   "source": "fussballdaten.de",
+   "date": "2026-11-19T09:10:00.000Z",
+   "fee": null,
+   "clubs": [
+    "BVB"
+   ],
+   "tags": [
+    "Transfer"
    ]
   }
  ]

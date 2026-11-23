@@ -1,13 +1,13 @@
 window.FUPPES_DATA = window.FUPPES_DATA || {};
 window.FUPPES_DATA["news-fc"] = {
- "updated": "2026-11-23T05:31:34.360Z",
+ "updated": "2026-11-23T07:50:19.690Z",
  "items": [
   {
    "title": "Bei Remis gegen Köln: Bayerns Kane und Olise verletzt ausgewechselt",
    "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPVGhwUENVSVlibXlNdE5wVVVKODJpT21rNHlNZFk3VmFzRWdRU2Rob0c2bVNzMDZqcEN3OFhvLUczQ1p4RVNnVnRBZTNnMWs5RWEwektIQnQ1R3F5VG91bGl4RGtGZDA0dkl2THhsaGZWNnJHWWF4VzZKRWUzR2x5R2FtajQ2SG04UzloZnJzWVlTM0lkRHBrTFFaVHdiWHQwRldfNmxZc2VhZ21MUUJ4RkMxaVNIb1B0b2ItYUFxbkt1QmtBbVdsd1pfSm1qZVZ5UzNWWVc1aVRiWTBiWlNORlNaRWRnR2REUmRQMW9n?oc=5",
    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxPVGhwUENVSVlibXlNdE5wVVVKODJpT21rNHlNZFk3VmFzRWdRU2Rob0c2bVNzMDZqcEN3OFhvLUczQ1p4RVNnVnRBZTNnMWs5RWEwektIQnQ1R3F5VG91bGl4RGtGZDA0dkl2THhsaGZWNnJHWWF4VzZKRWUzR2x5R2FtajQ2SG04UzloZnJzWVlTM0lkRHBrTFFaVHdiWHQwRldfNmxZc2VhZ2",
    "source": "sportschau.de",
-   "date": "2026-11-23T04:12:54.000Z",
+   "date": "2026-11-23T06:11:00.000Z",
    "tags": [
     "Fix",
     "Personal"
@@ -82,16 +82,6 @@ window.FUPPES_DATA["news-fc"] = {
    "date": "2026-11-21T09:59:32.000Z",
    "tags": [
     "Gerücht"
-   ]
-  },
-  {
-   "title": "Kane und Olise bei 1:1 in Köln verletzt",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUEtPSDdJTlc0d19rWVZuYjV5eHZVTmRKU3pxcEhDajYyUU1OWlBCN3FnakFHdlFEWi11RC1IRUFBcTQwSmZkTjg4M1R4Vmp0cnd4SnhPTFZ4MXg0Mkt2eEJvNFZFUE1KRkJQdFc3dlNTVjJOS3RqQy1QaUktMFJjWWJzVFFXWjRzblpfRXluTEV6SFpfVXBCNW9XV2xFTTlQZUNRaXFFc3FLUlN3cHc?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQUEtPSDdJTlc0d19rWVZuYjV5eHZVTmRKU3pxcEhDajYyUU1OWlBCN3FnakFHdlFEWi11RC1IRUFBcTQwSmZkTjg4M1R4Vmp0cnd4SnhPTFZ4MXg0Mkt2eEJvNFZFUE1KRkJQdFc3dlNTVjJOS3RqQy1QaUktMFJjWWJzVFFXWjRzblpfRXluTEV6SFpfVXBCNW9XV2xFTTlQZUNRaXFFc3FLUl",
-   "source": "FAZ",
-   "date": "2026-11-20T21:32:04.000Z",
-   "tags": [
-    "Personal"
    ]
   },
   {
@@ -207,6 +197,17 @@ window.FUPPES_DATA["news-fc"] = {
    "date": "2026-11-18T07:48:00.000Z",
    "tags": [
     "Gerücht",
+    "Verein"
+   ]
+  },
+  {
+   "title": "Vor Spiel gegen den 1. FC Köln: Kompany vor Rückkehr auf die Trainerbank",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNd0hXdl83WUF6azFFcWFhUlFYcEtiSS1WYndFRVl0dlFtT19MajRJaFY3MVdHazhqNVZfSUlaazFvWEs3Z3hHVDR2R2F2MGd3Tnd3bHJTQ3A4V2NPMnd4WTdHNEI4YmxNdHdXank0MllzT0dCOXE0SEw4ZUNIeW85UDgtU1lGc203UGVhNFRGNHctbFQzd2tkcW9NR1A2UGhKZkxJTWtaN2xDUlNjbUFWc2pXM0dNV1kyTkhxNl9JRV9sUQ?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNd0hXdl83WUF6azFFcWFhUlFYcEtiSS1WYndFRVl0dlFtT19MajRJaFY3MVdHazhqNVZfSUlaazFvWEs3Z3hHVDR2R2F2MGd3Tnd3bHJTQ3A4V2NPMnd4WTdHNEI4YmxNdHdXank0MllzT0dCOXE0SEw4ZUNIeW85UDgtU1lGc203UGVhNFRGNHctbFQzd2tkcW9NR1A2UGhKZkxJTWtaN2xDUl",
+   "source": "Express",
+   "date": "2026-11-17T14:23:58.000Z",
+   "tags": [
+    "Personal",
     "Verein"
    ]
   }
