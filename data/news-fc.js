@@ -1,6 +1,6 @@
 window.FUPPES_DATA = window.FUPPES_DATA || {};
 window.FUPPES_DATA["news-fc"] = {
- "updated": "2026-11-23T19:14:35.985Z",
+ "updated": "2026-11-23T21:02:03.758Z",
  "items": [
   {
    "title": "„Das ist mein Job“: Schmied kontert Bayern-Kritik nach Kane-Verletzung",
@@ -126,16 +126,6 @@ window.FUPPES_DATA["news-fc"] = {
    ]
   },
   {
-   "title": "Trainer Vincent Kompany gegen Köln wieder auf der Bayern-Bank",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOX1dBTjdMOS12UkNJWjhxeHpxWUJDVlduamZobHZUWS0zcVp2eUV3bndyNHhvU0c2cWV1dVQ2ZzZYTWFDVENUR3k4NXloS3RBYXNGbU9YODZ2aEMxVVJzQzNET0lBajlmSmxZZVQydmRGd0xYWFNjdDRrbzNZZ0FwamRoVEk1ajZ2cDhNWXRRc004TnhwMHZBbThKODVSVmFwTklra0pPRzR5WWsxRy16STk3cjltTDlBbGVXSVotdi1yOE5oR1Ew?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxOX1dBTjdMOS12UkNJWjhxeHpxWUJDVlduamZobHZUWS0zcVp2eUV3bndyNHhvU0c2cWV1dVQ2ZzZYTWFDVENUR3k4NXloS3RBYXNGbU9YODZ2aEMxVVJzQzNET0lBajlmSmxZZVQydmRGd0xYWFNjdDRrbzNZZ0FwamRoVEk1ajZ2cDhNWXRRc004TnhwMHZBbThKODVSVmFwTklra0pPRzR5WW",
-   "source": "RND.de",
-   "date": "2026-11-18T19:06:47.000Z",
-   "tags": [
-    "Verein"
-   ]
-  },
-  {
    "title": "Dreesen bestätigt: Bayern-Trainer Kompany kehrt zurück – Comeback gegen Köln",
    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNV2JEMmZiUDRFSUMwU0QwSVpOZk5qMUVMQVZFSXpyTkhDRC12U1BDbmZJMUhveFk1Y0dyNzNMNFV6d2RPUXRxZnVDVHladWx4OGxWSE8tWHhDMlItSlVscFI5c014QVFaOHZ6LS1mMk40aURLMXhxLTE5SzJWeHZGejA0Z3N4aXNyRmR0RHNEWEhHQkVNQ0JLWkJZQm95RkxjV1VVTF9uU3dMNHV3aFlpV3o4QVlZZ3l4enVj?oc=5",
    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNV2JEMmZiUDRFSUMwU0QwSVpOZk5qMUVMQVZFSXpyTkhDRC12U1BDbmZJMUhveFk1Y0dyNzNMNFV6d2RPUXRxZnVDVHladWx4OGxWSE8tWHhDMlItSlVscFI5c014QVFaOHZ6LS1mMk40aURLMXhxLTE5SzJWeHZGejA0Z3N4aXNyRmR0RHNEWEhHQkVNQ0JLWkJZQm95RkxjV1VVTF9uU3dMNH",
@@ -206,6 +196,16 @@ window.FUPPES_DATA["news-fc"] = {
    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQc1BHZ3NwRzJIUVQxS2JHV2FuN0JlMkVjeDZuX1RHNU9iWkxfT0JoYkNxZlpvOExteFZ6WW9zZ2xIRkJlRDJzazFoNzlLbDVWNWhkOUNwcWNCUVdPU2JPM01ydFl5RHZBbVpSX3F1NFJSQ05oV2stLWl4bk9idnVpdW04SDZKV1JP?oc=5\" target=\"_blank\">1. FC Köln startet Tran",
    "source": "fussballdaten.de",
    "date": "2026-11-17T14:13:00.000Z",
+   "tags": [
+    "Transfer"
+   ]
+  },
+  {
+   "title": "1. FC Köln forciert ersten Winter-Transfer",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQkhXVUtwX25kOUQzcHpvbmlGQS1NOWJYM0VVV0pyakZPLWR6WmgwZWlwVVN3WWoxUWRrNHB0X1VtX20tLVQtU0ZTYmUxeDRDcGN6dGlwN216Njh0d3dJa0FPQXNMWkZSYjVIMXlXMFBMb19fZVNJVEVJdEZiUkwyWUxYNUg0N25tNDRZSVNWVHVVenFybjQw?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNQkhXVUtwX25kOUQzcHpvbmlGQS1NOWJYM0VVV0pyakZPLWR6WmgwZWlwVVN3WWoxUWRrNHB0X1VtX20tLVQtU0ZTYmUxeDRDcGN6dGlwN216Njh0d3dJa0FPQXNMWkZSYjVIMXlXMFBMb19fZVNJVEVJdEZiUkwyWUxYNUg0N25tNDRZSVNWVHVVenFybjQw?oc=5\" target=\"_blank\">1. ",
+   "source": "Fussball Transfers",
+   "date": "2026-11-17T12:28:09.000Z",
    "tags": [
     "Transfer"
    ]
