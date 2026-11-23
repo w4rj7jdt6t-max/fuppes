@@ -1,11 +1,31 @@
 window.FUPPES_DATA = window.FUPPES_DATA || {};
 window.FUPPES_DATA["news-fc"] = {
- "updated": "2026-11-23T21:02:03.758Z",
+ "updated": "2026-11-23T23:05:36.603Z",
  "items": [
   {
-   "title": "„Das ist mein Job“: Schmied kontert Bayern-Kritik nach Kane-Verletzung",
-   "link": "https://geissblog.koeln/2026/11/das-ist-mein-job-schmied-kontert-bayern-kritik-nach-kane-verletzung/",
-   "summary": "Joel Schmied verletzt Harry Kane bei einer Rettungsaktion unabsichtlich. Trotzdem tritt Bayern-CEO Jan-Christian Dreesen nach. Der Verteidiger des 1. FC Köln macht klar: „Das ist... Der Beitrag „Das ist mein Job“: Schmied kontert Bayern-Kritik nach Kane-Verletzung erschien zuerst",
+   "title": "Der FC beschwört den Zusammenhalt, aber viele Mitglieder schauen weg",
+   "link": "https://geissblog.koeln/2026/11/der-fc-beschwoert-den-zusammenhalt-aber-viele-mitglieder-schauen-weg/",
+   "summary": "Der 1. FC Köln verpasst sich eine neue Satzung und steht vor einer großen Chance. Doch viele Fans interessiert das offenbar nicht. Der FC setzt... Der Beitrag Der FC beschwört den Zusammenhalt, aber viele Mitglieder schauen weg erschien zuerst auf GEISSBLOG .",
+   "source": "GEISSBLOG",
+   "date": "2026-11-23T23:01:00.000Z",
+   "tags": [
+    "Transfer"
+   ]
+  },
+  {
+   "title": "1. FC Köln: Winter-Angebote für Luca Waldschmidt",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNGtHNHE5UUNPTHBHcU9MQ3UzNG9MbGJCWmVUUEtxZHdjZWZ4cVBpMTI4T0xiTUltY2hWdDdTdzRKRmpjNGdKX05BQjFTZEhsRzFfdkhLajI4OHZ2SlByeHZFM1g4YmV6aE90RWtINndBRC11MU1lS3FiYkVPYXZVMHdoSm1kVWpVRl9Wc2xlcWI?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQNGtHNHE5UUNPTHBHcU9MQ3UzNG9MbGJCWmVUUEtxZHdjZWZ4cVBpMTI4T0xiTUltY2hWdDdTdzRKRmpjNGdKX05BQjFTZEhsRzFfdkhLajI4OHZ2SlByeHZFM1g4YmV6aE90RWtINndBRC11MU1lS3FiYkVPYXZVMHdoSm1kVWpVRl9Wc2xlcWI?oc=5\" target=\"_blank\">1. FC Köln: ",
+   "source": "Fussball Transfers",
+   "date": "2026-11-23T20:21:27.000Z",
+   "tags": [
+    "Transfer"
+   ]
+  },
+  {
+   "title": "„Das ist mein Job“ Nach Bayern-Kritik: Schmied fühlt mit verletztem Kane",
+   "link": "https://geissblog.koeln/2026/11/1-fc-koeln-schmied-verteidigt-sich-nach-bayern-kritik/",
+   "summary": "Joel Schmied verletzt Harry Kane bei einer Rettungsaktion unabsichtlich. Trotzdem tritt Bayern-CEO Jan-Christian Dreesen nach. Der Verteidiger des 1. FC Köln macht klar: „Das ist... Der Beitrag „Das ist mein Job“ Nach Bayern-Kritik: Schmied fühlt mit verletztem Kane erschien zuer",
    "source": "GEISSBLOG",
    "date": "2026-11-23T18:00:00.000Z",
    "tags": [
@@ -126,6 +146,16 @@ window.FUPPES_DATA["news-fc"] = {
    ]
   },
   {
+   "title": "Trainer Vincent Kompany gegen Köln wieder auf der Bayern-Bank",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOX1dBTjdMOS12UkNJWjhxeHpxWUJDVlduamZobHZUWS0zcVp2eUV3bndyNHhvU0c2cWV1dVQ2ZzZYTWFDVENUR3k4NXloS3RBYXNGbU9YODZ2aEMxVVJzQzNET0lBajlmSmxZZVQydmRGd0xYWFNjdDRrbzNZZ0FwamRoVEk1ajZ2cDhNWXRRc004TnhwMHZBbThKODVSVmFwTklra0pPRzR5WWsxRy16STk3cjltTDlBbGVXSVotdi1yOE5oR1Ew?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxOX1dBTjdMOS12UkNJWjhxeHpxWUJDVlduamZobHZUWS0zcVp2eUV3bndyNHhvU0c2cWV1dVQ2ZzZYTWFDVENUR3k4NXloS3RBYXNGbU9YODZ2aEMxVVJzQzNET0lBajlmSmxZZVQydmRGd0xYWFNjdDRrbzNZZ0FwamRoVEk1ajZ2cDhNWXRRc004TnhwMHZBbThKODVSVmFwTklra0pPRzR5WW",
+   "source": "RND.de",
+   "date": "2026-11-18T19:06:47.000Z",
+   "tags": [
+    "Verein"
+   ]
+  },
+  {
    "title": "Dreesen bestätigt: Bayern-Trainer Kompany kehrt zurück – Comeback gegen Köln",
    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNV2JEMmZiUDRFSUMwU0QwSVpOZk5qMUVMQVZFSXpyTkhDRC12U1BDbmZJMUhveFk1Y0dyNzNMNFV6d2RPUXRxZnVDVHladWx4OGxWSE8tWHhDMlItSlVscFI5c014QVFaOHZ6LS1mMk40aURLMXhxLTE5SzJWeHZGejA0Z3N4aXNyRmR0RHNEWEhHQkVNQ0JLWkJZQm95RkxjV1VVTF9uU3dMNHV3aFlpV3o4QVlZZ3l4enVj?oc=5",
    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNV2JEMmZiUDRFSUMwU0QwSVpOZk5qMUVMQVZFSXpyTkhDRC12U1BDbmZJMUhveFk1Y0dyNzNMNFV6d2RPUXRxZnVDVHladWx4OGxWSE8tWHhDMlItSlVscFI5c014QVFaOHZ6LS1mMk40aURLMXhxLTE5SzJWeHZGejA0Z3N4aXNyRmR0RHNEWEhHQkVNQ0JLWkJZQm95RkxjV1VVTF9uU3dMNH",
@@ -177,37 +207,6 @@ window.FUPPES_DATA["news-fc"] = {
    "tags": [
     "Gerücht",
     "Verein"
-   ]
-  },
-  {
-   "title": "Vor Spiel gegen den 1. FC Köln: Kompany vor Rückkehr auf die Trainerbank",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNd0hXdl83WUF6azFFcWFhUlFYcEtiSS1WYndFRVl0dlFtT19MajRJaFY3MVdHazhqNVZfSUlaazFvWEs3Z3hHVDR2R2F2MGd3Tnd3bHJTQ3A4V2NPMnd4WTdHNEI4YmxNdHdXank0MllzT0dCOXE0SEw4ZUNIeW85UDgtU1lGc203UGVhNFRGNHctbFQzd2tkcW9NR1A2UGhKZkxJTWtaN2xDUlNjbUFWc2pXM0dNV1kyTkhxNl9JRV9sUQ?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNd0hXdl83WUF6azFFcWFhUlFYcEtiSS1WYndFRVl0dlFtT19MajRJaFY3MVdHazhqNVZfSUlaazFvWEs3Z3hHVDR2R2F2MGd3Tnd3bHJTQ3A4V2NPMnd4WTdHNEI4YmxNdHdXank0MllzT0dCOXE0SEw4ZUNIeW85UDgtU1lGc203UGVhNFRGNHctbFQzd2tkcW9NR1A2UGhKZkxJTWtaN2xDUl",
-   "source": "Express",
-   "date": "2026-11-17T14:23:58.000Z",
-   "tags": [
-    "Personal",
-    "Verein"
-   ]
-  },
-  {
-   "title": "1. FC Köln startet Transfer-Offensive für Kamiński",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQc1BHZ3NwRzJIUVQxS2JHV2FuN0JlMkVjeDZuX1RHNU9iWkxfT0JoYkNxZlpvOExteFZ6WW9zZ2xIRkJlRDJzazFoNzlLbDVWNWhkOUNwcWNCUVdPU2JPM01ydFl5RHZBbVpSX3F1NFJSQ05oV2stLWl4bk9idnVpdW04SDZKV1JP?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQc1BHZ3NwRzJIUVQxS2JHV2FuN0JlMkVjeDZuX1RHNU9iWkxfT0JoYkNxZlpvOExteFZ6WW9zZ2xIRkJlRDJzazFoNzlLbDVWNWhkOUNwcWNCUVdPU2JPM01ydFl5RHZBbVpSX3F1NFJSQ05oV2stLWl4bk9idnVpdW04SDZKV1JP?oc=5\" target=\"_blank\">1. FC Köln startet Tran",
-   "source": "fussballdaten.de",
-   "date": "2026-11-17T14:13:00.000Z",
-   "tags": [
-    "Transfer"
-   ]
-  },
-  {
-   "title": "1. FC Köln forciert ersten Winter-Transfer",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQkhXVUtwX25kOUQzcHpvbmlGQS1NOWJYM0VVV0pyakZPLWR6WmgwZWlwVVN3WWoxUWRrNHB0X1VtX20tLVQtU0ZTYmUxeDRDcGN6dGlwN216Njh0d3dJa0FPQXNMWkZSYjVIMXlXMFBMb19fZVNJVEVJdEZiUkwyWUxYNUg0N25tNDRZSVNWVHVVenFybjQw?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNQkhXVUtwX25kOUQzcHpvbmlGQS1NOWJYM0VVV0pyakZPLWR6WmgwZWlwVVN3WWoxUWRrNHB0X1VtX20tLVQtU0ZTYmUxeDRDcGN6dGlwN216Njh0d3dJa0FPQXNMWkZSYjVIMXlXMFBMb19fZVNJVEVJdEZiUkwyWUxYNUg0N25tNDRZSVNWVHVVenFybjQw?oc=5\" target=\"_blank\">1. ",
-   "source": "Fussball Transfers",
-   "date": "2026-11-17T12:28:09.000Z",
-   "tags": [
-    "Transfer"
    ]
   }
  ]
