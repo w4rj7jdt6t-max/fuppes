@@ -1,6 +1,6 @@
 window.FUPPES_DATA = window.FUPPES_DATA || {};
 window.FUPPES_DATA["tv"] = {
- "updated": "2026-11-23T13:35:08.098Z",
+ "updated": "2026-11-23T15:20:15.059Z",
  "matches": [
   {
    "matchID": 83237,
@@ -24,6 +24,15 @@ window.FUPPES_DATA["tv"] = {
    "kick": "2026-11-28T14:30:00Z",
    "team1": "1. FC Köln",
    "team2": "SV 07 Elversberg",
+   "channels": [],
+   "evidence": [],
+   "kicker": null
+  },
+  {
+   "matchID": 83260,
+   "kick": "2026-12-05T14:30:00Z",
+   "team1": "FC Augsburg",
+   "team2": "1. FC Köln",
    "channels": [],
    "evidence": [],
    "kicker": null
