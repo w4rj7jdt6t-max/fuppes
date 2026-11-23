@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T07:50:21.446Z",
+ "updated": "2026-11-23T09:37:33.139Z",
  "fc": [
   {
    "start": "2025-11-29T14:30:00.000Z",
@@ -1880,20 +1880,5 @@
    "quotes": []
   }
  ],
- "referees": [
-  {
-   "title": "Die Schiedsrichter-Ansetzungen am 10. Spieltag",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBCODc4YkpXaFFjclEwMkFZLTAtdk1XUndGX3YyV01rdm40TTVZVm8zNUR3TUdoSTQ3WXhOUkFHb2cyYmNCQXFya0FsRnZCNXR1MDJzVGM4RFZmcjJpUUJ3TXYwTDBDQTItYzdNUURTWmlELUh3TVltMjdPYw?oc=5",
-   "source": "Bundesliga | official website",
-   "date": "2026-11-19T08:00:00.000Z",
-   "matchday": 10
-  },
-  {
-   "title": "Die Schiedsrichter-Ansetzungen am 12. Spieltag",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZGh2RkFDSUF6YnNNQkRIOWRLLVVtQzZuTDVoa1VELWNIbVV2V2tZdS1iTUVfcW1tckdwbU1hY18xM01mc3g3TzFRTWFDVkdrXzR1MzgwTm95cGJPWEgzUGRPOXdKeFdwMy1TZHhMV3k4NXd6MkZnZ2duQ2hCSmlWM09vaEpaNzdYTldfcUVlR0hCSmRFOTNuT0huZUtFX0It?oc=5",
-   "source": "Bundesliga | official website",
-   "date": "2026-11-19T08:00:00.000Z",
-   "matchday": 12
-  }
- ]
+ "referees": []
 }
