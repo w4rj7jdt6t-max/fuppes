@@ -1,7 +1,28 @@
 window.FUPPES_DATA = window.FUPPES_DATA || {};
 window.FUPPES_DATA["news-fc"] = {
- "updated": "2026-11-24T21:07:03.384Z",
+ "updated": "2026-11-24T23:09:16.602Z",
  "items": [
+  {
+   "title": "„An den Tisch kommen“: Kessler kündigt Gespräche mit Transfer-Kandidat an",
+   "link": "https://geissblog.koeln/2026/11/an-den-tisch-kommen-kessler-kuendigt-gespraeche-mit-transfer-kandidat-an/",
+   "summary": "Verlässt Rav van den Berg den 1. FC Köln im Januar? Aktuell kann sich der Innenverteidiger, der die Bundesliga als Sprungbrett für die Premier League... Der Beitrag „An den Tisch kommen“: Kessler kündigt Gespräche mit Transfer-Kandidat an erschien zuerst auf GEISSBLOG .",
+   "source": "GEISSBLOG",
+   "date": "2026-11-24T23:01:00.000Z",
+   "tags": [
+    "Transfer"
+   ]
+  },
+  {
+   "title": "FC-Lazarett: Stürmer vor Comeback – Verteidiger nie mehr für Köln?",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNeGY4Q0Vnc0QxTnBjXzlKSWhEWkZvYjJYUmltdHM0Wmh6TGc3WkI2NTlPRC1TRWJrVTRfNXpmLWJNOW92ejJCbW5NWl9tS0dlS19vN1RfMVIxR2p6S3hvYTl1VFRfWWptVHIycksweUk3QW1iYnVKZko3cmtnZHpIWUxzVjkxaVdUSTFoRnZCbDBtQlZ1M1l1cm10OFBvQ0ZESW9TNnkwbEhqanY2R1dGamxoVjJDbi1EWTNkZVprMEM?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNeGY4Q0Vnc0QxTnBjXzlKSWhEWkZvYjJYUmltdHM0Wmh6TGc3WkI2NTlPRC1TRWJrVTRfNXpmLWJNOW92ejJCbW5NWl9tS0dlS19vN1RfMVIxR2p6S3hvYTl1VFRfWWptVHIycksweUk3QW1iYnVKZko3cmtnZHpIWUxzVjkxaVdUSTFoRnZCbDBtQlZ1M1l1cm10OFBvQ0ZESW9TNnkwbEhqan",
+   "source": "Express",
+   "date": "2026-11-24T21:32:46.000Z",
+   "tags": [
+    "Gerücht",
+    "Personal"
+   ]
+  },
   {
    "title": "„Kane wurde cologned“: In England ist der FC nicht nur beim Ex-Trainer ein Thema",
    "link": "https://geissblog.koeln/2026/11/kane-wurde-cologned-in-england-ist-der-fc-nicht-nur-bei-alex-bade-thema/",
@@ -15,10 +36,20 @@ window.FUPPES_DATA["news-fc"] = {
   },
   {
    "title": "„Express“: Waldschmidt erwägt Abgang vom 1. FC Köln – Nur 44 Minuten Spielzeit",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdHpaU0sxeVlFamI0aHVzejF5aDBHY3V2bGl6YTQzQ1dIZDRrN0xBWDVrT0VDaVd3VHRyMmtUQUZwd2lYT1k5ejVpb25QZjl5YjdvYmI4QUQ4NUdlX3Nid29QWk5uTFVBZmktaF9ON18zWFlsM0ZxUkt3OWdKblNJM0R2NnRMQmtTQmZzd1hfT0tEektrWUIzV2wyb2tvZFZzZUw1Q2FNXzFxS0k2SmowVkVFUXJCaHJiXzVYb1RrcGJ6Zw?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdHpaU0sxeVlFamI0aHVzejF5aDBHY3V2bGl6YTQzQ1dIZDRrN0xBWDVrT0VDaVd3VHRyMmtUQUZwd2lYT1k5ejVpb25QZjl5YjdvYmI4QUQ4NUdlX3Nid29QWk5uTFVBZmktaF9ON18zWFlsM0ZxUkt3OWdKblNJM0R2NnRMQmtTQmZzd1hfT0tEektrWUIzV2wyb2tvZFZzZUw1Q2FNXzFxS0",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOYmZBYjl4MVJ6U1NnY05BTGFsRTNydzFObi1Vc1FmSjhWRXhzcGNuTllSNmprYUFVTG9ZM05OY3J0YWh2Y2U3VFJlN3hvY2JaVTNfYnpLb1pXb3dmRXpaUVc3aGloMmZwMWVYOW1VVm55cHJWZzVycFNGWTZuYWRuaDllaUZZWmNPMFF3ZmNMbDJSelR5dkhQTS1kdVBZSUpiWFpXczd5TTVELWRObXV6aUF3My1sQWR0YlVvb2U0RzE0UQ?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOYmZBYjl4MVJ6U1NnY05BTGFsRTNydzFObi1Vc1FmSjhWRXhzcGNuTllSNmprYUFVTG9ZM05OY3J0YWh2Y2U3VFJlN3hvY2JaVTNfYnpLb1pXb3dmRXpaUVc3aGloMmZwMWVYOW1VVm55cHJWZzVycFNGWTZuYWRuaDllaUZZWmNPMFF3ZmNMbDJSelR5dkhQTS1kdVBZSUpiWFpXczd5TTVELW",
    "source": "Transfermarkt",
    "date": "2026-11-24T14:54:00.000Z",
+   "tags": [
+    "Transfer"
+   ]
+  },
+  {
+   "title": "Winter-Wechsel vorerst geplatzt: Köln-Profi sagt Klub ab",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQc3hRbWNsS2s5bFh2aFMwX3dqUlVwQ0dJOWRkQWo4MVN2NkVUUkJwMUM2X0dzdTNxUU16WHdpeXc4eno0Zkt5b09kdHpTWElweWFaYkUxWlNiYldMVm1jMU5nN01LR2s3WTNGQUpaUmJrcV8tU3lOTll3Q1RjcW1uOXl4VUtoZDQ0Tm1sanVEYnlWbExNVTRJUg?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQc3hRbWNsS2s5bFh2aFMwX3dqUlVwQ0dJOWRkQWo4MVN2NkVUUkJwMUM2X0dzdTNxUU16WHdpeXc4eno0Zkt5b09kdHpTWElweWFaYkUxWlNiYldMVm1jMU5nN01LR2s3WTNGQUpaUmJrcV8tU3lOTll3Q1RjcW1uOXl4VUtoZDQ0Tm1sanVEYnlWbExNVTRJUg?oc=5\" target=\"_blank\">W",
+   "source": "DerWesten",
+   "date": "2026-11-24T13:28:44.000Z",
    "tags": [
     "Transfer"
    ]
@@ -41,17 +72,6 @@ window.FUPPES_DATA["news-fc"] = {
    "date": "2026-11-24T12:30:37.000Z",
    "tags": [
     "Fix"
-   ]
-  },
-  {
-   "title": "FC-Lazarett: Stürmer vor Comeback – Verteidiger nie mehr für Köln?",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNeGY4Q0Vnc0QxTnBjXzlKSWhEWkZvYjJYUmltdHM0Wmh6TGc3WkI2NTlPRC1TRWJrVTRfNXpmLWJNOW92ejJCbW5NWl9tS0dlS19vN1RfMVIxR2p6S3hvYTl1VFRfWWptVHIycksweUk3QW1iYnVKZko3cmtnZHpIWUxzVjkxaVdUSTFoRnZCbDBtQlZ1M1l1cm10OFBvQ0ZESW9TNnkwbEhqanY2R1dGamxoVjJDbi1EWTNkZVprMEM?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNeGY4Q0Vnc0QxTnBjXzlKSWhEWkZvYjJYUmltdHM0Wmh6TGc3WkI2NTlPRC1TRWJrVTRfNXpmLWJNOW92ejJCbW5NWl9tS0dlS19vN1RfMVIxR2p6S3hvYTl1VFRfWWptVHIycksweUk3QW1iYnVKZko3cmtnZHpIWUxzVjkxaVdUSTFoRnZCbDBtQlZ1M1l1cm10OFBvQ0ZESW9TNnkwbEhqan",
-   "source": "Express",
-   "date": "2026-11-24T10:52:57.000Z",
-   "tags": [
-    "Gerücht",
-    "Personal"
    ]
   },
   {
@@ -136,11 +156,11 @@ window.FUPPES_DATA["news-fc"] = {
    ]
   },
   {
-   "title": "Nordrhein-Westfalen: Sportchef Kessler stellt sich hinter Köln-Trainer Wagner",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSEIyR00xLTE1Z05EWmtXUDE2eXkxZU1QVU1acFF0ekdyUU0tVVQ4cXFuMzZBWDNPMHRyMEk0eUxlVXdmRFNxeERCUFpqNk5WSDU4YlM4elcyQ2dQZ01QRDV1UnpHTDk2MzFrZnI4dThOdVl4R2NHSDk0MktOUU5qUG4wdldrcGtBMWhnNFNzOWMzdzYwXzJuLXo3Q3pOX01kWkRPekdfUW9xb0ltd0JMcGZfZGdHQ3ZRdFBDZHBhNHFZQQ?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSEIyR00xLTE1Z05EWmtXUDE2eXkxZU1QVU1acFF0ekdyUU0tVVQ4cXFuMzZBWDNPMHRyMEk0eUxlVXdmRFNxeERCUFpqNk5WSDU4YlM4elcyQ2dQZ01QRDV1UnpHTDk2MzFrZnI4dThOdVl4R2NHSDk0MktOUU5qUG4wdldrcGtBMWhnNFNzOWMzdzYwXzJuLXo3Q3pOX01kWkRPekdfUW9xb0",
-   "source": "n-tv.de",
-   "date": "2026-11-22T15:07:00.000Z",
+   "title": "Fußball-Bundesliga: Sportchef Kessler stellt sich hinter Köln-Trainer Wagner",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQWc1Z1c5N2xGaDZOZTBUQ19LcFlQQ3cyeWRPbExCLWNoUjJGcXFyTTAyamJtOV9Ic011b2JIbHdPQ3Q2Vmk2TnpXT1MtWU9veDZmQXFSUU44RWRNUmFaR29tOHNHQ2p1VWZXU0dOZVJETGROZkNhcFJJdEczMVJNTUNRbkZzVlc0T09ranhBQjdGclIwdjhHZQ?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOQWc1Z1c5N2xGaDZOZTBUQ19LcFlQQ3cyeWRPbExCLWNoUjJGcXFyTTAyamJtOV9Ic011b2JIbHdPQ3Q2Vmk2TnpXT1MtWU9veDZmQXFSUU44RWRNUmFaR29tOHNHQ2p1VWZXU0dOZVJETGROZkNhcFJJdEczMVJNTUNRbkZzVlc0T09ranhBQjdGclIwdjhHZQ?oc=5\" target=\"_blank\">F",
+   "source": "DIE ZEIT",
+   "date": "2026-11-22T15:07:04.000Z",
    "tags": [
     "Verein"
    ]
@@ -166,45 +186,23 @@ window.FUPPES_DATA["news-fc"] = {
    ]
   },
   {
-   "title": "Bei Remis gegen Köln: Bayerns Kane und Olise verletzt ausgewechselt",
-   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPVGhwUENVSVlibXlNdE5wVVVKODJpT21rNHlNZFk3VmFzRWdRU2Rob0c2bVNzMDZqcEN3OFhvLUczQ1p4RVNnVnRBZTNnMWs5RWEwektIQnQ1R3F5VG91bGl4RGtGZDA0dkl2THhsaGZWNnJHWWF4VzZKRWUzR2x5R2FtajQ2SG04UzloZnJzWVlTM0lkRHBrTFFaVHdiWHQwRldfNmxZc2VhZ21MUUJ4RkMxaVNIb1B0b2ItYUFxbkt1QmtBbVdsd1pfSm1qZVZ5UzNWWVc1aVRiWTBiWlNORlNaRWRnR2REUmRQMW9n?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxPVGhwUENVSVlibXlNdE5wVVVKODJpT21rNHlNZFk3VmFzRWdRU2Rob0c2bVNzMDZqcEN3OFhvLUczQ1p4RVNnVnRBZTNnMWs5RWEwektIQnQ1R3F5VG91bGl4RGtGZDA0dkl2THhsaGZWNnJHWWF4VzZKRWUzR2x5R2FtajQ2SG04UzloZnJzWVlTM0lkRHBrTFFaVHdiWHQwRldfNmxZc2VhZ2",
+   "title": "Vincent Kompany: FC-Bayern-München-Trainer auf Bank gegen 1. FC Köln",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPdGJ6UGVPck9TNHlkc056bWtNaTJUcEdteTdCYnZCclNjNmVTQlJraDQ3NWNsTG5hb0pobG5VaU5PbElCX0hibkE0WDk2OWFNNHFlRFFubElxbDVhWTRjWDF6dE5OVFhic291R1NrRU5aMG4zX29DTExUeEcwOTBpYTNkemdMalo5cDBnY0ZLMlhuc1o0ZmNvcjNVcVpKZ2hCdnJ4TVBjbGo5WlVkXzVtdUlOSEhNNG1jTk03Y3ZDb21DTUpJSjl6eXRKbS1HLUwwQlVsRzA4cVVwZw?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxPdGJ6UGVPck9TNHlkc056bWtNaTJUcEdteTdCYnZCclNjNmVTQlJraDQ3NWNsTG5hb0pobG5VaU5PbElCX0hibkE0WDk2OWFNNHFlRFFubElxbDVhWTRjWDF6dE5OVFhic291R1NrRU5aMG4zX29DTExUeEcwOTBpYTNkemdMalo5cDBnY0ZLMlhuc1o0ZmNvcjNVcVpKZ2hCdnJ4TVBjbGo5Wl",
+   "source": "FAZ",
+   "date": "2026-11-19T13:12:00.000Z",
+   "tags": [
+    "Verein"
+   ]
+  },
+  {
+   "title": "1. FC Köln beim FC Bayern: Trainer Wagner spürt keinen Druck vom FC",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZ3E3STlteHU5WGNnbGtCcmxKMmFzY09wYk5ERDBuVUZSZ0U5SmJJbTgzWXM4cXdmbE5ORjBCT05WOFNPOEYzQUs5TE1nclRuWUJ1MzJEQ1NVMzNXR19BNkhpWTBHX3c0eVEtVjRpZHA1MVdyZGpCT09hMjN3MnZoT25rSVFzR2gzekV0dXF0OC1MRHFSMjB6Ng?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPZ3E3STlteHU5WGNnbGtCcmxKMmFzY09wYk5ERDBuVUZSZ0U5SmJJbTgzWXM4cXdmbE5ORjBCT05WOFNPOEYzQUs5TE1nclRuWUJ1MzJEQ1NVMzNXR19BNkhpWTBHX3c0eVEtVjRpZHA1MVdyZGpCT09hMjN3MnZoT25rSVFzR2gzekV0dXF0OC1MRHFSMjB6Ng?oc=5\" target=\"_blank\">1",
    "source": "sportschau.de",
-   "date": "2026-11-21T00:55:03.000Z",
+   "date": "2026-11-19T09:15:14.000Z",
    "tags": [
-    "Fix",
-    "Personal"
-   ]
-  },
-  {
-   "title": "FC Bayern spielt 1:1 gegen Köln: Kane und Olise verletzt - Sport - SZ.de",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOY0J6cFA4U19YX3BobEFaSzR1VmhEbUdQN0tTalBWZGp5bjBld2VoclRpS1JtTlZRRkhabklndGJKQURud1VsdjRjdngtRExRTlR2Q1FGc21XTXdfbWFpeHNWb1RGdUtaeGROS1FLbC1KbHllYmNKNU40UHlEUnk4dy1peWF6UQ?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxOY0J6cFA4U19YX3BobEFaSzR1VmhEbUdQN0tTalBWZGp5bjBld2VoclRpS1JtTlZRRkhabklndGJKQURud1VsdjRjdngtRExRTlR2Q1FGc21XTXdfbWFpeHNWb1RGdUtaeGROS1FLbC1KbHllYmNKNU40UHlEUnk4dy1peWF6UQ?oc=5\" target=\"_blank\">FC Bayern spielt 1:1 gege",
-   "source": "SZ.de",
-   "date": "2026-11-20T23:30:30.000Z",
-   "tags": [
-    "Personal"
-   ]
-  },
-  {
-   "title": "Bayern-Star Harry Kane gegen Köln ausgewechselt - auch Olise verletzt",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQ0xVaElGaUUwamZvRXhEUjRqbjN1S19HWmo1WXAtLUU1c0RYYlozSkJhZmFXUWh6NkVJVlA3ci1pX1J1QW51WG50Z1NqbHVJd2U4Nmp4RndXbjgySEpwR3J3NTlPZG4xV0NjR1pFWC16ekJlbG5aQ0FkV2lGaTFROHl6UUhJNDhURXlZNmxGRkE5RGNSeXVTMndUVkNITzBkeTlWcjNJX3poczZoSG40?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPQ0xVaElGaUUwamZvRXhEUjRqbjN1S19HWmo1WXAtLUU1c0RYYlozSkJhZmFXUWh6NkVJVlA3ci1pX1J1QW51WG50Z1NqbHVJd2U4Nmp4RndXbjgySEpwR3J3NTlPZG4xV0NjR1pFWC16ekJlbG5aQ0FkV2lGaTFROHl6UUhJNDhURXlZNmxGRkE5RGNSeXVTMndUVkNITzBkeTlWcjNJX3pocz",
-   "source": "Sky.de",
-   "date": "2026-11-20T22:48:00.000Z",
-   "tags": [
-    "Fix",
-    "Personal"
-   ]
-  },
-  {
-   "title": "Kein Sieg und doppeltes Verletzungspech! Starker 1. FC Köln schockt zahnlose Bayern",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPZXA5QUxPck5YV09wZVR0WUkxRUhtcksyMVJMd25mUkdYUFdsX1ZuYVdvaHlscFl6Sy1Ma3BBU3RNa2dCLUR6UDlTT0xCVkNuZzd2Qm4zTnhVaUhQZE5rVjlITEVkdVQ4QkkxUWlHQWxRdm8wMWJVLTlRdUdLSWNVRHFoTFFKMHY2Z1JXZmZQTVVYLTZkd3loQ09GWlZjNzJkWEVtUV8tYS00R1FxX0hETC02NlYxNEg2dXBfbUx1cnhSRXJfN1Fhb2NMeEZST291ZDRN?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxPZXA5QUxPck5YV09wZVR0WUkxRUhtcksyMVJMd25mUkdYUFdsX1ZuYVdvaHlscFl6Sy1Ma3BBU3RNa2dCLUR6UDlTT0xCVkNuZzd2Qm4zTnhVaUhQZE5rVjlITEVkdVQ4QkkxUWlHQWxRdm8wMWJVLTlRdUdLSWNVRHFoTFFKMHY2Z1JXZmZQTVVYLTZkd3loQ09GWlZjNzJkWEVtUV8tYS00R1",
-   "source": "SPOX.com",
-   "date": "2026-11-20T21:27:08.000Z",
-   "tags": [
-    "Personal"
+    "Verein"
    ]
   }
  ]
