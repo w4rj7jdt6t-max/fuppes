@@ -1,6 +1,6 @@
 window.FUPPES_DATA = window.FUPPES_DATA || {};
 window.FUPPES_DATA["transfers"] = {
- "updated": "2026-11-24T01:28:18.343Z",
+ "updated": "2026-11-24T03:03:50.218Z",
  "rules": {
   "minFeeMio": 20,
   "topClubs": [
@@ -293,21 +293,6 @@ window.FUPPES_DATA["transfers"] = {
    ]
   },
   {
-   "title": "Krösche-Deal mit Milan fix: Frankfurt kassiert kräftig ab",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxON1FESVFjdWd1dWJGdWpzQThkdkpraVJBaEpxYlNZeFFsQm94alhCRURhcGV4Sm1WZXhsNDFOYy14aFRPZWx1OXhMY0RkM2NCVkNjLVJmbVp2cHhYdlE0R0JCSjRQWDRLbFJRUV9SWnNBTkRZMHRHOHlOTWdjdjBHMVdSdGpCY3dqX0kxYmFHWQ?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxON1FESVFjdWd1dWJGdWpzQThkdkpraVJBaEpxYlNZeFFsQm94alhCRURhcGV4Sm1WZXhsNDFOYy14aFRPZWx1OXhMY0RkM2NCVkNjLVJmbVp2cHhYdlE0R0JCSjRQWDRLbFJRUV9SWnNBTkRZMHRHOHlOTWdjdjBHMVdSdGpCY3dqX0kxYmFHWQ?oc=5\" target=\"_blank\">Krösche-Deal ",
-   "source": "fussballdaten.de",
-   "date": "2026-11-23T12:15:00.000Z",
-   "fee": null,
-   "clubs": [
-    "Frankfurt",
-    "Milan"
-   ],
-   "tags": [
-    "Transfer"
-   ]
-  },
-  {
    "title": "Eintracht Frankfurt: Wechsel von Krösche zur AC Milan vor Abschluss – Millionenablöse",
    "link": "https://www.transfermarkt.de/-bild-quot-wechsel-von-krosche-zur-ac-milan-vor-abschluss-frankfurt-erhalt-millionenablose/view/news/491092",
    "summary": "Lange wurde gemunkelt, nun steht der Wechsel von Eintracht Frankfurts fr&uuml;herem Sportvorstand Markus Kr&ouml;sche zur AC Mailand offenbar vor dem Abschluss. Der &bdquo;Bild&ldquo; zufolge soll...",
@@ -392,6 +377,20 @@ window.FUPPES_DATA["transfers"] = {
    ],
    "tags": [
     "Gerücht"
+   ]
+  },
+  {
+   "title": "Winter-Transfernöte in München: Warum jetzt ausgerechnet der BVB zittern muss",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTU95SjBZazF0NzFUY25YRmJzM1B0cHZwc2lVTUVHSjZwMU5kZVROZ28wOWtZMXpObzRWZjIzQmltNllELXlQdGxBQUkyaGNhZzhnTFdOOEdiRHRhdk92M2dHSURRSlNlbFRzODRub09RM3BqX2pKSm1panAzZUF1bE5UeVozZ2tCUmtJTkxpa09kWXByeHJDYXhqYzBiUQ?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNTU95SjBZazF0NzFUY25YRmJzM1B0cHZwc2lVTUVHSjZwMU5kZVROZ28wOWtZMXpObzRWZjIzQmltNllELXlQdGxBQUkyaGNhZzhnTFdOOEdiRHRhdk92M2dHSURRSlNlbFRzODRub09RM3BqX2pKSm1panAzZUF1bE5UeVozZ2tCUmtJTkxpa09kWXByeHJDYXhqYzBiUQ?oc=5\" target=\"_",
+   "source": "90min.de",
+   "date": "2026-11-22T14:23:41.000Z",
+   "fee": null,
+   "clubs": [
+    "BVB"
+   ],
+   "tags": [
+    "Transfer"
    ]
   }
  ]

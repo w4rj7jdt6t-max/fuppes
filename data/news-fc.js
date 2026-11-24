@@ -1,6 +1,6 @@
 window.FUPPES_DATA = window.FUPPES_DATA || {};
 window.FUPPES_DATA["news-fc"] = {
- "updated": "2026-11-24T01:28:16.758Z",
+ "updated": "2026-11-24T03:03:48.735Z",
  "items": [
   {
    "title": "Der FC beschwört den Zusammenhalt, aber viele Mitglieder schauen weg",
