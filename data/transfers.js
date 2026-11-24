@@ -1,6 +1,6 @@
 window.FUPPES_DATA = window.FUPPES_DATA || {};
 window.FUPPES_DATA["transfers"] = {
- "updated": "2026-11-23T23:05:38.118Z",
+ "updated": "2026-11-24T01:28:18.343Z",
  "rules": {
   "minFeeMio": 20,
   "topClubs": [
@@ -110,20 +110,6 @@ window.FUPPES_DATA["transfers"] = {
    "fee": null,
    "clubs": [
     "Bayern"
-   ],
-   "tags": [
-    "Gerücht"
-   ]
-  },
-  {
-   "title": "BVB: Spannende Transfer-Spur bei Mathis Albert",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVHQ4OG5kVzN1LURhNURSNUhqWFdHS2lXZkI0c0ZJTHB6TFRfdmg4ZzNyWWJMdHUzV0docDVQTXRORTJpZjNsclNDZnpWUktXVWduc3J2b0N0MnpwXzRkVWVUZW4wc1BnU3RicU83QnUwSzEyaUphSk9QQ2lQX3J2NndxUkJDN2txOHdQLUhzTW5JVHBQUkJPSg?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPVHQ4OG5kVzN1LURhNURSNUhqWFdHS2lXZkI0c0ZJTHB6TFRfdmg4ZzNyWWJMdHUzV0docDVQTXRORTJpZjNsclNDZnpWUktXVWduc3J2b0N0MnpwXzRkVWVUZW4wc1BnU3RicU83QnUwSzEyaUphSk9QQ2lQX3J2NndxUkJDN2txOHdQLUhzTW5JVHBQUkJPSg?oc=5\" target=\"_blank\">B",
-   "source": "Fussball Transfers",
-   "date": "2026-11-23T19:04:00.000Z",
-   "fee": null,
-   "clubs": [
-    "BVB"
    ],
    "tags": [
     "Gerücht"
@@ -307,6 +293,21 @@ window.FUPPES_DATA["transfers"] = {
    ]
   },
   {
+   "title": "Krösche-Deal mit Milan fix: Frankfurt kassiert kräftig ab",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxON1FESVFjdWd1dWJGdWpzQThkdkpraVJBaEpxYlNZeFFsQm94alhCRURhcGV4Sm1WZXhsNDFOYy14aFRPZWx1OXhMY0RkM2NCVkNjLVJmbVp2cHhYdlE0R0JCSjRQWDRLbFJRUV9SWnNBTkRZMHRHOHlOTWdjdjBHMVdSdGpCY3dqX0kxYmFHWQ?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxON1FESVFjdWd1dWJGdWpzQThkdkpraVJBaEpxYlNZeFFsQm94alhCRURhcGV4Sm1WZXhsNDFOYy14aFRPZWx1OXhMY0RkM2NCVkNjLVJmbVp2cHhYdlE0R0JCSjRQWDRLbFJRUV9SWnNBTkRZMHRHOHlOTWdjdjBHMVdSdGpCY3dqX0kxYmFHWQ?oc=5\" target=\"_blank\">Krösche-Deal ",
+   "source": "fussballdaten.de",
+   "date": "2026-11-23T12:15:00.000Z",
+   "fee": null,
+   "clubs": [
+    "Frankfurt",
+    "Milan"
+   ],
+   "tags": [
+    "Transfer"
+   ]
+  },
+  {
    "title": "Eintracht Frankfurt: Wechsel von Krösche zur AC Milan vor Abschluss – Millionenablöse",
    "link": "https://www.transfermarkt.de/-bild-quot-wechsel-von-krosche-zur-ac-milan-vor-abschluss-frankfurt-erhalt-millionenablose/view/news/491092",
    "summary": "Lange wurde gemunkelt, nun steht der Wechsel von Eintracht Frankfurts fr&uuml;herem Sportvorstand Markus Kr&ouml;sche zur AC Mailand offenbar vor dem Abschluss. Der &bdquo;Bild&ldquo; zufolge soll...",
@@ -318,20 +319,6 @@ window.FUPPES_DATA["transfers"] = {
     "Frankfurt",
     "AC Mailand",
     "Milan"
-   ],
-   "tags": [
-    "Transfer"
-   ]
-  },
-  {
-   "title": "Kane-Schock: Bayern lässt Transfer-Tür offen",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUjRCazVJSzBiN0pUYjFxU3c2ak1JTnZEaTZxaEhzVXlodm5yQlNzVlQ0M0FqZGswZmlZLXpTYmczOGlidEU3S1VRWlNKNk1uNTkwTnJnY05Nb2tvc1F6Z3lEdC1HRWxPYzFsc1NDVVZMU1dKUWFYdGJkQ21kMFlyQTZHSTdqQ1FIaC1HVjd6V2VwV0RDTThaLVdHTHI5VUxCUTJnRlUtV3YwZTZDZzNPWVQwTVV3VVpXekxHcQ?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQUjRCazVJSzBiN0pUYjFxU3c2ak1JTnZEaTZxaEhzVXlodm5yQlNzVlQ0M0FqZGswZmlZLXpTYmczOGlidEU3S1VRWlNKNk1uNTkwTnJnY05Nb2tvc1F6Z3lEdC1HRWxPYzFsc1NDVVZMU1dKUWFYdGJkQ21kMFlyQTZHSTdqQ1FIaC1HVjd6V2VwV0RDTThaLVdHTHI5VUxCUTJnRlUtV3YwZT",
-   "source": "MOPO",
-   "date": "2026-11-23T08:06:35.000Z",
-   "fee": null,
-   "clubs": [
-    "Bayern"
    ],
    "tags": [
     "Transfer"
@@ -366,11 +353,25 @@ window.FUPPES_DATA["transfers"] = {
    ]
   },
   {
-   "title": "Not-Transfers? Bosse des FC Bayern lassen aufhorchen",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPS3FvcFQ5em1HYmVodEp6R1hhck5jV1g0Mk5RRVpmd2REbUd0OFctd08yRWczVE9GNm91ZzhtbEV2R0hhdDl4Vlo2ZkxOZklTcHBuNFhIRlVqbnczanZfMGctckd3LUNNU3ZkX2loMjZjYUlpSzhHWkw2bXBYUGkwNmZZQmlPMTdzc1JaNXk2c0lpSzA?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPS3FvcFQ5em1HYmVodEp6R1hhck5jV1g0Mk5RRVpmd2REbUd0OFctd08yRWczVE9GNm91ZzhtbEV2R0hhdDl4Vlo2ZkxOZklTcHBuNFhIRlVqbnczanZfMGctckd3LUNNU3ZkX2loMjZjYUlpSzhHWkw2bXBYUGkwNmZZQmlPMTdzc1JaNXk2c0lpSzA?oc=5\" target=\"_blank\">Not-Tran",
-   "source": "sport.de",
-   "date": "2026-11-23T06:53:00.000Z",
+   "title": "Debatte um Jamal Musiala und den FC Bayern: Lothar Matthäus teilt Detail rund um die Vertragsverlängerung",
+   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNTGFVbUNJQUZxaVhfTXM2cUVTdmkwVmhTYVNCZWR5b2ltZWRCTndUak4ybUtCdFltSlhlMXJMY0ZvdkJIN1RqamlwS0pSTmdoTVBjcXVDb3lkMmo3QmxReGtyNVM4TmlISXhRaWdwVFU2M25HVTY3QVg4RktfOEFNT3o0MktPT2steWI3UEFsS1pXdElVS0hLSDk5SEd5UmhwZnV2bjBuUG1rVHpmcXdQLTNMbXF0V2N1MFY3MDFFVzR3UklXUXB3OVY1ZE04azlvOWx0Q0xNX3gyeVoyUEwtRnVGTUZ0VVZ4U0tsanZ5Szg?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxNTGFVbUNJQUZxaVhfTXM2cUVTdmkwVmhTYVNCZWR5b2ltZWRCTndUak4ybUtCdFltSlhlMXJMY0ZvdkJIN1RqamlwS0pSTmdoTVBjcXVDb3lkMmo3QmxReGtyNVM4TmlISXhRaWdwVFU2M25HVTY3QVg4RktfOEFNT3o0MktPT2steWI3UEFsS1pXdElVS0hLSDk5SEd5UmhwZnV2bjBuUG1rVH",
+   "source": "Sky.de",
+   "date": "2026-11-22T20:49:00.000Z",
+   "fee": null,
+   "clubs": [
+    "Bayern"
+   ],
+   "tags": [
+    "Vertrag"
+   ]
+  },
+  {
+   "title": "Holt der FC Bayern München ein ehemaliges Torwart-Talent zurück?",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOcUh1UXRBb0thaXdOWE5nMEtJaDhHR2ViTW5HeVlXZG4tQTI3TnA0cmkxN2lmSjBPT3ZqN2RTeElKOW1jc3BDSUJad2lOTlEtOFpmVGJmRGZGSEEtdWY5V3hyUmF3Q201ZkxNaGJheGF6OXRFWmpiWXhMT09ZTjFLeHh3ZEhNUUV3QkYyTGdsaHRNd19WRlZJ?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOcUh1UXRBb0thaXdOWE5nMEtJaDhHR2ViTW5HeVlXZG4tQTI3TnA0cmkxN2lmSjBPT3ZqN2RTeElKOW1jc3BDSUJad2lOTlEtOFpmVGJmRGZGSEEtdWY5V3hyUmF3Q201ZkxNaGJheGF6OXRFWmpiWXhMT09ZTjFLeHh3ZEhNUUV3QkYyTGdsaHRNd19WRlZJ?oc=5\" target=\"_blank\">Hol",
+   "source": "fussballdaten.de",
+   "date": "2026-11-22T19:25:00.000Z",
    "fee": null,
    "clubs": [
     "Bayern"
@@ -380,11 +381,11 @@ window.FUPPES_DATA["transfers"] = {
    ]
   },
   {
-   "title": "Holt der FC Bayern München ein ehemaliges Torwart-Talent zurück?",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOcUh1UXRBb0thaXdOWE5nMEtJaDhHR2ViTW5HeVlXZG4tQTI3TnA0cmkxN2lmSjBPT3ZqN2RTeElKOW1jc3BDSUJad2lOTlEtOFpmVGJmRGZGSEEtdWY5V3hyUmF3Q201ZkxNaGJheGF6OXRFWmpiWXhMT09ZTjFLeHh3ZEhNUUV3QkYyTGdsaHRNd19WRlZJ?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOcUh1UXRBb0thaXdOWE5nMEtJaDhHR2ViTW5HeVlXZG4tQTI3TnA0cmkxN2lmSjBPT3ZqN2RTeElKOW1jc3BDSUJad2lOTlEtOFpmVGJmRGZGSEEtdWY5V3hyUmF3Q201ZkxNaGJheGF6OXRFWmpiWXhMT09ZTjFLeHh3ZEhNUUV3QkYyTGdsaHRNd19WRlZJ?oc=5\" target=\"_blank\">Hol",
-   "source": "fussballdaten.de",
-   "date": "2026-11-22T19:25:00.000Z",
+   "title": "Karius äußert sich zu Bayern-Gerüchten",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORDUzbWtEVG1tLW13eERuZ0VmeGowN0VNeHg3OGZ0ZVMxblBCUTlZaWFST254d3JJSGVNY2RmbGV3WkxiRlFseGpWUVhvakRMUHJ1U19sMDAzazVKUjQza3Y0RHZhSDZXSmxuc3lOTFRuRTM2UnUyMnJqRGZGRkZLdzQzX3l3UXczenZVcThPR1UybVNRbTByZQ?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxORDUzbWtEVG1tLW13eERuZ0VmeGowN0VNeHg3OGZ0ZVMxblBCUTlZaWFST254d3JJSGVNY2RmbGV3WkxiRlFseGpWUVhvakRMUHJ1U19sMDAzazVKUjQza3Y0RHZhSDZXSmxuc3lOTFRuRTM2UnUyMnJqRGZGRkZLdzQzX3l3UXczenZVcThPR1UybVNRbTByZQ?oc=5\" target=\"_blank\">K",
+   "source": "Kicker",
+   "date": "2026-11-22T14:25:00.000Z",
    "fee": null,
    "clubs": [
     "Bayern"
