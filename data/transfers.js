@@ -1,6 +1,6 @@
 window.FUPPES_DATA = window.FUPPES_DATA || {};
 window.FUPPES_DATA["transfers"] = {
- "updated": "2026-11-24T03:03:50.218Z",
+ "updated": "2026-11-24T05:20:59.056Z",
  "rules": {
   "minFeeMio": 20,
   "topClubs": [
@@ -43,6 +43,20 @@ window.FUPPES_DATA["transfers"] = {
   ]
  },
  "items": [
+  {
+   "title": "FC Bayern, News: Spektakulärer Transfer von Oliver Baumann? Hoffenheim-Boss öffnet die Tür",
+   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOT1dzOEl5Vmxva0lnZGp3ZUxGcy1lMks5NTZEV25aOXBXOXdFNTRrZ2xLVDdlUk1tRE5MNmRGWk80WFdCWG9zN3lEM21KdlU3ZGhMS0YzYUVNamI4UHhWdlNRbkdDVHM5SVpWb0Rja010T2xxaFJzRVE0cXdla0xiNzkwcFI2QlJUQ3ppN1NQeVlCcVdhTUcwb083cDlwNjQ2b0w4ZkhzSUhBRnk3SXhRZlBfQVhQUF9henlhSXlNeFRBb2xSQzJvY0RCSUZYcFZhMEJQNXdaTVE3SnpzZWlONjQ0dkd5VGZtdDE0cE1GbTQ?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxOT1dzOEl5Vmxva0lnZGp3ZUxGcy1lMks5NTZEV25aOXBXOXdFNTRrZ2xLVDdlUk1tRE5MNmRGWk80WFdCWG9zN3lEM21KdlU3ZGhMS0YzYUVNamI4UHhWdlNRbkdDVHM5SVpWb0Rja010T2xxaFJzRVE0cXdla0xiNzkwcFI2QlJUQ3ppN1NQeVlCcVdhTUcwb083cDlwNjQ2b0w4ZkhzSUhBRn",
+   "source": "SPOX.com",
+   "date": "2026-11-24T05:00:03.000Z",
+   "fee": null,
+   "clubs": [
+    "Bayern"
+   ],
+   "tags": [
+    "Gerücht"
+   ]
+  },
   {
    "title": "Wie James Bond: Carlos Espi ist Reals Geheimwaffe",
    "link": "https://www.kicker.de/wie-james-bond-carlos-espi-ist-reals-geheimwaffe-1273835/artikel#omrss",
@@ -127,21 +141,6 @@ window.FUPPES_DATA["transfers"] = {
    ],
    "tags": [
     "Transfer"
-   ]
-  },
-  {
-   "title": "Holt Pochettino unzufriedenes BVB-Talent Albert zu Manchester United?",
-   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNR2x4dXNDV2lVQnlLcFQyMmx6ZkQ3S1BlZlVYR01YcnJkemd0UXRseGhoS1hEaFRvam1JRTFJTjFURUdHWFRBZEs0Rks5MWZxOThvVDZZRl9IMVNvWnRSd2JHdERMM0E3SWFITXVhNXREdlJpZldqVklMSl9XaWJocU5jUngtMDFVVEFvd0hBak0ycmRpaU8yMm9yWjNrSXpPUHMtT2hiWkhWWUg5Y2doNmc1QWtVdDV5QXVrMXVlYUg2R29CTnFWODhDVmk1cFJjZ1I3YU02bFBEQ3F2a3dEN1dHVWxHMnM?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxNR2x4dXNDV2lVQnlLcFQyMmx6ZkQ3S1BlZlVYR01YcnJkemd0UXRseGhoS1hEaFRvam1JRTFJTjFURUdHWFRBZEs0Rks5MWZxOThvVDZZRl9IMVNvWnRSd2JHdERMM0E3SWFITXVhNXREdlJpZldqVklMSl9XaWJocU5jUngtMDFVVEFvd0hBak0ycmRpaU8yMm9yWjNrSXpPUHMtT2hiWkhWWU",
-   "source": "n-tv.de",
-   "date": "2026-11-23T17:45:00.000Z",
-   "fee": null,
-   "clubs": [
-    "BVB",
-    "Manchester United"
-   ],
-   "tags": [
-    "Gerücht"
    ]
   },
   {
@@ -338,17 +337,17 @@ window.FUPPES_DATA["transfers"] = {
    ]
   },
   {
-   "title": "Debatte um Jamal Musiala und den FC Bayern: Lothar Matthäus teilt Detail rund um die Vertragsverlängerung",
-   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNTGFVbUNJQUZxaVhfTXM2cUVTdmkwVmhTYVNCZWR5b2ltZWRCTndUak4ybUtCdFltSlhlMXJMY0ZvdkJIN1RqamlwS0pSTmdoTVBjcXVDb3lkMmo3QmxReGtyNVM4TmlISXhRaWdwVFU2M25HVTY3QVg4RktfOEFNT3o0MktPT2steWI3UEFsS1pXdElVS0hLSDk5SEd5UmhwZnV2bjBuUG1rVHpmcXdQLTNMbXF0V2N1MFY3MDFFVzR3UklXUXB3OVY1ZE04azlvOWx0Q0xNX3gyeVoyUEwtRnVGTUZ0VVZ4U0tsanZ5Szg?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxNTGFVbUNJQUZxaVhfTXM2cUVTdmkwVmhTYVNCZWR5b2ltZWRCTndUak4ybUtCdFltSlhlMXJMY0ZvdkJIN1RqamlwS0pSTmdoTVBjcXVDb3lkMmo3QmxReGtyNVM4TmlISXhRaWdwVFU2M25HVTY3QVg4RktfOEFNT3o0MktPT2steWI3UEFsS1pXdElVS0hLSDk5SEd5UmhwZnV2bjBuUG1rVH",
-   "source": "Sky.de",
-   "date": "2026-11-22T20:49:00.000Z",
+   "title": "Not-Transfers? Bosse des FC Bayern lassen aufhorchen",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPS3FvcFQ5em1HYmVodEp6R1hhck5jV1g0Mk5RRVpmd2REbUd0OFctd08yRWczVE9GNm91ZzhtbEV2R0hhdDl4Vlo2ZkxOZklTcHBuNFhIRlVqbnczanZfMGctckd3LUNNU3ZkX2loMjZjYUlpSzhHWkw2bXBYUGkwNmZZQmlPMTdzc1JaNXk2c0lpSzA?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPS3FvcFQ5em1HYmVodEp6R1hhck5jV1g0Mk5RRVpmd2REbUd0OFctd08yRWczVE9GNm91ZzhtbEV2R0hhdDl4Vlo2ZkxOZklTcHBuNFhIRlVqbnczanZfMGctckd3LUNNU3ZkX2loMjZjYUlpSzhHWkw2bXBYUGkwNmZZQmlPMTdzc1JaNXk2c0lpSzA?oc=5\" target=\"_blank\">Not-Tran",
+   "source": "sport.de",
+   "date": "2026-11-23T06:53:00.000Z",
    "fee": null,
    "clubs": [
     "Bayern"
    ],
    "tags": [
-    "Vertrag"
+    "Gerücht"
    ]
   },
   {
