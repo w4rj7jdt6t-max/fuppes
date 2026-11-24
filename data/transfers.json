@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T19:14:17.176Z",
+ "updated": "2026-11-24T21:07:04.890Z",
  "rules": {
   "minFeeMio": 20,
   "topClubs": [
@@ -42,6 +42,50 @@
   ]
  },
  "items": [
+  {
+   "title": "Als es zwischen dem BVB und Amoroso eskalierte - Sogar die FIFA war im Spiel",
+   "link": "https://www.transfermarkt.de/als-es-zwischen-dem-bvb-und-amoroso-eskalierte-echte-diva-quot-verweigerte-ruckkehr/view/news/491169",
+   "summary": "Transferverhandlungen k&ouml;nnen z&auml;h, langwierig und voller Stolpersteine sein. Profis wollen ihren Wechsel zu ihrem Wunschklub mitunter erzwingen und nehmen daf&uuml;r reichlich &Auml;rger...",
+   "source": "Transfermarkt",
+   "date": "2026-11-24T20:30:00.000Z",
+   "fee": null,
+   "clubs": [
+    "BVB"
+   ],
+   "tags": [
+    "Transfer"
+   ]
+  },
+  {
+   "title": "Tor und Vorlage: Tottenham belohnt Matchwinner Williams-Barnett mit neuem Vertrag",
+   "link": "https://www.transfermarkt.de/tor-und-vorlage-tottenham-belohnt-matchwinner-williams-barnett-mit-neuem-vertrag/view/news/491177",
+   "summary": "Tottenham Hotspur hat den Vertrag mit Eigengew&auml;chs Luca Williams-Barnett verl&auml;ngert. Der 18-J&auml;hrige, der in den vergangenen Wochen einen traumhaften Start in der Premier League...",
+   "source": "Transfermarkt",
+   "date": "2026-11-24T19:31:35.000Z",
+   "fee": null,
+   "clubs": [
+    "Tottenham"
+   ],
+   "tags": [
+    "Vertrag"
+   ]
+  },
+  {
+   "title": "BVB und VfB Stuttgart im Transferduell?",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOeTltZVJQMzJSVFBrNzhDX25CRDJjem16alFTdUx0RFhRelB0M3kteGszZHBnaUZYSXVsU1Y0dWhTajM5WVpkRldZaE9CVFJudHY5OGg0WnFlRDhlR2k0My11QkpKUmJSYmd0XzN0bkFOQW5kZmJEOFVRUEpHUEZPRjBB?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxOeTltZVJQMzJSVFBrNzhDX25CRDJjem16alFTdUx0RFhRelB0M3kteGszZHBnaUZYSXVsU1Y0dWhTajM5WVpkRldZaE9CVFJudHY5OGg0WnFlRDhlR2k0My11QkpKUmJSYmd0XzN0bkFOQW5kZmJEOFVRUEpHUEZPRjBB?oc=5\" target=\"_blank\">BVB und VfB Stuttgart im Transf",
+   "source": "sport.de",
+   "date": "2026-11-24T18:55:00.000Z",
+   "fee": null,
+   "clubs": [
+    "BVB",
+    "Stuttgart",
+    "VfB"
+   ],
+   "tags": [
+    "Gerücht"
+   ]
+  },
   {
    "title": "Guirassy spricht über BVB-Verlängerung und Ballon d’Or",
    "link": "https://www.transfermarkt.de/guirassy-unter-besten-sturmern-auf-platz-4-oder-5-quot-kann-sich-bvb-verlangerung-vorstellen/view/news/491173",
@@ -126,6 +170,34 @@
    ],
    "tags": [
     "Gerücht"
+   ]
+  },
+  {
+   "title": "Beispiel Adeyemi? BVB-Star spricht über Wechselgedanken",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNelBLSzV6R1FCNjEzTlZkeWpsN3lhMlJkZ0RaZWVnN01tYkVwOF9CM2pzWnFXQkcyWVJDR1htRl84MXdaS2xlRTRJeFctamRKOWtwMWpENmk1aFpCUzM1ZUItTXFNN0VnWEFQWERtT3FNbEFWNFFDWkdNRWE2c2UwRTBHc0gxWEhRLVk3SjhlLUk4RE15?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNelBLSzV6R1FCNjEzTlZkeWpsN3lhMlJkZ0RaZWVnN01tYkVwOF9CM2pzWnFXQkcyWVJDR1htRl84MXdaS2xlRTRJeFctamRKOWtwMWpENmk1aFpCUzM1ZUItTXFNN0VnWEFQWERtT3FNbEFWNFFDWkdNRWE2c2UwRTBHc0gxWEhRLVk3SjhlLUk4RE15?oc=5\" target=\"_blank\">Beispie",
+   "source": "fussballdaten.de",
+   "date": "2026-11-24T10:10:00.000Z",
+   "fee": null,
+   "clubs": [
+    "BVB"
+   ],
+   "tags": [
+    "Gerücht"
+   ]
+  },
+  {
+   "title": "Situation um BVB-Transferziel Luca Williams-Barnett klärt sich",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNS3JJXy1RZnppdEFWRVQ0V09YZkppVDI0bGwzeXhVTnlCTGw5UjQzZGFGRUNldmVJdHVLYXlCTmN2SGlGbFJOWDF4MWR6OHF1QnExcDN1akhMakpSLVJjaTRUWDdWUmxsbWVqYkc3OGpMdkQ0V3ZOaHFLcU04bkN0UzBpZU15bkRiSkN6UktiUUpydnZqWXdLVGtLWQ?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNS3JJXy1RZnppdEFWRVQ0V09YZkppVDI0bGwzeXhVTnlCTGw5UjQzZGFGRUNldmVJdHVLYXlCTmN2SGlGbFJOWDF4MWR6OHF1QnExcDN1akhMakpSLVJjaTRUWDdWUmxsbWVqYkc3OGpMdkQ0V3ZOaHFLcU04bkN0UzBpZU15bkRiSkN6UktiUUpydnZqWXdLVGtLWQ?oc=5\" target=\"_blan",
+   "source": "fussballdaten.de",
+   "date": "2026-11-24T09:44:00.000Z",
+   "fee": null,
+   "clubs": [
+    "BVB"
+   ],
+   "tags": [
+    "Transfer"
    ]
   },
   {
@@ -311,81 +383,6 @@
    "tags": [
     "Gerücht",
     "Vertrag"
-   ]
-  },
-  {
-   "title": "Transfer-Ticker: FC Bayern in Wettbieten verwickelt?",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONW9kS0NTQjNkNXFMb0I5NkJiZ1NoNGdZUldrVkR1MDI3d2N6Z3BLaUVGOUVzR2M0V3NXcWkwWUFLVHFRX0dXZXNYNWsyMTFiNTZPRUJscjRoLWZmeXMzUUFlcVhfY3VhNk5RR25aQ0FWZVN4Zjh4LXotUVRuYng1TE83YlZkRm9YVENBRUdjRlgtUQ?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxONW9kS0NTQjNkNXFMb0I5NkJiZ1NoNGdZUldrVkR1MDI3d2N6Z3BLaUVGOUVzR2M0V3NXcWkwWUFLVHFRX0dXZXNYNWsyMTFiNTZPRUJscjRoLWZmeXMzUUFlcVhfY3VhNk5RR25aQ0FWZVN4Zjh4LXotUVRuYng1TE83YlZkRm9YVENBRUdjRlgtUQ?oc=5\" target=\"_blank\">Transfer-",
-   "source": "sport.de",
-   "date": "2026-11-23T14:39:00.000Z",
-   "fee": null,
-   "clubs": [
-    "Bayern"
-   ],
-   "tags": [
-    "Gerücht"
-   ]
-  },
-  {
-   "title": "Markus Krösche vor Wechsel zur AC Mailand: Einigung um Millionen-Ablöse mit Eintracht Frankfurt erzielt",
-   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPcF9QMUU3akxmcm9ZNkFQX2VqODJRb2RKa2hWempYZUtsRmdlSDdsV3NfbHpfLVJUT1ptdWdlRkpZNzdtWHFGWnRZcGxJTThYeWpjZ2I0dkNaNWYtQU1KQ1lOQy05LUo0aWJHQ25TQ2hNUUhKQTJGQkpKV2xLTDlXelRXTTVTWUpFVTZqR2MwaXcyMEtkN2d0UEMzUGFZcjBNZm1jTHM5a04xOEhxVnlHUTZScC1FS3UzWm1mTWoxRWtuaTJFUTlpOG1mcUxuc3NaV0gtR2s4YkZlOWh4ZnM4eEQ2QjJ6UGx5QlU3NWZR?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxPcF9QMUU3akxmcm9ZNkFQX2VqODJRb2RKa2hWempYZUtsRmdlSDdsV3NfbHpfLVJUT1ptdWdlRkpZNzdtWHFGWnRZcGxJTThYeWpjZ2I0dkNaNWYtQU1KQ1lOQy05LUo0aWJHQ25TQ2hNUUhKQTJGQkpKV2xLTDlXelRXTTVTWUpFVTZqR2MwaXcyMEtkN2d0UEMzUGFZcjBNZm1jTHM5a04xOE",
-   "source": "Sky.de",
-   "date": "2026-11-23T13:38:00.000Z",
-   "fee": null,
-   "clubs": [
-    "Eintracht Frankfurt",
-    "Frankfurt",
-    "AC Mailand"
-   ],
-   "tags": [
-    "Transfer"
-   ]
-  },
-  {
-   "title": "Eintracht Frankfurt: Mini-Ablöse für Joti Chatzialexiou",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPai1XQnllMDFIbjYxZU0xY1p5U2ZlT2J2ZzBoOVFWbDFyRllxMkFWcnpqa1NnLVZXblUtRTA4QTZFVHNSeFlaLXppR0tHVnBDQVB0Ylhab1JlU0tzZzJDb2hldlhTVUEtbi1kWHkwODJaX2QzUFQ3WG5BcGgzSXpCQmlyV0ZEQjVHWWNibWF4WnpERUxIdDUwLXRBSXA?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPai1XQnllMDFIbjYxZU0xY1p5U2ZlT2J2ZzBoOVFWbDFyRllxMkFWcnpqa1NnLVZXblUtRTA4QTZFVHNSeFlaLXppR0tHVnBDQVB0Ylhab1JlU0tzZzJDb2hldlhTVUEtbi1kWHkwODJaX2QzUFQ3WG5BcGgzSXpCQmlyV0ZEQjVHWWNibWF4WnpERUxIdDUwLXRBSXA?oc=5\" target=\"_bla",
-   "source": "Fussball Transfers",
-   "date": "2026-11-23T13:31:00.000Z",
-   "fee": null,
-   "clubs": [
-    "Eintracht Frankfurt",
-    "Frankfurt"
-   ],
-   "tags": [
-    "Transfer"
-   ]
-  },
-  {
-   "title": "Fünf Millionen für die Eintracht: Milan macht Krösche-Wechsel klar",
-   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNQU1jQ3BWSEVjUEpSUk90MUdhWncxWDFVTzN6MnBxY0tzMFJiYnRpcVh2SVdCdmlhUkFHbkVfZGJaYXRzSFd5NkxmZ0VTekVKY1RlVFZLV1c1Y0ZnUk8ydjBNdmRtZDZhRmZxX2p1aGdtQTM0R1E0WHVOZVBDeEJtd1F6OThLLUpCLWVySTYxbzBRTmQ1dWhtTjZ1Q051UnFpNGFkWnRncXBXVWRidjM3ZTVlMENfTGE5d2JJYW5QWWdQQ2xJeWpsUGVkeFJKZzdrenV3Wk9CWnNSSnltVE5OVVFFakpJVE9FN2xsYVI1MmMxQQ?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxNQU1jQ3BWSEVjUEpSUk90MUdhWncxWDFVTzN6MnBxY0tzMFJiYnRpcVh2SVdCdmlhUkFHbkVfZGJaYXRzSFd5NkxmZ0VTekVKY1RlVFZLV1c1Y0ZnUk8ydjBNdmRtZDZhRmZxX2p1aGdtQTM0R1E0WHVOZVBDeEJtd1F6OThLLUpCLWVySTYxbzBRTmQ1dWhtTjZ1Q051UnFpNGFkWnRncXBXVW",
-   "source": "n-tv.de",
-   "date": "2026-11-23T13:20:00.000Z",
-   "fee": null,
-   "clubs": [
-    "Milan"
-   ],
-   "tags": [
-    "Transfer"
-   ]
-  },
-  {
-   "title": "Transfer-Knall? FC Bayern prüft angeblich Deal mit DFB-Star von Eintracht Frankfurt",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOLXg3cDQ3UTUtSEVOMWRGRDJFMjN5UTd1MEF4MFZfaDJZVzlhUUJfalFjdFRISFg3YWJHR1M4QzlLTUJrTXBYelZqUWpMNVRGaE9EZ21NdzNQb1NXNEtjaVctVmQta1F1U3FBbXVBWjBCWktseWI2WEE3T1Z2R3U5QWNrSi1HU09jVFJETExjdGU1VDRrb2R3ZTBoVC1nWlNiVGdkcEt4a3VsNG9CTmttR3EwNHlhcXU5QmU4cTZ3?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxOLXg3cDQ3UTUtSEVOMWRGRDJFMjN5UTd1MEF4MFZfaDJZVzlhUUJfalFjdFRISFg3YWJHR1M4QzlLTUJrTXBYelZqUWpMNVRGaE9EZ21NdzNQb1NXNEtjaVctVmQta1F1U3FBbXVBWjBCWktseWI2WEE3T1Z2R3U5QWNrSi1HU09jVFJETExjdGU1VDRrb2R3ZTBoVC1nWlNiVGdkcEt4a3VsNG",
-   "source": "sport.de",
-   "date": "2026-11-23T13:06:00.000Z",
-   "fee": null,
-   "clubs": [
-    "Bayern",
-    "Eintracht Frankfurt",
-    "Frankfurt"
-   ],
-   "tags": [
-    "Gerücht"
    ]
   }
  ]

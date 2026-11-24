@@ -1,6 +1,6 @@
 window.FUPPES_DATA = window.FUPPES_DATA || {};
 window.FUPPES_DATA["tv"] = {
- "updated": "2026-11-24T19:14:18.516Z",
+ "updated": "2026-11-24T21:07:05.971Z",
  "matches": [
   {
    "matchID": 83252,
@@ -34,8 +34,16 @@ window.FUPPES_DATA["tv"] = {
    "kick": "2026-11-24T20:00:00Z",
    "team1": "FC Arsenal",
    "team2": "Borussia Dortmund",
-   "channels": [],
-   "evidence": [],
+   "channels": [
+    "Prime Video"
+   ],
+   "evidence": [
+    {
+     "title": "Arsenal Dortmund live streamen: Heute Champions League live bei Amazon Prime",
+     "source": "dslweb",
+     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTUhMUEo4U0lIb1ZIb2VwZkd0dkhQOGdFNWd4clB3b1lUSlloZmU3ekg2MUtuYzh6VmhXMk5RTC00VXhMZ0gyMHpkZUJ0MzltbmJ3NEl5WFJWSHJXWWJwcVJEby1iLUN6QlV4TTB2UHNMUndUTUdQN1JESHliNC1lMGxFYThFQVJ0NWRFRHU2YU5DaGY4bHltVlZEbklRek9pcDIzekZZSU1vVXByaFE?oc=5"
+    }
+   ],
    "kicker": null
   },
   {
