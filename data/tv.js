@@ -1,6 +1,6 @@
 window.FUPPES_DATA = window.FUPPES_DATA || {};
 window.FUPPES_DATA["tv"] = {
- "updated": "2026-11-24T11:05:48.232Z",
+ "updated": "2026-11-24T13:30:22.288Z",
  "matches": [
   {
    "matchID": 83252,
@@ -51,6 +51,11 @@ window.FUPPES_DATA["tv"] = {
      "title": "RB Leipzig - RC Lens live ► Die Übertragung der Champions League auf DAZN ✅",
      "source": "DAZN",
      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMDRrUFBISWl5VnhxY0h5MkwxYWZJc1AzbGVrMkxlUk9CMzNDanJlcmQwRUVNdHQ4ZDNmeHRzN2R4VXpVTDlhM1FadVhfeTU0U25WcjZhYVNPNEtDaW9TV0pwc0NnLURRelBtZ3RCSG5uM1NGRVlHbGE1QTBJXzBaS3k3R1MzWWxlMWlFdjJDdU9GVnp4b1dFSUJYUVV3QVNuc2ZjeEo3aHZxdnhhMUNEclB3aTU0c1Fwbkp0Um40ZDliemV1MWFkel9xQUFwYlhQci1DbA?oc=5"
+    },
+    {
+     "title": "DAZN oder Amazon: Wo läuft RB Leipzig gegen RC Lens live?",
+     "source": "DAZN",
+     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOR3JCZDhsZ0pjX1UxOU1XNjdwcmVGbTBPTks5ejFJWW93eUctbU5SQmJfUm1oaTZvZjRrTWdSUG14THVjWGxrdm4zLTVtcW96Q0d2Ml84cjFodEstbGg1NGxZQ0xYd2U2SkhGMS1kZE1pald3c2NERGVOM0ZucFZNdUdwWmY3T3ZHVXdXeVFEUWhkcEFXSXlpN25FT1BkTlVDUzI4d3NLcGwtNF9GUmFZMlg2WWVaWUw4TDRsNXl3?oc=5"
     },
     {
      "title": "RB Leipzig - Lens Live Stream | Jetzt Anmelden | DAZN DE",

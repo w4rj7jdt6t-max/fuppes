@@ -1,6 +1,6 @@
 window.FUPPES_DATA = window.FUPPES_DATA || {};
 window.FUPPES_DATA["transfers"] = {
- "updated": "2026-11-24T11:05:47.145Z",
+ "updated": "2026-11-24T13:30:21.066Z",
  "rules": {
   "minFeeMio": 20,
   "topClubs": [
@@ -44,6 +44,49 @@ window.FUPPES_DATA["transfers"] = {
  },
  "items": [
   {
+   "title": "Winter-Transfer ein Thema? Neue Wirtz-Gerüchte rund um den FC Bayern",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRGZETkcyVmt6VFZ3cnVsdFNlcnY0cE40TGoybXZyU2FnbVM5eVhmWlg0Y2hCNURLc252WVVQSkNVNF9sdmpBbjBuaWluQjVpeFVUTDZBRU1uUWF1c1BnSExWT0dRcU9Lbkt3NmFqQzR0LWpFRnZ3aGp0UDRKaGRvSGR5MlhoUGIwaHRPNnc4MFQtOEp0SWpzbjM2Rm1QaXdtbzYtZXMxa0FFZw?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRGZETkcyVmt6VFZ3cnVsdFNlcnY0cE40TGoybXZyU2FnbVM5eVhmWlg0Y2hCNURLc252WVVQSkNVNF9sdmpBbjBuaWluQjVpeFVUTDZBRU1uUWF1c1BnSExWT0dRcU9Lbkt3NmFqQzR0LWpFRnZ3aGp0UDRKaGRvSGR5MlhoUGIwaHRPNnc4MFQtOEp0SWpzbjM2Rm1QaXdtbzYtZXMxa0FFZw",
+   "source": "sport.de",
+   "date": "2026-11-24T12:58:00.000Z",
+   "fee": null,
+   "clubs": [
+    "Bayern"
+   ],
+   "tags": [
+    "Gerücht"
+   ]
+  },
+  {
+   "title": "Ex-Barcelona-Spieler im Visier von PSG – mögliche Ablöse: 60 Millionen Euro",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZk92OFc2V1VVdGVXUmtsUVE0cUc0eVlMQnJPX1VJaVpzV3QwOUZvb0NFMDFBeGFkVF92ZUZsWXJWSHJzbWY5R2Z4cjdGeHB1eHNOY3F5bVlFdkxTOVZSRUV6QjNKZWpMb2YyV09XendvLXpGbHR4b2V1TThVYzdKSW91bWxlbE5vVVBELWJDRU9kT0NocXBtMFR0WXVUSUppMFdrOA?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNZk92OFc2V1VVdGVXUmtsUVE0cUc0eVlMQnJPX1VJaVpzV3QwOUZvb0NFMDFBeGFkVF92ZUZsWXJWSHJzbWY5R2Z4cjdGeHB1eHNOY3F5bVlFdkxTOVZSRUV6QjNKZWpMb2YyV09XendvLXpGbHR4b2V1TThVYzdKSW91bWxlbE5vVVBELWJDRU9kT0NocXBtMFR0WXVUSUppMFdrOA?oc=5\" t",
+   "source": "fussballdaten.de",
+   "date": "2026-11-24T12:48:00.000Z",
+   "fee": 60,
+   "clubs": [
+    "Barcelona",
+    "PSG"
+   ],
+   "tags": [
+    "Transfer"
+   ]
+  },
+  {
+   "title": "PSG-Haltung zu Vinícius-Transfer durchgesickert",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNnJiazNPM0xPeGlGd0d6OGk2SHZRQk5EVF9TZmw5N0pYamdSSGkyTDQxVllRYWZRZHlwdGM5N2xfRHhtV0hJYTc1V3h2MWFDclNuODdpOU9WdTBwUkhqbHUycjVxSHE2TzlKVWtMcFdld2d5UC0wcnFwLTdMSGJEUGJpZXY1T1ZvbFE?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNNnJiazNPM0xPeGlGd0d6OGk2SHZRQk5EVF9TZmw5N0pYamdSSGkyTDQxVllRYWZRZHlwdGM5N2xfRHhtV0hJYTc1V3h2MWFDclNuODdpOU9WdTBwUkhqbHUycjVxSHE2TzlKVWtMcFdld2d5UC0wcnFwLTdMSGJEUGJpZXY1T1ZvbFE?oc=5\" target=\"_blank\">PSG-Haltung zu Viníc",
+   "source": "fussballdaten.de",
+   "date": "2026-11-24T12:38:00.000Z",
+   "fee": null,
+   "clubs": [
+    "PSG"
+   ],
+   "tags": [
+    "Transfer"
+   ]
+  },
+  {
    "title": "Bayern-Star im Visier von PSG – Kommt es zum Blitz-Transfer?",
    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNUpObFQyOTBMNkd3R1U1aU9yU2VraVdRUmVLa3FQeEF6RVJweEQwaTZpVlBhaVktUkh4UDNYZzZPVHJXeXRRVUFLNGpyUVg4RzlmbEZQMTFzQXZEM1JBeW40ZWd1dFpyeVJnd1lQZTdTMDNWc1k4MDVYZ3FuSW5KQVkzYVZORG40?oc=5",
    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNUpObFQyOTBMNkd3R1U1aU9yU2VraVdRUmVLa3FQeEF6RVJweEQwaTZpVlBhaVktUkh4UDNYZzZPVHJXeXRRVUFLNGpyUVg4RzlmbEZQMTFzQXZEM1JBeW40ZWd1dFpyeVJnd1lQZTdTMDNWc1k4MDVYZ3FuSW5KQVkzYVZORG40?oc=5\" target=\"_blank\">Bayern-Star im Visier v",
@@ -53,20 +96,6 @@ window.FUPPES_DATA["transfers"] = {
    "clubs": [
     "Bayern",
     "PSG"
-   ],
-   "tags": [
-    "Gerücht"
-   ]
-  },
-  {
-   "title": "Beispiel Adeyemi? BVB-Star spricht über Wechselgedanken",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNelBLSzV6R1FCNjEzTlZkeWpsN3lhMlJkZ0RaZWVnN01tYkVwOF9CM2pzWnFXQkcyWVJDR1htRl84MXdaS2xlRTRJeFctamRKOWtwMWpENmk1aFpCUzM1ZUItTXFNN0VnWEFQWERtT3FNbEFWNFFDWkdNRWE2c2UwRTBHc0gxWEhRLVk3SjhlLUk4RE15?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNelBLSzV6R1FCNjEzTlZkeWpsN3lhMlJkZ0RaZWVnN01tYkVwOF9CM2pzWnFXQkcyWVJDR1htRl84MXdaS2xlRTRJeFctamRKOWtwMWpENmk1aFpCUzM1ZUItTXFNN0VnWEFQWERtT3FNbEFWNFFDWkdNRWE2c2UwRTBHc0gxWEhRLVk3SjhlLUk4RE15?oc=5\" target=\"_blank\">Beispie",
-   "source": "fussballdaten.de",
-   "date": "2026-11-24T10:10:00.000Z",
-   "fee": null,
-   "clubs": [
-    "BVB"
    ],
    "tags": [
     "Gerücht"
@@ -243,22 +272,6 @@ window.FUPPES_DATA["transfers"] = {
    ]
   },
   {
-   "title": "Musiala und die Lage beim FC Bayern: Wer zahlt bei Verletzungen das Gehalt?",
-   "link": "https://www.transfermarkt.de/musiala-und-die-millionenfrage-wer-zahlt-wenn-fussballprofis-lange-ausfallen-/view/news/491107",
-   "summary": "Der Fall Jamal Musiala sorgt seit Tagen f&uuml;r kontroverse Diskussionen beim FC Bayern und im deutschen Fu&szlig;ball. Rund anderthalb Jahre nach seiner Vertragsverl&auml;ngerung hat der...",
-   "source": "Transfermarkt",
-   "date": "2026-11-23T16:24:43.000Z",
-   "fee": null,
-   "clubs": [
-    "Bayern"
-   ],
-   "tags": [
-    "Gerücht",
-    "Vertrag",
-    "Personal"
-   ]
-  },
-  {
    "title": "Baumann zum FC Bayern? Hoffenheim-Boss öffnet Tür für Transfer",
    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOT29lRlNhYjJqb0huWVJUY1ZWbGVwbkYyaWh2bFE2NG96V2pwMXpBT0VlcHZTLTZqWXMtcmlqOGJfQkc1TnY5Skg2TFA0UHY2R2NvcU84cFNzTXhMN1puMktpWFJ5NHFNQWVOeDlWUGlNSWl2N0hmUHNucWNEYVNZQW5oUzZxWl9VRFdtemE0aFI4dHdK?oc=5",
    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOT29lRlNhYjJqb0huWVJUY1ZWbGVwbkYyaWh2bFE2NG96V2pwMXpBT0VlcHZTLTZqWXMtcmlqOGJfQkc1TnY5Skg2TFA0UHY2R2NvcU84cFNzTXhMN1puMktpWFJ5NHFNQWVOeDlWUGlNSWl2N0hmUHNucWNEYVNZQW5oUzZxWl9VRFdtemE0aFI4dHdK?oc=5\" target=\"_blank\">Baumann",
@@ -371,20 +384,6 @@ window.FUPPES_DATA["transfers"] = {
     "Bayern",
     "Eintracht Frankfurt",
     "Frankfurt"
-   ],
-   "tags": [
-    "Gerücht"
-   ]
-  },
-  {
-   "title": "Fußball-Transfergerüchte heute: Bayern im Rennen um City-Verteidiger? Real-Vorteil bei Haaland?",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ETWMyUmphUWtRZEo2T1ROa2U4RnBuTmVYQUtKT3VTeXFRXzk1X2RhNW1VUVVqSW9IQjE2VkRsOWpyZDBCekdCbjIxUTFYQkxMbUhVcTlsWDduYXJobmoydEZWbkZFZWx2SkxadTBMSlQ?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE9ETWMyUmphUWtRZEo2T1ROa2U4RnBuTmVYQUtKT3VTeXFRXzk1X2RhNW1VUVVqSW9IQjE2VkRsOWpyZDBCekdCbjIxUTFYQkxMbUhVcTlsWDduYXJobmoydEZWbkZFZWx2SkxadTBMSlQ?oc=5\" target=\"_blank\">Fußball-Transfergerüchte heute: Bayern im Rennen um City",
-   "source": "90min.de",
-   "date": "2026-11-23T08:05:44.000Z",
-   "fee": null,
-   "clubs": [
-    "Bayern"
    ],
    "tags": [
     "Gerücht"
