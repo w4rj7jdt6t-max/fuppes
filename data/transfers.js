@@ -1,6 +1,6 @@
 window.FUPPES_DATA = window.FUPPES_DATA || {};
 window.FUPPES_DATA["transfers"] = {
- "updated": "2026-11-24T05:20:59.056Z",
+ "updated": "2026-11-24T07:35:28.137Z",
  "rules": {
   "minFeeMio": 20,
   "topClubs": [
@@ -43,6 +43,34 @@ window.FUPPES_DATA["transfers"] = {
   ]
  },
  "items": [
+  {
+   "title": "BVB kassiert krachende Transfer-Absage",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNTV9na0pLcHg2ZjVKMXRSZzVUVkNnQU11WUNJbTNwbkdOeFkyMmJiZTVya1gxSmxvY1djWTB6aDdYN3lhMmp2YTNqbjY5XzJpZDY5ZnplNVhnMWJLNUE5YnZVaFljN3NkaXV5djNiZVVJam13NGpLV1BwaC1lRTNBT1F3?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNTV9na0pLcHg2ZjVKMXRSZzVUVkNnQU11WUNJbTNwbkdOeFkyMmJiZTVya1gxSmxvY1djWTB6aDdYN3lhMmp2YTNqbjY5XzJpZDY5ZnplNVhnMWJLNUE5YnZVaFljN3NkaXV5djNiZVVJam13NGpLV1BwaC1lRTNBT1F3?oc=5\" target=\"_blank\">BVB kassiert krachende Transfer",
+   "source": "sport.de",
+   "date": "2026-11-24T06:50:00.000Z",
+   "fee": null,
+   "clubs": [
+    "BVB"
+   ],
+   "tags": [
+    "Transfer"
+   ]
+  },
+  {
+   "title": "Not-Transfers beim FC Bayern? Das sagt Eberl",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdVJDOS10RUZUZkxnVHlRTXNEbE9yRmc0MWVHeldSQUZRa3NPX1pCUHhldzZLT1JhSWhDellTMGNYTHRhdndncno4WlNOck5UWmNkZHdDeDhIaGlCRnZaQmU5REhTaVc0SDh5RHdRYjVDN01oeWRwdUZWWGxVY25PTy15bWpsMklJ?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdVJDOS10RUZUZkxnVHlRTXNEbE9yRmc0MWVHeldSQUZRa3NPX1pCUHhldzZLT1JhSWhDellTMGNYTHRhdndncno4WlNOck5UWmNkZHdDeDhIaGlCRnZaQmU5REhTaVc0SDh5RHdRYjVDN01oeWRwdUZWWGxVY25PTy15bWpsMklJ?oc=5\" target=\"_blank\">Not-Transfers beim FC B",
+   "source": "sport.de",
+   "date": "2026-11-24T06:13:00.000Z",
+   "fee": null,
+   "clubs": [
+    "Bayern"
+   ],
+   "tags": [
+    "Gerücht"
+   ]
+  },
   {
    "title": "FC Bayern, News: Spektakulärer Transfer von Oliver Baumann? Hoffenheim-Boss öffnet die Tür",
    "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOT1dzOEl5Vmxva0lnZGp3ZUxGcy1lMks5NTZEV25aOXBXOXdFNTRrZ2xLVDdlUk1tRE5MNmRGWk80WFdCWG9zN3lEM21KdlU3ZGhMS0YzYUVNamI4UHhWdlNRbkdDVHM5SVpWb0Rja010T2xxaFJzRVE0cXdla0xiNzkwcFI2QlJUQ3ppN1NQeVlCcVdhTUcwb083cDlwNjQ2b0w4ZkhzSUhBRnk3SXhRZlBfQVhQUF9henlhSXlNeFRBb2xSQzJvY0RCSUZYcFZhMEJQNXdaTVE3SnpzZWlONjQ0dkd5VGZtdDE0cE1GbTQ?oc=5",
@@ -127,20 +155,6 @@ window.FUPPES_DATA["transfers"] = {
    ],
    "tags": [
     "Gerücht"
-   ]
-  },
-  {
-   "title": "Max Eberl lässt Winter-Transfers beim FC Bayern offen",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOaF9iOTBKOHd1ZndaeGdpeFRGTldCb2tGQno1eFRUTllQdl9VcmMwXzBYYmxZUmNxOHVEcWhFNWZnN19ja1ZlMmcxam44eENzRXdwb1lwUHV2QzBJbEE1Qzk4d3FCd0JYQXZ0LXg3T2VOTEdCeUlUQ1RKRmtCODY2VmZJRG5QSU0ySTk4?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOaF9iOTBKOHd1ZndaeGdpeFRGTldCb2tGQno1eFRUTllQdl9VcmMwXzBYYmxZUmNxOHVEcWhFNWZnN19ja1ZlMmcxam44eENzRXdwb1lwUHV2QzBJbEE1Qzk4d3FCd0JYQXZ0LXg3T2VOTEdCeUlUQ1RKRmtCODY2VmZJRG5QSU0ySTk4?oc=5\" target=\"_blank\">Max Eberl lässt Win",
-   "source": "sport.de",
-   "date": "2026-11-23T17:45:00.000Z",
-   "fee": null,
-   "clubs": [
-    "Bayern"
-   ],
-   "tags": [
-    "Transfer"
    ]
   },
   {
@@ -337,39 +351,11 @@ window.FUPPES_DATA["transfers"] = {
    ]
   },
   {
-   "title": "Not-Transfers? Bosse des FC Bayern lassen aufhorchen",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPS3FvcFQ5em1HYmVodEp6R1hhck5jV1g0Mk5RRVpmd2REbUd0OFctd08yRWczVE9GNm91ZzhtbEV2R0hhdDl4Vlo2ZkxOZklTcHBuNFhIRlVqbnczanZfMGctckd3LUNNU3ZkX2loMjZjYUlpSzhHWkw2bXBYUGkwNmZZQmlPMTdzc1JaNXk2c0lpSzA?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPS3FvcFQ5em1HYmVodEp6R1hhck5jV1g0Mk5RRVpmd2REbUd0OFctd08yRWczVE9GNm91ZzhtbEV2R0hhdDl4Vlo2ZkxOZklTcHBuNFhIRlVqbnczanZfMGctckd3LUNNU3ZkX2loMjZjYUlpSzhHWkw2bXBYUGkwNmZZQmlPMTdzc1JaNXk2c0lpSzA?oc=5\" target=\"_blank\">Not-Tran",
-   "source": "sport.de",
-   "date": "2026-11-23T06:53:00.000Z",
-   "fee": null,
-   "clubs": [
-    "Bayern"
-   ],
-   "tags": [
-    "Gerücht"
-   ]
-  },
-  {
-   "title": "Holt der FC Bayern München ein ehemaliges Torwart-Talent zurück?",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOcUh1UXRBb0thaXdOWE5nMEtJaDhHR2ViTW5HeVlXZG4tQTI3TnA0cmkxN2lmSjBPT3ZqN2RTeElKOW1jc3BDSUJad2lOTlEtOFpmVGJmRGZGSEEtdWY5V3hyUmF3Q201ZkxNaGJheGF6OXRFWmpiWXhMT09ZTjFLeHh3ZEhNUUV3QkYyTGdsaHRNd19WRlZJ?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOcUh1UXRBb0thaXdOWE5nMEtJaDhHR2ViTW5HeVlXZG4tQTI3TnA0cmkxN2lmSjBPT3ZqN2RTeElKOW1jc3BDSUJad2lOTlEtOFpmVGJmRGZGSEEtdWY5V3hyUmF3Q201ZkxNaGJheGF6OXRFWmpiWXhMT09ZTjFLeHh3ZEhNUUV3QkYyTGdsaHRNd19WRlZJ?oc=5\" target=\"_blank\">Hol",
-   "source": "fussballdaten.de",
-   "date": "2026-11-22T19:25:00.000Z",
-   "fee": null,
-   "clubs": [
-    "Bayern"
-   ],
-   "tags": [
-    "Gerücht"
-   ]
-  },
-  {
-   "title": "Karius äußert sich zu Bayern-Gerüchten",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORDUzbWtEVG1tLW13eERuZ0VmeGowN0VNeHg3OGZ0ZVMxblBCUTlZaWFST254d3JJSGVNY2RmbGV3WkxiRlFseGpWUVhvakRMUHJ1U19sMDAzazVKUjQza3Y0RHZhSDZXSmxuc3lOTFRuRTM2UnUyMnJqRGZGRkZLdzQzX3l3UXczenZVcThPR1UybVNRbTByZQ?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxORDUzbWtEVG1tLW13eERuZ0VmeGowN0VNeHg3OGZ0ZVMxblBCUTlZaWFST254d3JJSGVNY2RmbGV3WkxiRlFseGpWUVhvakRMUHJ1U19sMDAzazVKUjQza3Y0RHZhSDZXSmxuc3lOTFRuRTM2UnUyMnJqRGZGRkZLdzQzX3l3UXczenZVcThPR1UybVNRbTByZQ?oc=5\" target=\"_blank\">K",
-   "source": "Kicker",
-   "date": "2026-11-22T14:25:00.000Z",
+   "title": "Keine Reaktion auf Kane-Schock?: Der FC Bayern will nur sehr ungern neue Spieler verpflichten",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRGQ5TUdnbEg5WEljZDB0bzZjLVE0dTFvSjhrdTJBMnE0NW5FazFON1ZJTExyeXpGUlZsNE42YWc1N0tNRko3VkljNGIzQVBKLVNnRWNTcF9nVEVBaE9QV0pCMlJwVDJ5QUUxeFUyb0NVTUxJX1VKb3h3MmMyX2tlRXhxQTBIV3hjbGhtVFVzOWE5WUk3TzhBR2VSeWxFOWs1eVpvZjI5S0ctT3FKbmFUUQ?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPRGQ5TUdnbEg5WEljZDB0bzZjLVE0dTFvSjhrdTJBMnE0NW5FazFON1ZJTExyeXpGUlZsNE42YWc1N0tNRko3VkljNGIzQVBKLVNnRWNTcF9nVEVBaE9QV0pCMlJwVDJ5QUUxeFUyb0NVTUxJX1VKb3h3MmMyX2tlRXhxQTBIV3hjbGhtVFVzOWE5WUk3TzhBR2VSeWxFOWs1eVpvZjI5S0ctT3",
+   "source": "n-tv.de",
+   "date": "2026-11-23T04:50:36.000Z",
    "fee": null,
    "clubs": [
     "Bayern"
@@ -390,6 +376,21 @@ window.FUPPES_DATA["transfers"] = {
    ],
    "tags": [
     "Transfer"
+   ]
+  },
+  {
+   "title": "Fußball-Transfergerüchte heute: Musiala vor Bayern-Flucht? Kane-Ersatz aus Spanien? 4 Top-Klubs heiß auf BVB-Star",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBHR3JuWlBkWVBvSEVtZ2NESndwaFFoVzFSVTA5QWxxSm9kRXpVVUpIUXYxaUJSanpGX2EtQlY0VEZYVFBRc0RTRFVKLXZ4WTVqVThzX0xHanVSeXFUS2FVRmZmVU1vZExIWndpOXNEdUg?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFBHR3JuWlBkWVBvSEVtZ2NESndwaFFoVzFSVTA5QWxxSm9kRXpVVUpIUXYxaUJSanpGX2EtQlY0VEZYVFBRc0RTRFVKLXZ4WTVqVThzX0xHanVSeXFUS2FVRmZmVU1vZExIWndpOXNEdUg?oc=5\" target=\"_blank\">Fußball-Transfergerüchte heute: Musiala vor Bayern-Fluch",
+   "source": "90min.de",
+   "date": "2026-11-22T12:48:03.000Z",
+   "fee": null,
+   "clubs": [
+    "Bayern",
+    "BVB"
+   ],
+   "tags": [
+    "Gerücht"
    ]
   }
  ]
