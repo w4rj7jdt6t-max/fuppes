@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T15:16:47.067Z",
+ "updated": "2026-11-24T17:13:56.530Z",
  "matches": [
   {
    "matchID": 83252,
@@ -112,8 +112,16 @@
    "kick": "2026-11-26T20:00:00Z",
    "team1": "TSG Hoffenheim",
    "team2": "SK Puntigamer Sturm Graz",
-   "channels": [],
-   "evidence": [],
+   "channels": [
+    "RTL"
+   ],
+   "evidence": [
+    {
+     "title": "TSG Hoffenheim gegen SK Sturm Graz: Europa League live auf RTL+",
+     "source": "RTL.de",
+     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWEFOeGRPVUhBN3g3MXlXbTRCM3JicEtPUEdNdXFuX1JtdDlDcU40YUVUOEg2ZWI1ZVE1cGpjTW1WRWRMWHhndFVvbTRaT25NNjZoZnpsNDhpU0NaUTFfSEFZY2pOaTdUTHd6VzVNU0p0b1BYUnhJOG9YR2t6U1R6b3Q1dkRlMHFJanlCb3NiLUZ4Q1ZwcndwUHpfNHRwOHMtVWVSMkFGVnpDRVY5SVZmMWZoanhGSjVUdFRUVElnaThyRlE?oc=5"
+    }
+   ],
    "kicker": null
   },
   {
