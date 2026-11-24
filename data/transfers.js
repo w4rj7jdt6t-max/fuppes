@@ -1,6 +1,6 @@
 window.FUPPES_DATA = window.FUPPES_DATA || {};
 window.FUPPES_DATA["transfers"] = {
- "updated": "2026-11-24T09:22:38.072Z",
+ "updated": "2026-11-24T11:05:47.145Z",
  "rules": {
   "minFeeMio": 20,
   "topClubs": [
@@ -44,6 +44,91 @@ window.FUPPES_DATA["transfers"] = {
  },
  "items": [
   {
+   "title": "Bayern-Star im Visier von PSG – Kommt es zum Blitz-Transfer?",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNUpObFQyOTBMNkd3R1U1aU9yU2VraVdRUmVLa3FQeEF6RVJweEQwaTZpVlBhaVktUkh4UDNYZzZPVHJXeXRRVUFLNGpyUVg4RzlmbEZQMTFzQXZEM1JBeW40ZWd1dFpyeVJnd1lQZTdTMDNWc1k4MDVYZ3FuSW5KQVkzYVZORG40?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNUpObFQyOTBMNkd3R1U1aU9yU2VraVdRUmVLa3FQeEF6RVJweEQwaTZpVlBhaVktUkh4UDNYZzZPVHJXeXRRVUFLNGpyUVg4RzlmbEZQMTFzQXZEM1JBeW40ZWd1dFpyeVJnd1lQZTdTMDNWc1k4MDVYZ3FuSW5KQVkzYVZORG40?oc=5\" target=\"_blank\">Bayern-Star im Visier v",
+   "source": "fussballdaten.de",
+   "date": "2026-11-24T10:39:00.000Z",
+   "fee": null,
+   "clubs": [
+    "Bayern",
+    "PSG"
+   ],
+   "tags": [
+    "Gerücht"
+   ]
+  },
+  {
+   "title": "Beispiel Adeyemi? BVB-Star spricht über Wechselgedanken",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNelBLSzV6R1FCNjEzTlZkeWpsN3lhMlJkZ0RaZWVnN01tYkVwOF9CM2pzWnFXQkcyWVJDR1htRl84MXdaS2xlRTRJeFctamRKOWtwMWpENmk1aFpCUzM1ZUItTXFNN0VnWEFQWERtT3FNbEFWNFFDWkdNRWE2c2UwRTBHc0gxWEhRLVk3SjhlLUk4RE15?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNelBLSzV6R1FCNjEzTlZkeWpsN3lhMlJkZ0RaZWVnN01tYkVwOF9CM2pzWnFXQkcyWVJDR1htRl84MXdaS2xlRTRJeFctamRKOWtwMWpENmk1aFpCUzM1ZUItTXFNN0VnWEFQWERtT3FNbEFWNFFDWkdNRWE2c2UwRTBHc0gxWEhRLVk3SjhlLUk4RE15?oc=5\" target=\"_blank\">Beispie",
+   "source": "fussballdaten.de",
+   "date": "2026-11-24T10:10:00.000Z",
+   "fee": null,
+   "clubs": [
+    "BVB"
+   ],
+   "tags": [
+    "Gerücht"
+   ]
+  },
+  {
+   "title": "Zuletzt beim FC Bayern: Voitsberg verpflichtet vereinslosen Rüger",
+   "link": "https://www.transfermarkt.de/zuletzt-bei-bayern-voitsberg-verpflichtet-vereinslosen-u17-weltmeister-ruger/view/news/491137",
+   "summary": "Zweitliga-Aufsteiger ASK Voitsberg hat am Montagabend einen Neuzugang pr&auml;sentiert: Kurt R&uuml;ger wechselt in die Steiermark. Der 20 Jahre alte Deutsche war zuletzt vereinslos, nachdem sein...",
+   "source": "Transfermarkt",
+   "date": "2026-11-24T10:03:47.000Z",
+   "fee": null,
+   "clubs": [
+    "Bayern"
+   ],
+   "tags": [
+    "Fix"
+   ]
+  },
+  {
+   "title": "Situation um BVB-Transferziel Luca Williams-Barnett klärt sich",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNS3JJXy1RZnppdEFWRVQ0V09YZkppVDI0bGwzeXhVTnlCTGw5UjQzZGFGRUNldmVJdHVLYXlCTmN2SGlGbFJOWDF4MWR6OHF1QnExcDN1akhMakpSLVJjaTRUWDdWUmxsbWVqYkc3OGpMdkQ0V3ZOaHFLcU04bkN0UzBpZU15bkRiSkN6UktiUUpydnZqWXdLVGtLWQ?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNS3JJXy1RZnppdEFWRVQ0V09YZkppVDI0bGwzeXhVTnlCTGw5UjQzZGFGRUNldmVJdHVLYXlCTmN2SGlGbFJOWDF4MWR6OHF1QnExcDN1akhMakpSLVJjaTRUWDdWUmxsbWVqYkc3OGpMdkQ0V3ZOaHFLcU04bkN0UzBpZU15bkRiSkN6UktiUUpydnZqWXdLVGtLWQ?oc=5\" target=\"_blan",
+   "source": "fussballdaten.de",
+   "date": "2026-11-24T09:44:00.000Z",
+   "fee": null,
+   "clubs": [
+    "BVB"
+   ],
+   "tags": [
+    "Transfer"
+   ]
+  },
+  {
+   "title": "BVB kassiert Transfer-Absage",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE56bVdWekk2c3FKcjAxQnh5OE0xRm52UnVXeERaQkZPWXUyWjNCdlBWc1dlOVkwN0QzZFhxOTVTTXQzYW42N3k2TmdaakVrODNwNUgzbm5LLTZBcUNhNENYSUpTTmt0SEM5M0pxM3FLM0tsamRD?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE56bVdWekk2c3FKcjAxQnh5OE0xRm52UnVXeERaQkZPWXUyWjNCdlBWc1dlOVkwN0QzZFhxOTVTTXQzYW42N3k2TmdaakVrODNwNUgzbm5LLTZBcUNhNENYSUpTTmt0SEM5M0pxM3FLM0tsamRD?oc=5\" target=\"_blank\">BVB kassiert Transfer-Absage</a>&nbsp;&nbsp;<font c",
+   "source": "sport.de",
+   "date": "2026-11-24T09:36:00.000Z",
+   "fee": null,
+   "clubs": [
+    "BVB"
+   ],
+   "tags": [
+    "Transfer"
+   ]
+  },
+  {
+   "title": "Brisantes Detail im Musiala-Vertrag veröffentlicht",
+   "link": "https://www.kicker.de/brisantes-detail-im-musiala-vertrag-veroeffentlicht-1274498/artikel#omrss",
+   "summary": "Der Fall Jamal Musiala beschäftigt den FC Bayern. Nun berichtet der \"Stern\" über ein brisantes Detail aus dem Vertrag des 23-Jährigen - in Bezug auf die Lohnfortzahlung.",
+   "source": "kicker",
+   "date": "2026-11-24T09:26:52.000Z",
+   "fee": null,
+   "clubs": [
+    "Bayern"
+   ],
+   "tags": [
+    "Vertrag"
+   ]
+  },
+  {
    "title": "Fußball-Transfergerüchte heute: BVB-Star als Barça-Hauptziel – Alter Bekannter als Kane-Ersatz?",
    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBLMF9YVjQwdnQxbU1heTZsdVVHWXZzRW84T0stbHNRT0pTT3dRY3FsR2lwem5XeEZMaWtqbUpBcXJaVWRpR2xpSzQ2UXpPTVR5NmRzazM4TzM1NEhwUXg5bTlCaWdDX2ZFdWYzSFI4UlQ?oc=5",
    "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFBLMF9YVjQwdnQxbU1heTZsdVVHWXZzRW84T0stbHNRT0pTT3dRY3FsR2lwem5XeEZMaWtqbUpBcXJaVWRpR2xpSzQ2UXpPTVR5NmRzazM4TzM1NEhwUXg5bTlCaWdDX2ZFdWYzSFI4UlQ?oc=5\" target=\"_blank\">Fußball-Transfergerüchte heute: BVB-Star als Barça-Haupt",
@@ -68,20 +153,6 @@ window.FUPPES_DATA["transfers"] = {
    "clubs": [
     "Bayern",
     "Real Madrid"
-   ],
-   "tags": [
-    "Transfer"
-   ]
-  },
-  {
-   "title": "BVB kassiert krachende Transfer-Absage",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNTV9na0pLcHg2ZjVKMXRSZzVUVkNnQU11WUNJbTNwbkdOeFkyMmJiZTVya1gxSmxvY1djWTB6aDdYN3lhMmp2YTNqbjY5XzJpZDY5ZnplNVhnMWJLNUE5YnZVaFljN3NkaXV5djNiZVVJam13NGpLV1BwaC1lRTNBT1F3?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNTV9na0pLcHg2ZjVKMXRSZzVUVkNnQU11WUNJbTNwbkdOeFkyMmJiZTVya1gxSmxvY1djWTB6aDdYN3lhMmp2YTNqbjY5XzJpZDY5ZnplNVhnMWJLNUE5YnZVaFljN3NkaXV5djNiZVVJam13NGpLV1BwaC1lRTNBT1F3?oc=5\" target=\"_blank\">BVB kassiert krachende Transfer",
-   "source": "sport.de",
-   "date": "2026-11-24T06:50:00.000Z",
-   "fee": null,
-   "clubs": [
-    "BVB"
    ],
    "tags": [
     "Transfer"
@@ -116,20 +187,6 @@ window.FUPPES_DATA["transfers"] = {
    ]
   },
   {
-   "title": "Wie James Bond: Carlos Espi ist Reals Geheimwaffe",
-   "link": "https://www.kicker.de/wie-james-bond-carlos-espi-ist-reals-geheimwaffe-1273835/artikel#omrss",
-   "summary": "Schon zum dritten Mal war Carlos Espi der Matchwinner für Real Madrid, diesmal gegen Vigo und erstmals im Bernabeu. Der 21-jährige Neuzugang dürfte aber weiterhin Edeljoker bleiben.",
-   "source": "kicker",
-   "date": "2026-11-23T21:33:04.000Z",
-   "fee": null,
-   "clubs": [
-    "Real Madrid"
-   ],
-   "tags": [
-    "Fix"
-   ]
-  },
-  {
    "title": "BVB: Books einziger Transferflop",
    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOV1hPMWo1OWpyVUZGNU42WVhQbDg0cWt5MDBRUFR0ZlBfcy0wOEdXSEI2NWQyM25GMlVvdGVZejZGSVMwcGZid2Y3VVhYTktBendPVE5VaEZsTlRmSjF0MVBsY2wyUzVhU0hIa2JSOTF6dHFzaEdQcjNCMjQyU1FISnFCWVZzMkdyUlVsUnJzcw?oc=5",
    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxOV1hPMWo1OWpyVUZGNU42WVhQbDg0cWt5MDBRUFR0ZlBfcy0wOEdXSEI2NWQyM25GMlVvdGVZejZGSVMwcGZid2Y3VVhYTktBendPVE5VaEZsTlRmSjF0MVBsY2wyUzVhU0hIa2JSOTF6dHFzaEdQcjNCMjQyU1FISnFCWVZzMkdyUlVsUnJzcw?oc=5\" target=\"_blank\">BVB: Books ei",
@@ -158,7 +215,7 @@ window.FUPPES_DATA["transfers"] = {
    ]
   },
   {
-   "title": "FC Bayern denkt offenbar über sensationellen Winter-Transfer von Choupo-Moting nach",
+   "title": "FC Bayern denkt offenbar über sensationellen Winter-Transfer nach",
    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUHVxWkJNNUU2MGtyMXgzWHdOWS00Y2FrWVI3VUhHTkQxV3IyQjQzRk5IOE00VnhyMS1sZFdKakZZZG4zR3Z0TjRveUh0U1Y4djJEejYycmd3TGF0cmJiM0YyYjVqRW1VMVhoUHhlRFpyOWFRNDEwQ05oLXdrQlN2VjgwZ2IyTHRmLThTMHNLUmZVYTR1ZVpvRWtHZHo5MTFvYWpsRWF6NW4xYnJtczdfaTZySUpfOFdRRXdhSkhn?oc=5",
    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxOUHVxWkJNNUU2MGtyMXgzWHdOWS00Y2FrWVI3VUhHTkQxV3IyQjQzRk5IOE00VnhyMS1sZFdKakZZZG4zR3Z0TjRveUh0U1Y4djJEejYycmd3TGF0cmJiM0YyYjVqRW1VMVhoUHhlRFpyOWFRNDEwQ05oLXdrQlN2VjgwZ2IyTHRmLThTMHNLUmZVYTR1ZVpvRWtHZHo5MTFvYWpsRWF6NW4xYn",
    "source": "SPOX.com",
@@ -227,6 +284,21 @@ window.FUPPES_DATA["transfers"] = {
    ],
    "tags": [
     "Transfer"
+   ]
+  },
+  {
+   "title": "Vertragsverlängerung: Spielt Liverpool beim Weltmeister auf Zeit?",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUkZGRUtkWVpWcFVwdlUyTWJtRGdSMVB3ZXl0dWVKVE5QcUJ0bTJHVXF2V1hMNEdpblM2eVQzUFFFZkVWUDRRWGdTUDUteEE3LXNVUkdsd0RGbXNWd05udlhlSllPTV9GdGIxUUpROWdhRU1LcFRIZng1WHBWUVN2ck5kenhlblhv?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUkZGRUtkWVpWcFVwdlUyTWJtRGdSMVB3ZXl0dWVKVE5QcUJ0bTJHVXF2V1hMNEdpblM2eVQzUFFFZkVWUDRRWGdTUDUteEE3LXNVUkdsd0RGbXNWd05udlhlSllPTV9GdGIxUUpROWdhRU1LcFRIZng1WHBWUVN2ck5kenhlblhv?oc=5\" target=\"_blank\">Vertragsverlängerung: S",
+   "source": "fussballdaten.de",
+   "date": "2026-11-23T15:05:00.000Z",
+   "fee": null,
+   "clubs": [
+    "Liverpool"
+   ],
+   "tags": [
+    "Gerücht",
+    "Vertrag"
    ]
   },
   {
@@ -305,89 +377,14 @@ window.FUPPES_DATA["transfers"] = {
    ]
   },
   {
-   "title": "Krösche-Deal mit Milan fix: Frankfurt kassiert kräftig ab",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxON1FESVFjdWd1dWJGdWpzQThkdkpraVJBaEpxYlNZeFFsQm94alhCRURhcGV4Sm1WZXhsNDFOYy14aFRPZWx1OXhMY0RkM2NCVkNjLVJmbVp2cHhYdlE0R0JCSjRQWDRLbFJRUV9SWnNBTkRZMHRHOHlOTWdjdjBHMVdSdGpCY3dqX0kxYmFHWQ?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxON1FESVFjdWd1dWJGdWpzQThkdkpraVJBaEpxYlNZeFFsQm94alhCRURhcGV4Sm1WZXhsNDFOYy14aFRPZWx1OXhMY0RkM2NCVkNjLVJmbVp2cHhYdlE0R0JCSjRQWDRLbFJRUV9SWnNBTkRZMHRHOHlOTWdjdjBHMVdSdGpCY3dqX0kxYmFHWQ?oc=5\" target=\"_blank\">Krösche-Deal ",
-   "source": "fussballdaten.de",
-   "date": "2026-11-23T12:15:00.000Z",
-   "fee": null,
-   "clubs": [
-    "Frankfurt",
-    "Milan"
-   ],
-   "tags": [
-    "Transfer"
-   ]
-  },
-  {
-   "title": "Eintracht Frankfurt: Wechsel von Krösche zur AC Milan vor Abschluss – Millionenablöse",
-   "link": "https://www.transfermarkt.de/-bild-quot-wechsel-von-krosche-zur-ac-milan-vor-abschluss-frankfurt-erhalt-millionenablose/view/news/491092",
-   "summary": "Lange wurde gemunkelt, nun steht der Wechsel von Eintracht Frankfurts fr&uuml;herem Sportvorstand Markus Kr&ouml;sche zur AC Mailand offenbar vor dem Abschluss. Der &bdquo;Bild&ldquo; zufolge soll...",
-   "source": "Transfermarkt",
-   "date": "2026-11-23T11:55:55.000Z",
-   "fee": null,
-   "clubs": [
-    "Eintracht Frankfurt",
-    "Frankfurt",
-    "AC Mailand",
-    "Milan"
-   ],
-   "tags": [
-    "Transfer"
-   ]
-  },
-  {
-   "title": "Wirtz-Transfer zum FC Bayern: Mitspieler verrät großen Wunsch",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSDJZQ21UejRhdG9rUHFBSnppMm1VenBnUjdzcGF1MnM1RkFCZllQQUwwME1EaWo0TDlvOVlickZia2hqTE9rc0VJWTRfWHRIMDVTLTZzejJQTFlhSGRSenZzLXB4V3NqU2RXWnZWeXVZODdhMWVUclJHb1NucFYzLUNDOWJUTlpBMEdhZnJmVE94NHRVc3paWg?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQSDJZQ21UejRhdG9rUHFBSnppMm1VenBnUjdzcGF1MnM1RkFCZllQQUwwME1EaWo0TDlvOVlickZia2hqTE9rc0VJWTRfWHRIMDVTLTZzejJQTFlhSGRSenZzLXB4V3NqU2RXWnZWeXVZODdhMWVUclJHb1NucFYzLUNDOWJUTlpBMEdhZnJmVE94NHRVc3paWg?oc=5\" target=\"_blank\">W",
-   "source": "fussballdaten.de",
-   "date": "2026-11-23T07:54:00.000Z",
+   "title": "Fußball-Transfergerüchte heute: Bayern im Rennen um City-Verteidiger? Real-Vorteil bei Haaland?",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ETWMyUmphUWtRZEo2T1ROa2U4RnBuTmVYQUtKT3VTeXFRXzk1X2RhNW1VUVVqSW9IQjE2VkRsOWpyZDBCekdCbjIxUTFYQkxMbUhVcTlsWDduYXJobmoydEZWbkZFZWx2SkxadTBMSlQ?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE9ETWMyUmphUWtRZEo2T1ROa2U4RnBuTmVYQUtKT3VTeXFRXzk1X2RhNW1VUVVqSW9IQjE2VkRsOWpyZDBCekdCbjIxUTFYQkxMbUhVcTlsWDduYXJobmoydEZWbkZFZWx2SkxadTBMSlQ?oc=5\" target=\"_blank\">Fußball-Transfergerüchte heute: Bayern im Rennen um City",
+   "source": "90min.de",
+   "date": "2026-11-23T08:05:44.000Z",
    "fee": null,
    "clubs": [
     "Bayern"
-   ],
-   "tags": [
-    "Transfer"
-   ]
-  },
-  {
-   "title": "Keine Reaktion auf Kane-Schock?: Der FC Bayern will nur sehr ungern neue Spieler verpflichten",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRGQ5TUdnbEg5WEljZDB0bzZjLVE0dTFvSjhrdTJBMnE0NW5FazFON1ZJTExyeXpGUlZsNE42YWc1N0tNRko3VkljNGIzQVBKLVNnRWNTcF9nVEVBaE9QV0pCMlJwVDJ5QUUxeFUyb0NVTUxJX1VKb3h3MmMyX2tlRXhxQTBIV3hjbGhtVFVzOWE5WUk3TzhBR2VSeWxFOWs1eVpvZjI5S0ctT3FKbmFUUQ?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPRGQ5TUdnbEg5WEljZDB0bzZjLVE0dTFvSjhrdTJBMnE0NW5FazFON1ZJTExyeXpGUlZsNE42YWc1N0tNRko3VkljNGIzQVBKLVNnRWNTcF9nVEVBaE9QV0pCMlJwVDJ5QUUxeFUyb0NVTUxJX1VKb3h3MmMyX2tlRXhxQTBIV3hjbGhtVFVzOWE5WUk3TzhBR2VSeWxFOWs1eVpvZjI5S0ctT3",
-   "source": "n-tv.de",
-   "date": "2026-11-23T04:50:36.000Z",
-   "fee": null,
-   "clubs": [
-    "Bayern"
-   ],
-   "tags": [
-    "Gerücht"
-   ]
-  },
-  {
-   "title": "Winter-Transfernöte in München: Warum jetzt ausgerechnet der BVB zittern muss",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTU95SjBZazF0NzFUY25YRmJzM1B0cHZwc2lVTUVHSjZwMU5kZVROZ28wOWtZMXpObzRWZjIzQmltNllELXlQdGxBQUkyaGNhZzhnTFdOOEdiRHRhdk92M2dHSURRSlNlbFRzODRub09RM3BqX2pKSm1panAzZUF1bE5UeVozZ2tCUmtJTkxpa09kWXByeHJDYXhqYzBiUQ?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNTU95SjBZazF0NzFUY25YRmJzM1B0cHZwc2lVTUVHSjZwMU5kZVROZ28wOWtZMXpObzRWZjIzQmltNllELXlQdGxBQUkyaGNhZzhnTFdOOEdiRHRhdk92M2dHSURRSlNlbFRzODRub09RM3BqX2pKSm1panAzZUF1bE5UeVozZ2tCUmtJTkxpa09kWXByeHJDYXhqYzBiUQ?oc=5\" target=\"_",
-   "source": "90min.de",
-   "date": "2026-11-22T14:23:41.000Z",
-   "fee": null,
-   "clubs": [
-    "BVB"
-   ],
-   "tags": [
-    "Transfer"
-   ]
-  },
-  {
-   "title": "Fußball-Transfergerüchte heute: Musiala vor Bayern-Flucht? Kane-Ersatz aus Spanien? 4 Top-Klubs heiß auf BVB-Star",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBHR3JuWlBkWVBvSEVtZ2NESndwaFFoVzFSVTA5QWxxSm9kRXpVVUpIUXYxaUJSanpGX2EtQlY0VEZYVFBRc0RTRFVKLXZ4WTVqVThzX0xHanVSeXFUS2FVRmZmVU1vZExIWndpOXNEdUg?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFBHR3JuWlBkWVBvSEVtZ2NESndwaFFoVzFSVTA5QWxxSm9kRXpVVUpIUXYxaUJSanpGX2EtQlY0VEZYVFBRc0RTRFVKLXZ4WTVqVThzX0xHanVSeXFUS2FVRmZmVU1vZExIWndpOXNEdUg?oc=5\" target=\"_blank\">Fußball-Transfergerüchte heute: Musiala vor Bayern-Fluch",
-   "source": "90min.de",
-   "date": "2026-11-22T12:48:03.000Z",
-   "fee": null,
-   "clubs": [
-    "Bayern",
-    "BVB"
    ],
    "tags": [
     "Gerücht"

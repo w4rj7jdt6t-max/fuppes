@@ -1,23 +1,24 @@
 window.FUPPES_DATA = window.FUPPES_DATA || {};
 window.FUPPES_DATA["news-fc"] = {
- "updated": "2026-11-24T09:22:36.470Z",
+ "updated": "2026-11-24T11:05:45.366Z",
  "items": [
   {
-   "title": "Verletzung im Training! FC-Profi fällt „vorerst“ aus",
-   "link": "https://geissblog.koeln/2026/11/verletzung-im-training-fc-profi-faellt-vorerst-aus/",
-   "summary": "Der 1. FC Köln muss in den kommenden Wochen auf Alessio Castro-Montes verzichten. Für den Außenverteidiger könnte das Fußballjahr aufgrund einer Wadenverletzung vorzeitig beendet sein.... Der Beitrag Verletzung im Training! FC-Profi fällt „vorerst“ aus erschien zuerst auf GEISSBL",
-   "source": "GEISSBLOG",
-   "date": "2026-11-24T08:54:43.000Z",
+   "title": "FC-Lazarett: Stürmer vor Comeback – Verteidiger nie mehr für Köln?",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNeGY4Q0Vnc0QxTnBjXzlKSWhEWkZvYjJYUmltdHM0Wmh6TGc3WkI2NTlPRC1TRWJrVTRfNXpmLWJNOW92ejJCbW5NWl9tS0dlS19vN1RfMVIxR2p6S3hvYTl1VFRfWWptVHIycksweUk3QW1iYnVKZko3cmtnZHpIWUxzVjkxaVdUSTFoRnZCbDBtQlZ1M1l1cm10OFBvQ0ZESW9TNnkwbEhqanY2R1dGamxoVjJDbi1EWTNkZVprMEM?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNeGY4Q0Vnc0QxTnBjXzlKSWhEWkZvYjJYUmltdHM0Wmh6TGc3WkI2NTlPRC1TRWJrVTRfNXpmLWJNOW92ejJCbW5NWl9tS0dlS19vN1RfMVIxR2p6S3hvYTl1VFRfWWptVHIycksweUk3QW1iYnVKZko3cmtnZHpIWUxzVjkxaVdUSTFoRnZCbDBtQlZ1M1l1cm10OFBvQ0ZESW9TNnkwbEhqan",
+   "source": "Express",
+   "date": "2026-11-24T10:52:57.000Z",
    "tags": [
+    "Gerücht",
     "Personal"
    ]
   },
   {
-   "title": "1. FC Köln: Verletzung im Training – FC-Profi fällt \"vorerst\" aus",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUjgzdGFFTzZoN29xcDNEQVl6bDhwNXczLWNDLWVxQlcyaDJHZnh3WHJTQndaLUoyZm5EaHJ1cHBRTloyMThLUkptZWxuZldJSEFiajVwVEhnVmpaUUtteGNROWxLY3BSclZrenF5OVAzWVhDQjY3S1JjTDhHX2F6em5GMmJLWXN3SHFv?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUjgzdGFFTzZoN29xcDNEQVl6bDhwNXczLWNDLWVxQlcyaDJHZnh3WHJTQndaLUoyZm5EaHJ1cHBRTloyMThLUkptZWxuZldJSEFiajVwVEhnVmpaUUtteGNROWxLY3BSclZrenF5OVAzWVhDQjY3S1JjTDhHX2F6em5GMmJLWXN3SHFv?oc=5\" target=\"_blank\">1. FC Köln: Verletz",
-   "source": "geissblog",
-   "date": "2026-11-24T08:54:00.000Z",
+   "title": "Verletzung im Training! Fußballjahr für FC-Profi beendet – Hoffen auf Duo",
+   "link": "https://geissblog.koeln/2026/11/verletzung-im-training-fc-profi-faellt-vorerst-aus/",
+   "summary": "Der 1. FC Köln muss in den kommenden Wochen auf Alessio Castro-Montes verzichten. Für den Außenverteidiger dürfte das Fußballjahr aufgrund einer Wadenverletzung vorzeitig beendet sein.... Der Beitrag Verletzung im Training! Fußballjahr für FC-Profi beendet – Hoffen auf Duo erschi",
+   "source": "GEISSBLOG",
+   "date": "2026-11-24T08:54:43.000Z",
    "tags": [
     "Personal"
    ]

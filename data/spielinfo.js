@@ -1,6 +1,6 @@
 window.FUPPES_DATA = window.FUPPES_DATA || {};
 window.FUPPES_DATA["spielinfo"] = {
- "updated": "2026-11-24T09:22:38.839Z",
+ "updated": "2026-11-24T11:05:47.680Z",
  "fc": [
   {
    "start": "2025-11-29T14:30:00.000Z",
@@ -1840,6 +1840,15 @@ window.FUPPES_DATA["spielinfo"] = {
   }
  ],
  "press": [
+  {
+   "who": "fc",
+   "id": "wYtdB3friYA",
+   "title": "Pressekonferenz vor Elversberg | 1. FC Köln",
+   "date": "2026-11-24T09:44:24+00:00",
+   "url": "https://www.youtube.com/watch?v=wYtdB3friYA",
+   "summary": "Der 1. FC Köln trifft am 11. Spieltag der Bundesliga-Saison 2026/27 auf die SV 07 Elversberg. Das Spiel findet am Samstag, 28. November 2026, um 15.30 Uhr im RheinEnergieSTADION statt. Im Vorfeld der Partie beantwortet Cheftrainer René Wagner in der Pressekonferenz am Donnerstag, 26. November 2026, um 13.30 Uhr die Fra",
+   "quotes": []
+  },
   {
    "who": "fc",
    "id": "BfVoD04xELg",
