@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T17:13:55.341Z",
+ "updated": "2026-11-24T19:14:17.176Z",
  "rules": {
   "minFeeMio": 20,
   "topClubs": [
@@ -43,20 +43,31 @@
  },
  "items": [
   {
-   "title": "Die CL-Tabelle, in der Bayern und der VfB perfekt dastehen - und Arsenal abrutscht",
-   "link": "https://www.kicker.de/die-cl-tabelle-in-der-bayern-und-der-vfb-perfekt-dastehen-und-arsenal-abrutscht-1274603/artikel#omrss",
-   "summary": "Wie sähe die Champions-League-Tabelle aus, wenn statt der tatsächlichen Tore die \"Expected Goals\" die Spiele entschieden hätten? Der BVB sollte vor dem Arsenal-Duell gewarnt sein.",
-   "source": "kicker",
-   "date": "2026-11-24T14:11:15.000Z",
+   "title": "Guirassy spricht über BVB-Verlängerung und Ballon d’Or",
+   "link": "https://www.transfermarkt.de/guirassy-unter-besten-sturmern-auf-platz-4-oder-5-quot-kann-sich-bvb-verlangerung-vorstellen/view/news/491173",
+   "summary": "Serhou Guirassy ist beim BVB wieder gl&uuml;cklich, das beteuert der Angreifer, dessen Vertrag bis 2028 l&auml;uft. Im Gespr&auml;ch mit der &bdquo;Bild&ldquo;-Zeitung verr&auml;t er, auf welcher...",
+   "source": "Transfermarkt",
+   "date": "2026-11-24T18:04:21.000Z",
    "fee": null,
    "clubs": [
-    "Bayern",
-    "BVB",
-    "VfB",
-    "Arsenal"
+    "BVB"
    ],
    "tags": [
-    "Fix"
+    "Vertrag"
+   ]
+  },
+  {
+   "title": "30-Millionen-Transfer: BVB wartet auf den Durchbruch",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQ3ZaVEJzMHRSVTd1RFBxQUFkbFhaRzhkdzY3cVhOZ3gyR2Q5UHl0U296MWt4ZE5MV21ORlZUN1k3cklDMDZVUjNuYS0tOTZsWm9nUk55TzVaOWNCSjkxODhhYndxcUxNSFFfQlUwS3BLVWI1by1naDFiUEwwQmpJRFBOWjg5UGVEU3RjeURmVTVobDZzVjJpQ1dyNUdNeUMyM3NVbURYbGU?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQ3ZaVEJzMHRSVTd1RFBxQUFkbFhaRzhkdzY3cVhOZ3gyR2Q5UHl0U296MWt4ZE5MV21ORlZUN1k3cklDMDZVUjNuYS0tOTZsWm9nUk55TzVaOWNCSjkxODhhYndxcUxNSFFfQlUwS3BLVWI1by1naDFiUEwwQmpJRFBOWjg5UGVEU3RjeURmVTVobDZzVjJpQ1dyNUdNeUMyM3NVbURYbGU?oc",
+   "source": "Fussball Transfers",
+   "date": "2026-11-24T17:07:48.000Z",
+   "fee": null,
+   "clubs": [
+    "BVB"
+   ],
+   "tags": [
+    "Transfer"
    ]
   },
   {
@@ -86,6 +97,20 @@
    ],
    "tags": [
     "Transfer"
+   ]
+  },
+  {
+   "title": "Van Dijk vor Abschied aus Liverpool – italienischer Gigant zeigt Interesse",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNb3dnRGdJc3dJd01fVWcyeXBCODdYU20wUXQ0ckZ3by0tdEZIZXdUekx2R01lSEphdGFhbGlEUGVQejZ1UlAyV2EtVWx1S3Nza193N0ZieTJ6cjI0R0dtZEJaNkVmVzV2NkNHMWdHR091VGpINnlvVWhkRDNOai1FN3NDVUl0Q3c0OTlRb0diOW43NFpxU2E5NGUyUEZ4dVd2Y1BpZWln?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNb3dnRGdJc3dJd01fVWcyeXBCODdYU20wUXQ0ckZ3by0tdEZIZXdUekx2R01lSEphdGFhbGlEUGVQejZ1UlAyV2EtVWx1S3Nza193N0ZieTJ6cjI0R0dtZEJaNkVmVzV2NkNHMWdHR091VGpINnlvVWhkRDNOai1FN3NDVUl0Q3c0OTlRb0diOW43NFpxU2E5NGUyUEZ4dVd2Y1BpZWln?oc=5\"",
+   "source": "fussballdaten.de",
+   "date": "2026-11-24T12:22:00.000Z",
+   "fee": null,
+   "clubs": [
+    "Liverpool"
+   ],
+   "tags": [
+    "Gerücht"
    ]
   },
   {
@@ -176,7 +201,7 @@
    ]
   },
   {
-   "title": "FC Bayern, News: Spektakulärer Transfer von Oliver Baumann? Hoffenheim-Boss öffnet die Tür",
+   "title": "FC Bayern, News und Gerüchte: Spektakulärer Transfer von Oliver Baumann? Hoffenheim-Boss öffnet die Tür",
    "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOT1dzOEl5Vmxva0lnZGp3ZUxGcy1lMks5NTZEV25aOXBXOXdFNTRrZ2xLVDdlUk1tRE5MNmRGWk80WFdCWG9zN3lEM21KdlU3ZGhMS0YzYUVNamI4UHhWdlNRbkdDVHM5SVpWb0Rja010T2xxaFJzRVE0cXdla0xiNzkwcFI2QlJUQ3ppN1NQeVlCcVdhTUcwb083cDlwNjQ2b0w4ZkhzSUhBRnk3SXhRZlBfQVhQUF9henlhSXlNeFRBb2xSQzJvY0RCSUZYcFZhMEJQNXdaTVE3SnpzZWlONjQ0dkd5VGZtdDE0cE1GbTQ?oc=5",
    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxOT1dzOEl5Vmxva0lnZGp3ZUxGcy1lMks5NTZEV25aOXBXOXdFNTRrZ2xLVDdlUk1tRE5MNmRGWk80WFdCWG9zN3lEM21KdlU3ZGhMS0YzYUVNamI4UHhWdlNRbkdDVHM5SVpWb0Rja010T2xxaFJzRVE0cXdla0xiNzkwcFI2QlJUQ3ppN1NQeVlCcVdhTUcwb083cDlwNjQ2b0w4ZkhzSUhBRn",
    "source": "SPOX.com",
@@ -361,35 +386,6 @@
    ],
    "tags": [
     "Gerücht"
-   ]
-  },
-  {
-   "title": "Krösche-Deal mit Milan fix: Frankfurt kassiert kräftig ab",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxON1FESVFjdWd1dWJGdWpzQThkdkpraVJBaEpxYlNZeFFsQm94alhCRURhcGV4Sm1WZXhsNDFOYy14aFRPZWx1OXhMY0RkM2NCVkNjLVJmbVp2cHhYdlE0R0JCSjRQWDRLbFJRUV9SWnNBTkRZMHRHOHlOTWdjdjBHMVdSdGpCY3dqX0kxYmFHWQ?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxON1FESVFjdWd1dWJGdWpzQThkdkpraVJBaEpxYlNZeFFsQm94alhCRURhcGV4Sm1WZXhsNDFOYy14aFRPZWx1OXhMY0RkM2NCVkNjLVJmbVp2cHhYdlE0R0JCSjRQWDRLbFJRUV9SWnNBTkRZMHRHOHlOTWdjdjBHMVdSdGpCY3dqX0kxYmFHWQ?oc=5\" target=\"_blank\">Krösche-Deal ",
-   "source": "fussballdaten.de",
-   "date": "2026-11-23T12:15:00.000Z",
-   "fee": null,
-   "clubs": [
-    "Frankfurt",
-    "Milan"
-   ],
-   "tags": [
-    "Transfer"
-   ]
-  },
-  {
-   "title": "Wirtz-Transfer zum FC Bayern: Mitspieler verrät großen Wunsch",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSDJZQ21UejRhdG9rUHFBSnppMm1VenBnUjdzcGF1MnM1RkFCZllQQUwwME1EaWo0TDlvOVlickZia2hqTE9rc0VJWTRfWHRIMDVTLTZzejJQTFlhSGRSenZzLXB4V3NqU2RXWnZWeXVZODdhMWVUclJHb1NucFYzLUNDOWJUTlpBMEdhZnJmVE94NHRVc3paWg?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQSDJZQ21UejRhdG9rUHFBSnppMm1VenBnUjdzcGF1MnM1RkFCZllQQUwwME1EaWo0TDlvOVlickZia2hqTE9rc0VJWTRfWHRIMDVTLTZzejJQTFlhSGRSenZzLXB4V3NqU2RXWnZWeXVZODdhMWVUclJHb1NucFYzLUNDOWJUTlpBMEdhZnJmVE94NHRVc3paWg?oc=5\" target=\"_blank\">W",
-   "source": "fussballdaten.de",
-   "date": "2026-11-23T07:54:00.000Z",
-   "fee": null,
-   "clubs": [
-    "Bayern"
-   ],
-   "tags": [
-    "Transfer"
    ]
   }
  ]
