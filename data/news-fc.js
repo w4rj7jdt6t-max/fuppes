@@ -1,7 +1,17 @@
 window.FUPPES_DATA = window.FUPPES_DATA || {};
 window.FUPPES_DATA["news-fc"] = {
- "updated": "2026-11-24T13:30:19.690Z",
+ "updated": "2026-11-24T15:16:44.421Z",
  "items": [
+  {
+   "title": "„Express“: Waldschmidt erwägt Abgang vom 1. FC Köln – Nur 44 Minuten Spielzeit",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdHpaU0sxeVlFamI0aHVzejF5aDBHY3V2bGl6YTQzQ1dIZDRrN0xBWDVrT0VDaVd3VHRyMmtUQUZwd2lYT1k5ejVpb25QZjl5YjdvYmI4QUQ4NUdlX3Nid29QWk5uTFVBZmktaF9ON18zWFlsM0ZxUkt3OWdKblNJM0R2NnRMQmtTQmZzd1hfT0tEektrWUIzV2wyb2tvZFZzZUw1Q2FNXzFxS0k2SmowVkVFUXJCaHJiXzVYb1RrcGJ6Zw?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdHpaU0sxeVlFamI0aHVzejF5aDBHY3V2bGl6YTQzQ1dIZDRrN0xBWDVrT0VDaVd3VHRyMmtUQUZwd2lYT1k5ejVpb25QZjl5YjdvYmI4QUQ4NUdlX3Nid29QWk5uTFVBZmktaF9ON18zWFlsM0ZxUkt3OWdKblNJM0R2NnRMQmtTQmZzd1hfT0tEektrWUIzV2wyb2tvZFZzZUw1Q2FNXzFxS0",
+   "source": "Transfermarkt",
+   "date": "2026-11-24T14:54:00.000Z",
+   "tags": [
+    "Transfer"
+   ]
+  },
   {
    "title": "Winter-Transfermarkt: Angebot für Waldschmidt – Köln sucht Mittelstürmer",
    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUVdYbzNhR3I1enlFWl9NRk9qSW5uR01XWW80aDMzZHJPcXVCSUpMZmtjSW5pQkMxZ3AxcVFXYWFTZHJEUHlRUlc3Y292Q2hsNVg3ZlhYQ196MXdoemJDbENXdFREYldJbEFqWkJkOWVlX1k4ajZRLTNfazFoVl8xYTNDZldVcnpnUEVQOUJnRkJEbzRmdXc?oc=5",
@@ -112,16 +122,6 @@ window.FUPPES_DATA["news-fc"] = {
    "date": "2026-11-23T17:45:00.000Z",
    "tags": [
     "Transfer"
-   ]
-  },
-  {
-   "title": "Nach unsanfter Landung in München: Kapitän Schwäbe pausiert zum Wochenstart",
-   "link": "https://geissblog.koeln/2026/11/nach-unsanfter-landung-in-muenchen-kapitaen-schwaebe-pausiert-zum-wochenstart-das-personalupdate/",
-   "summary": "Start in die Trainingswoche beim 1. FC Köln: Vor dem Heimspiel gegen die SV Elversberg fehlte am Montag Kapitän Marvin Schwäbe wegen Rückenproblemen. Der Coup... Der Beitrag Nach unsanfter Landung in München: Kapitän Schwäbe pausiert zum Wochenstart erschien zuerst auf GEISSBLOG ",
-   "source": "GEISSBLOG",
-   "date": "2026-11-23T10:22:42.000Z",
-   "tags": [
-    "Personal"
    ]
   },
   {

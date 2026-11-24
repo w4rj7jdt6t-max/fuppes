@@ -1,6 +1,6 @@
 window.FUPPES_DATA = window.FUPPES_DATA || {};
 window.FUPPES_DATA["transfers"] = {
- "updated": "2026-11-24T13:30:21.066Z",
+ "updated": "2026-11-24T15:16:45.858Z",
  "rules": {
   "minFeeMio": 20,
   "topClubs": [
@@ -43,6 +43,23 @@ window.FUPPES_DATA["transfers"] = {
   ]
  },
  "items": [
+  {
+   "title": "Die CL-Tabelle, in der Bayern und der VfB perfekt dastehen - und Arsenal abrutscht",
+   "link": "https://www.kicker.de/die-cl-tabelle-in-der-bayern-und-der-vfb-perfekt-dastehen-und-arsenal-abrutscht-1274603/artikel#omrss",
+   "summary": "Wie sähe die Champions-League-Tabelle aus, wenn statt der tatsächlichen Tore die \"Expected Goals\" die Spiele entschieden hätten? Der BVB sollte vor dem Arsenal-Duell gewarnt sein.",
+   "source": "kicker",
+   "date": "2026-11-24T14:11:15.000Z",
+   "fee": null,
+   "clubs": [
+    "Bayern",
+    "BVB",
+    "VfB",
+    "Arsenal"
+   ],
+   "tags": [
+    "Fix"
+   ]
+  },
   {
    "title": "Winter-Transfer ein Thema? Neue Wirtz-Gerüchte rund um den FC Bayern",
    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRGZETkcyVmt6VFZ3cnVsdFNlcnY0cE40TGoybXZyU2FnbVM5eVhmWlg0Y2hCNURLc252WVVQSkNVNF9sdmpBbjBuaWluQjVpeFVUTDZBRU1uUWF1c1BnSExWT0dRcU9Lbkt3NmFqQzR0LWpFRnZ3aGp0UDRKaGRvSGR5MlhoUGIwaHRPNnc4MFQtOEp0SWpzbjM2Rm1QaXdtbzYtZXMxa0FFZw?oc=5",
@@ -87,6 +104,20 @@ window.FUPPES_DATA["transfers"] = {
    ]
   },
   {
+   "title": "Van Dijk vor Abschied aus Liverpool – italienischer Gigant zeigt Interesse",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNb3dnRGdJc3dJd01fVWcyeXBCODdYU20wUXQ0ckZ3by0tdEZIZXdUekx2R01lSEphdGFhbGlEUGVQejZ1UlAyV2EtVWx1S3Nza193N0ZieTJ6cjI0R0dtZEJaNkVmVzV2NkNHMWdHR091VGpINnlvVWhkRDNOai1FN3NDVUl0Q3c0OTlRb0diOW43NFpxU2E5NGUyUEZ4dVd2Y1BpZWln?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNb3dnRGdJc3dJd01fVWcyeXBCODdYU20wUXQ0ckZ3by0tdEZIZXdUekx2R01lSEphdGFhbGlEUGVQejZ1UlAyV2EtVWx1S3Nza193N0ZieTJ6cjI0R0dtZEJaNkVmVzV2NkNHMWdHR091VGpINnlvVWhkRDNOai1FN3NDVUl0Q3c0OTlRb0diOW43NFpxU2E5NGUyUEZ4dVd2Y1BpZWln?oc=5\"",
+   "source": "fussballdaten.de",
+   "date": "2026-11-24T12:22:00.000Z",
+   "fee": null,
+   "clubs": [
+    "Liverpool"
+   ],
+   "tags": [
+    "Gerücht"
+   ]
+  },
+  {
    "title": "Bayern-Star im Visier von PSG – Kommt es zum Blitz-Transfer?",
    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNUpObFQyOTBMNkd3R1U1aU9yU2VraVdRUmVLa3FQeEF6RVJweEQwaTZpVlBhaVktUkh4UDNYZzZPVHJXeXRRVUFLNGpyUVg4RzlmbEZQMTFzQXZEM1JBeW40ZWd1dFpyeVJnd1lQZTdTMDNWc1k4MDVYZ3FuSW5KQVkzYVZORG40?oc=5",
    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNUpObFQyOTBMNkd3R1U1aU9yU2VraVdRUmVLa3FQeEF6RVJweEQwaTZpVlBhaVktUkh4UDNYZzZPVHJXeXRRVUFLNGpyUVg4RzlmbEZQMTFzQXZEM1JBeW40ZWd1dFpyeVJnd1lQZTdTMDNWc1k4MDVYZ3FuSW5KQVkzYVZORG40?oc=5\" target=\"_blank\">Bayern-Star im Visier v",
@@ -99,20 +130,6 @@ window.FUPPES_DATA["transfers"] = {
    ],
    "tags": [
     "Gerücht"
-   ]
-  },
-  {
-   "title": "Zuletzt beim FC Bayern: Voitsberg verpflichtet vereinslosen Rüger",
-   "link": "https://www.transfermarkt.de/zuletzt-bei-bayern-voitsberg-verpflichtet-vereinslosen-u17-weltmeister-ruger/view/news/491137",
-   "summary": "Zweitliga-Aufsteiger ASK Voitsberg hat am Montagabend einen Neuzugang pr&auml;sentiert: Kurt R&uuml;ger wechselt in die Steiermark. Der 20 Jahre alte Deutsche war zuletzt vereinslos, nachdem sein...",
-   "source": "Transfermarkt",
-   "date": "2026-11-24T10:03:47.000Z",
-   "fee": null,
-   "clubs": [
-    "Bayern"
-   ],
-   "tags": [
-    "Fix"
    ]
   },
   {
@@ -173,7 +190,7 @@ window.FUPPES_DATA["transfers"] = {
    ]
   },
   {
-   "title": "Real Madrid trifft Transfer-Entscheidung bei Bayern-Star Michal Olise",
+   "title": "Real Madrid trifft Transfer-Entscheidung bei Bayern-Star Michael Olise",
    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZjBGVFVNbDhRNldSYzVYSEpWclNEMlZ6dUs3MzByeFBrU1Ytd1FQQ3JNeDV2cV9sd1RSN2Nwczk4bFdNX0U0YVNwTGNOeDRVdXB5eUdjYzEzbEh2WHg3RjYySkJvdEhfVV9zeWNGNHZROFpaR1pqa05VeW5XeVJBREFPeHBmTkJHbHVNSHlmLVktRFFrVmZSZXdpYmhRWlVNd0E?oc=5",
    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOZjBGVFVNbDhRNldSYzVYSEpWclNEMlZ6dUs3MzByeFBrU1Ytd1FQQ3JNeDV2cV9sd1RSN2Nwczk4bFdNX0U0YVNwTGNOeDRVdXB5eUdjYzEzbEh2WHg3RjYySkJvdEhfVV9zeWNGNHZROFpaR1pqa05VeW5XeVJBREFPeHBmTkJHbHVNSHlmLVktRFFrVmZSZXdpYmhRWlVNd0E?oc=5\" targ",
    "source": "fussballdaten.de",
@@ -371,22 +388,6 @@ window.FUPPES_DATA["transfers"] = {
    ],
    "tags": [
     "Transfer"
-   ]
-  },
-  {
-   "title": "Transfer-Knall? FC Bayern prüft angeblich Deal mit DFB-Star von Eintracht Frankfurt",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOLXg3cDQ3UTUtSEVOMWRGRDJFMjN5UTd1MEF4MFZfaDJZVzlhUUJfalFjdFRISFg3YWJHR1M4QzlLTUJrTXBYelZqUWpMNVRGaE9EZ21NdzNQb1NXNEtjaVctVmQta1F1U3FBbXVBWjBCWktseWI2WEE3T1Z2R3U5QWNrSi1HU09jVFJETExjdGU1VDRrb2R3ZTBoVC1nWlNiVGdkcEt4a3VsNG9CTmttR3EwNHlhcXU5QmU4cTZ3?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxOLXg3cDQ3UTUtSEVOMWRGRDJFMjN5UTd1MEF4MFZfaDJZVzlhUUJfalFjdFRISFg3YWJHR1M4QzlLTUJrTXBYelZqUWpMNVRGaE9EZ21NdzNQb1NXNEtjaVctVmQta1F1U3FBbXVBWjBCWktseWI2WEE3T1Z2R3U5QWNrSi1HU09jVFJETExjdGU1VDRrb2R3ZTBoVC1nWlNiVGdkcEt4a3VsNG",
-   "source": "sport.de",
-   "date": "2026-11-23T13:06:00.000Z",
-   "fee": null,
-   "clubs": [
-    "Bayern",
-    "Eintracht Frankfurt",
-    "Frankfurt"
-   ],
-   "tags": [
-    "Gerücht"
    ]
   }
  ]
