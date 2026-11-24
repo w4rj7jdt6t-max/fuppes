@@ -1,6 +1,6 @@
 window.FUPPES_DATA = window.FUPPES_DATA || {};
 window.FUPPES_DATA["transfers"] = {
- "updated": "2026-11-24T07:35:28.137Z",
+ "updated": "2026-11-24T09:22:38.072Z",
  "rules": {
   "minFeeMio": 20,
   "topClubs": [
@@ -44,6 +44,36 @@ window.FUPPES_DATA["transfers"] = {
  },
  "items": [
   {
+   "title": "Fußball-Transfergerüchte heute: BVB-Star als Barça-Hauptziel – Alter Bekannter als Kane-Ersatz?",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBLMF9YVjQwdnQxbU1heTZsdVVHWXZzRW84T0stbHNRT0pTT3dRY3FsR2lwem5XeEZMaWtqbUpBcXJaVWRpR2xpSzQ2UXpPTVR5NmRzazM4TzM1NEhwUXg5bTlCaWdDX2ZFdWYzSFI4UlQ?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFBLMF9YVjQwdnQxbU1heTZsdVVHWXZzRW84T0stbHNRT0pTT3dRY3FsR2lwem5XeEZMaWtqbUpBcXJaVWRpR2xpSzQ2UXpPTVR5NmRzazM4TzM1NEhwUXg5bTlCaWdDX2ZFdWYzSFI4UlQ?oc=5\" target=\"_blank\">Fußball-Transfergerüchte heute: BVB-Star als Barça-Haupt",
+   "source": "90min.de",
+   "date": "2026-11-24T08:22:39.000Z",
+   "fee": null,
+   "clubs": [
+    "BVB",
+    "Barça"
+   ],
+   "tags": [
+    "Gerücht"
+   ]
+  },
+  {
+   "title": "Real Madrid trifft Transfer-Entscheidung bei Bayern-Star Michal Olise",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZjBGVFVNbDhRNldSYzVYSEpWclNEMlZ6dUs3MzByeFBrU1Ytd1FQQ3JNeDV2cV9sd1RSN2Nwczk4bFdNX0U0YVNwTGNOeDRVdXB5eUdjYzEzbEh2WHg3RjYySkJvdEhfVV9zeWNGNHZROFpaR1pqa05VeW5XeVJBREFPeHBmTkJHbHVNSHlmLVktRFFrVmZSZXdpYmhRWlVNd0E?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOZjBGVFVNbDhRNldSYzVYSEpWclNEMlZ6dUs3MzByeFBrU1Ytd1FQQ3JNeDV2cV9sd1RSN2Nwczk4bFdNX0U0YVNwTGNOeDRVdXB5eUdjYzEzbEh2WHg3RjYySkJvdEhfVV9zeWNGNHZROFpaR1pqa05VeW5XeVJBREFPeHBmTkJHbHVNSHlmLVktRFFrVmZSZXdpYmhRWlVNd0E?oc=5\" targ",
+   "source": "fussballdaten.de",
+   "date": "2026-11-24T07:32:00.000Z",
+   "fee": null,
+   "clubs": [
+    "Bayern",
+    "Real Madrid"
+   ],
+   "tags": [
+    "Transfer"
+   ]
+  },
+  {
    "title": "BVB kassiert krachende Transfer-Absage",
    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNTV9na0pLcHg2ZjVKMXRSZzVUVkNnQU11WUNJbTNwbkdOeFkyMmJiZTVya1gxSmxvY1djWTB6aDdYN3lhMmp2YTNqbjY5XzJpZDY5ZnplNVhnMWJLNUE5YnZVaFljN3NkaXV5djNiZVVJam13NGpLV1BwaC1lRTNBT1F3?oc=5",
    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNTV9na0pLcHg2ZjVKMXRSZzVUVkNnQU11WUNJbTNwbkdOeFkyMmJiZTVya1gxSmxvY1djWTB6aDdYN3lhMmp2YTNqbjY5XzJpZDY5ZnplNVhnMWJLNUE5YnZVaFljN3NkaXV5djNiZVVJam13NGpLV1BwaC1lRTNBT1F3?oc=5\" target=\"_blank\">BVB kassiert krachende Transfer",
@@ -72,7 +102,7 @@ window.FUPPES_DATA["transfers"] = {
    ]
   },
   {
-   "title": "FC Bayern, News: Spektakulärer Transfer von Oliver Baumann? Hoffenheim-Boss öffnet die Tür",
+   "title": "FC Bayern, News und Gerüchte: Spektakulärer Transfer von Oliver Baumann? Hoffenheim-Boss öffnet die Tür",
    "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOT1dzOEl5Vmxva0lnZGp3ZUxGcy1lMks5NTZEV25aOXBXOXdFNTRrZ2xLVDdlUk1tRE5MNmRGWk80WFdCWG9zN3lEM21KdlU3ZGhMS0YzYUVNamI4UHhWdlNRbkdDVHM5SVpWb0Rja010T2xxaFJzRVE0cXdla0xiNzkwcFI2QlJUQ3ppN1NQeVlCcVdhTUcwb083cDlwNjQ2b0w4ZkhzSUhBRnk3SXhRZlBfQVhQUF9henlhSXlNeFRBb2xSQzJvY0RCSUZYcFZhMEJQNXdaTVE3SnpzZWlONjQ0dkd5VGZtdDE0cE1GbTQ?oc=5",
    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxOT1dzOEl5Vmxva0lnZGp3ZUxGcy1lMks5NTZEV25aOXBXOXdFNTRrZ2xLVDdlUk1tRE5MNmRGWk80WFdCWG9zN3lEM21KdlU3ZGhMS0YzYUVNamI4UHhWdlNRbkdDVHM5SVpWb0Rja010T2xxaFJzRVE0cXdla0xiNzkwcFI2QlJUQ3ppN1NQeVlCcVdhTUcwb083cDlwNjQ2b0w4ZkhzSUhBRn",
    "source": "SPOX.com",
@@ -111,22 +141,6 @@ window.FUPPES_DATA["transfers"] = {
    ],
    "tags": [
     "Transfer"
-   ]
-  },
-  {
-   "title": "\"Ich hatte Glück\": Veerman scherzt über historische Niederlage",
-   "link": "https://www.kicker.de/ich-hatte-glueck-veerman-scherzt-ueber-historische-niederlage-1274422/video#omrss",
-   "summary": "BVB-Trainer Niko Kovac und Mittelfeld-Neuzugang Joey Veerman sprechen über das kommende Champions-League-Spiel beim FC Arsenal.",
-   "source": "kicker",
-   "date": "2026-11-23T20:07:34.000Z",
-   "fee": null,
-   "clubs": [
-    "BVB",
-    "Arsenal"
-   ],
-   "tags": [
-    "Fix",
-    "Verein"
    ]
   },
   {
@@ -216,21 +230,6 @@ window.FUPPES_DATA["transfers"] = {
    ]
   },
   {
-   "title": "Vertragsverlängerung: Spielt Liverpool beim Weltmeister auf Zeit?",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUkZGRUtkWVpWcFVwdlUyTWJtRGdSMVB3ZXl0dWVKVE5QcUJ0bTJHVXF2V1hMNEdpblM2eVQzUFFFZkVWUDRRWGdTUDUteEE3LXNVUkdsd0RGbXNWd05udlhlSllPTV9GdGIxUUpROWdhRU1LcFRIZng1WHBWUVN2ck5kenhlblhv?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUkZGRUtkWVpWcFVwdlUyTWJtRGdSMVB3ZXl0dWVKVE5QcUJ0bTJHVXF2V1hMNEdpblM2eVQzUFFFZkVWUDRRWGdTUDUteEE3LXNVUkdsd0RGbXNWd05udlhlSllPTV9GdGIxUUpROWdhRU1LcFRIZng1WHBWUVN2ck5kenhlblhv?oc=5\" target=\"_blank\">Vertragsverlängerung: S",
-   "source": "fussballdaten.de",
-   "date": "2026-11-23T15:05:00.000Z",
-   "fee": null,
-   "clubs": [
-    "Liverpool"
-   ],
-   "tags": [
-    "Gerücht",
-    "Vertrag"
-   ]
-  },
-  {
    "title": "Transfer-Ticker: FC Bayern in Wettbieten verwickelt?",
    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONW9kS0NTQjNkNXFMb0I5NkJiZ1NoNGdZUldrVkR1MDI3d2N6Z3BLaUVGOUVzR2M0V3NXcWkwWUFLVHFRX0dXZXNYNWsyMTFiNTZPRUJscjRoLWZmeXMzUUFlcVhfY3VhNk5RR25aQ0FWZVN4Zjh4LXotUVRuYng1TE83YlZkRm9YVENBRUdjRlgtUQ?oc=5",
    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxONW9kS0NTQjNkNXFMb0I5NkJiZ1NoNGdZUldrVkR1MDI3d2N6Z3BLaUVGOUVzR2M0V3NXcWkwWUFLVHFRX0dXZXNYNWsyMTFiNTZPRUJscjRoLWZmeXMzUUFlcVhfY3VhNk5RR25aQ0FWZVN4Zjh4LXotUVRuYng1TE83YlZkRm9YVENBRUdjRlgtUQ?oc=5\" target=\"_blank\">Transfer-",
@@ -306,6 +305,21 @@ window.FUPPES_DATA["transfers"] = {
    ]
   },
   {
+   "title": "Krösche-Deal mit Milan fix: Frankfurt kassiert kräftig ab",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxON1FESVFjdWd1dWJGdWpzQThkdkpraVJBaEpxYlNZeFFsQm94alhCRURhcGV4Sm1WZXhsNDFOYy14aFRPZWx1OXhMY0RkM2NCVkNjLVJmbVp2cHhYdlE0R0JCSjRQWDRLbFJRUV9SWnNBTkRZMHRHOHlOTWdjdjBHMVdSdGpCY3dqX0kxYmFHWQ?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxON1FESVFjdWd1dWJGdWpzQThkdkpraVJBaEpxYlNZeFFsQm94alhCRURhcGV4Sm1WZXhsNDFOYy14aFRPZWx1OXhMY0RkM2NCVkNjLVJmbVp2cHhYdlE0R0JCSjRQWDRLbFJRUV9SWnNBTkRZMHRHOHlOTWdjdjBHMVdSdGpCY3dqX0kxYmFHWQ?oc=5\" target=\"_blank\">Krösche-Deal ",
+   "source": "fussballdaten.de",
+   "date": "2026-11-23T12:15:00.000Z",
+   "fee": null,
+   "clubs": [
+    "Frankfurt",
+    "Milan"
+   ],
+   "tags": [
+    "Transfer"
+   ]
+  },
+  {
    "title": "Eintracht Frankfurt: Wechsel von Krösche zur AC Milan vor Abschluss – Millionenablöse",
    "link": "https://www.transfermarkt.de/-bild-quot-wechsel-von-krosche-zur-ac-milan-vor-abschluss-frankfurt-erhalt-millionenablose/view/news/491092",
    "summary": "Lange wurde gemunkelt, nun steht der Wechsel von Eintracht Frankfurts fr&uuml;herem Sportvorstand Markus Kr&ouml;sche zur AC Mailand offenbar vor dem Abschluss. Der &bdquo;Bild&ldquo; zufolge soll...",
@@ -320,20 +334,6 @@ window.FUPPES_DATA["transfers"] = {
    ],
    "tags": [
     "Transfer"
-   ]
-  },
-  {
-   "title": "Fußball-Transfergerüchte heute: Bayern im Rennen um City-Verteidiger? Real-Vorteil bei Haaland?",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ETWMyUmphUWtRZEo2T1ROa2U4RnBuTmVYQUtKT3VTeXFRXzk1X2RhNW1VUVVqSW9IQjE2VkRsOWpyZDBCekdCbjIxUTFYQkxMbUhVcTlsWDduYXJobmoydEZWbkZFZWx2SkxadTBMSlQ?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE9ETWMyUmphUWtRZEo2T1ROa2U4RnBuTmVYQUtKT3VTeXFRXzk1X2RhNW1VUVVqSW9IQjE2VkRsOWpyZDBCekdCbjIxUTFYQkxMbUhVcTlsWDduYXJobmoydEZWbkZFZWx2SkxadTBMSlQ?oc=5\" target=\"_blank\">Fußball-Transfergerüchte heute: Bayern im Rennen um City",
-   "source": "90min.de",
-   "date": "2026-11-23T08:05:44.000Z",
-   "fee": null,
-   "clubs": [
-    "Bayern"
-   ],
-   "tags": [
-    "Gerücht"
    ]
   },
   {
