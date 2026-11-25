@@ -1,6 +1,6 @@
 window.FUPPES_DATA = window.FUPPES_DATA || {};
 window.FUPPES_DATA["transfers"] = {
- "updated": "2026-11-25T21:10:13.137Z",
+ "updated": "2026-11-25T23:06:58.755Z",
  "rules": {
   "minFeeMio": 20,
   "topClubs": [
@@ -44,6 +44,34 @@ window.FUPPES_DATA["transfers"] = {
  },
  "items": [
   {
+   "title": "FC Bayern: Winter-Transfers? Das sagen Eberl und Freund",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWWNNVjBaVHVCT3I1NnoyMFZVRGZYc0RweTJKU1BuWnJLNlE0QXl3RmpPMXdUdEVPMU1KY3Rja2FGQVNWdE1EVTI2eWhGdVc4NDN5UjZvOXZLNDQ4UGxJMTBYZGZCWmF6MzJ3Sy1LMHpsNFNEbjI4RmtPSThpSXhTYU1HVWoxNllFZ0RHLW56a3cxSFdoWGNKaXFnU0wyMGthLUhNbVcycTlPcmRnNi1ub0ozcmphZw?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOWWNNVjBaVHVCT3I1NnoyMFZVRGZYc0RweTJKU1BuWnJLNlE0QXl3RmpPMXdUdEVPMU1KY3Rja2FGQVNWdE1EVTI2eWhGdVc4NDN5UjZvOXZLNDQ4UGxJMTBYZGZCWmF6MzJ3Sy1LMHpsNFNEbjI4RmtPSThpSXhTYU1HVWoxNllFZ0RHLW56a3cxSFdoWGNKaXFnU0wyMGthLUhNbVcycTlPcm",
+   "source": "SPORT1",
+   "date": "2026-11-25T22:55:00.000Z",
+   "fee": null,
+   "clubs": [
+    "Bayern"
+   ],
+   "tags": [
+    "Gerücht"
+   ]
+  },
+  {
+   "title": "Winter-Transfers nach Kane-Schock? Bayern-Boss macht klare Ansage",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQb2t0eXlPVmNqX2pnT1RuYmVRWThUVmdkNDZzLVJOREpRT0I5STJ5a1YwcGhzZDZRMVRib3JLT3gtMkdmTU5zbjMxeFN5dDQyeXQtSG9laWg1VnJSeFFwMlduZXZwRml0ak5INHZ1eF9nRktkeHZteHdvaHVyMWVkV0NwaDBMeUpLcG9hUDZhd3lCUV9aNkNfOURn?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQb2t0eXlPVmNqX2pnT1RuYmVRWThUVmdkNDZzLVJOREpRT0I5STJ5a1YwcGhzZDZRMVRib3JLT3gtMkdmTU5zbjMxeFN5dDQyeXQtSG9laWg1VnJSeFFwMlduZXZwRml0ak5INHZ1eF9nRktkeHZteHdvaHVyMWVkV0NwaDBMeUpLcG9hUDZhd3lCUV9aNkNfOURn?oc=5\" target=\"_blank\"",
+   "source": "fussballdaten.de",
+   "date": "2026-11-25T21:06:00.000Z",
+   "fee": null,
+   "clubs": [
+    "Bayern"
+   ],
+   "tags": [
+    "Gerücht"
+   ]
+  },
+  {
    "title": "Freund bekräftigt: Bayern planen keine Transfers im Winter",
    "link": "https://www.kicker.de/freund-bekraeftigt-bayern-planen-keine-transfers-im-winter-1275073/artikel#omrss",
    "summary": "Der FC Bayern ist aktuell schwer von Verletzungen gebeutelt. Im Winter nachbessern will der Rekordmeister trotzdem nicht, das bekräftigte Sportdirektor Christoph Freund am Mittwoch vor der Partie in Lille.",
@@ -56,21 +84,6 @@ window.FUPPES_DATA["transfers"] = {
    "tags": [
     "Personal",
     "Verein"
-   ]
-  },
-  {
-   "title": "Eintracht Frankfurt: Doan spricht über geplatzten Deal",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPaGd2V0JnYjZNVngtaERMUDYzNFk5YlUtOGhpakZsbHZKVTdKX01tdnJzUllWSTVlZkF3Q19GRE54emhtZlR4T0s4Yk96M1FmWm1MS3puMFlaVmhXTUJXeEZFS0ZURTFFRUVUU2QwUTUzMm41MEtKUGtkYWNUdWxnUEZITkV3Ul84RzQ0LTY3R0VQLUtQSGNnNU0xUnIxS3d0?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPaGd2V0JnYjZNVngtaERMUDYzNFk5YlUtOGhpakZsbHZKVTdKX01tdnJzUllWSTVlZkF3Q19GRE54emhtZlR4T0s4Yk96M1FmWm1MS3puMFlaVmhXTUJXeEZFS0ZURTFFRUVUU2QwUTUzMm41MEtKUGtkYWNUdWxnUEZITkV3Ul84RzQ0LTY3R0VQLUtQSGNnNU0xUnIxS3d0?oc=5\" target=",
-   "source": "Fussball Transfers",
-   "date": "2026-11-25T17:54:47.000Z",
-   "fee": null,
-   "clubs": [
-    "Eintracht Frankfurt",
-    "Frankfurt"
-   ],
-   "tags": [
-    "Transfer"
    ]
   },
   {
@@ -216,21 +229,6 @@ window.FUPPES_DATA["transfers"] = {
    ]
   },
   {
-   "title": "Fußball-Transfergerüchte heute: Premier-League-Duo denkt an Musiala-Vorstoß – Barça heiß auf BVB-Juwel",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1UUmFaaE9vUTkyd3lDSGtfWU1UUXBlYlMzZHc1OWNQWjFEY1FFODZRT0dWbUs3bWh4VldzLVFzRktvcFVzYlRYRGdHMld3Q1RQeVNQT3paN3ctWGVQeFR1VFFYMDVEb1d2MDFWZnRJN3Y?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE1UUmFaaE9vUTkyd3lDSGtfWU1UUXBlYlMzZHc1OWNQWjFEY1FFODZRT0dWbUs3bWh4VldzLVFzRktvcFVzYlRYRGdHMld3Q1RQeVNQT3paN3ctWGVQeFR1VFFYMDVEb1d2MDFWZnRJN3Y?oc=5\" target=\"_blank\">Fußball-Transfergerüchte heute: Premier-League-Duo denkt",
-   "source": "90min.de",
-   "date": "2026-11-25T08:54:25.000Z",
-   "fee": null,
-   "clubs": [
-    "BVB",
-    "Barça"
-   ],
-   "tags": [
-    "Gerücht"
-   ]
-  },
-  {
    "title": "BVB zeigt Interesse an DFB-Star – Dortmund hat großen Vorteil",
    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPekNHX1JFSTlSdXprS2pfZVlTRnRlOS14aHE5U2VmUDZKaHYwZVFlWS1OekdTRE0xQjU1cldOVjV1NGY5YWljejVQMXlRYzBsZ3FSTUZtcVZWdWtzUzRaT0xXTmdEQkl0WTFZM1BROUxTS3lOTlRuS0l5RlNCR1VSVXBjYnBuOUxkTzhOSklnV2lkQQ?oc=5",
    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPekNHX1JFSTlSdXprS2pfZVlTRnRlOS14aHE5U2VmUDZKaHYwZVFlWS1OekdTRE0xQjU1cldOVjV1NGY5YWljejVQMXlRYzBsZ3FSTUZtcVZWdWtzUzRaT0xXTmdEQkl0WTFZM1BROUxTS3lOTlRuS0l5RlNCR1VSVXBjYnBuOUxkTzhOSklnV2lkQQ?oc=5\" target=\"_blank\">BVB zeigt",
@@ -268,20 +266,6 @@ window.FUPPES_DATA["transfers"] = {
    "fee": null,
    "clubs": [
     "BVB"
-   ],
-   "tags": [
-    "Transfer"
-   ]
-  },
-  {
-   "title": "Transfer-Ticker: FC Bayern findet Kane-Ersatz in der Ligue 1",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZzhCQlN3T3dtd2lYVUhNQkZaeDNOSVZmZHNqNTJ3aWhPTGFscC1HTU9DWk81TmdIcUJnekNwUjhNYnBJaGxjb1VMYWplUlY5QmIzcGRmWFk2ZTJ0bS01NHpwNkNnbm9ZcUdINHhmMWhzamFQNkdGWG5pVzlPQm1pMU13YjlfTVNINjFGMWRwTWhJTVJVMENQVDBZck1DUQ?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQZzhCQlN3T3dtd2lYVUhNQkZaeDNOSVZmZHNqNTJ3aWhPTGFscC1HTU9DWk81TmdIcUJnekNwUjhNYnBJaGxjb1VMYWplUlY5QmIzcGRmWFk2ZTJ0bS01NHpwNkNnbm9ZcUdINHhmMWhzamFQNkdGWG5pVzlPQm1pMU13YjlfTVNINjFGMWRwTWhJTVJVMENQVDBZck1DUQ?oc=5\" target=\"_",
-   "source": "sport.de",
-   "date": "2026-11-25T05:40:00.000Z",
-   "fee": null,
-   "clubs": [
-    "Bayern"
    ],
    "tags": [
     "Transfer"
@@ -342,6 +326,20 @@ window.FUPPES_DATA["transfers"] = {
    ],
    "tags": [
     "Transfer"
+   ]
+  },
+  {
+   "title": "Van Dijk vor Abschied aus Liverpool – italienischer Gigant zeigt Interesse",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNb3dnRGdJc3dJd01fVWcyeXBCODdYU20wUXQ0ckZ3by0tdEZIZXdUekx2R01lSEphdGFhbGlEUGVQejZ1UlAyV2EtVWx1S3Nza193N0ZieTJ6cjI0R0dtZEJaNkVmVzV2NkNHMWdHR091VGpINnlvVWhkRDNOai1FN3NDVUl0Q3c0OTlRb0diOW43NFpxU2E5NGUyUEZ4dVd2Y1BpZWln?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNb3dnRGdJc3dJd01fVWcyeXBCODdYU20wUXQ0ckZ3by0tdEZIZXdUekx2R01lSEphdGFhbGlEUGVQejZ1UlAyV2EtVWx1S3Nza193N0ZieTJ6cjI0R0dtZEJaNkVmVzV2NkNHMWdHR091VGpINnlvVWhkRDNOai1FN3NDVUl0Q3c0OTlRb0diOW43NFpxU2E5NGUyUEZ4dVd2Y1BpZWln?oc=5\"",
+   "source": "fussballdaten.de",
+   "date": "2026-11-24T12:22:00.000Z",
+   "fee": null,
+   "clubs": [
+    "Liverpool"
+   ],
+   "tags": [
+    "Gerücht"
    ]
   },
   {

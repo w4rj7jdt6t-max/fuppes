@@ -1,13 +1,33 @@
 window.FUPPES_DATA = window.FUPPES_DATA || {};
 window.FUPPES_DATA["news-fc"] = {
- "updated": "2026-11-25T21:10:11.380Z",
+ "updated": "2026-11-25T23:06:57.304Z",
  "items": [
+  {
+   "title": "„Halten nicht immer Händchen“: So wird Sobek von Kessler eingebunden",
+   "link": "https://geissblog.koeln/2026/11/halten-nicht-immer-haendchen-so-wird-sobek-von-kessler-eingebunden/",
+   "summary": "Wie gut ist das Verhältnis zwischen Thomas Kessler und Ulf Sobek? Der Sportchef und der Vizepräsident des 1. FC Köln bilden eine bislang ungewohnte Konstellation... Der Beitrag „Halten nicht immer Händchen“: So wird Sobek von Kessler eingebunden erschien zuerst auf GEISSBLOG .",
+   "source": "GEISSBLOG",
+   "date": "2026-11-25T23:01:00.000Z",
+   "tags": [
+    "Verein"
+   ]
+  },
   {
    "title": "Schnäppchen statt Millionen-Gebühr: So wird Moore zum doppelten Glücksgriff",
    "link": "https://geissblog.koeln/2026/11/schnaeppchen-statt-millionen-gebuehr-so-wird-moore-zum-doppelten-gluecksgriff/",
    "summary": "Mikey Moore ist seit seinem Tor beim FC Bayern München in aller Munde. Der Star-Transfer des 1. FC Köln könnte sich in doppeltem Sinne zum... Der Beitrag Schnäppchen statt Millionen-Gebühr: So wird Moore zum doppelten Glücksgriff erschien zuerst auf GEISSBLOG .",
    "source": "GEISSBLOG",
    "date": "2026-11-25T18:48:00.000Z",
+   "tags": [
+    "Transfer"
+   ]
+  },
+  {
+   "title": "\"Sollte sich die Möglichkeit ergeben...\" – Kessler hofft auf Transfercoup für Köln",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMjVwei1rYkVwNkRJWENnMmNUX0hXeGRaX1I5czZNWEVZYkRKWGNBdXRhUURTN18xUXRkbFRlZEhZNm9SRnM0R2VlXzhqaXVoYnJrVmJ5MlVMSVVGYl8yU2Z6M211dVJLQjFSOS1QaFhOTEM0WGptUXdPTGwwUjVqNE9KUGZEMHlzc211MUhoX1hlTkdXNW5VS1NMcTI?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOMjVwei1rYkVwNkRJWENnMmNUX0hXeGRaX1I5czZNWEVZYkRKWGNBdXRhUURTN18xUXRkbFRlZEhZNm9SRnM0R2VlXzhqaXVoYnJrVmJ5MlVMSVVGYl8yU2Z6M211dVJLQjFSOS1QaFhOTEM0WGptUXdPTGwwUjVqNE9KUGZEMHlzc211MUhoX1hlTkdXNW5VS1NMcTI?oc=5\" target=\"_bla",
+   "source": "90min.de",
+   "date": "2026-11-25T18:35:10.000Z",
    "tags": [
     "Transfer"
    ]
@@ -184,27 +204,6 @@ window.FUPPES_DATA["news-fc"] = {
    "date": "2026-11-21T09:59:32.000Z",
    "tags": [
     "Gerücht"
-   ]
-  },
-  {
-   "title": "FC Bayern spielt 1:1 gegen Köln: Kane und Olise verletzt - Sport - SZ.de",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOY0J6cFA4U19YX3BobEFaSzR1VmhEbUdQN0tTalBWZGp5bjBld2VoclRpS1JtTlZRRkhabklndGJKQURud1VsdjRjdngtRExRTlR2Q1FGc21XTXdfbWFpeHNWb1RGdUtaeGROS1FLbC1KbHllYmNKNU40UHlEUnk4dy1peWF6UQ?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxOY0J6cFA4U19YX3BobEFaSzR1VmhEbUdQN0tTalBWZGp5bjBld2VoclRpS1JtTlZRRkhabklndGJKQURud1VsdjRjdngtRExRTlR2Q1FGc21XTXdfbWFpeHNWb1RGdUtaeGROS1FLbC1KbHllYmNKNU40UHlEUnk4dy1peWF6UQ?oc=5\" target=\"_blank\">FC Bayern spielt 1:1 gege",
-   "source": "SZ.de",
-   "date": "2026-11-20T23:30:30.000Z",
-   "tags": [
-    "Personal"
-   ]
-  },
-  {
-   "title": "Bayern-Star Harry Kane gegen Köln ausgewechselt - auch Olise verletzt",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQ0xVaElGaUUwamZvRXhEUjRqbjN1S19HWmo1WXAtLUU1c0RYYlozSkJhZmFXUWh6NkVJVlA3ci1pX1J1QW51WG50Z1NqbHVJd2U4Nmp4RndXbjgySEpwR3J3NTlPZG4xV0NjR1pFWC16ekJlbG5aQ0FkV2lGaTFROHl6UUhJNDhURXlZNmxGRkE5RGNSeXVTMndUVkNITzBkeTlWcjNJX3poczZoSG40?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPQ0xVaElGaUUwamZvRXhEUjRqbjN1S19HWmo1WXAtLUU1c0RYYlozSkJhZmFXUWh6NkVJVlA3ci1pX1J1QW51WG50Z1NqbHVJd2U4Nmp4RndXbjgySEpwR3J3NTlPZG4xV0NjR1pFWC16ekJlbG5aQ0FkV2lGaTFROHl6UUhJNDhURXlZNmxGRkE5RGNSeXVTMndUVkNITzBkeTlWcjNJX3pocz",
-   "source": "Sky.de",
-   "date": "2026-11-20T22:48:00.000Z",
-   "tags": [
-    "Fix",
-    "Personal"
    ]
   }
  ]
