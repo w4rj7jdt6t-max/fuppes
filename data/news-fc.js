@@ -1,6 +1,6 @@
 window.FUPPES_DATA = window.FUPPES_DATA || {};
 window.FUPPES_DATA["news-fc"] = {
- "updated": "2026-11-24T23:09:16.602Z",
+ "updated": "2026-11-25T01:31:46.530Z",
  "items": [
   {
    "title": "„An den Tisch kommen“: Kessler kündigt Gespräche mit Transfer-Kandidat an",
@@ -157,9 +157,9 @@ window.FUPPES_DATA["news-fc"] = {
   },
   {
    "title": "Fußball-Bundesliga: Sportchef Kessler stellt sich hinter Köln-Trainer Wagner",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQWc1Z1c5N2xGaDZOZTBUQ19LcFlQQ3cyeWRPbExCLWNoUjJGcXFyTTAyamJtOV9Ic011b2JIbHdPQ3Q2Vmk2TnpXT1MtWU9veDZmQXFSUU44RWRNUmFaR29tOHNHQ2p1VWZXU0dOZVJETGROZkNhcFJJdEczMVJNTUNRbkZzVlc0T09ranhBQjdGclIwdjhHZQ?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOQWc1Z1c5N2xGaDZOZTBUQ19LcFlQQ3cyeWRPbExCLWNoUjJGcXFyTTAyamJtOV9Ic011b2JIbHdPQ3Q2Vmk2TnpXT1MtWU9veDZmQXFSUU44RWRNUmFaR29tOHNHQ2p1VWZXU0dOZVJETGROZkNhcFJJdEczMVJNTUNRbkZzVlc0T09ranhBQjdGclIwdjhHZQ?oc=5\" target=\"_blank\">F",
-   "source": "DIE ZEIT",
+   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPMHlfdDBlWVNNQThFZHVXcWJFNEZIaHdNWWRGTW9xcmpLRHhMYWpIOHRSbkcxX1luUFVjOEpoMWhLdU5Bdm1rcGoxMDhxbkEtS1VqZDdLN2pmeE5HaWZDbjZwTDZndXJBSThFd3BVa0NhVTBQQldqemVVRGNteDRfUE1sRXhPVEN0U19WcWw5dUI2bG02Sm5QZGo0N1JGbVozdXIzeHNPVmh4YlJDOHB1NGoxUkJKejdlWGNEU2c0MFhIcjh0dUdBdkVEaFlnUDJmV0FWT1g3dXMwcDhPME5xRWI2Tmp6TVVIdi04?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxPMHlfdDBlWVNNQThFZHVXcWJFNEZIaHdNWWRGTW9xcmpLRHhMYWpIOHRSbkcxX1luUFVjOEpoMWhLdU5Bdm1rcGoxMDhxbkEtS1VqZDdLN2pmeE5HaWZDbjZwTDZndXJBSThFd3BVa0NhVTBQQldqemVVRGNteDRfUE1sRXhPVEN0U19WcWw5dUI2bG02Sm5QZGo0N1JGbVozdXIzeHNPVmh4Yl",
+   "source": "STERN.de",
    "date": "2026-11-22T15:07:04.000Z",
    "tags": [
     "Verein"
