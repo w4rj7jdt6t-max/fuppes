@@ -1,6 +1,6 @@
 window.FUPPES_DATA = window.FUPPES_DATA || {};
 window.FUPPES_DATA["transfers"] = {
- "updated": "2026-11-25T05:22:28.451Z",
+ "updated": "2026-11-25T07:39:05.127Z",
  "rules": {
   "minFeeMio": 20,
   "topClubs": [
@@ -44,21 +44,107 @@ window.FUPPES_DATA["transfers"] = {
  },
  "items": [
   {
-   "title": "Borussia Dortmund diskutiert über Transfer von DFB-Star",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZ3BCU1JXdWJuY2I0YS14c1FFajlSSnUwOXM4RkNQaUUyU3ZLMVBJdWE5V3AzLVB4MGdGVi1MYnMzSVN5ZldHbkRuNFhLNEthX2xvR1JTNzNDSWhrZlp2REp3WlJaQ3JKcTRjZmc4M3BzRUF3cERmc29FamNkR3ZaLTUxN0FjRGNCOHRLN0UwbmVkQWRDVExTYXVieUtsYkJZTDhTTktldEFBaWUwSXhTRkV5RVBrYms?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPZ3BCU1JXdWJuY2I0YS14c1FFajlSSnUwOXM4RkNQaUUyU3ZLMVBJdWE5V3AzLVB4MGdGVi1MYnMzSVN5ZldHbkRuNFhLNEthX2xvR1JTNzNDSWhrZlp2REp3WlJaQ3JKcTRjZmc4M3BzRUF3cERmc29FamNkR3ZaLTUxN0FjRGNCOHRLN0UwbmVkQWRDVExTYXVieUtsYkJZTDhTTktldEFBaW",
-   "source": "BILD",
-   "date": "2026-11-25T03:47:42.000Z",
+   "title": "1. FC Köln: Moore-Leihe von Tottenham könnte ablösefrei werden",
+   "link": "https://www.transfermarkt.de/ablosefrei-statt-millionen-gebuhr-so-wird-tottenhams-moore-fur-koln-zum-schnappchen/view/news/491191",
+   "summary": "Mikey Moore ist mit einem Marktwert von 18 Millionen Euro einer der zehn wertvollsten Teenager der Bundesliga und wird den 1. FC K&ouml;ln im Sommer wieder in Richtung Tottenham Hotspur verlassen....",
+   "source": "Transfermarkt",
+   "date": "2026-11-25T07:29:04.000Z",
+   "fee": 18,
+   "clubs": [
+    "Tottenham"
+   ],
+   "tags": [
+    "Leihe"
+   ]
+  },
+  {
+   "title": "Für bis zu 40 Millionen Euro! BVB plant offenbar Transfercoup von deutschem Nationalspieler",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNYlU5aWs5dkVvX01vYWlFaXNiTWk5LW5tdm8tM0xsNENCYnZpcEh3UkdJcFdoTUtkNE81ZHp1TzA1dHk4YzA0Uy1UZGdfQnFYcTk2d1o5ay1kcnd2aTk4bmZDcUZyZTR4dUNXcjBTSUg1WUw3cEhuRzh3QmtNRGNJdDFha0ZFdWMzcmI4VTZvSzFKZmtSTVd1MkdpNm4tNFpuTXhjM2ZoaU1RZUJsQzRYZGhVbVZvNmUxUnVQTVkxRXR3MHpuMlBOaEtRbm1qUXQ3TG1QM2RjMDR2R09lUE9Z?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxNYlU5aWs5dkVvX01vYWlFaXNiTWk5LW5tdm8tM0xsNENCYnZpcEh3UkdJcFdoTUtkNE81ZHp1TzA1dHk4YzA0Uy1UZGdfQnFYcTk2d1o5ay1kcnd2aTk4bmZDcUZyZTR4dUNXcjBTSUg1WUw3cEhuRzh3QmtNRGNJdDFha0ZFdWMzcmI4VTZvSzFKZmtSTVd1MkdpNm4tNFpuTXhjM2ZoaU1RZU",
+   "source": "SPOX.com",
+   "date": "2026-11-25T06:54:31.000Z",
+   "fee": 40,
+   "clubs": [
+    "BVB"
+   ],
+   "tags": [
+    "Gerücht"
+   ]
+  },
+  {
+   "title": "Teures Vergnügen: BVB bastelt an Transfer-Hammer um Ebnoutalib",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObng0NXl4MldzUGNIcWQzc2VRdFh4WTVNX0pBSjYxM2NOUmVZTzdidThEU19MTXhtUmhVRkI5MDZ6cmJXRnY1Q1VXbm5FUXRHcVFIYU5NaVJmRC1JdmFnUkdTLVk0RjBGRjhBZkpJZHFkQkgzX0xuR09LbGJTUzNsNk9nZmtGUTVubkhka2hhemRzRTdqZlc0bS1WVjNEMjJFSzkySlY2RFk?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxObng0NXl4MldzUGNIcWQzc2VRdFh4WTVNX0pBSjYxM2NOUmVZTzdidThEU19MTXhtUmhVRkI5MDZ6cmJXRnY1Q1VXbm5FUXRHcVFIYU5NaVJmRC1JdmFnUkdTLVk0RjBGRjhBZkpJZHFkQkgzX0xuR09LbGJTUzNsNk9nZmtGUTVubkhka2hhemRzRTdqZlc0bS1WVjNEMjJFSzkySlY2RFk?oc",
+   "source": "Fussball Europa",
+   "date": "2026-11-25T06:26:01.000Z",
    "fee": null,
    "clubs": [
-    "Dortmund"
+    "BVB"
    ],
    "tags": [
     "Transfer"
    ]
   },
   {
-   "title": "Beier und Gadou sei Dank: BVB holt Punkt bei Arsenal – Leipzig bleibt im Rennen",
+   "title": "BVB beschäftigt sich mit Eintracht-Stürmer Ebnoutalib",
+   "link": "https://www.transfermarkt.de/-sport-bild-quot-eintracht-profi-ebnoutalib-thema-beim-bvb-ware-dritter-transfer-dank-book/view/news/491189",
+   "summary": "Younes Ebnoutalib wechselte im Januar 2024 f&uuml;r 50.000 Euro vom FC Gie&szlig;en zur SV Elversberg. Genau ein Jahr sp&auml;ter ging er f&uuml;r 8 Millionen Euro zu Eintracht Frankfurt &ndash;...",
+   "source": "Transfermarkt",
+   "date": "2026-11-25T05:54:10.000Z",
+   "fee": 8,
+   "clubs": [
+    "BVB",
+    "Eintracht Frankfurt",
+    "Frankfurt"
+   ],
+   "tags": [
+    "Fix"
+   ]
+  },
+  {
+   "title": "„Sport Bild“: Eintracht-Profi Ebnoutalib Thema beim BVB – Wäre dritter Transfer dank Book",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQQ3ZObWl4QTcwOVlaSWZKcWM3bVJWSW9SSERzT01ldEZLcDQ4R21HMlFFdS15RURILXF5dkRXU0RVbkpiVDU4cFBDc1Z6a3hRSG96ZGttcXUzb2xHOEd4NWc3YTBVVFpDWWFtaGkxcGtrRHVfTHdkTU1lZ1hGVVhpT1BzMjlDenE5Um1qXzN6LTRkQlYtSzZnenNCMXhYT2U4OGRsQjlDWnl3c0N4ZkN2VC1PR3JabFljVVEzN1hmRXVweklaTGJFdFkwNEVrNGktb0E?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxQQ3ZObWl4QTcwOVlaSWZKcWM3bVJWSW9SSERzT01ldEZLcDQ4R21HMlFFdS15RURILXF5dkRXU0RVbkpiVDU4cFBDc1Z6a3hRSG96ZGttcXUzb2xHOEd4NWc3YTBVVFpDWWFtaGkxcGtrRHVfTHdkTU1lZ1hGVVhpT1BzMjlDenE5Um1qXzN6LTRkQlYtSzZnenNCMXhYT2U4OGRsQjlDWnl3c0",
+   "source": "Transfermarkt",
+   "date": "2026-11-25T05:54:00.000Z",
+   "fee": null,
+   "clubs": [
+    "BVB"
+   ],
+   "tags": [
+    "Transfer"
+   ]
+  },
+  {
+   "title": "Transfer-Ticker: FC Bayern findet Kane-Ersatz in der Ligue 1",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZzhCQlN3T3dtd2lYVUhNQkZaeDNOSVZmZHNqNTJ3aWhPTGFscC1HTU9DWk81TmdIcUJnekNwUjhNYnBJaGxjb1VMYWplUlY5QmIzcGRmWFk2ZTJ0bS01NHpwNkNnbm9ZcUdINHhmMWhzamFQNkdGWG5pVzlPQm1pMU13YjlfTVNINjFGMWRwTWhJTVJVMENQVDBZck1DUQ?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQZzhCQlN3T3dtd2lYVUhNQkZaeDNOSVZmZHNqNTJ3aWhPTGFscC1HTU9DWk81TmdIcUJnekNwUjhNYnBJaGxjb1VMYWplUlY5QmIzcGRmWFk2ZTJ0bS01NHpwNkNnbm9ZcUdINHhmMWhzamFQNkdGWG5pVzlPQm1pMU13YjlfTVNINjFGMWRwTWhJTVJVMENQVDBZck1DUQ?oc=5\" target=\"_",
+   "source": "sport.de",
+   "date": "2026-11-25T05:40:00.000Z",
+   "fee": null,
+   "clubs": [
+    "Bayern"
+   ],
+   "tags": [
+    "Transfer"
+   ]
+  },
+  {
+   "title": "Hohe Ablöse: BVB arbeitet an Ebnoutalib-Hammer",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWmZ5WVJhYnBXSkRFRkN6S1hUYUdsNk1tMWRyN21WYUlsVW9faHJONVhXcE9uVjBjM2kzSDVaQXJZNTBqdWc1S0hwandKemZLcDRVQlFsWllnYW9EVzAtajJVdTFNVzEzZ1YzMERQekswcGlPcXJtNi1BSTNzTDdpY0NzVWpxazZxeFhZaHZ5WGw2SXQ4V0ZUQ3dsT1pCSGJmRHNN?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQWmZ5WVJhYnBXSkRFRkN6S1hUYUdsNk1tMWRyN21WYUlsVW9faHJONVhXcE9uVjBjM2kzSDVaQXJZNTBqdWc1S0hwandKemZLcDRVQlFsWllnYW9EVzAtajJVdTFNVzEzZ1YzMERQekswcGlPcXJtNi1BSTNzTDdpY0NzVWpxazZxeFhZaHZ5WGw2SXQ4V0ZUQ3dsT1pCSGJmRHNN?oc=5\" tar",
+   "source": "Fussball Transfers",
+   "date": "2026-11-25T05:33:24.000Z",
+   "fee": null,
+   "clubs": [
+    "BVB"
+   ],
+   "tags": [
+    "Transfer"
+   ]
+  },
+  {
+   "title": "Beier und Gadou sei Dank: BVB holt Punkt bei Arsenal",
    "link": "https://www.transfermarkt.de/beier-und-gadou-sei-dank-bvb-holt-punkt-bei-arsenal-leipzig-bleibt-im-rennen/view/news/491183",
    "summary": "Mit gro&szlig;em Einsatz hat sich Borussia Dortmund ein Remis beim FC Arsenal erk&auml;mpft und bleibt in der Champions League auf Kurs K.o.-Phase. Die Mannschaft von Trainer Niko Kovac trennte...",
    "source": "Transfermarkt",
@@ -67,7 +153,6 @@ window.FUPPES_DATA["transfers"] = {
    "clubs": [
     "Dortmund",
     "BVB",
-    "Leipzig",
     "Arsenal"
    ],
    "tags": [
@@ -90,7 +175,7 @@ window.FUPPES_DATA["transfers"] = {
    ]
   },
   {
-   "title": "Tor und Vorlage: Tottenham belohnt Matchwinner Williams-Barnett mit neuem Vertrag",
+   "title": "Tottenham belohnt Talent Williams-Barnett mit neuem Vertrag",
    "link": "https://www.transfermarkt.de/tor-und-vorlage-tottenham-belohnt-matchwinner-williams-barnett-mit-neuem-vertrag/view/news/491177",
    "summary": "Tottenham Hotspur hat den Vertrag mit Eigengew&auml;chs Luca Williams-Barnett verl&auml;ngert. Der 18-J&auml;hrige, der in den vergangenen Wochen einen traumhaften Start in der Premier League...",
    "source": "Transfermarkt",
@@ -298,93 +383,6 @@ window.FUPPES_DATA["transfers"] = {
    "fee": 40,
    "clubs": [
     "Barça"
-   ],
-   "tags": [
-    "Transfer"
-   ]
-  },
-  {
-   "title": "FC Bayern denkt offenbar über sensationellen Winter-Transfer nach",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUHVxWkJNNUU2MGtyMXgzWHdOWS00Y2FrWVI3VUhHTkQxV3IyQjQzRk5IOE00VnhyMS1sZFdKakZZZG4zR3Z0TjRveUh0U1Y4djJEejYycmd3TGF0cmJiM0YyYjVqRW1VMVhoUHhlRFpyOWFRNDEwQ05oLXdrQlN2VjgwZ2IyTHRmLThTMHNLUmZVYTR1ZVpvRWtHZHo5MTFvYWpsRWF6NW4xYnJtczdfaTZySUpfOFdRRXdhSkhn?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxOUHVxWkJNNUU2MGtyMXgzWHdOWS00Y2FrWVI3VUhHTkQxV3IyQjQzRk5IOE00VnhyMS1sZFdKakZZZG4zR3Z0TjRveUh0U1Y4djJEejYycmd3TGF0cmJiM0YyYjVqRW1VMVhoUHhlRFpyOWFRNDEwQ05oLXdrQlN2VjgwZ2IyTHRmLThTMHNLUmZVYTR1ZVpvRWtHZHo5MTFvYWpsRWF6NW4xYn",
-   "source": "SPOX.com",
-   "date": "2026-11-23T19:26:41.000Z",
-   "fee": null,
-   "clubs": [
-    "Bayern"
-   ],
-   "tags": [
-    "Gerücht"
-   ]
-  },
-  {
-   "title": "Jude Bellingham vor Vertragsverlängerung bei Real Madrid bis 2032",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOaGNldjlqSDYzLUtoaHJxY2dlVDJpWldLUGlGZ2xmbmE5V2d0MEt0aEFvaVF4U21NN3pweFVuUFc0UFY4cWdVajByTDRlUG9xQVlnbU54Y2lrZUdZMTN0UTRaeUZIeFB2eXM2WGVSYkZlLWxyRkw5Wm1yVXNPSjFoeWJRR2JEVU5icWRncjRhM2hoeGpzaG5Zak9PTDlmcFZDZkhhTElEcjZsYS1sZkZiS0JjMkJTbjA?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOaGNldjlqSDYzLUtoaHJxY2dlVDJpWldLUGlGZ2xmbmE5V2d0MEt0aEFvaVF4U21NN3pweFVuUFc0UFY4cWdVajByTDRlUG9xQVlnbU54Y2lrZUdZMTN0UTRaeUZIeFB2eXM2WGVSYkZlLWxyRkw5Wm1yVXNPSjFoeWJRR2JEVU5icWRncjRhM2hoeGpzaG5Zak9PTDlmcFZDZkhhTElEcjZsYS",
-   "source": "Sky.de",
-   "date": "2026-11-23T17:26:00.000Z",
-   "fee": null,
-   "clubs": [
-    "Real Madrid"
-   ],
-   "tags": [
-    "Vertrag"
-   ]
-  },
-  {
-   "title": "Baumann zum FC Bayern? Hoffenheim-Boss öffnet Tür für Transfer",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOT29lRlNhYjJqb0huWVJUY1ZWbGVwbkYyaWh2bFE2NG96V2pwMXpBT0VlcHZTLTZqWXMtcmlqOGJfQkc1TnY5Skg2TFA0UHY2R2NvcU84cFNzTXhMN1puMktpWFJ5NHFNQWVOeDlWUGlNSWl2N0hmUHNucWNEYVNZQW5oUzZxWl9VRFdtemE0aFI4dHdK?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOT29lRlNhYjJqb0huWVJUY1ZWbGVwbkYyaWh2bFE2NG96V2pwMXpBT0VlcHZTLTZqWXMtcmlqOGJfQkc1TnY5Skg2TFA0UHY2R2NvcU84cFNzTXhMN1puMktpWFJ5NHFNQWVOeDlWUGlNSWl2N0hmUHNucWNEYVNZQW5oUzZxWl9VRFdtemE0aFI4dHdK?oc=5\" target=\"_blank\">Baumann",
-   "source": "fussballdaten.de",
-   "date": "2026-11-23T16:05:00.000Z",
-   "fee": null,
-   "clubs": [
-    "Bayern"
-   ],
-   "tags": [
-    "Gerücht"
-   ]
-  },
-  {
-   "title": "Medien: Manager Krösche kurz vor Wechsel zur AC Mailand",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNWDB2Q3J5a2VtRGdDOWNuZG91TW5ySEZRQVBhZWpKSkxWcEFHOVVZTGtoRTdOSnB1V1pvY0ZsSFBaRjhyTEJmaUhuSkVYb00wUGFGNnlOR0VjZy1uVU8wdnhwc0U4a19kaDgyVnZZVk8yaWR0VWk4V0tHN01LQ0ZYbVVNd2xRNVZuOGtRNEZWYXdORU40NGY4aUpVbmxhT3N4R2FqOXR1dmtSU2RMeFlaMw?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNWDB2Q3J5a2VtRGdDOWNuZG91TW5ySEZRQVBhZWpKSkxWcEFHOVVZTGtoRTdOSnB1V1pvY0ZsSFBaRjhyTEJmaUhuSkVYb00wUGFGNnlOR0VjZy1uVU8wdnhwc0U4a19kaDgyVnZZVk8yaWR0VWk4V0tHN01LQ0ZYbVVNd2xRNVZuOGtRNEZWYXdORU40NGY4aUpVbmxhT3N4R2FqOXR1dmtSU2",
-   "source": "Mindener Tageblatt",
-   "date": "2026-11-23T15:18:49.000Z",
-   "fee": null,
-   "clubs": [
-    "AC Mailand"
-   ],
-   "tags": [
-    "Transfer"
-   ]
-  },
-  {
-   "title": "Vertragsverlängerung: Spielt Liverpool beim Weltmeister auf Zeit?",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUkZGRUtkWVpWcFVwdlUyTWJtRGdSMVB3ZXl0dWVKVE5QcUJ0bTJHVXF2V1hMNEdpblM2eVQzUFFFZkVWUDRRWGdTUDUteEE3LXNVUkdsd0RGbXNWd05udlhlSllPTV9GdGIxUUpROWdhRU1LcFRIZng1WHBWUVN2ck5kenhlblhv?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUkZGRUtkWVpWcFVwdlUyTWJtRGdSMVB3ZXl0dWVKVE5QcUJ0bTJHVXF2V1hMNEdpblM2eVQzUFFFZkVWUDRRWGdTUDUteEE3LXNVUkdsd0RGbXNWd05udlhlSllPTV9GdGIxUUpROWdhRU1LcFRIZng1WHBWUVN2ck5kenhlblhv?oc=5\" target=\"_blank\">Vertragsverlängerung: S",
-   "source": "fussballdaten.de",
-   "date": "2026-11-23T15:05:00.000Z",
-   "fee": null,
-   "clubs": [
-    "Liverpool"
-   ],
-   "tags": [
-    "Gerücht",
-    "Vertrag"
-   ]
-  },
-  {
-   "title": "Markus Krösche vor Wechsel zur AC Mailand: Einigung um Millionen-Ablöse mit Eintracht Frankfurt erzielt",
-   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPcF9QMUU3akxmcm9ZNkFQX2VqODJRb2RKa2hWempYZUtsRmdlSDdsV3NfbHpfLVJUT1ptdWdlRkpZNzdtWHFGWnRZcGxJTThYeWpjZ2I0dkNaNWYtQU1KQ1lOQy05LUo0aWJHQ25TQ2hNUUhKQTJGQkpKV2xLTDlXelRXTTVTWUpFVTZqR2MwaXcyMEtkN2d0UEMzUGFZcjBNZm1jTHM5a04xOEhxVnlHUTZScC1FS3UzWm1mTWoxRWtuaTJFUTlpOG1mcUxuc3NaV0gtR2s4YkZlOWh4ZnM4eEQ2QjJ6UGx5QlU3NWZR?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxPcF9QMUU3akxmcm9ZNkFQX2VqODJRb2RKa2hWempYZUtsRmdlSDdsV3NfbHpfLVJUT1ptdWdlRkpZNzdtWHFGWnRZcGxJTThYeWpjZ2I0dkNaNWYtQU1KQ1lOQy05LUo0aWJHQ25TQ2hNUUhKQTJGQkpKV2xLTDlXelRXTTVTWUpFVTZqR2MwaXcyMEtkN2d0UEMzUGFZcjBNZm1jTHM5a04xOE",
-   "source": "Sky.de",
-   "date": "2026-11-23T13:38:00.000Z",
-   "fee": null,
-   "clubs": [
-    "Eintracht Frankfurt",
-    "Frankfurt",
-    "AC Mailand"
    ],
    "tags": [
     "Transfer"
