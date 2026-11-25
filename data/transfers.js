@@ -1,6 +1,6 @@
 window.FUPPES_DATA = window.FUPPES_DATA || {};
 window.FUPPES_DATA["transfers"] = {
- "updated": "2026-11-25T15:21:35.006Z",
+ "updated": "2026-11-25T17:15:14.124Z",
  "rules": {
   "minFeeMio": 20,
   "topClubs": [
@@ -155,20 +155,6 @@ window.FUPPES_DATA["transfers"] = {
    ],
    "tags": [
     "Gerücht"
-   ]
-  },
-  {
-   "title": "Kurzes Statement: FC Bayern stellt klar: Musiala-Symptome nach Vertragsabschluss",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOX1JKZkdnenR1N2hMejJTN3NDa1BJVDJIZnNBTkFNejJHR3RzQ2VwOW1aTFZuSzhKRHpvd2VsQVNzcDBKalNpRFNua21YQWJESV81ODNTTnVqa0dSbW4xb2NlcjBXSENzSkVtc25tWjdoUmhaTk1xZ2hKTTRWYzl5TXdYOGFDaUR2V2NoQXB1YU1LU21kUmZtbXBTSVRZUDNKWkJlSEMyNzVRNWhFa1Zfdg?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOX1JKZkdnenR1N2hMejJTN3NDa1BJVDJIZnNBTkFNejJHR3RzQ2VwOW1aTFZuSzhKRHpvd2VsQVNzcDBKalNpRFNua21YQWJESV81ODNTTnVqa0dSbW4xb2NlcjBXSENzSkVtc25tWjdoUmhaTk1xZ2hKTTRWYzl5TXdYOGFDaUR2V2NoQXB1YU1LU21kUmZtbXBTSVRZUDNKWkJlSEMyNzVRNW",
-   "source": "sportschau.de",
-   "date": "2026-11-25T10:07:11.000Z",
-   "fee": null,
-   "clubs": [
-    "Bayern"
-   ],
-   "tags": [
-    "Vertrag"
    ]
   },
   {
@@ -329,15 +315,14 @@ window.FUPPES_DATA["transfers"] = {
    ]
   },
   {
-   "title": "FC Barcelona: 40-Millionen-Zugang für Barça?",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOeVNLbzh1UnNEbXZ2M0RGNUFxcVM3ZHV5RVh3YnFVSDd1UFpNNm5UX2prdWR2cmxWT2plRTNRY0VOMTItaWRVcENDeHVaVWV2VzlzUkREdXNldGtqdFBPdFYzS09mQXBIRXJPQjZ0SzhZWWJOMVdNU2d4X2hBeUR0T3dsZlBxSVNTczBPaEp3?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOeVNLbzh1UnNEbXZ2M0RGNUFxcVM3ZHV5RVh3YnFVSDd1UFpNNm5UX2prdWR2cmxWT2plRTNRY0VOMTItaWRVcENDeHVaVWV2VzlzUkREdXNldGtqdFBPdFYzS09mQXBIRXJPQjZ0SzhZWWJOMVdNU2d4X2hBeUR0T3dsZlBxSVNTczBPaEp3?oc=5\" target=\"_blank\">FC Barcelona: 4",
-   "source": "Fussball Transfers",
-   "date": "2026-11-24T11:37:27.000Z",
+   "title": "Van Dijk vor Abschied aus Liverpool – italienischer Gigant zeigt Interesse",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNb3dnRGdJc3dJd01fVWcyeXBCODdYU20wUXQ0ckZ3by0tdEZIZXdUekx2R01lSEphdGFhbGlEUGVQejZ1UlAyV2EtVWx1S3Nza193N0ZieTJ6cjI0R0dtZEJaNkVmVzV2NkNHMWdHR091VGpINnlvVWhkRDNOai1FN3NDVUl0Q3c0OTlRb0diOW43NFpxU2E5NGUyUEZ4dVd2Y1BpZWln?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNb3dnRGdJc3dJd01fVWcyeXBCODdYU20wUXQ0ckZ3by0tdEZIZXdUekx2R01lSEphdGFhbGlEUGVQejZ1UlAyV2EtVWx1S3Nza193N0ZieTJ6cjI0R0dtZEJaNkVmVzV2NkNHMWdHR091VGpINnlvVWhkRDNOai1FN3NDVUl0Q3c0OTlRb0diOW43NFpxU2E5NGUyUEZ4dVd2Y1BpZWln?oc=5\"",
+   "source": "fussballdaten.de",
+   "date": "2026-11-24T12:22:00.000Z",
    "fee": null,
    "clubs": [
-    "Barcelona",
-    "Barça"
+    "Liverpool"
    ],
    "tags": [
     "Gerücht"
@@ -373,17 +358,33 @@ window.FUPPES_DATA["transfers"] = {
    ]
   },
   {
-   "title": "Brisantes Detail im Musiala-Vertrag veröffentlicht",
-   "link": "https://www.kicker.de/brisantes-detail-im-musiala-vertrag-veroeffentlicht-1274498/artikel#omrss",
-   "summary": "Der Fall Jamal Musiala beschäftigt den FC Bayern. Nun berichtet der \"Stern\" über ein brisantes Detail aus dem Vertrag des 23-Jährigen - in Bezug auf die Lohnfortzahlung.",
-   "source": "kicker",
-   "date": "2026-11-24T09:26:52.000Z",
+   "title": "Fußball-Transfergerüchte heute: BVB-Star als Barça-Hauptziel – Alter Bekannter als Kane-Ersatz?",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBLMF9YVjQwdnQxbU1heTZsdVVHWXZzRW84T0stbHNRT0pTT3dRY3FsR2lwem5XeEZMaWtqbUpBcXJaVWRpR2xpSzQ2UXpPTVR5NmRzazM4TzM1NEhwUXg5bTlCaWdDX2ZFdWYzSFI4UlQ?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFBLMF9YVjQwdnQxbU1heTZsdVVHWXZzRW84T0stbHNRT0pTT3dRY3FsR2lwem5XeEZMaWtqbUpBcXJaVWRpR2xpSzQ2UXpPTVR5NmRzazM4TzM1NEhwUXg5bTlCaWdDX2ZFdWYzSFI4UlQ?oc=5\" target=\"_blank\">Fußball-Transfergerüchte heute: BVB-Star als Barça-Haupt",
+   "source": "90min.de",
+   "date": "2026-11-24T08:22:39.000Z",
    "fee": null,
    "clubs": [
-    "Bayern"
+    "BVB",
+    "Barça"
    ],
    "tags": [
-    "Vertrag"
+    "Gerücht"
+   ]
+  },
+  {
+   "title": "Real Madrid trifft Transfer-Entscheidung bei Bayern-Star Michael Olise",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZjBGVFVNbDhRNldSYzVYSEpWclNEMlZ6dUs3MzByeFBrU1Ytd1FQQ3JNeDV2cV9sd1RSN2Nwczk4bFdNX0U0YVNwTGNOeDRVdXB5eUdjYzEzbEh2WHg3RjYySkJvdEhfVV9zeWNGNHZROFpaR1pqa05VeW5XeVJBREFPeHBmTkJHbHVNSHlmLVktRFFrVmZSZXdpYmhRWlVNd0E?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOZjBGVFVNbDhRNldSYzVYSEpWclNEMlZ6dUs3MzByeFBrU1Ytd1FQQ3JNeDV2cV9sd1RSN2Nwczk4bFdNX0U0YVNwTGNOeDRVdXB5eUdjYzEzbEh2WHg3RjYySkJvdEhfVV9zeWNGNHZROFpaR1pqa05VeW5XeVJBREFPeHBmTkJHbHVNSHlmLVktRFFrVmZSZXdpYmhRWlVNd0E?oc=5\" targ",
+   "source": "fussballdaten.de",
+   "date": "2026-11-24T07:32:00.000Z",
+   "fee": null,
+   "clubs": [
+    "Bayern",
+    "Real Madrid"
+   ],
+   "tags": [
+    "Transfer"
    ]
   }
  ]
