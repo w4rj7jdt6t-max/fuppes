@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T13:37:41.558Z",
+ "updated": "2026-11-25T15:21:35.006Z",
  "rules": {
   "minFeeMio": 20,
   "topClubs": [
@@ -42,6 +42,34 @@
   ]
  },
  "items": [
+  {
+   "title": "Kane-Ersatz beim FC Bayern? Kalajdzic reagiert auf Transferidee",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbzM3a09BdGl0aU1VcmhZUm8wbXp1R3FfSWFRMk1qc3gtNFUtd083TjlCMEx2ekJyc2xhejhUYlJWd0VHTlN1LS1IcnM1THBhdjRCMU5xbS1saHdqelMxVlI5U282SThta2JKTmFkUzVhSm53cFk0eDAzbVAybHBfY2xPd0hBbWV1YWhSZ280aWZKZw?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNbzM3a09BdGl0aU1VcmhZUm8wbXp1R3FfSWFRMk1qc3gtNFUtd083TjlCMEx2ekJyc2xhejhUYlJWd0VHTlN1LS1IcnM1THBhdjRCMU5xbS1saHdqelMxVlI5U282SThta2JKTmFkUzVhSm53cFk0eDAzbVAybHBfY2xPd0hBbWV1YWhSZ280aWZKZw?oc=5\" target=\"_blank\">Kane-Ersa",
+   "source": "fussballdaten.de",
+   "date": "2026-11-25T15:05:00.000Z",
+   "fee": null,
+   "clubs": [
+    "Bayern"
+   ],
+   "tags": [
+    "Gerücht"
+   ]
+  },
+  {
+   "title": "Kane-Ersatz für Bayern: Überraschende Transfer-Empfehlung von Hamann",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNXdXUEYzYkV0cmcxVEVJRzRUWlVmMTg1WTR1SExZVXU1U1ZKZ2NaSzNoM0FvUDJOaWNmOVhlRzVfZGNnWnlMcEx5di1XZ0tEWWdvam5MUU9uWDJZbFFvRnB3Y3FpQXdDRFg5cVRfRXpMYmdZUkhVTlFhV3hINWJoRm5jVDNmd19qeC1QWlpZVWtVd3E0bHVzcUtwNkhoQUxmLXpIUHFJc054VVpCMlFWVGZ4WEw4SVg1cEE?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPNXdXUEYzYkV0cmcxVEVJRzRUWlVmMTg1WTR1SExZVXU1U1ZKZ2NaSzNoM0FvUDJOaWNmOVhlRzVfZGNnWnlMcEx5di1XZ0tEWWdvam5MUU9uWDJZbFFvRnB3Y3FpQXdDRFg5cVRfRXpMYmdZUkhVTlFhV3hINWJoRm5jVDNmd19qeC1QWlpZVWtVd3E0bHVzcUtwNkhoQUxmLXpIUHFJc054VV",
+   "source": "SPORT1",
+   "date": "2026-11-25T14:18:00.000Z",
+   "fee": null,
+   "clubs": [
+    "Bayern"
+   ],
+   "tags": [
+    "Transfer"
+   ]
+  },
   {
    "title": "Scharfe Kritik an Goretzka-Wechsel vom FC Bayern zu Aston Villa",
    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1fY2ZpWVBrZnlkR09DWk9xREk4ZHkzR19jY1JsTndqMTgzQkpNamZMa1JUWENZd1YzWlAzd3I2NFdJdkxtNGgySmtJRkRwaG5zOHNMbE9IZTJhV19VMmZTaEd5OW82elU1U3hvQ3dmQUdxV2ZvaW1tUThldHF3dw?oc=5",
@@ -201,20 +229,6 @@
    ]
   },
   {
-   "title": "1. FC Köln: Moore-Leihe von Tottenham könnte ablösefrei werden",
-   "link": "https://www.transfermarkt.de/ablosefrei-statt-millionen-gebuhr-so-wird-tottenhams-moore-fur-koln-zum-schnappchen/view/news/491191",
-   "summary": "Mikey Moore ist mit einem Marktwert von 18 Millionen Euro einer der zehn wertvollsten Teenager der Bundesliga und wird den 1. FC K&ouml;ln im Sommer wieder in Richtung Tottenham Hotspur verlassen....",
-   "source": "Transfermarkt",
-   "date": "2026-11-25T07:29:04.000Z",
-   "fee": 18,
-   "clubs": [
-    "Tottenham"
-   ],
-   "tags": [
-    "Leihe"
-   ]
-  },
-  {
    "title": "Für bis zu 40 Millionen Euro! BVB plant offenbar Transfercoup mit deutschem Nationalspieler",
    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNYlU5aWs5dkVvX01vYWlFaXNiTWk5LW5tdm8tM0xsNENCYnZpcEh3UkdJcFdoTUtkNE81ZHp1TzA1dHk4YzA0Uy1UZGdfQnFYcTk2d1o5ay1kcnd2aTk4bmZDcUZyZTR4dUNXcjBTSUg1WUw3cEhuRzh3QmtNRGNJdDFha0ZFdWMzcmI4VTZvSzFKZmtSTVd1MkdpNm4tNFpuTXhjM2ZoaU1RZUJsQzRYZGhVbVZvNmUxUnVQTVkxRXR3MHpuMlBOaEtRbm1qUXQ3TG1QM2RjMDR2R09lUE9Z?oc=5",
    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxNYlU5aWs5dkVvX01vYWlFaXNiTWk5LW5tdm8tM0xsNENCYnZpcEh3UkdJcFdoTUtkNE81ZHp1TzA1dHk4YzA0Uy1UZGdfQnFYcTk2d1o5ay1kcnd2aTk4bmZDcUZyZTR4dUNXcjBTSUg1WUw3cEhuRzh3QmtNRGNJdDFha0ZFdWMzcmI4VTZvSzFKZmtSTVd1MkdpNm4tNFpuTXhjM2ZoaU1RZU",
@@ -234,20 +248,6 @@
    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxObng0NXl4MldzUGNIcWQzc2VRdFh4WTVNX0pBSjYxM2NOUmVZTzdidThEU19MTXhtUmhVRkI5MDZ6cmJXRnY1Q1VXbm5FUXRHcVFIYU5NaVJmRC1JdmFnUkdTLVk0RjBGRjhBZkpJZHFkQkgzX0xuR09LbGJTUzNsNk9nZmtGUTVubkhka2hhemRzRTdqZlc0bS1WVjNEMjJFSzkySlY2RFk?oc",
    "source": "Fussball Europa",
    "date": "2026-11-25T06:26:01.000Z",
-   "fee": null,
-   "clubs": [
-    "BVB"
-   ],
-   "tags": [
-    "Transfer"
-   ]
-  },
-  {
-   "title": "„Sport Bild“: Eintracht-Profi Ebnoutalib Thema beim BVB – Wäre dritter Transfer dank Book",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQQ3ZObWl4QTcwOVlaSWZKcWM3bVJWSW9SSERzT01ldEZLcDQ4R21HMlFFdS15RURILXF5dkRXU0RVbkpiVDU4cFBDc1Z6a3hRSG96ZGttcXUzb2xHOEd4NWc3YTBVVFpDWWFtaGkxcGtrRHVfTHdkTU1lZ1hGVVhpT1BzMjlDenE5Um1qXzN6LTRkQlYtSzZnenNCMXhYT2U4OGRsQjlDWnl3c0N4ZkN2VC1PR3JabFljVVEzN1hmRXVweklaTGJFdFkwNEVrNGktb0E?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxQQ3ZObWl4QTcwOVlaSWZKcWM3bVJWSW9SSERzT01ldEZLcDQ4R21HMlFFdS15RURILXF5dkRXU0RVbkpiVDU4cFBDc1Z6a3hRSG96ZGttcXUzb2xHOEd4NWc3YTBVVFpDWWFtaGkxcGtrRHVfTHdkTU1lZ1hGVVhpT1BzMjlDenE5Um1qXzN6LTRkQlYtSzZnenNCMXhYT2U4OGRsQjlDWnl3c0",
-   "source": "Transfermarkt",
-   "date": "2026-11-25T05:54:00.000Z",
    "fee": null,
    "clubs": [
     "BVB"
@@ -328,6 +328,21 @@
    ]
   },
   {
+   "title": "FC Barcelona: 40-Millionen-Zugang für Barça?",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOeVNLbzh1UnNEbXZ2M0RGNUFxcVM3ZHV5RVh3YnFVSDd1UFpNNm5UX2prdWR2cmxWT2plRTNRY0VOMTItaWRVcENDeHVaVWV2VzlzUkREdXNldGtqdFBPdFYzS09mQXBIRXJPQjZ0SzhZWWJOMVdNU2d4X2hBeUR0T3dsZlBxSVNTczBPaEp3?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOeVNLbzh1UnNEbXZ2M0RGNUFxcVM3ZHV5RVh3YnFVSDd1UFpNNm5UX2prdWR2cmxWT2plRTNRY0VOMTItaWRVcENDeHVaVWV2VzlzUkREdXNldGtqdFBPdFYzS09mQXBIRXJPQjZ0SzhZWWJOMVdNU2d4X2hBeUR0T3dsZlBxSVNTczBPaEp3?oc=5\" target=\"_blank\">FC Barcelona: 4",
+   "source": "Fussball Transfers",
+   "date": "2026-11-24T11:37:27.000Z",
+   "fee": null,
+   "clubs": [
+    "Barcelona",
+    "Barça"
+   ],
+   "tags": [
+    "Gerücht"
+   ]
+  },
+  {
    "title": "Bayern-Star im Visier von PSG – Kommt es zum Blitz-Transfer?",
    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNUpObFQyOTBMNkd3R1U1aU9yU2VraVdRUmVLa3FQeEF6RVJweEQwaTZpVlBhaVktUkh4UDNYZzZPVHJXeXRRVUFLNGpyUVg4RzlmbEZQMTFzQXZEM1JBeW40ZWd1dFpyeVJnd1lQZTdTMDNWc1k4MDVYZ3FuSW5KQVkzYVZORG40?oc=5",
    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNUpObFQyOTBMNkd3R1U1aU9yU2VraVdRUmVLa3FQeEF6RVJweEQwaTZpVlBhaVktUkh4UDNYZzZPVHJXeXRRVUFLNGpyUVg4RzlmbEZQMTFzQXZEM1JBeW40ZWd1dFpyeVJnd1lQZTdTMDNWc1k4MDVYZ3FuSW5KQVkzYVZORG40?oc=5\" target=\"_blank\">Bayern-Star im Visier v",
@@ -368,21 +383,6 @@
    ],
    "tags": [
     "Vertrag"
-   ]
-  },
-  {
-   "title": "Fußball-Transfergerüchte heute: BVB-Star als Barça-Hauptziel – Alter Bekannter als Kane-Ersatz?",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBLMF9YVjQwdnQxbU1heTZsdVVHWXZzRW84T0stbHNRT0pTT3dRY3FsR2lwem5XeEZMaWtqbUpBcXJaVWRpR2xpSzQ2UXpPTVR5NmRzazM4TzM1NEhwUXg5bTlCaWdDX2ZFdWYzSFI4UlQ?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFBLMF9YVjQwdnQxbU1heTZsdVVHWXZzRW84T0stbHNRT0pTT3dRY3FsR2lwem5XeEZMaWtqbUpBcXJaVWRpR2xpSzQ2UXpPTVR5NmRzazM4TzM1NEhwUXg5bTlCaWdDX2ZFdWYzSFI4UlQ?oc=5\" target=\"_blank\">Fußball-Transfergerüchte heute: BVB-Star als Barça-Haupt",
-   "source": "90min.de",
-   "date": "2026-11-24T08:22:39.000Z",
-   "fee": null,
-   "clubs": [
-    "BVB",
-    "Barça"
-   ],
-   "tags": [
-    "Gerücht"
    ]
   }
  ]
