@@ -1,7 +1,17 @@
 window.FUPPES_DATA = window.FUPPES_DATA || {};
 window.FUPPES_DATA["news-fc"] = {
- "updated": "2026-11-25T09:27:11.685Z",
+ "updated": "2026-11-25T11:10:42.961Z",
  "items": [
+  {
+   "title": "Nur 44 Minuten gespielt: Dieser 30-jährige Offensivprofi des 1. FC Köln denkt an einen Wechsel",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQLUpFTmlGSUdhVURuUklfb1dGOE1TSVFLczJTSktaazg3a3ZnMExOWFVjOHlzTFVpa2p4amE4V3FQdXo4VEVUTTc2SXhhaDFmUm1sVElyRnR2OW90c2VmT21yZTIzUWQ4UDVLNElyd0s5cE16S08zRGFoeldwd09FMkNqR0hUMXU1b2xFdXdKNEpLaTNqMlFHeTFXcWRZSWJWcXA3Umh3emw2bGZ2ZGgxQUx4M1hkQQ?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQLUpFTmlGSUdhVURuUklfb1dGOE1TSVFLczJTSktaazg3a3ZnMExOWFVjOHlzTFVpa2p4amE4V3FQdXo4VEVUTTc2SXhhaDFmUm1sVElyRnR2OW90c2VmT21yZTIzUWQ4UDVLNElyd0s5cE16S08zRGFoeldwd09FMkNqR0hUMXU1b2xFdXdKNEpLaTNqMlFHeTFXcWRZSWJWcXA3Umh3emw2bG",
+   "source": "OP Online",
+   "date": "2026-11-25T10:41:07.000Z",
+   "tags": [
+    "Transfer"
+   ]
+  },
   {
    "title": "FC-Lazarett: Stürmer vor Comeback – Verteidiger nie mehr für Köln?",
    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNeGY4Q0Vnc0QxTnBjXzlKSWhEWkZvYjJYUmltdHM0Wmh6TGc3WkI2NTlPRC1TRWJrVTRfNXpmLWJNOW92ejJCbW5NWl9tS0dlS19vN1RfMVIxR2p6S3hvYTl1VFRfWWptVHIycksweUk3QW1iYnVKZko3cmtnZHpIWUxzVjkxaVdUSTFoRnZCbDBtQlZ1M1l1cm10OFBvQ0ZESW9TNnkwbEhqanY2R1dGamxoVjJDbi1EWTNkZVprMEM?oc=5",
@@ -146,6 +156,17 @@ window.FUPPES_DATA["news-fc"] = {
    ]
   },
   {
+   "title": "Bei Remis gegen Köln: Bayerns Kane und Olise verletzt ausgewechselt",
+   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPVGhwUENVSVlibXlNdE5wVVVKODJpT21rNHlNZFk3VmFzRWdRU2Rob0c2bVNzMDZqcEN3OFhvLUczQ1p4RVNnVnRBZTNnMWs5RWEwektIQnQ1R3F5VG91bGl4RGtGZDA0dkl2THhsaGZWNnJHWWF4VzZKRWUzR2x5R2FtajQ2SG04UzloZnJzWVlTM0lkRHBrTFFaVHdiWHQwRldfNmxZc2VhZ21MUUJ4RkMxaVNIb1B0b2ItYUFxbkt1QmtBbVdsd1pfSm1qZVZ5UzNWWVc1aVRiWTBiWlNORlNaRWRnR2REUmRQMW9n?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxPVGhwUENVSVlibXlNdE5wVVVKODJpT21rNHlNZFk3VmFzRWdRU2Rob0c2bVNzMDZqcEN3OFhvLUczQ1p4RVNnVnRBZTNnMWs5RWEwektIQnQ1R3F5VG91bGl4RGtGZDA0dkl2THhsaGZWNnJHWWF4VzZKRWUzR2x5R2FtajQ2SG04UzloZnJzWVlTM0lkRHBrTFFaVHdiWHQwRldfNmxZc2VhZ2",
+   "source": "sportschau.de",
+   "date": "2026-11-23T08:00:00.000Z",
+   "tags": [
+    "Fix",
+    "Personal"
+   ]
+  },
+  {
    "title": "Nordrhein-Westfalen: Sportchef Kessler stellt sich hinter Köln-Trainer Wagner",
    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSEIyR00xLTE1Z05EWmtXUDE2eXkxZU1QVU1acFF0ekdyUU0tVVQ4cXFuMzZBWDNPMHRyMEk0eUxlVXdmRFNxeERCUFpqNk5WSDU4YlM4elcyQ2dQZ01QRDV1UnpHTDk2MzFrZnI4dThOdVl4R2NHSDk0MktOUU5qUG4wdldrcGtBMWhnNFNzOWMzdzYwXzJuLXo3Q3pOX01kWkRPekdfUW9xb0ltd0JMcGZfZGdHQ3ZRdFBDZHBhNHFZQQ?oc=5",
    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSEIyR00xLTE1Z05EWmtXUDE2eXkxZU1QVU1acFF0ekdyUU0tVVQ4cXFuMzZBWDNPMHRyMEk0eUxlVXdmRFNxeERCUFpqNk5WSDU4YlM4elcyQ2dQZ01QRDV1UnpHTDk2MzFrZnI4dThOdVl4R2NHSDk0MktOUU5qUG4wdldrcGtBMWhnNFNzOWMzdzYwXzJuLXo3Q3pOX01kWkRPekdfUW9xb0",
@@ -176,34 +197,12 @@ window.FUPPES_DATA["news-fc"] = {
    ]
   },
   {
-   "title": "Bei Remis gegen Köln: Bayerns Kane und Olise verletzt ausgewechselt",
-   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPVGhwUENVSVlibXlNdE5wVVVKODJpT21rNHlNZFk3VmFzRWdRU2Rob0c2bVNzMDZqcEN3OFhvLUczQ1p4RVNnVnRBZTNnMWs5RWEwektIQnQ1R3F5VG91bGl4RGtGZDA0dkl2THhsaGZWNnJHWWF4VzZKRWUzR2x5R2FtajQ2SG04UzloZnJzWVlTM0lkRHBrTFFaVHdiWHQwRldfNmxZc2VhZ21MUUJ4RkMxaVNIb1B0b2ItYUFxbkt1QmtBbVdsd1pfSm1qZVZ5UzNWWVc1aVRiWTBiWlNORlNaRWRnR2REUmRQMW9n?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxPVGhwUENVSVlibXlNdE5wVVVKODJpT21rNHlNZFk3VmFzRWdRU2Rob0c2bVNzMDZqcEN3OFhvLUczQ1p4RVNnVnRBZTNnMWs5RWEwektIQnQ1R3F5VG91bGl4RGtGZDA0dkl2THhsaGZWNnJHWWF4VzZKRWUzR2x5R2FtajQ2SG04UzloZnJzWVlTM0lkRHBrTFFaVHdiWHQwRldfNmxZc2VhZ2",
-   "source": "sportschau.de",
-   "date": "2026-11-21T00:55:03.000Z",
-   "tags": [
-    "Fix",
-    "Personal"
-   ]
-  },
-  {
    "title": "FC Bayern spielt 1:1 gegen Köln: Kane und Olise verletzt - Sport - SZ.de",
    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOY0J6cFA4U19YX3BobEFaSzR1VmhEbUdQN0tTalBWZGp5bjBld2VoclRpS1JtTlZRRkhabklndGJKQURud1VsdjRjdngtRExRTlR2Q1FGc21XTXdfbWFpeHNWb1RGdUtaeGROS1FLbC1KbHllYmNKNU40UHlEUnk4dy1peWF6UQ?oc=5",
    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxOY0J6cFA4U19YX3BobEFaSzR1VmhEbUdQN0tTalBWZGp5bjBld2VoclRpS1JtTlZRRkhabklndGJKQURud1VsdjRjdngtRExRTlR2Q1FGc21XTXdfbWFpeHNWb1RGdUtaeGROS1FLbC1KbHllYmNKNU40UHlEUnk4dy1peWF6UQ?oc=5\" target=\"_blank\">FC Bayern spielt 1:1 gege",
    "source": "SZ.de",
    "date": "2026-11-20T23:30:30.000Z",
    "tags": [
-    "Personal"
-   ]
-  },
-  {
-   "title": "Bayern-Star Harry Kane gegen Köln ausgewechselt - auch Olise verletzt",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQ0xVaElGaUUwamZvRXhEUjRqbjN1S19HWmo1WXAtLUU1c0RYYlozSkJhZmFXUWh6NkVJVlA3ci1pX1J1QW51WG50Z1NqbHVJd2U4Nmp4RndXbjgySEpwR3J3NTlPZG4xV0NjR1pFWC16ekJlbG5aQ0FkV2lGaTFROHl6UUhJNDhURXlZNmxGRkE5RGNSeXVTMndUVkNITzBkeTlWcjNJX3poczZoSG40?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPQ0xVaElGaUUwamZvRXhEUjRqbjN1S19HWmo1WXAtLUU1c0RYYlozSkJhZmFXUWh6NkVJVlA3ci1pX1J1QW51WG50Z1NqbHVJd2U4Nmp4RndXbjgySEpwR3J3NTlPZG4xV0NjR1pFWC16ekJlbG5aQ0FkV2lGaTFROHl6UUhJNDhURXlZNmxGRkE5RGNSeXVTMndUVkNITzBkeTlWcjNJX3pocz",
-   "source": "Sky.de",
-   "date": "2026-11-20T22:48:00.000Z",
-   "tags": [
-    "Fix",
     "Personal"
    ]
   }

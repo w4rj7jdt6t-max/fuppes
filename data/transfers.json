@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T09:27:13.211Z",
+ "updated": "2026-11-25T11:10:44.468Z",
  "rules": {
   "minFeeMio": 20,
   "topClubs": [
@@ -42,6 +42,48 @@
   ]
  },
  "items": [
+  {
+   "title": "FC Bayern äußert sich zu Gerüchten um Musiala",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVFR0bEdYaDJVS2llbDlNcW9PbXlzbFFsY0haaGUxS1FEM1cyME80V05BX0h2Z0QwVERDOHJjUFRlbllOLVhpVWQ0ajd4WW9GNzFFOV9Bd2JtbjNoTEFjZGtGbjAzaVlIcjdlZVJlMDJLeFdPdmVBY1hrbmdqeDM5a1hzbFo2MU5lMDhQemFRYzBGNDFyX2wtME9vM1JpMkt1V3pMck9wek1RMEVHOENtVUFTQQ?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQVFR0bEdYaDJVS2llbDlNcW9PbXlzbFFsY0haaGUxS1FEM1cyME80V05BX0h2Z0QwVERDOHJjUFRlbllOLVhpVWQ0ajd4WW9GNzFFOV9Bd2JtbjNoTEFjZGtGbjAzaVlIcjdlZVJlMDJLeFdPdmVBY1hrbmdqeDM5a1hzbFo2MU5lMDhQemFRYzBGNDFyX2wtME9vM1JpMkt1V3pMck9wek1RME",
+   "source": "WEB.DE",
+   "date": "2026-11-25T10:28:50.000Z",
+   "fee": null,
+   "clubs": [
+    "Bayern"
+   ],
+   "tags": [
+    "Gerücht"
+   ]
+  },
+  {
+   "title": "\"Weil es Gerüchte gab ...\": FC Bayern stellt klar: Erste Musiala-Untersuchung im April 2025",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZXNPdnJzdGFLVXRBU1VyZ3p0dENJTFdIVVAzd3JsUHVfVl9mcWN4NVBWaGNfelE0cHhFUHlrSW1RRVB4eHhKdGdleVAzallySlJVcmU5VEwzcFVuU3BLSHJDV0JpUWY1WE0zN3F6TU1tdS1feVVxemVmV1BKbWNLdXZOZVpiRnZkTjdDMjg4cm1UajNPY0IyeHpWcERMNjRVRXR0SHRVU2pybF9vUmxSSDNNOA?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPZXNPdnJzdGFLVXRBU1VyZ3p0dENJTFdIVVAzd3JsUHVfVl9mcWN4NVBWaGNfelE0cHhFUHlrSW1RRVB4eHhKdGdleVAzallySlJVcmU5VEwzcFVuU3BLSHJDV0JpUWY1WE0zN3F6TU1tdS1feVVxemVmV1BKbWNLdXZOZVpiRnZkTjdDMjg4cm1UajNPY0IyeHpWcERMNjRVRXR0SHRVU2pybF",
+   "source": "n-tv.de",
+   "date": "2026-11-25T09:45:00.000Z",
+   "fee": null,
+   "clubs": [
+    "Bayern"
+   ],
+   "tags": [
+    "Gerücht"
+   ]
+  },
+  {
+   "title": "Neuer Transferplan bei BVB-Flirt Marcel Regula enthüllt",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVE5FUXlRWldZZHJEd18zYlB5MFREWk9RT1FrRVp4SXRzVDdxczh1VzRRMkR6N1E1WDEyRzZCZzdUZUtIbXRJWlBmMlBMMFlXY1U0dk1Fc0pZTFJRQXB2dzZCQ3NGajh3b3MyNnhkTkVtREgwbHZsakFwU3htRXpwVDQ5S2IwWjhnQlVuTE11Wnc?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNVE5FUXlRWldZZHJEd18zYlB5MFREWk9RT1FrRVp4SXRzVDdxczh1VzRRMkR6N1E1WDEyRzZCZzdUZUtIbXRJWlBmMlBMMFlXY1U0dk1Fc0pZTFJRQXB2dzZCQ3NGajh3b3MyNnhkTkVtREgwbHZsakFwU3htRXpwVDQ5S2IwWjhnQlVuTE11Wnc?oc=5\" target=\"_blank\">Neuer Transf",
+   "source": "fussballdaten.de",
+   "date": "2026-11-25T09:33:00.000Z",
+   "fee": null,
+   "clubs": [
+    "BVB"
+   ],
+   "tags": [
+    "Transfer"
+   ]
+  },
   {
    "title": "\"Die Ablöse war indiskutabel\": Transfer von Bayern-Star Michael Olise scheiterte am Geld",
    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPdGNaTDZHUVZSZGszS2tVOHIzV05BZ05zMGZseUFUdEc0ckljZWhmRGlwYzFiUUxjaE5xTUtwYkxnYUtOdWwwbFhnT3BMWlF2LWJoNWV1S2RQV21RRXJJc3VMVXBtbzZlM0cxWkl3czJycThCVEFRRUtESnRsNWl2aGxSeXRwdDFoem9MZ2pHemwwcXBOMUhRM3lQUFhFbWc1UzVJTmNjMERvWlRCMUhWcng5MFlQcFJnTTUtSW9fZFVvZTQwa2dRdGJsVGl4cDVBbDF2elN1dmc?oc=5",
@@ -131,7 +173,7 @@
   {
    "title": "Eintracht Frankfurt: BVB beschäftigt sich mit Younes Ebnoutalib",
    "link": "https://www.transfermarkt.de/-sport-bild-quot-eintracht-profi-ebnoutalib-thema-beim-bvb-ware-dritter-transfer-dank-book/view/news/491189",
-   "summary": "Younes Ebnoutalib wechselte im Januar 2024 f&uuml;r 50.000 Euro vom FC Gie&szlig;en zur SV Elversberg. Genau ein Jahr sp&auml;ter ging er f&uuml;r 8 Millionen Euro zu Eintracht Frankfurt &ndash;...",
+   "summary": "Younes Ebnoutalib wechselte im Januar 2025 f&uuml;r 50.000 Euro vom FC Gie&szlig;en zur SV Elversberg. Genau ein Jahr sp&auml;ter ging er f&uuml;r 8 Millionen Euro zu Eintracht Frankfurt &ndash;...",
    "source": "Transfermarkt",
    "date": "2026-11-25T05:54:10.000Z",
    "fee": 8,
@@ -201,48 +243,6 @@
    "tags": [
     "Fix",
     "Verein"
-   ]
-  },
-  {
-   "title": "Als es zwischen dem BVB und Amoroso eskalierte - Sogar die FIFA war im Spiel",
-   "link": "https://www.transfermarkt.de/als-es-zwischen-dem-bvb-und-amoroso-eskalierte-echte-diva-quot-verweigerte-ruckkehr/view/news/491169",
-   "summary": "Transferverhandlungen k&ouml;nnen z&auml;h, langwierig und voller Stolpersteine sein. Profis wollen ihren Wechsel zu ihrem Wunschklub mitunter erzwingen und nehmen daf&uuml;r reichlich &Auml;rger...",
-   "source": "Transfermarkt",
-   "date": "2026-11-24T20:30:00.000Z",
-   "fee": null,
-   "clubs": [
-    "BVB"
-   ],
-   "tags": [
-    "Transfer"
-   ]
-  },
-  {
-   "title": "Tottenham belohnt Talent Williams-Barnett mit neuem Vertrag",
-   "link": "https://www.transfermarkt.de/tor-und-vorlage-tottenham-belohnt-matchwinner-williams-barnett-mit-neuem-vertrag/view/news/491177",
-   "summary": "Tottenham Hotspur hat den Vertrag mit Eigengew&auml;chs Luca Williams-Barnett verl&auml;ngert. Der 18-J&auml;hrige, der in den vergangenen Wochen einen traumhaften Start in der Premier League...",
-   "source": "Transfermarkt",
-   "date": "2026-11-24T19:31:35.000Z",
-   "fee": null,
-   "clubs": [
-    "Tottenham"
-   ],
-   "tags": [
-    "Vertrag"
-   ]
-  },
-  {
-   "title": "Guirassy spricht über BVB-Verlängerung und Ballon d’Or",
-   "link": "https://www.transfermarkt.de/guirassy-unter-besten-sturmern-auf-platz-4-oder-5-quot-kann-sich-bvb-verlangerung-vorstellen/view/news/491173",
-   "summary": "Serhou Guirassy ist beim BVB wieder gl&uuml;cklich, das beteuert der Angreifer, dessen Vertrag bis 2028 l&auml;uft. Im Gespr&auml;ch mit der &bdquo;Bild&ldquo;-Zeitung verr&auml;t er, auf welcher...",
-   "source": "Transfermarkt",
-   "date": "2026-11-24T18:04:21.000Z",
-   "fee": null,
-   "clubs": [
-    "BVB"
-   ],
-   "tags": [
-    "Vertrag"
    ]
   },
   {
