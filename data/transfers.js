@@ -1,6 +1,6 @@
 window.FUPPES_DATA = window.FUPPES_DATA || {};
 window.FUPPES_DATA["transfers"] = {
- "updated": "2026-11-25T07:39:05.127Z",
+ "updated": "2026-11-25T09:27:13.211Z",
  "rules": {
   "minFeeMio": 20,
   "topClubs": [
@@ -44,6 +44,50 @@ window.FUPPES_DATA["transfers"] = {
  },
  "items": [
   {
+   "title": "\"Die Ablöse war indiskutabel\": Transfer von Bayern-Star Michael Olise scheiterte am Geld",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPdGNaTDZHUVZSZGszS2tVOHIzV05BZ05zMGZseUFUdEc0ckljZWhmRGlwYzFiUUxjaE5xTUtwYkxnYUtOdWwwbFhnT3BMWlF2LWJoNWV1S2RQV21RRXJJc3VMVXBtbzZlM0cxWkl3czJycThCVEFRRUtESnRsNWl2aGxSeXRwdDFoem9MZ2pHemwwcXBOMUhRM3lQUFhFbWc1UzVJTmNjMERvWlRCMUhWcng5MFlQcFJnTTUtSW9fZFVvZTQwa2dRdGJsVGl4cDVBbDF2elN1dmc?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxPdGNaTDZHUVZSZGszS2tVOHIzV05BZ05zMGZseUFUdEc0ckljZWhmRGlwYzFiUUxjaE5xTUtwYkxnYUtOdWwwbFhnT3BMWlF2LWJoNWV1S2RQV21RRXJJc3VMVXBtbzZlM0cxWkl3czJycThCVEFRRUtESnRsNWl2aGxSeXRwdDFoem9MZ2pHemwwcXBOMUhRM3lQUFhFbWc1UzVJTmNjMERvWl",
+   "source": "SPOX.com",
+   "date": "2026-11-25T09:23:36.000Z",
+   "fee": null,
+   "clubs": [
+    "Bayern"
+   ],
+   "tags": [
+    "Transfer"
+   ]
+  },
+  {
+   "title": "Fußball-Transfergerüchte heute: Premier-League-Duo denkt an Musiala-Vorstoß – Barça heiß auf BVB-Juwel",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1UUmFaaE9vUTkyd3lDSGtfWU1UUXBlYlMzZHc1OWNQWjFEY1FFODZRT0dWbUs3bWh4VldzLVFzRktvcFVzYlRYRGdHMld3Q1RQeVNQT3paN3ctWGVQeFR1VFFYMDVEb1d2MDFWZnRJN3Y?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE1UUmFaaE9vUTkyd3lDSGtfWU1UUXBlYlMzZHc1OWNQWjFEY1FFODZRT0dWbUs3bWh4VldzLVFzRktvcFVzYlRYRGdHMld3Q1RQeVNQT3paN3ctWGVQeFR1VFFYMDVEb1d2MDFWZnRJN3Y?oc=5\" target=\"_blank\">Fußball-Transfergerüchte heute: Premier-League-Duo denkt",
+   "source": "90min.de",
+   "date": "2026-11-25T08:54:25.000Z",
+   "fee": null,
+   "clubs": [
+    "BVB",
+    "Barça"
+   ],
+   "tags": [
+    "Gerücht"
+   ]
+  },
+  {
+   "title": "BVB zeigt Interesse an DFB-Star – Dortmund hat großen Vorteil",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPekNHX1JFSTlSdXprS2pfZVlTRnRlOS14aHE5U2VmUDZKaHYwZVFlWS1OekdTRE0xQjU1cldOVjV1NGY5YWljejVQMXlRYzBsZ3FSTUZtcVZWdWtzUzRaT0xXTmdEQkl0WTFZM1BROUxTS3lOTlRuS0l5RlNCR1VSVXBjYnBuOUxkTzhOSklnV2lkQQ?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPekNHX1JFSTlSdXprS2pfZVlTRnRlOS14aHE5U2VmUDZKaHYwZVFlWS1OekdTRE0xQjU1cldOVjV1NGY5YWljejVQMXlRYzBsZ3FSTUZtcVZWdWtzUzRaT0xXTmdEQkl0WTFZM1BROUxTS3lOTlRuS0l5RlNCR1VSVXBjYnBuOUxkTzhOSklnV2lkQQ?oc=5\" target=\"_blank\">BVB zeigt",
+   "source": "fussballdaten.de",
+   "date": "2026-11-25T08:10:00.000Z",
+   "fee": null,
+   "clubs": [
+    "Dortmund",
+    "BVB"
+   ],
+   "tags": [
+    "Gerücht"
+   ]
+  },
+  {
    "title": "1. FC Köln: Moore-Leihe von Tottenham könnte ablösefrei werden",
    "link": "https://www.transfermarkt.de/ablosefrei-statt-millionen-gebuhr-so-wird-tottenhams-moore-fur-koln-zum-schnappchen/view/news/491191",
    "summary": "Mikey Moore ist mit einem Marktwert von 18 Millionen Euro einer der zehn wertvollsten Teenager der Bundesliga und wird den 1. FC K&ouml;ln im Sommer wieder in Richtung Tottenham Hotspur verlassen....",
@@ -58,11 +102,11 @@ window.FUPPES_DATA["transfers"] = {
    ]
   },
   {
-   "title": "Für bis zu 40 Millionen Euro! BVB plant offenbar Transfercoup von deutschem Nationalspieler",
+   "title": "Für bis zu 40 Millionen Euro! BVB plant offenbar Transfercoup mit deutschem Nationalspieler",
    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNYlU5aWs5dkVvX01vYWlFaXNiTWk5LW5tdm8tM0xsNENCYnZpcEh3UkdJcFdoTUtkNE81ZHp1TzA1dHk4YzA0Uy1UZGdfQnFYcTk2d1o5ay1kcnd2aTk4bmZDcUZyZTR4dUNXcjBTSUg1WUw3cEhuRzh3QmtNRGNJdDFha0ZFdWMzcmI4VTZvSzFKZmtSTVd1MkdpNm4tNFpuTXhjM2ZoaU1RZUJsQzRYZGhVbVZvNmUxUnVQTVkxRXR3MHpuMlBOaEtRbm1qUXQ3TG1QM2RjMDR2R09lUE9Z?oc=5",
    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxNYlU5aWs5dkVvX01vYWlFaXNiTWk5LW5tdm8tM0xsNENCYnZpcEh3UkdJcFdoTUtkNE81ZHp1TzA1dHk4YzA0Uy1UZGdfQnFYcTk2d1o5ay1kcnd2aTk4bmZDcUZyZTR4dUNXcjBTSUg1WUw3cEhuRzh3QmtNRGNJdDFha0ZFdWMzcmI4VTZvSzFKZmtSTVd1MkdpNm4tNFpuTXhjM2ZoaU1RZU",
    "source": "SPOX.com",
-   "date": "2026-11-25T06:54:31.000Z",
+   "date": "2026-11-25T06:54:15.000Z",
    "fee": 40,
    "clubs": [
     "BVB"
@@ -86,7 +130,7 @@ window.FUPPES_DATA["transfers"] = {
    ]
   },
   {
-   "title": "BVB beschäftigt sich mit Eintracht-Stürmer Ebnoutalib",
+   "title": "Eintracht Frankfurt: BVB beschäftigt sich mit Younes Ebnoutalib",
    "link": "https://www.transfermarkt.de/-sport-bild-quot-eintracht-profi-ebnoutalib-thema-beim-bvb-ware-dritter-transfer-dank-book/view/news/491189",
    "summary": "Younes Ebnoutalib wechselte im Januar 2024 f&uuml;r 50.000 Euro vom FC Gie&szlig;en zur SV Elversberg. Genau ein Jahr sp&auml;ter ging er f&uuml;r 8 Millionen Euro zu Eintracht Frankfurt &ndash;...",
    "source": "Transfermarkt",
@@ -246,20 +290,6 @@ window.FUPPES_DATA["transfers"] = {
    ]
   },
   {
-   "title": "Van Dijk vor Abschied aus Liverpool – italienischer Gigant zeigt Interesse",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNb3dnRGdJc3dJd01fVWcyeXBCODdYU20wUXQ0ckZ3by0tdEZIZXdUekx2R01lSEphdGFhbGlEUGVQejZ1UlAyV2EtVWx1S3Nza193N0ZieTJ6cjI0R0dtZEJaNkVmVzV2NkNHMWdHR091VGpINnlvVWhkRDNOai1FN3NDVUl0Q3c0OTlRb0diOW43NFpxU2E5NGUyUEZ4dVd2Y1BpZWln?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNb3dnRGdJc3dJd01fVWcyeXBCODdYU20wUXQ0ckZ3by0tdEZIZXdUekx2R01lSEphdGFhbGlEUGVQejZ1UlAyV2EtVWx1S3Nza193N0ZieTJ6cjI0R0dtZEJaNkVmVzV2NkNHMWdHR091VGpINnlvVWhkRDNOai1FN3NDVUl0Q3c0OTlRb0diOW43NFpxU2E5NGUyUEZ4dVd2Y1BpZWln?oc=5\"",
-   "source": "fussballdaten.de",
-   "date": "2026-11-24T12:22:00.000Z",
-   "fee": null,
-   "clubs": [
-    "Liverpool"
-   ],
-   "tags": [
-    "Gerücht"
-   ]
-  },
-  {
    "title": "Bayern-Star im Visier von PSG – Kommt es zum Blitz-Transfer?",
    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNUpObFQyOTBMNkd3R1U1aU9yU2VraVdRUmVLa3FQeEF6RVJweEQwaTZpVlBhaVktUkh4UDNYZzZPVHJXeXRRVUFLNGpyUVg4RzlmbEZQMTFzQXZEM1JBeW40ZWd1dFpyeVJnd1lQZTdTMDNWc1k4MDVYZ3FuSW5KQVkzYVZORG40?oc=5",
    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNUpObFQyOTBMNkd3R1U1aU9yU2VraVdRUmVLa3FQeEF6RVJweEQwaTZpVlBhaVktUkh4UDNYZzZPVHJXeXRRVUFLNGpyUVg4RzlmbEZQMTFzQXZEM1JBeW40ZWd1dFpyeVJnd1lQZTdTMDNWc1k4MDVYZ3FuSW5KQVkzYVZORG40?oc=5\" target=\"_blank\">Bayern-Star im Visier v",
@@ -358,34 +388,6 @@ window.FUPPES_DATA["transfers"] = {
    ],
    "tags": [
     "Gerücht"
-   ]
-  },
-  {
-   "title": "BVB: Books einziger Transferflop",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOV1hPMWo1OWpyVUZGNU42WVhQbDg0cWt5MDBRUFR0ZlBfcy0wOEdXSEI2NWQyM25GMlVvdGVZejZGSVMwcGZid2Y3VVhYTktBendPVE5VaEZsTlRmSjF0MVBsY2wyUzVhU0hIa2JSOTF6dHFzaEdQcjNCMjQyU1FISnFCWVZzMkdyUlVsUnJzcw?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxOV1hPMWo1OWpyVUZGNU42WVhQbDg0cWt5MDBRUFR0ZlBfcy0wOEdXSEI2NWQyM25GMlVvdGVZejZGSVMwcGZid2Y3VVhYTktBendPVE5VaEZsTlRmSjF0MVBsY2wyUzVhU0hIa2JSOTF6dHFzaEdQcjNCMjQyU1FISnFCWVZzMkdyUlVsUnJzcw?oc=5\" target=\"_blank\">BVB: Books ei",
-   "source": "Fussball Transfers",
-   "date": "2026-11-23T20:20:32.000Z",
-   "fee": null,
-   "clubs": [
-    "BVB"
-   ],
-   "tags": [
-    "Transfer"
-   ]
-  },
-  {
-   "title": "Transfer-Poker: Barça fordert 40 Millionen für Balde",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQ1o1TXNRalRtQjRIekxFdlFGcV9razNCVVgzOVNvS19Gb01JdWx1ZGZPVFBha3ZmMzVMYUQycnlPeEE2TG54MXp3dU05elpLRXBSbnpDMTNBeFRLakhRZW9tRUVJZG42TUh4eUR5YXpMLURxbVBlVlo0MVZpMUQzUGZPZWphWGNRakxKWGRFUHphYlpMclhBRmhR?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQQ1o1TXNRalRtQjRIekxFdlFGcV9razNCVVgzOVNvS19Gb01JdWx1ZGZPVFBha3ZmMzVMYUQycnlPeEE2TG54MXp3dU05elpLRXBSbnpDMTNBeFRLakhRZW9tRUVJZG42TUh4eUR5YXpMLURxbVBlVlo0MVZpMUQzUGZPZWphWGNRakxKWGRFUHphYlpMclhBRmhR?oc=5\" target=\"_blank\"",
-   "source": "Fussball Europa",
-   "date": "2026-11-23T20:03:01.000Z",
-   "fee": 40,
-   "clubs": [
-    "Barça"
-   ],
-   "tags": [
-    "Transfer"
    ]
   }
  ]
