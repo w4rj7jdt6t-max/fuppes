@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T03:12:01.517Z",
+ "updated": "2026-11-25T05:22:28.451Z",
  "rules": {
   "minFeeMio": 20,
   "topClubs": [
@@ -42,6 +42,20 @@
   ]
  },
  "items": [
+  {
+   "title": "Borussia Dortmund diskutiert über Transfer von DFB-Star",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZ3BCU1JXdWJuY2I0YS14c1FFajlSSnUwOXM4RkNQaUUyU3ZLMVBJdWE5V3AzLVB4MGdGVi1MYnMzSVN5ZldHbkRuNFhLNEthX2xvR1JTNzNDSWhrZlp2REp3WlJaQ3JKcTRjZmc4M3BzRUF3cERmc29FamNkR3ZaLTUxN0FjRGNCOHRLN0UwbmVkQWRDVExTYXVieUtsYkJZTDhTTktldEFBaWUwSXhTRkV5RVBrYms?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPZ3BCU1JXdWJuY2I0YS14c1FFajlSSnUwOXM4RkNQaUUyU3ZLMVBJdWE5V3AzLVB4MGdGVi1MYnMzSVN5ZldHbkRuNFhLNEthX2xvR1JTNzNDSWhrZlp2REp3WlJaQ3JKcTRjZmc4M3BzRUF3cERmc29FamNkR3ZaLTUxN0FjRGNCOHRLN0UwbmVkQWRDVExTYXVieUtsYkJZTDhTTktldEFBaW",
+   "source": "BILD",
+   "date": "2026-11-25T03:47:42.000Z",
+   "fee": null,
+   "clubs": [
+    "Dortmund"
+   ],
+   "tags": [
+    "Transfer"
+   ]
+  },
   {
    "title": "Beier und Gadou sei Dank: BVB holt Punkt bei Arsenal – Leipzig bleibt im Rennen",
    "link": "https://www.transfermarkt.de/beier-und-gadou-sei-dank-bvb-holt-punkt-bei-arsenal-leipzig-bleibt-im-rennen/view/news/491183",
@@ -233,6 +247,20 @@
    ]
   },
   {
+   "title": "BVB kassiert krachende Transfer-Absage",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNTV9na0pLcHg2ZjVKMXRSZzVUVkNnQU11WUNJbTNwbkdOeFkyMmJiZTVya1gxSmxvY1djWTB6aDdYN3lhMmp2YTNqbjY5XzJpZDY5ZnplNVhnMWJLNUE5YnZVaFljN3NkaXV5djNiZVVJam13NGpLV1BwaC1lRTNBT1F3?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNTV9na0pLcHg2ZjVKMXRSZzVUVkNnQU11WUNJbTNwbkdOeFkyMmJiZTVya1gxSmxvY1djWTB6aDdYN3lhMmp2YTNqbjY5XzJpZDY5ZnplNVhnMWJLNUE5YnZVaFljN3NkaXV5djNiZVVJam13NGpLV1BwaC1lRTNBT1F3?oc=5\" target=\"_blank\">BVB kassiert krachende Transfer",
+   "source": "sport.de",
+   "date": "2026-11-24T06:50:00.000Z",
+   "fee": null,
+   "clubs": [
+    "BVB"
+   ],
+   "tags": [
+    "Transfer"
+   ]
+  },
+  {
    "title": "FC Bayern, News und Gerüchte: Spektakulärer Transfer von Oliver Baumann? Hoffenheim-Boss öffnet die Tür",
    "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOT1dzOEl5Vmxva0lnZGp3ZUxGcy1lMks5NTZEV25aOXBXOXdFNTRrZ2xLVDdlUk1tRE5MNmRGWk80WFdCWG9zN3lEM21KdlU3ZGhMS0YzYUVNamI4UHhWdlNRbkdDVHM5SVpWb0Rja010T2xxaFJzRVE0cXdla0xiNzkwcFI2QlJUQ3ppN1NQeVlCcVdhTUcwb083cDlwNjQ2b0w4ZkhzSUhBRnk3SXhRZlBfQVhQUF9henlhSXlNeFRBb2xSQzJvY0RCSUZYcFZhMEJQNXdaTVE3SnpzZWlONjQ0dkd5VGZtdDE0cE1GbTQ?oc=5",
    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxOT1dzOEl5Vmxva0lnZGp3ZUxGcy1lMks5NTZEV25aOXBXOXdFNTRrZ2xLVDdlUk1tRE5MNmRGWk80WFdCWG9zN3lEM21KdlU3ZGhMS0YzYUVNamI4UHhWdlNRbkdDVHM5SVpWb0Rja010T2xxaFJzRVE0cXdla0xiNzkwcFI2QlJUQ3ppN1NQeVlCcVdhTUcwb083cDlwNjQ2b0w4ZkhzSUhBRn",
@@ -356,35 +384,6 @@
     "Eintracht Frankfurt",
     "Frankfurt",
     "AC Mailand"
-   ],
-   "tags": [
-    "Transfer"
-   ]
-  },
-  {
-   "title": "Eintracht Frankfurt: Mini-Ablöse für Joti Chatzialexiou",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPai1XQnllMDFIbjYxZU0xY1p5U2ZlT2J2ZzBoOVFWbDFyRllxMkFWcnpqa1NnLVZXblUtRTA4QTZFVHNSeFlaLXppR0tHVnBDQVB0Ylhab1JlU0tzZzJDb2hldlhTVUEtbi1kWHkwODJaX2QzUFQ3WG5BcGgzSXpCQmlyV0ZEQjVHWWNibWF4WnpERUxIdDUwLXRBSXA?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPai1XQnllMDFIbjYxZU0xY1p5U2ZlT2J2ZzBoOVFWbDFyRllxMkFWcnpqa1NnLVZXblUtRTA4QTZFVHNSeFlaLXppR0tHVnBDQVB0Ylhab1JlU0tzZzJDb2hldlhTVUEtbi1kWHkwODJaX2QzUFQ3WG5BcGgzSXpCQmlyV0ZEQjVHWWNibWF4WnpERUxIdDUwLXRBSXA?oc=5\" target=\"_bla",
-   "source": "Fussball Transfers",
-   "date": "2026-11-23T13:31:00.000Z",
-   "fee": null,
-   "clubs": [
-    "Eintracht Frankfurt",
-    "Frankfurt"
-   ],
-   "tags": [
-    "Transfer"
-   ]
-  },
-  {
-   "title": "Fünf Millionen für die Eintracht: Milan macht Krösche-Wechsel klar",
-   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNQU1jQ3BWSEVjUEpSUk90MUdhWncxWDFVTzN6MnBxY0tzMFJiYnRpcVh2SVdCdmlhUkFHbkVfZGJaYXRzSFd5NkxmZ0VTekVKY1RlVFZLV1c1Y0ZnUk8ydjBNdmRtZDZhRmZxX2p1aGdtQTM0R1E0WHVOZVBDeEJtd1F6OThLLUpCLWVySTYxbzBRTmQ1dWhtTjZ1Q051UnFpNGFkWnRncXBXVWRidjM3ZTVlMENfTGE5d2JJYW5QWWdQQ2xJeWpsUGVkeFJKZzdrenV3Wk9CWnNSSnltVE5OVVFFakpJVE9FN2xsYVI1MmMxQQ?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxNQU1jQ3BWSEVjUEpSUk90MUdhWncxWDFVTzN6MnBxY0tzMFJiYnRpcVh2SVdCdmlhUkFHbkVfZGJaYXRzSFd5NkxmZ0VTekVKY1RlVFZLV1c1Y0ZnUk8ydjBNdmRtZDZhRmZxX2p1aGdtQTM0R1E0WHVOZVBDeEJtd1F6OThLLUpCLWVySTYxbzBRTmQ1dWhtTjZ1Q051UnFpNGFkWnRncXBXVW",
-   "source": "n-tv.de",
-   "date": "2026-11-23T13:20:00.000Z",
-   "fee": null,
-   "clubs": [
-    "Milan"
    ],
    "tags": [
     "Transfer"

@@ -1,6 +1,6 @@
 window.FUPPES_DATA = window.FUPPES_DATA || {};
 window.FUPPES_DATA["news-fc"] = {
- "updated": "2026-11-25T03:11:59.943Z",
+ "updated": "2026-11-25T05:22:26.806Z",
  "items": [
   {
    "title": "„An den Tisch kommen“: Kessler kündigt Gespräche mit Transfer-Kandidat an",
