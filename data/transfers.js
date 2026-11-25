@@ -1,6 +1,6 @@
 window.FUPPES_DATA = window.FUPPES_DATA || {};
 window.FUPPES_DATA["transfers"] = {
- "updated": "2026-11-25T11:10:44.468Z",
+ "updated": "2026-11-25T13:37:41.558Z",
  "rules": {
   "minFeeMio": 20,
   "topClubs": [
@@ -44,6 +44,78 @@ window.FUPPES_DATA["transfers"] = {
  },
  "items": [
   {
+   "title": "Scharfe Kritik an Goretzka-Wechsel vom FC Bayern zu Aston Villa",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1fY2ZpWVBrZnlkR09DWk9xREk4ZHkzR19jY1JsTndqMTgzQkpNamZMa1JUWENZd1YzWlAzd3I2NFdJdkxtNGgySmtJRkRwaG5zOHNMbE9IZTJhV19VMmZTaEd5OW82elU1U3hvQ3dmQUdxV2ZvaW1tUThldHF3dw?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE1fY2ZpWVBrZnlkR09DWk9xREk4ZHkzR19jY1JsTndqMTgzQkpNamZMa1JUWENZd1YzWlAzd3I2NFdJdkxtNGgySmtJRkRwaG5zOHNMbE9IZTJhV19VMmZTaEd5OW82elU1U3hvQ3dmQUdxV2ZvaW1tUThldHF3dw?oc=5\" target=\"_blank\">Scharfe Kritik an Goretzka-Wechsel vo",
+   "source": "fussballdaten.de",
+   "date": "2026-11-25T12:56:00.000Z",
+   "fee": null,
+   "clubs": [
+    "Bayern"
+   ],
+   "tags": [
+    "Transfer"
+   ]
+  },
+  {
+   "title": "Transfer-Tipp für den BVB – der ideale Kovac-Spieler für die Meisterschaft",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQelBvMVBNX05DNjFrNVBLOUxsYjQ0YjlqUnNYSkRuZDBTYVEtN1FoVlR2N19HX2hkakVPRzdRaW9pRzdxeTBHV1VMMWZIelRhRy0wTjl2RmlNVm1aSnhMYmVtaUpQRmFFYXZ4Y0VQem5feE1EdDlTN3VWdGtTM3JUdkw2WTVEaXNVZ0tEQWlOT0Q?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQelBvMVBNX05DNjFrNVBLOUxsYjQ0YjlqUnNYSkRuZDBTYVEtN1FoVlR2N19HX2hkakVPRzdRaW9pRzdxeTBHV1VMMWZIelRhRy0wTjl2RmlNVm1aSnhMYmVtaUpQRmFFYXZ4Y0VQem5feE1EdDlTN3VWdGtTM3JUdkw2WTVEaXNVZ0tEQWlOT0Q?oc=5\" target=\"_blank\">Transfer-Tip",
+   "source": "fussballdaten.de",
+   "date": "2026-11-25T12:54:00.000Z",
+   "fee": null,
+   "clubs": [
+    "BVB"
+   ],
+   "tags": [
+    "Transfer"
+   ]
+  },
+  {
+   "title": "VfB Stuttgart: Catovic-Kaufoption für FC Barcelona nach Verletzung vom Tisch",
+   "link": "https://www.transfermarkt.de/vfb-talent-schwer-verletzt-barcas-kaufoption-fur-catovic-schon-vom-tisch/view/news/491218",
+   "summary": "Nach der schweren Verletzung von Stuttgart-Leihgabe Mirza Catovic (19) ist ein sicherer Wechsel zum FC Barcelona wohl vom Tisch. Der Bild&ldquo; zufolge ist es dem defensiven Mittelfeldspieler in...",
+   "source": "Transfermarkt",
+   "date": "2026-11-25T12:15:36.000Z",
+   "fee": null,
+   "clubs": [
+    "Stuttgart",
+    "VfB",
+    "Barcelona"
+   ],
+   "tags": [
+    "Personal"
+   ]
+  },
+  {
+   "title": "Transfer-Umdenken beim FC Bayern: Holt Max Eberl einen deutschen Nationalspieler?",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQYU1ma2pLZU84RzNDd0NBMElPRmVHbW1PRVRrVEZSWTJoTWY3VE0xNnhxakF5VjBLb2tCZmFaU3lqQXBLU3lkbFQ4SzBaYmxSUHFSaVBsQUZXa1dSa3JIX3pWa1hQUGZJSlNJeFFzbGdIZWhRSndSb3J0VVlvbzlJRHRoVE5vYTZsWkVVWGxsUFlDdTFzb3hrTTN5VFV2a245dm1LS1pLOFQyejBVbWd0OUlxN3QyenlwRUtqQm54VXgxTUlRRE9yLW1lZkRjZkE?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxQYU1ma2pLZU84RzNDd0NBMElPRmVHbW1PRVRrVEZSWTJoTWY3VE0xNnhxakF5VjBLb2tCZmFaU3lqQXBLU3lkbFQ4SzBaYmxSUHFSaVBsQUZXa1dSa3JIX3pWa1hQUGZJSlNJeFFzbGdIZWhRSndSb3J0VVlvbzlJRHRoVE5vYTZsWkVVWGxsUFlDdTFzb3hrTTN5VFV2a245dm1LS1pLOFQyej",
+   "source": "SPOX.com",
+   "date": "2026-11-25T11:47:16.000Z",
+   "fee": null,
+   "clubs": [
+    "Bayern"
+   ],
+   "tags": [
+    "Gerücht"
+   ]
+  },
+  {
+   "title": "Guardiola drängte Weltstar zum Wechsel zum FC Bayern",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNODVtQnA5S0JucVRBcTB2TFFSaFY0TDZ2bXBnQzlZb3ZrZWMxTGZrXzhxTUVrOFVPejZJWk9iM09JbEdtM2FGWDA2UDFBaXNvS3Y3azFSOVp4NHlnZnpyQ3doN0tLWXJuMTE0U1BBUjFPaHg1VGl2Vm5FdVZuNC1GbzFBbmVsLW8?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNODVtQnA5S0JucVRBcTB2TFFSaFY0TDZ2bXBnQzlZb3ZrZWMxTGZrXzhxTUVrOFVPejZJWk9iM09JbEdtM2FGWDA2UDFBaXNvS3Y3azFSOVp4NHlnZnpyQ3doN0tLWXJuMTE0U1BBUjFPaHg1VGl2Vm5FdVZuNC1GbzFBbmVsLW8?oc=5\" target=\"_blank\">Guardiola drängte Weltst",
+   "source": "fussballdaten.de",
+   "date": "2026-11-25T11:31:00.000Z",
+   "fee": null,
+   "clubs": [
+    "Bayern"
+   ],
+   "tags": [
+    "Transfer"
+   ]
+  },
+  {
    "title": "FC Bayern äußert sich zu Gerüchten um Musiala",
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVFR0bEdYaDJVS2llbDlNcW9PbXlzbFFsY0haaGUxS1FEM1cyME80V05BX0h2Z0QwVERDOHJjUFRlbllOLVhpVWQ0ajd4WW9GNzFFOV9Bd2JtbjNoTEFjZGtGbjAzaVlIcjdlZVJlMDJLeFdPdmVBY1hrbmdqeDM5a1hzbFo2MU5lMDhQemFRYzBGNDFyX2wtME9vM1JpMkt1V3pMck9wek1RMEVHOENtVUFTQQ?oc=5",
    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQVFR0bEdYaDJVS2llbDlNcW9PbXlzbFFsY0haaGUxS1FEM1cyME80V05BX0h2Z0QwVERDOHJjUFRlbllOLVhpVWQ0ajd4WW9GNzFFOV9Bd2JtbjNoTEFjZGtGbjAzaVlIcjdlZVJlMDJLeFdPdmVBY1hrbmdqeDM5a1hzbFo2MU5lMDhQemFRYzBGNDFyX2wtME9vM1JpMkt1V3pMck9wek1RME",
@@ -58,17 +130,17 @@ window.FUPPES_DATA["transfers"] = {
    ]
   },
   {
-   "title": "\"Weil es Gerüchte gab ...\": FC Bayern stellt klar: Erste Musiala-Untersuchung im April 2025",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZXNPdnJzdGFLVXRBU1VyZ3p0dENJTFdIVVAzd3JsUHVfVl9mcWN4NVBWaGNfelE0cHhFUHlrSW1RRVB4eHhKdGdleVAzallySlJVcmU5VEwzcFVuU3BLSHJDV0JpUWY1WE0zN3F6TU1tdS1feVVxemVmV1BKbWNLdXZOZVpiRnZkTjdDMjg4cm1UajNPY0IyeHpWcERMNjRVRXR0SHRVU2pybF9vUmxSSDNNOA?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPZXNPdnJzdGFLVXRBU1VyZ3p0dENJTFdIVVAzd3JsUHVfVl9mcWN4NVBWaGNfelE0cHhFUHlrSW1RRVB4eHhKdGdleVAzallySlJVcmU5VEwzcFVuU3BLSHJDV0JpUWY1WE0zN3F6TU1tdS1feVVxemVmV1BKbWNLdXZOZVpiRnZkTjdDMjg4cm1UajNPY0IyeHpWcERMNjRVRXR0SHRVU2pybF",
-   "source": "n-tv.de",
-   "date": "2026-11-25T09:45:00.000Z",
+   "title": "Kurzes Statement: FC Bayern stellt klar: Musiala-Symptome nach Vertragsabschluss",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOX1JKZkdnenR1N2hMejJTN3NDa1BJVDJIZnNBTkFNejJHR3RzQ2VwOW1aTFZuSzhKRHpvd2VsQVNzcDBKalNpRFNua21YQWJESV81ODNTTnVqa0dSbW4xb2NlcjBXSENzSkVtc25tWjdoUmhaTk1xZ2hKTTRWYzl5TXdYOGFDaUR2V2NoQXB1YU1LU21kUmZtbXBTSVRZUDNKWkJlSEMyNzVRNWhFa1Zfdg?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOX1JKZkdnenR1N2hMejJTN3NDa1BJVDJIZnNBTkFNejJHR3RzQ2VwOW1aTFZuSzhKRHpvd2VsQVNzcDBKalNpRFNua21YQWJESV81ODNTTnVqa0dSbW4xb2NlcjBXSENzSkVtc25tWjdoUmhaTk1xZ2hKTTRWYzl5TXdYOGFDaUR2V2NoQXB1YU1LU21kUmZtbXBTSVRZUDNKWkJlSEMyNzVRNW",
+   "source": "sportschau.de",
+   "date": "2026-11-25T10:07:11.000Z",
    "fee": null,
    "clubs": [
     "Bayern"
    ],
    "tags": [
-    "Gerücht"
+    "Vertrag"
    ]
   },
   {
@@ -172,22 +244,6 @@ window.FUPPES_DATA["transfers"] = {
    ]
   },
   {
-   "title": "Eintracht Frankfurt: BVB beschäftigt sich mit Younes Ebnoutalib",
-   "link": "https://www.transfermarkt.de/-sport-bild-quot-eintracht-profi-ebnoutalib-thema-beim-bvb-ware-dritter-transfer-dank-book/view/news/491189",
-   "summary": "Younes Ebnoutalib wechselte im Januar 2025 f&uuml;r 50.000 Euro vom FC Gie&szlig;en zur SV Elversberg. Genau ein Jahr sp&auml;ter ging er f&uuml;r 8 Millionen Euro zu Eintracht Frankfurt &ndash;...",
-   "source": "Transfermarkt",
-   "date": "2026-11-25T05:54:10.000Z",
-   "fee": 8,
-   "clubs": [
-    "BVB",
-    "Eintracht Frankfurt",
-    "Frankfurt"
-   ],
-   "tags": [
-    "Fix"
-   ]
-  },
-  {
    "title": "„Sport Bild“: Eintracht-Profi Ebnoutalib Thema beim BVB – Wäre dritter Transfer dank Book",
    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQQ3ZObWl4QTcwOVlaSWZKcWM3bVJWSW9SSERzT01ldEZLcDQ4R21HMlFFdS15RURILXF5dkRXU0RVbkpiVDU4cFBDc1Z6a3hRSG96ZGttcXUzb2xHOEd4NWc3YTBVVFpDWWFtaGkxcGtrRHVfTHdkTU1lZ1hGVVhpT1BzMjlDenE5Um1qXzN6LTRkQlYtSzZnenNCMXhYT2U4OGRsQjlDWnl3c0N4ZkN2VC1PR3JabFljVVEzN1hmRXVweklaTGJFdFkwNEVrNGktb0E?oc=5",
    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxQQ3ZObWl4QTcwOVlaSWZKcWM3bVJWSW9SSERzT01ldEZLcDQ4R21HMlFFdS15RURILXF5dkRXU0RVbkpiVDU4cFBDc1Z6a3hRSG96ZGttcXUzb2xHOEd4NWc3YTBVVFpDWWFtaGkxcGtrRHVfTHdkTU1lZ1hGVVhpT1BzMjlDenE5Um1qXzN6LTRkQlYtSzZnenNCMXhYT2U4OGRsQjlDWnl3c0",
@@ -227,23 +283,6 @@ window.FUPPES_DATA["transfers"] = {
    ],
    "tags": [
     "Transfer"
-   ]
-  },
-  {
-   "title": "Beier und Gadou sei Dank: BVB holt Punkt bei Arsenal",
-   "link": "https://www.transfermarkt.de/beier-und-gadou-sei-dank-bvb-holt-punkt-bei-arsenal-leipzig-bleibt-im-rennen/view/news/491183",
-   "summary": "Mit gro&szlig;em Einsatz hat sich Borussia Dortmund ein Remis beim FC Arsenal erk&auml;mpft und bleibt in der Champions League auf Kurs K.o.-Phase. Die Mannschaft von Trainer Niko Kovac trennte...",
-   "source": "Transfermarkt",
-   "date": "2026-11-24T21:54:08.000Z",
-   "fee": null,
-   "clubs": [
-    "Dortmund",
-    "BVB",
-    "Arsenal"
-   ],
-   "tags": [
-    "Fix",
-    "Verein"
    ]
   },
   {
@@ -342,49 +381,6 @@ window.FUPPES_DATA["transfers"] = {
    "clubs": [
     "BVB",
     "Barça"
-   ],
-   "tags": [
-    "Gerücht"
-   ]
-  },
-  {
-   "title": "Real Madrid trifft Transfer-Entscheidung bei Bayern-Star Michael Olise",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZjBGVFVNbDhRNldSYzVYSEpWclNEMlZ6dUs3MzByeFBrU1Ytd1FQQ3JNeDV2cV9sd1RSN2Nwczk4bFdNX0U0YVNwTGNOeDRVdXB5eUdjYzEzbEh2WHg3RjYySkJvdEhfVV9zeWNGNHZROFpaR1pqa05VeW5XeVJBREFPeHBmTkJHbHVNSHlmLVktRFFrVmZSZXdpYmhRWlVNd0E?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOZjBGVFVNbDhRNldSYzVYSEpWclNEMlZ6dUs3MzByeFBrU1Ytd1FQQ3JNeDV2cV9sd1RSN2Nwczk4bFdNX0U0YVNwTGNOeDRVdXB5eUdjYzEzbEh2WHg3RjYySkJvdEhfVV9zeWNGNHZROFpaR1pqa05VeW5XeVJBREFPeHBmTkJHbHVNSHlmLVktRFFrVmZSZXdpYmhRWlVNd0E?oc=5\" targ",
-   "source": "fussballdaten.de",
-   "date": "2026-11-24T07:32:00.000Z",
-   "fee": null,
-   "clubs": [
-    "Bayern",
-    "Real Madrid"
-   ],
-   "tags": [
-    "Transfer"
-   ]
-  },
-  {
-   "title": "BVB kassiert krachende Transfer-Absage",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNTV9na0pLcHg2ZjVKMXRSZzVUVkNnQU11WUNJbTNwbkdOeFkyMmJiZTVya1gxSmxvY1djWTB6aDdYN3lhMmp2YTNqbjY5XzJpZDY5ZnplNVhnMWJLNUE5YnZVaFljN3NkaXV5djNiZVVJam13NGpLV1BwaC1lRTNBT1F3?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNTV9na0pLcHg2ZjVKMXRSZzVUVkNnQU11WUNJbTNwbkdOeFkyMmJiZTVya1gxSmxvY1djWTB6aDdYN3lhMmp2YTNqbjY5XzJpZDY5ZnplNVhnMWJLNUE5YnZVaFljN3NkaXV5djNiZVVJam13NGpLV1BwaC1lRTNBT1F3?oc=5\" target=\"_blank\">BVB kassiert krachende Transfer",
-   "source": "sport.de",
-   "date": "2026-11-24T06:50:00.000Z",
-   "fee": null,
-   "clubs": [
-    "BVB"
-   ],
-   "tags": [
-    "Transfer"
-   ]
-  },
-  {
-   "title": "FC Bayern, News und Gerüchte: Spektakulärer Transfer von Oliver Baumann? Hoffenheim-Boss öffnet die Tür",
-   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOT1dzOEl5Vmxva0lnZGp3ZUxGcy1lMks5NTZEV25aOXBXOXdFNTRrZ2xLVDdlUk1tRE5MNmRGWk80WFdCWG9zN3lEM21KdlU3ZGhMS0YzYUVNamI4UHhWdlNRbkdDVHM5SVpWb0Rja010T2xxaFJzRVE0cXdla0xiNzkwcFI2QlJUQ3ppN1NQeVlCcVdhTUcwb083cDlwNjQ2b0w4ZkhzSUhBRnk3SXhRZlBfQVhQUF9henlhSXlNeFRBb2xSQzJvY0RCSUZYcFZhMEJQNXdaTVE3SnpzZWlONjQ0dkd5VGZtdDE0cE1GbTQ?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxOT1dzOEl5Vmxva0lnZGp3ZUxGcy1lMks5NTZEV25aOXBXOXdFNTRrZ2xLVDdlUk1tRE5MNmRGWk80WFdCWG9zN3lEM21KdlU3ZGhMS0YzYUVNamI4UHhWdlNRbkdDVHM5SVpWb0Rja010T2xxaFJzRVE0cXdla0xiNzkwcFI2QlJUQ3ppN1NQeVlCcVdhTUcwb083cDlwNjQ2b0w4ZkhzSUhBRn",
-   "source": "SPOX.com",
-   "date": "2026-11-24T05:00:03.000Z",
-   "fee": null,
-   "clubs": [
-    "Bayern"
    ],
    "tags": [
     "Gerücht"

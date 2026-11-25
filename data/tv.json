@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T11:10:45.638Z",
+ "updated": "2026-11-25T13:37:42.542Z",
  "matches": [
   {
    "matchID": 83252,
@@ -67,7 +67,7 @@
     {
      "title": "RB Leipzig - Lens Live Stream | Jetzt Anmelden | DAZN DE",
      "source": "DAZN",
-     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVGRzRVQtY3ZMODg3VDhIWVFGX3B0dVZ0UURlMW5lUFRGbkYwOFFQc1NBSWFDV3R3ZzNtMC1ucUItRGFsNzQwNnA5UE1mMlpoV0pDbmtkbXN3NDUyaFF3U1hsaEtxc0FNZU0tX2lYN0dNV1MtMEMzUmQwRDJXWVdJcURqUkdDQXdvSURMcQ?oc=5"
+     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPR2RmeDAtVFpMM2wwQVQyUWtEeVVJZjZKVWVUdWE2UkZTbEx1eHJKOEtrQl9wcTJ2VEdRODhYYkFlZzBwQjJwUUdyaDJ3X3NkXzdPUEtnNzFEb3V6OGJrVUwzaVpRaVJiSGZfb045ZlZNWjBjNkdsa1RmcVo5ZWdoN09xTHlqeE9XWi1zQw?oc=5"
     }
    ],
    "kicker": null
@@ -120,16 +120,8 @@
    "kick": "2026-11-26T20:00:00Z",
    "team1": "TSG Hoffenheim",
    "team2": "SK Puntigamer Sturm Graz",
-   "channels": [
-    "RTL"
-   ],
-   "evidence": [
-    {
-     "title": "TSG Hoffenheim gegen SK Sturm Graz: Europa League live auf RTL+",
-     "source": "RTL.de",
-     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWEFOeGRPVUhBN3g3MXlXbTRCM3JicEtPUEdNdXFuX1JtdDlDcU40YUVUOEg2ZWI1ZVE1cGpjTW1WRWRMWHhndFVvbTRaT25NNjZoZnpsNDhpU0NaUTFfSEFZY2pOaTdUTHd6VzVNU0p0b1BYUnhJOG9YR2t6U1R6b3Q1dkRlMHFJanlCb3NiLUZ4Q1ZwcndwUHpfNHRwOHMtVWVSMkFGVnpDRVY5SVZmMWZoanhGSjVUdFRUVElnaThyRlE?oc=5"
-    }
-   ],
+   "channels": [],
+   "evidence": [],
    "kicker": null
   },
   {
