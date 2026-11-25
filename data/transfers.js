@@ -1,6 +1,6 @@
 window.FUPPES_DATA = window.FUPPES_DATA || {};
 window.FUPPES_DATA["transfers"] = {
- "updated": "2026-11-25T01:31:47.804Z",
+ "updated": "2026-11-25T03:12:01.517Z",
  "rules": {
   "minFeeMio": 20,
   "topClubs": [
@@ -234,34 +234,6 @@ window.FUPPES_DATA["transfers"] = {
    ]
   },
   {
-   "title": "BVB kassiert krachende Transfer-Absage",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNTV9na0pLcHg2ZjVKMXRSZzVUVkNnQU11WUNJbTNwbkdOeFkyMmJiZTVya1gxSmxvY1djWTB6aDdYN3lhMmp2YTNqbjY5XzJpZDY5ZnplNVhnMWJLNUE5YnZVaFljN3NkaXV5djNiZVVJam13NGpLV1BwaC1lRTNBT1F3?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNTV9na0pLcHg2ZjVKMXRSZzVUVkNnQU11WUNJbTNwbkdOeFkyMmJiZTVya1gxSmxvY1djWTB6aDdYN3lhMmp2YTNqbjY5XzJpZDY5ZnplNVhnMWJLNUE5YnZVaFljN3NkaXV5djNiZVVJam13NGpLV1BwaC1lRTNBT1F3?oc=5\" target=\"_blank\">BVB kassiert krachende Transfer",
-   "source": "sport.de",
-   "date": "2026-11-24T06:50:00.000Z",
-   "fee": null,
-   "clubs": [
-    "BVB"
-   ],
-   "tags": [
-    "Transfer"
-   ]
-  },
-  {
-   "title": "Transfer-Ticker: BVB droht bitterer Abgang",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPa2ZJX0htTWJjWnd3TWkxWk9fYmUwY1pwXy1jYm1tV0NrS2QxbWZDdXFSbFM0YXFadjZoLUFyQUhzNGx3OHAtZFpsTkR2UGJvRlJiZl9KaDFucXF0YTc2cjQ4MkxERS1RRzRwbm1ReWd1MEFva0NzendtLU9PSW1oUmpDcHI1dw?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPa2ZJX0htTWJjWnd3TWkxWk9fYmUwY1pwXy1jYm1tV0NrS2QxbWZDdXFSbFM0YXFadjZoLUFyQUhzNGx3OHAtZFpsTkR2UGJvRlJiZl9KaDFucXF0YTc2cjQ4MkxERS1RRzRwbm1ReWd1MEFva0NzendtLU9PSW1oUmpDcHI1dw?oc=5\" target=\"_blank\">Transfer-Ticker: BVB droh",
-   "source": "sport.de",
-   "date": "2026-11-24T05:54:00.000Z",
-   "fee": null,
-   "clubs": [
-    "BVB"
-   ],
-   "tags": [
-    "Transfer"
-   ]
-  },
-  {
    "title": "FC Bayern, News und Gerüchte: Spektakulärer Transfer von Oliver Baumann? Hoffenheim-Boss öffnet die Tür",
    "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOT1dzOEl5Vmxva0lnZGp3ZUxGcy1lMks5NTZEV25aOXBXOXdFNTRrZ2xLVDdlUk1tRE5MNmRGWk80WFdCWG9zN3lEM21KdlU3ZGhMS0YzYUVNamI4UHhWdlNRbkdDVHM5SVpWb0Rja010T2xxaFJzRVE0cXdla0xiNzkwcFI2QlJUQ3ppN1NQeVlCcVdhTUcwb083cDlwNjQ2b0w4ZkhzSUhBRnk3SXhRZlBfQVhQUF9henlhSXlNeFRBb2xSQzJvY0RCSUZYcFZhMEJQNXdaTVE3SnpzZWlONjQ0dkd5VGZtdDE0cE1GbTQ?oc=5",
    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxOT1dzOEl5Vmxva0lnZGp3ZUxGcy1lMks5NTZEV25aOXBXOXdFNTRrZ2xLVDdlUk1tRE5MNmRGWk80WFdCWG9zN3lEM21KdlU3ZGhMS0YzYUVNamI4UHhWdlNRbkdDVHM5SVpWb0Rja010T2xxaFJzRVE0cXdla0xiNzkwcFI2QlJUQ3ppN1NQeVlCcVdhTUcwb083cDlwNjQ2b0w4ZkhzSUhBRn",
@@ -360,6 +332,21 @@ window.FUPPES_DATA["transfers"] = {
    ]
   },
   {
+   "title": "Vertragsverlängerung: Spielt Liverpool beim Weltmeister auf Zeit?",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUkZGRUtkWVpWcFVwdlUyTWJtRGdSMVB3ZXl0dWVKVE5QcUJ0bTJHVXF2V1hMNEdpblM2eVQzUFFFZkVWUDRRWGdTUDUteEE3LXNVUkdsd0RGbXNWd05udlhlSllPTV9GdGIxUUpROWdhRU1LcFRIZng1WHBWUVN2ck5kenhlblhv?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUkZGRUtkWVpWcFVwdlUyTWJtRGdSMVB3ZXl0dWVKVE5QcUJ0bTJHVXF2V1hMNEdpblM2eVQzUFFFZkVWUDRRWGdTUDUteEE3LXNVUkdsd0RGbXNWd05udlhlSllPTV9GdGIxUUpROWdhRU1LcFRIZng1WHBWUVN2ck5kenhlblhv?oc=5\" target=\"_blank\">Vertragsverlängerung: S",
+   "source": "fussballdaten.de",
+   "date": "2026-11-23T15:05:00.000Z",
+   "fee": null,
+   "clubs": [
+    "Liverpool"
+   ],
+   "tags": [
+    "Gerücht",
+    "Vertrag"
+   ]
+  },
+  {
    "title": "Markus Krösche vor Wechsel zur AC Mailand: Einigung um Millionen-Ablöse mit Eintracht Frankfurt erzielt",
    "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPcF9QMUU3akxmcm9ZNkFQX2VqODJRb2RKa2hWempYZUtsRmdlSDdsV3NfbHpfLVJUT1ptdWdlRkpZNzdtWHFGWnRZcGxJTThYeWpjZ2I0dkNaNWYtQU1KQ1lOQy05LUo0aWJHQ25TQ2hNUUhKQTJGQkpKV2xLTDlXelRXTTVTWUpFVTZqR2MwaXcyMEtkN2d0UEMzUGFZcjBNZm1jTHM5a04xOEhxVnlHUTZScC1FS3UzWm1mTWoxRWtuaTJFUTlpOG1mcUxuc3NaV0gtR2s4YkZlOWh4ZnM4eEQ2QjJ6UGx5QlU3NWZR?oc=5",
    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxPcF9QMUU3akxmcm9ZNkFQX2VqODJRb2RKa2hWempYZUtsRmdlSDdsV3NfbHpfLVJUT1ptdWdlRkpZNzdtWHFGWnRZcGxJTThYeWpjZ2I0dkNaNWYtQU1KQ1lOQy05LUo0aWJHQ25TQ2hNUUhKQTJGQkpKV2xLTDlXelRXTTVTWUpFVTZqR2MwaXcyMEtkN2d0UEMzUGFZcjBNZm1jTHM5a04xOE",
@@ -385,6 +372,20 @@ window.FUPPES_DATA["transfers"] = {
    "clubs": [
     "Eintracht Frankfurt",
     "Frankfurt"
+   ],
+   "tags": [
+    "Transfer"
+   ]
+  },
+  {
+   "title": "Fünf Millionen für die Eintracht: Milan macht Krösche-Wechsel klar",
+   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNQU1jQ3BWSEVjUEpSUk90MUdhWncxWDFVTzN6MnBxY0tzMFJiYnRpcVh2SVdCdmlhUkFHbkVfZGJaYXRzSFd5NkxmZ0VTekVKY1RlVFZLV1c1Y0ZnUk8ydjBNdmRtZDZhRmZxX2p1aGdtQTM0R1E0WHVOZVBDeEJtd1F6OThLLUpCLWVySTYxbzBRTmQ1dWhtTjZ1Q051UnFpNGFkWnRncXBXVWRidjM3ZTVlMENfTGE5d2JJYW5QWWdQQ2xJeWpsUGVkeFJKZzdrenV3Wk9CWnNSSnltVE5OVVFFakpJVE9FN2xsYVI1MmMxQQ?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxNQU1jQ3BWSEVjUEpSUk90MUdhWncxWDFVTzN6MnBxY0tzMFJiYnRpcVh2SVdCdmlhUkFHbkVfZGJaYXRzSFd5NkxmZ0VTekVKY1RlVFZLV1c1Y0ZnUk8ydjBNdmRtZDZhRmZxX2p1aGdtQTM0R1E0WHVOZVBDeEJtd1F6OThLLUpCLWVySTYxbzBRTmQ1dWhtTjZ1Q051UnFpNGFkWnRncXBXVW",
+   "source": "n-tv.de",
+   "date": "2026-11-23T13:20:00.000Z",
+   "fee": null,
+   "clubs": [
+    "Milan"
    ],
    "tags": [
     "Transfer"
