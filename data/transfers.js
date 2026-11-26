@@ -1,6 +1,6 @@
 window.FUPPES_DATA = window.FUPPES_DATA || {};
 window.FUPPES_DATA["transfers"] = {
- "updated": "2026-11-26T15:17:27.385Z",
+ "updated": "2026-11-26T17:19:42.043Z",
  "rules": {
   "minFeeMio": 20,
   "topClubs": [
@@ -44,6 +44,20 @@ window.FUPPES_DATA["transfers"] = {
  },
  "items": [
   {
+   "title": "FC Bayern: Note 6 für zwei Winter-Transfers",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPLTNKSnc1bkpJcDAxSDcyWHdEQjFkV3RUczczb2RaV2pic0FpSXQ3c0RhcjAzSXBQZERwR2hSeGtma0I5MlZ5TzNoOFUxQUU1OWJZQjF5bWtSZnN5dHRqMGx1U19ySmFXQkRDa1R5bVVVTGJXcmFfcDYwaklkT2hveE9sb1FYa21wNE9ubUxuRk01U2NhUFhwRjNBZ2k2QnM?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPLTNKSnc1bkpJcDAxSDcyWHdEQjFkV3RUczczb2RaV2pic0FpSXQ3c0RhcjAzSXBQZERwR2hSeGtma0I5MlZ5TzNoOFUxQUU1OWJZQjF5bWtSZnN5dHRqMGx1U19ySmFXQkRDa1R5bVVVTGJXcmFfcDYwaklkT2hveE9sb1FYa21wNE9ubUxuRk01U2NhUFhwRjNBZ2k2QnM?oc=5\" target=\"",
+   "source": "Fussball Transfers",
+   "date": "2026-11-26T15:57:42.000Z",
+   "fee": null,
+   "clubs": [
+    "Bayern"
+   ],
+   "tags": [
+    "Transfer"
+   ]
+  },
+  {
    "title": "Eintracht Frankfurt erwägt Otávio-Ausleihe – Welche Rolle Collins spielt",
    "link": "https://www.transfermarkt.de/eintracht-frankfurt-erwagt-otavio-ausleihe-im-winter-fur-uns-nicht-zufriedenstellend-quot-/view/news/491269",
    "summary": "Ver&ouml;ffentlicht am 26.11.2026 um 09:34, aktualisiert um 15:36 Uhr. 4,5 Millionen Euro exklusive m&ouml;glicher Boni &uuml;berwies Eintracht Frankfurt Ende Juli f&uuml;r Innenverteidiger...",
@@ -56,20 +70,6 @@ window.FUPPES_DATA["transfers"] = {
    ],
    "tags": [
     "Leihe"
-   ]
-  },
-  {
-   "title": "Kane-Ersatz: Transfer-Ratschlag an den FC Bayern",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaUFUT05WNm9tOEYtWUdiMnpLdHgzNDlCell4TmJ0N2ZfZjVqenFIQnQ5UnpacHZSbEtjQWFiaVF4LWsyc1IwS1VQT3V0Y29FNnJCYkRKQUlObHR2aGJkRGo0V0V0aFEzeUpfTHN1YVNHM2NTeWpPYnliZ0JzNFJnb1RhVXhlZ2VYaV9xNUpfWjFCbURmSG9HRw?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPaUFUT05WNm9tOEYtWUdiMnpLdHgzNDlCell4TmJ0N2ZfZjVqenFIQnQ5UnpacHZSbEtjQWFiaVF4LWsyc1IwS1VQT3V0Y29FNnJCYkRKQUlObHR2aGJkRGo0V0V0aFEzeUpfTHN1YVNHM2NTeWpPYnliZ0JzNFJnb1RhVXhlZ2VYaV9xNUpfWjFCbURmSG9HRw?oc=5\" target=\"_blank\">K",
-   "source": "Fussball Transfers",
-   "date": "2026-11-26T13:03:57.000Z",
-   "fee": null,
-   "clubs": [
-    "Bayern"
-   ],
-   "tags": [
-    "Transfer"
    ]
   },
   {
@@ -301,6 +301,20 @@ window.FUPPES_DATA["transfers"] = {
    ]
   },
   {
+   "title": "FC Bayern äußert sich zu Gerüchten um Musiala",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVFR0bEdYaDJVS2llbDlNcW9PbXlzbFFsY0haaGUxS1FEM1cyME80V05BX0h2Z0QwVERDOHJjUFRlbllOLVhpVWQ0ajd4WW9GNzFFOV9Bd2JtbjNoTEFjZGtGbjAzaVlIcjdlZVJlMDJLeFdPdmVBY1hrbmdqeDM5a1hzbFo2MU5lMDhQemFRYzBGNDFyX2wtME9vM1JpMkt1V3pMck9wek1RMEVHOENtVUFTQQ?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQVFR0bEdYaDJVS2llbDlNcW9PbXlzbFFsY0haaGUxS1FEM1cyME80V05BX0h2Z0QwVERDOHJjUFRlbllOLVhpVWQ0ajd4WW9GNzFFOV9Bd2JtbjNoTEFjZGtGbjAzaVlIcjdlZVJlMDJLeFdPdmVBY1hrbmdqeDM5a1hzbFo2MU5lMDhQemFRYzBGNDFyX2wtME9vM1JpMkt1V3pMck9wek1RME",
+   "source": "WEB.DE",
+   "date": "2026-11-25T10:28:50.000Z",
+   "fee": null,
+   "clubs": [
+    "Bayern"
+   ],
+   "tags": [
+    "Gerücht"
+   ]
+  },
+  {
    "title": "Neuer Transferplan bei BVB-Flirt Marcel Regula enthüllt",
    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVE5FUXlRWldZZHJEd18zYlB5MFREWk9RT1FrRVp4SXRzVDdxczh1VzRRMkR6N1E1WDEyRzZCZzdUZUtIbXRJWlBmMlBMMFlXY1U0dk1Fc0pZTFJRQXB2dzZCQ3NGajh3b3MyNnhkTkVtREgwbHZsakFwU3htRXpwVDQ5S2IwWjhnQlVuTE11Wnc?oc=5",
    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNVE5FUXlRWldZZHJEd18zYlB5MFREWk9RT1FrRVp4SXRzVDdxczh1VzRRMkR6N1E1WDEyRzZCZzdUZUtIbXRJWlBmMlBMMFlXY1U0dk1Fc0pZTFJRQXB2dzZCQ3NGajh3b3MyNnhkTkVtREgwbHZsakFwU3htRXpwVDQ5S2IwWjhnQlVuTE11Wnc?oc=5\" target=\"_blank\">Neuer Transf",
@@ -367,20 +381,6 @@ window.FUPPES_DATA["transfers"] = {
    "fee": null,
    "clubs": [
     "Bayern"
-   ],
-   "tags": [
-    "Gerücht"
-   ]
-  },
-  {
-   "title": "Für bis zu 40 Millionen Euro! BVB plant offenbar Transfercoup mit deutschem Nationalspieler",
-   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNYlU5aWs5dkVvX01vYWlFaXNiTWk5LW5tdm8tM0xsNENCYnZpcEh3UkdJcFdoTUtkNE81ZHp1TzA1dHk4YzA0Uy1UZGdfQnFYcTk2d1o5ay1kcnd2aTk4bmZDcUZyZTR4dUNXcjBTSUg1WUw3cEhuRzh3QmtNRGNJdDFha0ZFdWMzcmI4VTZvSzFKZmtSTVd1MkdpNm4tNFpuTXhjM2ZoaU1RZUJsQzRYZGhVbVZvNmUxUnVQTVkxRXR3MHpuMlBOaEtRbm1qUXQ3TG1QM2RjMDR2R09lUE9Z?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxNYlU5aWs5dkVvX01vYWlFaXNiTWk5LW5tdm8tM0xsNENCYnZpcEh3UkdJcFdoTUtkNE81ZHp1TzA1dHk4YzA0Uy1UZGdfQnFYcTk2d1o5ay1kcnd2aTk4bmZDcUZyZTR4dUNXcjBTSUg1WUw3cEhuRzh3QmtNRGNJdDFha0ZFdWMzcmI4VTZvSzFKZmtSTVd1MkdpNm4tNFpuTXhjM2ZoaU1RZU",
-   "source": "SPOX.com",
-   "date": "2026-11-25T06:54:15.000Z",
-   "fee": 40,
-   "clubs": [
-    "BVB"
    ],
    "tags": [
     "Gerücht"
