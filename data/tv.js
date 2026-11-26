@@ -1,6 +1,6 @@
 window.FUPPES_DATA = window.FUPPES_DATA || {};
 window.FUPPES_DATA["tv"] = {
- "updated": "2026-11-26T17:19:43.520Z",
+ "updated": "2026-11-26T19:14:43.722Z",
  "matches": [
   {
    "matchID": 83252,
@@ -130,8 +130,16 @@ window.FUPPES_DATA["tv"] = {
    "kick": "2026-11-26T20:00:00Z",
    "team1": "SC Freiburg",
    "team2": "FC Twente Enschede",
-   "channels": [],
-   "evidence": [],
+   "channels": [
+    "RTL"
+   ],
+   "evidence": [
+    {
+     "title": "Freiburg Enschede heute live: Conference League kostenlos live bei RTL",
+     "source": "dslweb",
+     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNOHRuc2ZVZU9GZmhUQm04MlBESXZNOTRxRWlESVBsTGRiSHNjWDFwSXJaam9oRUZQSWNpWUM0WnhNTk82ZFlzaUd4VHRnbC1rQ19CdFlIdmsyUVMwZVA2MnlXbjJQeU9HX0FFcDcyazZ2cmFFdU9taWJjeGliaFBGbkpvcmx4NHE1eF9fZFR4c0E3NmlZTlo2NGxLZkkzQjRKTzJ2M2p3?oc=5"
+    }
+   ],
    "kicker": null
   }
  ]
