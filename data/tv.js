@@ -1,6 +1,6 @@
 window.FUPPES_DATA = window.FUPPES_DATA || {};
 window.FUPPES_DATA["tv"] = {
- "updated": "2026-11-26T19:14:43.722Z",
+ "updated": "2026-11-26T21:05:48.509Z",
  "matches": [
   {
    "matchID": 83252,
@@ -68,7 +68,7 @@ window.FUPPES_DATA["tv"] = {
     {
      "title": "RB Leipzig - Lens Live Stream | Jetzt Anmelden | DAZN DE",
      "source": "DAZN",
-     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVGRzRVQtY3ZMODg3VDhIWVFGX3B0dVZ0UURlMW5lUFRGbkYwOFFQc1NBSWFDV3R3ZzNtMC1ucUItRGFsNzQwNnA5UE1mMlpoV0pDbmtkbXN3NDUyaFF3U1hsaEtxc0FNZU0tX2lYN0dNV1MtMEMzUmQwRDJXWVdJcURqUkdDQXdvSURMcQ?oc=5"
+     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPR2RmeDAtVFpMM2wwQVQyUWtEeVVJZjZKVWVUdWE2UkZTbEx1eHJKOEtrQl9wcTJ2VEdRODhYYkFlZzBwQjJwUUdyaDJ3X3NkXzdPUEtnNzFEb3V6OGJrVUwzaVpRaVJiSGZfb045ZlZNWjBjNkdsa1RmcVo5ZWdoN09xTHlqeE9XWi1zQw?oc=5"
     }
    ],
    "kicker": null
@@ -105,6 +105,24 @@ window.FUPPES_DATA["tv"] = {
      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQRl9sQkZmaFZTYks2MTdyb0t0SHNnWFIwNkZSdVlyU3lybE5mZWZiUlF2N0hZVVktWDVmREdncGpoUjMyOE94MjhISlc5WXRLaVdabTRxb2FqWGFKVkJtdGk4MmM3Rkt2Z2xvTmxkM2pRMVFKMVJPb1FaMGxtVDk2b2d6YTB0RExWYzlwM2lxTkJUb3ZxMHBRTW5hTnp4Y2J4enRHMVpBdDdpOUhyWWtqem9XN0Z3eW9CSlpzMVRxSGVubFd3R2hNdnpXR2E0YmFTOVBzYnpKdVRfS3YwMDBGVA?oc=5"
     }
    ],
+   "kicker": null
+  },
+  {
+   "matchID": 87482,
+   "kick": "2026-12-08T20:00:00Z",
+   "team1": "FC Bayern München",
+   "team2": "Slavia Prag",
+   "channels": [],
+   "evidence": [],
+   "kicker": null
+  },
+  {
+   "matchID": 87485,
+   "kick": "2026-12-08T20:00:00Z",
+   "team1": "Manchester United FC",
+   "team2": "RB Leipzig",
+   "channels": [],
+   "evidence": [],
    "kicker": null
   },
   {

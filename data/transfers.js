@@ -1,6 +1,6 @@
 window.FUPPES_DATA = window.FUPPES_DATA || {};
 window.FUPPES_DATA["transfers"] = {
- "updated": "2026-11-26T19:14:42.458Z",
+ "updated": "2026-11-26T21:05:47.196Z",
  "rules": {
   "minFeeMio": 20,
   "topClubs": [
@@ -43,6 +43,35 @@ window.FUPPES_DATA["transfers"] = {
   ]
  },
  "items": [
+  {
+   "title": "DFB-Star auf BVB-Liste! 100 Mio. für Nusa? | Transfer Update Fan Club",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUmpFb1BJMHhrOHZzVG9FOFBlbkJkdjRlLThsc1E5ZEx4QnNRVkVZTjVkbUFCSl9yRXl6ZmhWZHkxWFBBZ0d1aHdYQkdfeHpXS29mNnJzb1pqWThFSzVRMjF4N3hncnJrNXF2TXBJOExSYVUycmhUenozOWl3UkM3ZWFLXzZ3d0x1M0liOUhjNklJZlltblp5MGk1S1ZmRE9OZjl5RDBDcktzU3BEOHVOeVBpZjR2YzBsaGc?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNUmpFb1BJMHhrOHZzVG9FOFBlbkJkdjRlLThsc1E5ZEx4QnNRVkVZTjVkbUFCSl9yRXl6ZmhWZHkxWFBBZ0d1aHdYQkdfeHpXS29mNnJzb1pqWThFSzVRMjF4N3hncnJrNXF2TXBJOExSYVUycmhUenozOWl3UkM3ZWFLXzZ3d0x1M0liOUhjNklJZlltblp5MGk1S1ZmRE9OZjl5RDBDcktzU3",
+   "source": "Sky.de",
+   "date": "2026-11-26T19:34:00.000Z",
+   "fee": 100,
+   "clubs": [
+    "BVB"
+   ],
+   "tags": [
+    "Gerücht"
+   ]
+  },
+  {
+   "title": "HSV-Vertrag von Vuskovic verlängert – Wie Bruder Luka erstmals gegen Bayern in Startelf?",
+   "link": "https://www.transfermarkt.de/hsv-vertrag-von-vuskovic-verlangert-wie-bruder-luka-erstmals-gegen-bayern-in-startelf-/view/news/491333",
+   "summary": "Mario Vuskovic wird &uuml;ber die laufende Saison beim HSV gebunden sein. Was vor einigen Wochen publik wurde, best&auml;tigte nun das &bdquo;Hamburger Abendblatt&ldquo;: Durch die erste...",
+   "source": "Transfermarkt",
+   "date": "2026-11-26T19:12:50.000Z",
+   "fee": null,
+   "clubs": [
+    "Bayern"
+   ],
+   "tags": [
+    "Gerücht",
+    "Vertrag"
+   ]
+  },
   {
    "title": "Gadou hat keine Ausstiegsklausel – der BVB kann die Ablöse frei verhandeln",
    "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxOR21FblNBYW1KQlVjSTljN1I1SXZqVWE1TGdNZzJUR2tQZWtSaGZFN3ZrNGZXWDdPMm1icExxZ1pvRkJnVUM0X0FlVnZjeDVYN0VEZEVhLVkzQU5xMWM4ZVNCYndoTkZoX3VGYW9hemxIbzQwUFJuWC1ER1dXWlBaVDBiY3NxcW5paEpxQzZvRllHT0FNZ0lSN3RITWlYdWs3cDZFekZ3THFXYTJlaF9PRVl1OGVmTEZMczQ5LXRBdVRlX1VReFhrY0pKT1JsR0I2ejB1YnY2V0FzQjdncDhzNzRXRmU1MGVWVHVsQVA3ZVNMdlhtVnFRUWkwNG1QZFBXTWt4UldnNFBnSi1BQ1ZVOFIyWV9rNnFkdWtUUFRxT0kxdGNVTU12X0NYX19NQTA?oc=5",
@@ -87,20 +116,6 @@ window.FUPPES_DATA["transfers"] = {
    ]
   },
   {
-   "title": "Kane-Ersatz: Transfer-Ratschlag an den FC Bayern",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaUFUT05WNm9tOEYtWUdiMnpLdHgzNDlCell4TmJ0N2ZfZjVqenFIQnQ5UnpacHZSbEtjQWFiaVF4LWsyc1IwS1VQT3V0Y29FNnJCYkRKQUlObHR2aGJkRGo0V0V0aFEzeUpfTHN1YVNHM2NTeWpPYnliZ0JzNFJnb1RhVXhlZ2VYaV9xNUpfWjFCbURmSG9HRw?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPaUFUT05WNm9tOEYtWUdiMnpLdHgzNDlCell4TmJ0N2ZfZjVqenFIQnQ5UnpacHZSbEtjQWFiaVF4LWsyc1IwS1VQT3V0Y29FNnJCYkRKQUlObHR2aGJkRGo0V0V0aFEzeUpfTHN1YVNHM2NTeWpPYnliZ0JzNFJnb1RhVXhlZ2VYaV9xNUpfWjFCbURmSG9HRw?oc=5\" target=\"_blank\">K",
-   "source": "Fussball Transfers",
-   "date": "2026-11-26T13:03:57.000Z",
-   "fee": null,
-   "clubs": [
-    "Bayern"
-   ],
-   "tags": [
-    "Transfer"
-   ]
-  },
-  {
    "title": "BVB-Transfer geplatzt? Trainer von Marcel Regula gibt Wechsel-Hinweis",
    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOc2hWaTExbzVzSTJMWmpJNzRrcFRhRDJZNEpncFNldmdESXVubmpkU1hrVkNnQ3JpMkRlYlJnb0NjOWpybUNrdWlfY1ZJODNpbmlIYU42czlSemJkRHhfUkZjeVZDZlpnRk1RZWlNcGRpN3ZnUlJkMURYbDhlTVh3YllvZlFlVWpxanZ2d1pGQ05zc1JoeEhxOUc2VENsQzI2?oc=5",
    "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOc2hWaTExbzVzSTJMWmpJNzRrcFRhRDJZNEpncFNldmdESXVubmpkU1hrVkNnQ3JpMkRlYlJnb0NjOWpybUNrdWlfY1ZJODNpbmlIYU42czlSemJkRHhfUkZjeVZDZlpnRk1RZWlNcGRpN3ZnUlJkMURYbDhlTVh3YllvZlFlVWpxanZ2d1pGQ05zc1JoeEhxOUc2VENsQzI2?oc=5\" target=",
@@ -141,20 +156,6 @@ window.FUPPES_DATA["transfers"] = {
    ],
    "tags": [
     "Transfer"
-   ]
-  },
-  {
-   "title": "FC Barcelona könnte Top-Talent abgeben – zahlreiche Interessenten",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUENROFExYzFEOXpPejhrWW05WWRYNGhGRHRZWG5ubEkxeVp0cl9Nem1CWEdXbXZ6Z05TX1NYZko5NVVxaFExVWRJSE5KN2NSZW41Rmx4WDVrcHExajhfWFd4MlJUMjYtYkRvOFhKYUhEaWxZYmRHYnNYMFdueV9FYnN3N1oxdEd4RkFrVG5acnBDYTRyOER3TFJhTnFuWHZh?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPUENROFExYzFEOXpPejhrWW05WWRYNGhGRHRZWG5ubEkxeVp0cl9Nem1CWEdXbXZ6Z05TX1NYZko5NVVxaFExVWRJSE5KN2NSZW41Rmx4WDVrcHExajhfWFd4MlJUMjYtYkRvOFhKYUhEaWxZYmRHYnNYMFdueV9FYnN3N1oxdEd4RkFrVG5acnBDYTRyOER3TFJhTnFuWHZh?oc=5\" target=",
-   "source": "fussballdaten.de",
-   "date": "2026-11-26T11:18:00.000Z",
-   "fee": null,
-   "clubs": [
-    "Barcelona"
-   ],
-   "tags": [
-    "Gerücht"
    ]
   },
   {
@@ -202,18 +203,17 @@ window.FUPPES_DATA["transfers"] = {
    ]
   },
   {
-   "title": "Eintracht Frankfurt will Transferflop verleihen",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxONU1oRUxkTE5OOG53ZmRxRm5NZkt0RUhiaWZVVF9OT0JZR0ZyWmxoOEMwY0RYQnVyMlZYUl9VYkZQNjFnMmduV2pCdU84LXpidVhOeFZFMVZtVFNEaHpZQXFEb3ZKbk91VzBFWjlRVkxsVFZwMGNjUy1QWlFMeGNyTGpIYV8tbDYwMktvME9HaDhKMGtER1c0?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxONU1oRUxkTE5OOG53ZmRxRm5NZkt0RUhiaWZVVF9OT0JZR0ZyWmxoOEMwY0RYQnVyMlZYUl9VYkZQNjFnMmduV2pCdU84LXpidVhOeFZFMVZtVFNEaHpZQXFEb3ZKbk91VzBFWjlRVkxsVFZwMGNjUy1QWlFMeGNyTGpIYV8tbDYwMktvME9HaDhKMGtER1c0?oc=5\" target=\"_blank\">Ein",
+   "title": "FC Bayern: Eberl stellt Transfer in Aussicht",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOR2g5TFlCQ2hkTmZBMHpiQmgxZXN4a00yMXdobmpjVWpSNlRoN1JPTUg1Q3kyVmJCTXFtOXd5YTIxNnpncXljVmZYcVVpYjhTMTlOSjVGNXd3V2VUNU1uMG4xVExEUklTamcxQV9CR3B1MlVzMXhTckxTLXNqUkc0UHlTSWdFMTYzRWZFZ0xWRVlFdEExQU9FZE92eUF5NUU?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOR2g5TFlCQ2hkTmZBMHpiQmgxZXN4a00yMXdobmpjVWpSNlRoN1JPTUg1Q3kyVmJCTXFtOXd5YTIxNnpncXljVmZYcVVpYjhTMTlOSjVGNXd3V2VUNU1uMG4xVExEUklTamcxQV9CR3B1MlVzMXhTckxTLXNqUkc0UHlTSWdFMTYzRWZFZ0xWRVlFdEExQU9FZE92eUF5NUU?oc=5\" target=\"",
    "source": "Fussball Transfers",
-   "date": "2026-11-26T06:58:01.000Z",
+   "date": "2026-11-26T07:28:24.000Z",
    "fee": null,
    "clubs": [
-    "Eintracht Frankfurt",
-    "Frankfurt"
+    "Bayern"
    ],
    "tags": [
-    "Leihe"
+    "Transfer"
    ]
   },
   {
@@ -261,17 +261,16 @@ window.FUPPES_DATA["transfers"] = {
   },
   {
    "title": "Freund bekräftigt: Bayern planen keine Transfers im Winter",
-   "link": "https://www.kicker.de/freund-bekraeftigt-bayern-planen-keine-transfers-im-winter-1275073/artikel#omrss",
-   "summary": "Der FC Bayern ist aktuell schwer von Verletzungen gebeutelt. Im Winter nachbessern will der Rekordmeister trotzdem nicht, das bekräftigte Sportdirektor Christoph Freund am Mittwoch vor der Partie in Lille.",
-   "source": "kicker",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTXVHOWtfdFBIZjdmS202cl9JZGIwbTVVU19CVHFsc1g3a0tPVkt4V2VMMTdMVjJBb2NpVnotU0huZmZzTVFxTDBMZzhZTEM4VWRLcVZsYkE2WWgtYUo3bUxQb1JKZE1pczhyQTI4WHJjMnBiSEVfaXN5ZFhwbzJ5MHFQTFZHd0ZwTWFidmNsLTQzLXdadHgtX09VMm0?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOTXVHOWtfdFBIZjdmS202cl9JZGIwbTVVU19CVHFsc1g3a0tPVkt4V2VMMTdMVjJBb2NpVnotU0huZmZzTVFxTDBMZzhZTEM4VWRLcVZsYkE2WWgtYUo3bUxQb1JKZE1pczhyQTI4WHJjMnBiSEVfaXN5ZFhwbzJ5MHFQTFZHd0ZwTWFidmNsLTQzLXdadHgtX09VMm0?oc=5\" target=\"_bla",
+   "source": "Kicker",
    "date": "2026-11-25T20:47:08.000Z",
    "fee": null,
    "clubs": [
     "Bayern"
    ],
    "tags": [
-    "Personal",
-    "Verein"
+    "Transfer"
    ]
   },
   {

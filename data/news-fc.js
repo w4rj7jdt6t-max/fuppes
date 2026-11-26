@@ -1,7 +1,17 @@
 window.FUPPES_DATA = window.FUPPES_DATA || {};
 window.FUPPES_DATA["news-fc"] = {
- "updated": "2026-11-26T19:14:41.253Z",
+ "updated": "2026-11-26T21:05:45.903Z",
  "items": [
+  {
+   "title": "Nach schlimmer Verletzung: Köln-Profi entschuldigt sich bei Harry Kane und wehrt sich gegen Vorwürfe",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNaHU5VDAxZ0I1cUdHcGd4aEp4Mm1HSW5VTFQyRlVHZFhpaUZNblVuTUFZX1RGS21YaWQ4eEc0WHZfQTEwM19ocGpwOWJkVzBSWTBpMkpzTFhQby1wT3UxQkZnVWtSM1VRZXk3YUJPQ0FPSERvU1UxaVVrdDFMb2x5X3V2ZVF2enJUNmJJLXRCYWV5QkVLWVM2bjNmZldQb3RmeC1HUzhmVEFqWmxyXzgyQmptN3lQYVNmbzM0SFU1am56X1RU?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNaHU5VDAxZ0I1cUdHcGd4aEp4Mm1HSW5VTFQyRlVHZFhpaUZNblVuTUFZX1RGS21YaWQ4eEc0WHZfQTEwM19ocGpwOWJkVzBSWTBpMkpzTFhQby1wT3UxQkZnVWtSM1VRZXk3YUJPQ0FPSERvU1UxaVVrdDFMb2x5X3V2ZVF2enJUNmJJLXRCYWV5QkVLWVM2bjNmZldQb3RmeC1HUzhmVEFqWm",
+   "source": "n-tv.de",
+   "date": "2026-11-26T19:30:00.000Z",
+   "tags": [
+    "Personal"
+   ]
+  },
   {
    "title": "„Tut mir leid“: FC-Profi verrät Aktion nach Kane-Verletzung",
    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQjhUeHgzNk9iOWptZ2tqZG1HZExIOUtLQ0FGSkE1SnlzNUVtdUFLdnlJQ3gybDYzckZjQlc1NkdyWUdxeGhBVGJPSnM2M3JZODZDeVJ6MDlYQ195VXVnSkRUbFJPS2hHQ2JYYVlpM1YtS3hMNy1JUVhpN0RMSXhNcHpITjZydkFsbnlCVjZfejBianZzd3lTX3dMQjd6RkNXU2FLbWNZM2gxTmFndXZ2d2l5T3k?oc=5",
@@ -30,6 +40,16 @@ window.FUPPES_DATA["news-fc"] = {
    "date": "2026-11-26T16:30:00.000Z",
    "tags": [
     "Personal"
+   ]
+  },
+  {
+   "title": "Schwäbe wackelt, Ache gibt Rätsel auf: FC-Trainer Wagner gibt Personalupdate",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNW90WkpLM3BtdEFPVlRvcVo3Q1BwTzROcldqWVd0aEpXRHMwcS1oVnBtVTZJdV9JcjFSZW1xRWhybFhFZHhBNE12RTVmV2R4RjZMQUhsNFMwb1ZGVFpSUFRwSGJkMk9oV0dDZDJmSXhKeEJZNk5sMkFZRklELU1Cd2dvWndtOHd6Qmd1M05qYXVLTDdsUTl3cjZZQQ?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNNW90WkpLM3BtdEFPVlRvcVo3Q1BwTzROcldqWVd0aEpXRHMwcS1oVnBtVTZJdV9JcjFSZW1xRWhybFhFZHhBNE12RTVmV2R4RjZMQUhsNFMwb1ZGVFpSUFRwSGJkMk9oV0dDZDJmSXhKeEJZNk5sMkFZRklELU1Cd2dvWndtOHd6Qmd1M05qYXVLTDdsUTl3cjZZQQ?oc=5\" target=\"_blan",
+   "source": "90min.de",
+   "date": "2026-11-26T14:57:19.000Z",
+   "tags": [
+    "Verein"
    ]
   },
   {
@@ -175,34 +195,12 @@ window.FUPPES_DATA["news-fc"] = {
    ]
   },
   {
-   "title": "Kompany-Comeback freut Köln-Trainer Wagner \"ungemein\"",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMzhIQ01uSFJkRVZ6dUtfOVJfd196UVVmR2o3cDFTTUpQYXEyRHVUX3pfblRNTkdhbEhVOEdQV3NsN3EtWjNycmVRTWZKWldkelJhdVQ5VDFlbHJjU3ZxcDZVZVhWT0tRNnZhUnp0bzhLXzVINU9ablg3UGV4SDdWb00yUVlRdHB5cEJ6MEFXNzJzaVl4TlNhSnFfT1ZZM2pDUjVHVzJoMEk1OF9reEhtTWlXX1g3a2paQUlLUHR3V3E0OGx0WVI3dw?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMzhIQ01uSFJkRVZ6dUtfOVJfd196UVVmR2o3cDFTTUpQYXEyRHVUX3pfblRNTkdhbEhVOEdQV3NsN3EtWjNycmVRTWZKWldkelJhdVQ5VDFlbHJjU3ZxcDZVZVhWT0tRNnZhUnp0bzhLXzVINU9ablg3UGV4SDdWb00yUVlRdHB5cEJ6MEFXNzJzaVl4TlNhSnFfT1ZZM2pDUjVHVzJoMEk1OF",
-   "source": "n-tv.de",
-   "date": "2026-11-18T19:19:57.000Z",
-   "tags": [
-    "Personal",
-    "Verein"
-   ]
-  },
-  {
    "title": "Trainer Vincent Kompany gegen Köln wieder auf der Bayern-Bank",
    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOX1dBTjdMOS12UkNJWjhxeHpxWUJDVlduamZobHZUWS0zcVp2eUV3bndyNHhvU0c2cWV1dVQ2ZzZYTWFDVENUR3k4NXloS3RBYXNGbU9YODZ2aEMxVVJzQzNET0lBajlmSmxZZVQydmRGd0xYWFNjdDRrbzNZZ0FwamRoVEk1ajZ2cDhNWXRRc004TnhwMHZBbThKODVSVmFwTklra0pPRzR5WWsxRy16STk3cjltTDlBbGVXSVotdi1yOE5oR1Ew?oc=5",
    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxOX1dBTjdMOS12UkNJWjhxeHpxWUJDVlduamZobHZUWS0zcVp2eUV3bndyNHhvU0c2cWV1dVQ2ZzZYTWFDVENUR3k4NXloS3RBYXNGbU9YODZ2aEMxVVJzQzNET0lBajlmSmxZZVQydmRGd0xYWFNjdDRrbzNZZ0FwamRoVEk1ajZ2cDhNWXRRc004TnhwMHZBbThKODVSVmFwTklra0pPRzR5WW",
    "source": "RND.de",
    "date": "2026-11-18T19:06:47.000Z",
    "tags": [
-    "Verein"
-   ]
-  },
-  {
-   "title": "Dreesen bestätigt: Bayern-Trainer Kompany kehrt zurück – Comeback gegen Köln",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNV2JEMmZiUDRFSUMwU0QwSVpOZk5qMUVMQVZFSXpyTkhDRC12U1BDbmZJMUhveFk1Y0dyNzNMNFV6d2RPUXRxZnVDVHladWx4OGxWSE8tWHhDMlItSlVscFI5c014QVFaOHZ6LS1mMk40aURLMXhxLTE5SzJWeHZGejA0Z3N4aXNyRmR0RHNEWEhHQkVNQ0JLWkJZQm95RkxjV1VVTF9uU3dMNHV3aFlpV3o4QVlZZ3l4enVj?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNV2JEMmZiUDRFSUMwU0QwSVpOZk5qMUVMQVZFSXpyTkhDRC12U1BDbmZJMUhveFk1Y0dyNzNMNFV6d2RPUXRxZnVDVHladWx4OGxWSE8tWHhDMlItSlVscFI5c014QVFaOHZ6LS1mMk40aURLMXhxLTE5SzJWeHZGejA0Z3N4aXNyRmR0RHNEWEhHQkVNQ0JLWkJZQm95RkxjV1VVTF9uU3dMNH",
-   "source": "Transfermarkt",
-   "date": "2026-11-18T18:52:00.000Z",
-   "tags": [
-    "Personal",
     "Verein"
    ]
   }
