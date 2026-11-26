@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T11:09:49.850Z",
+ "updated": "2026-11-26T13:35:52.130Z",
  "rules": {
   "minFeeMio": 20,
   "topClubs": [
@@ -43,14 +43,71 @@
  },
  "items": [
   {
-   "title": "Fußballtransfers: Gerüchte und News im Transferticker - Winter-Einkauf beim FC Bayern? Das sagt Freund",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWFhLOVNsQXBVemc2QzA4ZVlobmFFR1R1TUhVbVM2ZlNKXzJyTmpPZ0g2OF96Z242VEE4eVV5dnVaYTZZckIzTm9GM2xfOHpRZksxeDJtMGUzdUFjLW01MjhqZ1A1RmxtakJGY29uMXdUMkZhYlhVLTlMUXBESjJWbWpMeVp2UXE0STJFM2ZsbTRjRHRWN2dWTm9EalNRTFQ4eVRFa2pzcEo0UllxR1k4YjQxRzg5a2ZHQnVUYXNLdWE?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWFhLOVNsQXBVemc2QzA4ZVlobmFFR1R1TUhVbVM2ZlNKXzJyTmpPZ0g2OF96Z242VEE4eVV5dnVaYTZZckIzTm9GM2xfOHpRZksxeDJtMGUzdUFjLW01MjhqZ1A1RmxtakJGY29uMXdUMkZhYlhVLTlMUXBESjJWbWpMeVp2UXE0STJFM2ZsbTRjRHRWN2dWTm9EalNRTFQ4eVRFa2pzcEo0Ul",
-   "source": "SPORT1",
-   "date": "2026-11-26T11:05:24.000Z",
+   "title": "Kane-Ersatz: Transfer-Ratschlag an den FC Bayern",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaUFUT05WNm9tOEYtWUdiMnpLdHgzNDlCell4TmJ0N2ZfZjVqenFIQnQ5UnpacHZSbEtjQWFiaVF4LWsyc1IwS1VQT3V0Y29FNnJCYkRKQUlObHR2aGJkRGo0V0V0aFEzeUpfTHN1YVNHM2NTeWpPYnliZ0JzNFJnb1RhVXhlZ2VYaV9xNUpfWjFCbURmSG9HRw?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPaUFUT05WNm9tOEYtWUdiMnpLdHgzNDlCell4TmJ0N2ZfZjVqenFIQnQ5UnpacHZSbEtjQWFiaVF4LWsyc1IwS1VQT3V0Y29FNnJCYkRKQUlObHR2aGJkRGo0V0V0aFEzeUpfTHN1YVNHM2NTeWpPYnliZ0JzNFJnb1RhVXhlZ2VYaV9xNUpfWjFCbURmSG9HRw?oc=5\" target=\"_blank\">K",
+   "source": "Fussball Transfers",
+   "date": "2026-11-26T13:03:57.000Z",
    "fee": null,
    "clubs": [
     "Bayern"
+   ],
+   "tags": [
+    "Transfer"
+   ]
+  },
+  {
+   "title": "BVB-Transfer geplatzt? Trainer von Marcel Regula gibt Wechsel-Hinweis",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOc2hWaTExbzVzSTJMWmpJNzRrcFRhRDJZNEpncFNldmdESXVubmpkU1hrVkNnQ3JpMkRlYlJnb0NjOWpybUNrdWlfY1ZJODNpbmlIYU42czlSemJkRHhfUkZjeVZDZlpnRk1RZWlNcGRpN3ZnUlJkMURYbDhlTVh3YllvZlFlVWpxanZ2d1pGQ05zc1JoeEhxOUc2VENsQzI2?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOc2hWaTExbzVzSTJMWmpJNzRrcFRhRDJZNEpncFNldmdESXVubmpkU1hrVkNnQ3JpMkRlYlJnb0NjOWpybUNrdWlfY1ZJODNpbmlIYU42czlSemJkRHhfUkZjeVZDZlpnRk1RZWlNcGRpN3ZnUlJkMURYbDhlTVh3YllvZlFlVWpxanZ2d1pGQ05zc1JoeEhxOUc2VENsQzI2?oc=5\" target=",
+   "source": "fussballdaten.de",
+   "date": "2026-11-26T12:54:00.000Z",
+   "fee": null,
+   "clubs": [
+    "BVB"
+   ],
+   "tags": [
+    "Gerücht",
+    "Verein"
+   ]
+  },
+  {
+   "title": "BVB: Vier spannende Transfer-Gerüchte im Umlauf",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQ2JIQkR2M3E1MzV3NkxybUhpZlp3MjU0RURBQ0hrVm9lVFl3S1d4OUVBZGZiajBPMXhldWgxQ1hBYXQtX1oxQ1ZqSXJDQTN3U1JqU3E3TnJnakVsWDIya3lnVkFCTVVfUEdQR2xGbTk0NGJabHpxSFlvTEE3S3J4UC1RRTZtbXRQWThfRDFGakxaRkNyTzRtMHozbnlhR0VCTkpZZQ?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQQ2JIQkR2M3E1MzV3NkxybUhpZlp3MjU0RURBQ0hrVm9lVFl3S1d4OUVBZGZiajBPMXhldWgxQ1hBYXQtX1oxQ1ZqSXJDQTN3U1JqU3E3TnJnakVsWDIya3lnVkFCTVVfUEdQR2xGbTk0NGJabHpxSFlvTEE3S3J4UC1RRTZtbXRQWThfRDFGakxaRkNyTzRtMHozbnlhR0VCTkpZZQ?oc=5\" t",
+   "source": "Fussball Transfers",
+   "date": "2026-11-26T12:44:00.000Z",
+   "fee": null,
+   "clubs": [
+    "BVB"
+   ],
+   "tags": [
+    "Gerücht"
+   ]
+  },
+  {
+   "title": "Tottenham: Richarlison will Saudi-Transfer – Kein Kontakt zu Trabzonspor",
+   "link": "https://www.transfermarkt.de/berater-bestatigt-richarlison-wartet-auf-saudi-angebot-ihm-gefallt-die-idee-sehr-gut-quot-/view/news/491300",
+   "summary": "Mit einer R&uuml;ckkehr zum FC Everton wurde es am Sommer-Deadline-Day nichts und seitdem ist der einst 58 Millionen Euro teure Richarlison bei Tottenham Hotspur au&szlig;en vor. Der 29 Jahre alte...",
+   "source": "Transfermarkt",
+   "date": "2026-11-26T12:17:51.000Z",
+   "fee": 58,
+   "clubs": [
+    "Tottenham"
+   ],
+   "tags": [
+    "Transfer"
+   ]
+  },
+  {
+   "title": "FC Barcelona könnte Top-Talent abgeben – zahlreiche Interessenten",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUENROFExYzFEOXpPejhrWW05WWRYNGhGRHRZWG5ubEkxeVp0cl9Nem1CWEdXbXZ6Z05TX1NYZko5NVVxaFExVWRJSE5KN2NSZW41Rmx4WDVrcHExajhfWFd4MlJUMjYtYkRvOFhKYUhEaWxZYmRHYnNYMFdueV9FYnN3N1oxdEd4RkFrVG5acnBDYTRyOER3TFJhTnFuWHZh?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPUENROFExYzFEOXpPejhrWW05WWRYNGhGRHRZWG5ubEkxeVp0cl9Nem1CWEdXbXZ6Z05TX1NYZko5NVVxaFExVWRJSE5KN2NSZW41Rmx4WDVrcHExajhfWFd4MlJUMjYtYkRvOFhKYUhEaWxZYmRHYnNYMFdueV9FYnN3N1oxdEd4RkFrVG5acnBDYTRyOER3TFJhTnFuWHZh?oc=5\" target=",
+   "source": "fussballdaten.de",
+   "date": "2026-11-26T11:18:00.000Z",
+   "fee": null,
+   "clubs": [
+    "Barcelona"
    ],
    "tags": [
     "Gerücht"
@@ -71,17 +128,31 @@
    ]
   },
   {
-   "title": "Holt Markus Krösche einen Bayern-Flirt?",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSEVUX3kybjRnV196YTNrRUVTN2k4U0F0bnZjRFEzYmF5OVQyMk43b2xlUEkxOFBGMHlwYXBNU0FRaG5Dc2xzalo2Mm9zWWZtUXJYM2J4aVphUm8wa2xNa0VIUWt4STVaTTk2MzZ5S01vTEhhZ0RLWGtsb3BEenFTcU5vVDg1LV9NN2pUdDFIYmI?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNSEVUX3kybjRnV196YTNrRUVTN2k4U0F0bnZjRFEzYmF5OVQyMk43b2xlUEkxOFBGMHlwYXBNU0FRaG5Dc2xzalo2Mm9zWWZtUXJYM2J4aVphUm8wa2xNa0VIUWt4STVaTTk2MzZ5S01vTEhhZ0RLWGtsb3BEenFTcU5vVDg1LV9NN2pUdDFIYmI?oc=5\" target=\"_blank\">Holt Markus ",
-   "source": "Fussball Transfers",
-   "date": "2026-11-26T09:04:18.000Z",
+   "title": "Fußballtransfers: Gerüchte und News im Transferticker - Winter-Einkauf beim FC Bayern? Das sagt Freund",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWFhLOVNsQXBVemc2QzA4ZVlobmFFR1R1TUhVbVM2ZlNKXzJyTmpPZ0g2OF96Z242VEE4eVV5dnVaYTZZckIzTm9GM2xfOHpRZksxeDJtMGUzdUFjLW01MjhqZ1A1RmxtakJGY29uMXdUMkZhYlhVLTlMUXBESjJWbWpMeVp2UXE0STJFM2ZsbTRjRHRWN2dWTm9EalNRTFQ4eVRFa2pzcEo0UllxR1k4YjQxRzg5a2ZHQnVUYXNLdWE?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWFhLOVNsQXBVemc2QzA4ZVlobmFFR1R1TUhVbVM2ZlNKXzJyTmpPZ0g2OF96Z242VEE4eVV5dnVaYTZZckIzTm9GM2xfOHpRZksxeDJtMGUzdUFjLW01MjhqZ1A1RmxtakJGY29uMXdUMkZhYlhVLTlMUXBESjJWbWpMeVp2UXE0STJFM2ZsbTRjRHRWN2dWTm9EalNRTFQ4eVRFa2pzcEo0Ul",
+   "source": "SPORT1",
+   "date": "2026-11-26T10:50:48.000Z",
    "fee": null,
    "clubs": [
     "Bayern"
    ],
    "tags": [
     "Gerücht"
+   ]
+  },
+  {
+   "title": "Enthüllt: Haaland will Transfer zu Real Madrid",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONzdXOXhxNGNpMDU5YlpWeXhYU3FBMjFvM1pOYWhIakI1QmtkaDNEWFZ1V2syaHlRbmgxLUdCRXpaeTRZV1Y2cGNSNXRNUmdFRTJZcTJyNjE4V18xdzFlUHM5eF9CS0hDNGJOQmFRbzVEc3c5bE9PRThVVTFHc3B5R0oyNU42YVVk?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxONzdXOXhxNGNpMDU5YlpWeXhYU3FBMjFvM1pOYWhIakI1QmtkaDNEWFZ1V2syaHlRbmgxLUdCRXpaeTRZV1Y2cGNSNXRNUmdFRTJZcTJyNjE4V18xdzFlUHM5eF9CS0hDNGJOQmFRbzVEc3c5bE9PRThVVTFHc3B5R0oyNU42YVVk?oc=5\" target=\"_blank\">Enthüllt: Haaland will ",
+   "source": "fussballdaten.de",
+   "date": "2026-11-26T09:10:00.000Z",
+   "fee": null,
+   "clubs": [
+    "Real Madrid"
+   ],
+   "tags": [
+    "Transfer"
    ]
   },
   {
@@ -116,39 +187,10 @@
    ]
   },
   {
-   "title": "Eintracht Frankfurt will Transferflop verleihen",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxONU1oRUxkTE5OOG53ZmRxRm5NZkt0RUhiaWZVVF9OT0JZR0ZyWmxoOEMwY0RYQnVyMlZYUl9VYkZQNjFnMmduV2pCdU84LXpidVhOeFZFMVZtVFNEaHpZQXFEb3ZKbk91VzBFWjlRVkxsVFZwMGNjUy1QWlFMeGNyTGpIYV8tbDYwMktvME9HaDhKMGtER1c0?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxONU1oRUxkTE5OOG53ZmRxRm5NZkt0RUhiaWZVVF9OT0JZR0ZyWmxoOEMwY0RYQnVyMlZYUl9VYkZQNjFnMmduV2pCdU84LXpidVhOeFZFMVZtVFNEaHpZQXFEb3ZKbk91VzBFWjlRVkxsVFZwMGNjUy1QWlFMeGNyTGpIYV8tbDYwMktvME9HaDhKMGtER1c0?oc=5\" target=\"_blank\">Ein",
-   "source": "Fussball Transfers",
-   "date": "2026-11-26T06:58:01.000Z",
-   "fee": null,
-   "clubs": [
-    "Eintracht Frankfurt",
-    "Frankfurt"
-   ],
-   "tags": [
-    "Leihe"
-   ]
-  },
-  {
-   "title": "Iraola über Harmonie zwischen Isak und Wirtz: \"Sind in einer guten Phase\"",
-   "link": "https://www.kicker.de/iraola-ueber-harmonie-zwischen-isak-und-wirtz-sind-in-einer-guten-phase-1275149/video#omrss",
-   "summary": "Alexander Isak und Florian Wirtz beginnen so langsam, die großen Versprechen bei ihrer Verpflichtung einzulösen. Liverpool-Coach Andoni Iraola ist dementsprechend zufrieden mit seinem Offensivduo.",
-   "source": "kicker",
-   "date": "2026-11-26T06:51:39.000Z",
-   "fee": null,
-   "clubs": [
-    "Liverpool"
-   ],
-   "tags": [
-    "Fix"
-   ]
-  },
-  {
    "title": "\"Ich dachte mir einfach: Versuch's mal\": Wirtz' längste Torserie seit Liverpool-Wechsel",
-   "link": "https://www.kicker.de/ich-dachte-mir-einfach-versuch-s-mal-wirtz-laengste-torserie-seit-liverpool-wechsel-1275137/artikel#omrss",
-   "summary": "Auch am dritten Sieg in Folge des FC Liverpool hat Florian Wirtz entscheidenden Anteil gehabt. Der Nationalspieler bestätigte in der Champions League seine starke Form.",
-   "source": "kicker",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOc25EUjluTEF1a3lGRGRkUkVReFprSjZtRHd6d0ZJZzZsRTRlSDhuUFN5Y2kwQVhJVjFyRWZtdUhoMDN0MDU1Q3RsQmdMLWZHQW9CazFCeWJjZWZ2dVIyTEd5cU9rYkhXaXlNRnJLVkRYdFRiRmZQTTdzbFdFRkl4RGpLXzlncjU4Q0Uxd3NrYUMwaVJtb185MXY1cW9wUlZOeFhEbGtTajF1X2ZWR1JzdzdhZ1M3YXZUZ1lySG9R?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxOc25EUjluTEF1a3lGRGRkUkVReFprSjZtRHd6d0ZJZzZsRTRlSDhuUFN5Y2kwQVhJVjFyRWZtdUhoMDN0MDU1Q3RsQmdMLWZHQW9CazFCeWJjZWZ2dVIyTEd5cU9rYkhXaXlNRnJLVkRYdFRiRmZQTTdzbFdFRkl4RGpLXzlncjU4Q0Uxd3NrYUMwaVJtb185MXY1cW9wUlZOeFhEbGtTajF1X2",
+   "source": "Kicker",
    "date": "2026-11-26T06:25:09.000Z",
    "fee": null,
    "clubs": [
@@ -341,49 +383,6 @@
    ],
    "tags": [
     "Gerücht"
-   ]
-  },
-  {
-   "title": "BVB zeigt Interesse an DFB-Star – Dortmund hat großen Vorteil",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPekNHX1JFSTlSdXprS2pfZVlTRnRlOS14aHE5U2VmUDZKaHYwZVFlWS1OekdTRE0xQjU1cldOVjV1NGY5YWljejVQMXlRYzBsZ3FSTUZtcVZWdWtzUzRaT0xXTmdEQkl0WTFZM1BROUxTS3lOTlRuS0l5RlNCR1VSVXBjYnBuOUxkTzhOSklnV2lkQQ?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPekNHX1JFSTlSdXprS2pfZVlTRnRlOS14aHE5U2VmUDZKaHYwZVFlWS1OekdTRE0xQjU1cldOVjV1NGY5YWljejVQMXlRYzBsZ3FSTUZtcVZWdWtzUzRaT0xXTmdEQkl0WTFZM1BROUxTS3lOTlRuS0l5RlNCR1VSVXBjYnBuOUxkTzhOSklnV2lkQQ?oc=5\" target=\"_blank\">BVB zeigt",
-   "source": "fussballdaten.de",
-   "date": "2026-11-25T08:10:00.000Z",
-   "fee": null,
-   "clubs": [
-    "Dortmund",
-    "BVB"
-   ],
-   "tags": [
-    "Gerücht"
-   ]
-  },
-  {
-   "title": "Für bis zu 40 Millionen Euro! BVB plant offenbar Transfercoup mit deutschem Nationalspieler",
-   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNYlU5aWs5dkVvX01vYWlFaXNiTWk5LW5tdm8tM0xsNENCYnZpcEh3UkdJcFdoTUtkNE81ZHp1TzA1dHk4YzA0Uy1UZGdfQnFYcTk2d1o5ay1kcnd2aTk4bmZDcUZyZTR4dUNXcjBTSUg1WUw3cEhuRzh3QmtNRGNJdDFha0ZFdWMzcmI4VTZvSzFKZmtSTVd1MkdpNm4tNFpuTXhjM2ZoaU1RZUJsQzRYZGhVbVZvNmUxUnVQTVkxRXR3MHpuMlBOaEtRbm1qUXQ3TG1QM2RjMDR2R09lUE9Z?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxNYlU5aWs5dkVvX01vYWlFaXNiTWk5LW5tdm8tM0xsNENCYnZpcEh3UkdJcFdoTUtkNE81ZHp1TzA1dHk4YzA0Uy1UZGdfQnFYcTk2d1o5ay1kcnd2aTk4bmZDcUZyZTR4dUNXcjBTSUg1WUw3cEhuRzh3QmtNRGNJdDFha0ZFdWMzcmI4VTZvSzFKZmtSTVd1MkdpNm4tNFpuTXhjM2ZoaU1RZU",
-   "source": "SPOX.com",
-   "date": "2026-11-25T06:54:15.000Z",
-   "fee": 40,
-   "clubs": [
-    "BVB"
-   ],
-   "tags": [
-    "Gerücht"
-   ]
-  },
-  {
-   "title": "Teures Vergnügen: BVB bastelt an Transfer-Hammer um Ebnoutalib",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObng0NXl4MldzUGNIcWQzc2VRdFh4WTVNX0pBSjYxM2NOUmVZTzdidThEU19MTXhtUmhVRkI5MDZ6cmJXRnY1Q1VXbm5FUXRHcVFIYU5NaVJmRC1JdmFnUkdTLVk0RjBGRjhBZkpJZHFkQkgzX0xuR09LbGJTUzNsNk9nZmtGUTVubkhka2hhemRzRTdqZlc0bS1WVjNEMjJFSzkySlY2RFk?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxObng0NXl4MldzUGNIcWQzc2VRdFh4WTVNX0pBSjYxM2NOUmVZTzdidThEU19MTXhtUmhVRkI5MDZ6cmJXRnY1Q1VXbm5FUXRHcVFIYU5NaVJmRC1JdmFnUkdTLVk0RjBGRjhBZkpJZHFkQkgzX0xuR09LbGJTUzNsNk9nZmtGUTVubkhka2hhemRzRTdqZlc0bS1WVjNEMjJFSzkySlY2RFk?oc",
-   "source": "Fussball Europa",
-   "date": "2026-11-25T06:26:01.000Z",
-   "fee": null,
-   "clubs": [
-    "BVB"
-   ],
-   "tags": [
-    "Transfer"
    ]
   }
  ]

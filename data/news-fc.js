@@ -1,7 +1,28 @@
 window.FUPPES_DATA = window.FUPPES_DATA || {};
 window.FUPPES_DATA["news-fc"] = {
- "updated": "2026-11-26T11:09:48.261Z",
+ "updated": "2026-11-26T13:35:50.724Z",
  "items": [
+  {
+   "title": "Schwäbe wackelt! Muss Zieler gegen Elversberg sein Können beweisen?",
+   "link": "https://geissblog.koeln/2026/11/schwaebe-wackelt-muss-zieler-gegen-elversberg-sein-koennen-beweisen/",
+   "summary": "Der 1. FC Köln steht vor dem nächsten richtungsweisenden Heimspiel gegen die SV Elversberg. Personelle Sorgen gibt es für Trainer René Wagner vor allem in... Der Beitrag Schwäbe wackelt! Muss Zieler gegen Elversberg sein Können beweisen? erschien zuerst auf GEISSBLOG .",
+   "source": "GEISSBLOG",
+   "date": "2026-11-26T12:54:26.000Z",
+   "tags": [
+    "Gerücht",
+    "Verein"
+   ]
+  },
+  {
+   "title": "Rückenprobleme: Köln bangt um Torhüter und Kapitän Schwäbe",
+   "link": "https://www.kicker.de/rueckenprobleme-koeln-bangt-um-torhueter-und-kapitaen-schwaebe-1275308/artikel#omrss",
+   "summary": "Schlussmann Marvin Schwäbe ist beim 1. FC Köln eine verlässliche Konstante. Nun droht der 31-Jährige beim Heimspiel gegen die SV Elversberg auszufallen.",
+   "source": "kicker",
+   "date": "2026-11-26T12:52:46.000Z",
+   "tags": [
+    "Personal"
+   ]
+  },
   {
    "title": "„Halten nicht immer Händchen“: So wird Sobek von Kessler eingebunden",
    "link": "https://geissblog.koeln/2026/11/halten-nicht-immer-haendchen-so-wird-sobek-von-kessler-eingebunden/",
@@ -72,17 +93,6 @@ window.FUPPES_DATA["news-fc"] = {
    "date": "2026-11-24T23:01:00.000Z",
    "tags": [
     "Transfer"
-   ]
-  },
-  {
-   "title": "„Kane wurde cologned“: In England ist der FC nicht nur beim Ex-Trainer ein Thema",
-   "link": "https://geissblog.koeln/2026/11/kane-wurde-cologned-in-england-ist-der-fc-nicht-nur-bei-alex-bade-thema/",
-   "summary": "Freitagabend fieberte er noch am TV mit dem 1. FC Köln, am Samstag holte Ex-Torwarttrainer Alexander Bade mit Newcastle United einen Punkt gegen Arsenal. Köln... Der Beitrag „Kane wurde cologned“: In England ist der FC nicht nur beim Ex-Trainer ein Thema erschien zuerst auf GEISS",
-   "source": "GEISSBLOG",
-   "date": "2026-11-24T16:30:00.000Z",
-   "tags": [
-    "Fix",
-    "Verein"
    ]
   },
   {
@@ -193,17 +203,6 @@ window.FUPPES_DATA["news-fc"] = {
    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOREFsYWY2TVc4Z3FrWDdpWlRYWFlQd1NnOUktb2R1eVloOERLSTBXQVZPQ1FOTEhIamltc0JRZEtzVnloaERPYmtTLUw1Q0ZTMXVTZlZGRWN1T0JMODdhZmRvaWJvNHM3dHo4d1h4TTRhZXpQNHZDcmIxOUtEamZuTFg3a2dPMDBCNHZQUElEUGlveGEwOWRj?oc=5\" target=\"_blank\">1. ",
    "source": "Fussball Transfers",
    "date": "2026-11-18T15:51:41.000Z",
-   "tags": [
-    "Gerücht",
-    "Verein"
-   ]
-  },
-  {
-   "title": "Köln-Coach Wagner zu Toppmöller-Gerüchten: \"Da spüre ich gar nichts\"",
-   "link": "https://www.kicker.de/koeln-coach-wagner-zu-toppmoeller-geruechten-da-spuere-ich-gar-nichts-1272684/video#omrss",
-   "summary": "Köln-Trainer René Wagner spricht auf der Pressekonferenz vor dem Spiel gegen den FC Bayern München über die aktuellen Gerüchte rund um Dino Toppmöller und wie man auftreten muss, um gegen die Bayern etwas mitzunehmen.",
-   "source": "kicker",
-   "date": "2026-11-18T13:41:14.000Z",
    "tags": [
     "Gerücht",
     "Verein"

@@ -1,6 +1,6 @@
 window.FUPPES_DATA = window.FUPPES_DATA || {};
 window.FUPPES_DATA["spielinfo"] = {
- "updated": "2026-11-26T11:09:50.517Z",
+ "updated": "2026-11-26T13:35:53.026Z",
  "fc": [
   {
    "start": "2025-11-29T14:30:00.000Z",
@@ -1844,7 +1844,7 @@ window.FUPPES_DATA["spielinfo"] = {
    "who": "fc",
    "id": "wYtdB3friYA",
    "title": "Pressekonferenz vor Elversberg | 1. FC Köln",
-   "date": "2026-11-24T09:44:24+00:00",
+   "date": "2026-11-26T12:53:30+00:00",
    "url": "https://www.youtube.com/watch?v=wYtdB3friYA",
    "summary": "Der 1. FC Köln trifft am 11. Spieltag der Bundesliga-Saison 2026/27 auf die SV 07 Elversberg. Das Spiel findet am Samstag, 28. November 2026, um 15.30 Uhr im RheinEnergieSTADION statt. Im Vorfeld der Partie beantwortet Cheftrainer René Wagner in der Pressekonferenz am Donnerstag, 26. November 2026, um 13.30 Uhr die Fra",
    "quotes": []
@@ -1902,7 +1902,7 @@ window.FUPPES_DATA["spielinfo"] = {
    "title": "Die Schiedsrichter-Ansetzungen am 11. Spieltag",
    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPOG1KVnAzSFJwVTdJTHFCbEFsUWZrQmtkZXh3UUJNWm1nNW81dXF1NGFrNWN0bkdMLVkxSHJaaHZDeFRPcG11M2xveGNzS2F3T3Z2UXI5cnBhWjBvU3RNcXlReHNrYjJYWkZXek1FVDVJb2pxRG1hQ2FzVTVMQTFGTktGUXFOdS1CbVRFZ3NoSzVObnNpcVhXRGVCNA?oc=5",
    "source": "Bundesliga | official website",
-   "date": "2026-11-26T10:19:37.000Z",
+   "date": "2018-12-22T14:42:03.000Z",
    "matchday": 11
   },
   {
