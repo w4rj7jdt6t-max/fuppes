@@ -1,6 +1,6 @@
 window.FUPPES_DATA = window.FUPPES_DATA || {};
 window.FUPPES_DATA["transfers"] = {
- "updated": "2026-11-26T01:32:02.197Z",
+ "updated": "2026-11-26T03:09:53.155Z",
  "rules": {
   "minFeeMio": 20,
   "topClubs": [
@@ -358,20 +358,6 @@ window.FUPPES_DATA["transfers"] = {
    ]
   },
   {
-   "title": "Van Dijk vor Abschied aus Liverpool – italienischer Gigant zeigt Interesse",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNb3dnRGdJc3dJd01fVWcyeXBCODdYU20wUXQ0ckZ3by0tdEZIZXdUekx2R01lSEphdGFhbGlEUGVQejZ1UlAyV2EtVWx1S3Nza193N0ZieTJ6cjI0R0dtZEJaNkVmVzV2NkNHMWdHR091VGpINnlvVWhkRDNOai1FN3NDVUl0Q3c0OTlRb0diOW43NFpxU2E5NGUyUEZ4dVd2Y1BpZWln?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNb3dnRGdJc3dJd01fVWcyeXBCODdYU20wUXQ0ckZ3by0tdEZIZXdUekx2R01lSEphdGFhbGlEUGVQejZ1UlAyV2EtVWx1S3Nza193N0ZieTJ6cjI0R0dtZEJaNkVmVzV2NkNHMWdHR091VGpINnlvVWhkRDNOai1FN3NDVUl0Q3c0OTlRb0diOW43NFpxU2E5NGUyUEZ4dVd2Y1BpZWln?oc=5\"",
-   "source": "fussballdaten.de",
-   "date": "2026-11-24T12:22:00.000Z",
-   "fee": null,
-   "clubs": [
-    "Liverpool"
-   ],
-   "tags": [
-    "Gerücht"
-   ]
-  },
-  {
    "title": "FC Barcelona: 40-Millionen-Zugang für Barça?",
    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOeVNLbzh1UnNEbXZ2M0RGNUFxcVM3ZHV5RVh3YnFVSDd1UFpNNm5UX2prdWR2cmxWT2plRTNRY0VOMTItaWRVcENDeHVaVWV2VzlzUkREdXNldGtqdFBPdFYzS09mQXBIRXJPQjZ0SzhZWWJOMVdNU2d4X2hBeUR0T3dsZlBxSVNTczBPaEp3?oc=5",
    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOeVNLbzh1UnNEbXZ2M0RGNUFxcVM3ZHV5RVh3YnFVSDd1UFpNNm5UX2prdWR2cmxWT2plRTNRY0VOMTItaWRVcENDeHVaVWV2VzlzUkREdXNldGtqdFBPdFYzS09mQXBIRXJPQjZ0SzhZWWJOMVdNU2d4X2hBeUR0T3dsZlBxSVNTczBPaEp3?oc=5\" target=\"_blank\">FC Barcelona: 4",
@@ -381,6 +367,21 @@ window.FUPPES_DATA["transfers"] = {
    "clubs": [
     "Barcelona",
     "Barça"
+   ],
+   "tags": [
+    "Gerücht"
+   ]
+  },
+  {
+   "title": "Bayern-Star im Visier von PSG – Kommt es zum Blitz-Transfer?",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNUpObFQyOTBMNkd3R1U1aU9yU2VraVdRUmVLa3FQeEF6RVJweEQwaTZpVlBhaVktUkh4UDNYZzZPVHJXeXRRVUFLNGpyUVg4RzlmbEZQMTFzQXZEM1JBeW40ZWd1dFpyeVJnd1lQZTdTMDNWc1k4MDVYZ3FuSW5KQVkzYVZORG40?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNUpObFQyOTBMNkd3R1U1aU9yU2VraVdRUmVLa3FQeEF6RVJweEQwaTZpVlBhaVktUkh4UDNYZzZPVHJXeXRRVUFLNGpyUVg4RzlmbEZQMTFzQXZEM1JBeW40ZWd1dFpyeVJnd1lQZTdTMDNWc1k4MDVYZ3FuSW5KQVkzYVZORG40?oc=5\" target=\"_blank\">Bayern-Star im Visier v",
+   "source": "fussballdaten.de",
+   "date": "2026-11-24T10:39:00.000Z",
+   "fee": null,
+   "clubs": [
+    "Bayern",
+    "PSG"
    ],
    "tags": [
     "Gerücht"
