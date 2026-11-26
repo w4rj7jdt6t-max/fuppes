@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T07:37:47.015Z",
+ "updated": "2026-11-26T09:24:13.250Z",
  "rules": {
   "minFeeMio": 20,
   "topClubs": [
@@ -47,13 +47,58 @@
    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWFhLOVNsQXBVemc2QzA4ZVlobmFFR1R1TUhVbVM2ZlNKXzJyTmpPZ0g2OF96Z242VEE4eVV5dnVaYTZZckIzTm9GM2xfOHpRZksxeDJtMGUzdUFjLW01MjhqZ1A1RmxtakJGY29uMXdUMkZhYlhVLTlMUXBESjJWbWpMeVp2UXE0STJFM2ZsbTRjRHRWN2dWTm9EalNRTFQ4eVRFa2pzcEo0UllxR1k4YjQxRzg5a2ZHQnVUYXNLdWE?oc=5",
    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWFhLOVNsQXBVemc2QzA4ZVlobmFFR1R1TUhVbVM2ZlNKXzJyTmpPZ0g2OF96Z242VEE4eVV5dnVaYTZZckIzTm9GM2xfOHpRZksxeDJtMGUzdUFjLW01MjhqZ1A1RmxtakJGY29uMXdUMkZhYlhVLTlMUXBESjJWbWpMeVp2UXE0STJFM2ZsbTRjRHRWN2dWTm9EalNRTFQ4eVRFa2pzcEo0Ul",
    "source": "SPORT1",
-   "date": "2026-11-26T07:30:31.000Z",
+   "date": "2026-11-26T09:10:22.000Z",
    "fee": null,
    "clubs": [
     "Bayern"
    ],
    "tags": [
     "Gerücht"
+   ]
+  },
+  {
+   "title": "Fußball-Transfergerüchte heute: Leverkusen-Star vor Insel-Rückkehr? Real Madrid steigt bei Gladbach-Juwel ein",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBPUVlwdGw2Zm85VmhkY2NtVzItcHMzb2l0RGpmRE9CZExxNHA5Sy11RUx0cUliNmdEaVgzbExHcHh0ZjIxMW1MZEZLRzZCa0tvdWhISktkMU16T215RllSZ2J1WTRRN25PeFhHV2dEZDA?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFBPUVlwdGw2Zm85VmhkY2NtVzItcHMzb2l0RGpmRE9CZExxNHA5Sy11RUx0cUliNmdEaVgzbExHcHh0ZjIxMW1MZEZLRzZCa0tvdWhISktkMU16T215RllSZ2J1WTRRN25PeFhHV2dEZDA?oc=5\" target=\"_blank\">Fußball-Transfergerüchte heute: Leverkusen-Star vor Inse",
+   "source": "90min.de",
+   "date": "2026-11-26T08:54:04.000Z",
+   "fee": null,
+   "clubs": [
+    "Leverkusen",
+    "Real Madrid"
+   ],
+   "tags": [
+    "Gerücht",
+    "Personal"
+   ]
+  },
+  {
+   "title": "Wilde Gerüchte um Havertz-Interesse des FC Bayern",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNRlBaMVY1V0N3VFhwZU5HVFZUQVU2VDVneE10ZmtkZmF4NVNQUHRMT0I3cklvS2w4ajY3RmNuUUZjaUgzbzF4eHg5dVNNcEhtT2F1Y2JXcjN6OEZhTlA2TnM2R1pMYTdXVl9IQlNuQjVQUTBkVXJxbW52V0pIb0ZZWVB2UXl0MWFKemMwdy1iUk5SQQ?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNRlBaMVY1V0N3VFhwZU5HVFZUQVU2VDVneE10ZmtkZmF4NVNQUHRMT0I3cklvS2w4ajY3RmNuUUZjaUgzbzF4eHg5dVNNcEhtT2F1Y2JXcjN6OEZhTlA2TnM2R1pMYTdXVl9IQlNuQjVQUTBkVXJxbW52V0pIb0ZZWVB2UXl0MWFKemMwdy1iUk5SQQ?oc=5\" target=\"_blank\">Wilde Ger",
+   "source": "sport.de",
+   "date": "2026-11-26T08:54:00.000Z",
+   "fee": null,
+   "clubs": [
+    "Bayern"
+   ],
+   "tags": [
+    "Gerücht"
+   ]
+  },
+  {
+   "title": "Eintracht Frankfurt erwägt Otávio-Ausleihe – Welche Rolle Collins spielt",
+   "link": "https://www.transfermarkt.de/eintracht-frankfurt-erwagt-otavio-ausleihe-im-winter-welche-rolle-collins-spielt/view/news/491269",
+   "summary": "4,5 Millionen Euro exklusive m&ouml;glicher Boni zahlte Eintracht Frankfurt Ende Juli f&uuml;r Innenverteidiger Ot&aacute;vio an den portugiesischen Erstligisten Estrela Amadora. Ausgezahlt hat...",
+   "source": "Transfermarkt",
+   "date": "2026-11-26T08:34:45.000Z",
+   "fee": 4.5,
+   "clubs": [
+    "Eintracht Frankfurt",
+    "Frankfurt"
+   ],
+   "tags": [
+    "Leihe"
    ]
   },
   {
@@ -99,20 +144,6 @@
    ]
   },
   {
-   "title": "Winter-Transfers nach Kane-Schock? Bayern-Boss macht klare Ansage",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQb2t0eXlPVmNqX2pnT1RuYmVRWThUVmdkNDZzLVJOREpRT0I5STJ5a1YwcGhzZDZRMVRib3JLT3gtMkdmTU5zbjMxeFN5dDQyeXQtSG9laWg1VnJSeFFwMlduZXZwRml0ak5INHZ1eF9nRktkeHZteHdvaHVyMWVkV0NwaDBMeUpLcG9hUDZhd3lCUV9aNkNfOURn?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQb2t0eXlPVmNqX2pnT1RuYmVRWThUVmdkNDZzLVJOREpRT0I5STJ5a1YwcGhzZDZRMVRib3JLT3gtMkdmTU5zbjMxeFN5dDQyeXQtSG9laWg1VnJSeFFwMlduZXZwRml0ak5INHZ1eF9nRktkeHZteHdvaHVyMWVkV0NwaDBMeUpLcG9hUDZhd3lCUV9aNkNfOURn?oc=5\" target=\"_blank\"",
-   "source": "fussballdaten.de",
-   "date": "2026-11-25T21:06:00.000Z",
-   "fee": null,
-   "clubs": [
-    "Bayern"
-   ],
-   "tags": [
-    "Gerücht"
-   ]
-  },
-  {
    "title": "Freund bekräftigt: Bayern planen keine Transfers im Winter",
    "link": "https://www.kicker.de/freund-bekraeftigt-bayern-planen-keine-transfers-im-winter-1275073/artikel#omrss",
    "summary": "Der FC Bayern ist aktuell schwer von Verletzungen gebeutelt. Im Winter nachbessern will der Rekordmeister trotzdem nicht, das bekräftigte Sportdirektor Christoph Freund am Mittwoch vor der Partie in Lille.",
@@ -128,16 +159,15 @@
    ]
   },
   {
-   "title": "Top-Talent ist heiß begehrt: Bayern, BVB und Leipzig liefern sich Transfer-Kampf",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSGtJVm1MbGFZaXdZbWItdGJFaWJKUzJoWXJIQ0VWdmJCYlNMQjFjdnhrSWdYRnNoZVgwaEVfVkhTblV1RGx6WUF1NU9SMVlNeWZVS3lvVE83QzVRbG9MMGE5T0QxSkozRG1JcHhSal9QMjByVkw2Yzg0SEpzQUQ3amxjUXU1RnlHa0xMeTdYc011TTFubU0yVmdVMmx1bVNwUXlUVQ?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPSGtJVm1MbGFZaXdZbWItdGJFaWJKUzJoWXJIQ0VWdmJCYlNMQjFjdnhrSWdYRnNoZVgwaEVfVkhTblV1RGx6WUF1NU9SMVlNeWZVS3lvVE83QzVRbG9MMGE5T0QxSkozRG1JcHhSal9QMjByVkw2Yzg0SEpzQUQ3amxjUXU1RnlHa0xMeTdYc011TTFubU0yVmdVMmx1bVNwUXlUVQ?oc=5\" t",
-   "source": "FCBinside",
-   "date": "2026-11-25T15:30:57.000Z",
+   "title": "Eintracht Frankfurt: Doan spricht über geplatzten Deal",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPaGd2V0JnYjZNVngtaERMUDYzNFk5YlUtOGhpakZsbHZKVTdKX01tdnJzUllWSTVlZkF3Q19GRE54emhtZlR4T0s4Yk96M1FmWm1MS3puMFlaVmhXTUJXeEZFS0ZURTFFRUVUU2QwUTUzMm41MEtKUGtkYWNUdWxnUEZITkV3Ul84RzQ0LTY3R0VQLUtQSGNnNU0xUnIxS3d0?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPaGd2V0JnYjZNVngtaERMUDYzNFk5YlUtOGhpakZsbHZKVTdKX01tdnJzUllWSTVlZkF3Q19GRE54emhtZlR4T0s4Yk96M1FmWm1MS3puMFlaVmhXTUJXeEZFS0ZURTFFRUVUU2QwUTUzMm41MEtKUGtkYWNUdWxnUEZITkV3Ul84RzQ0LTY3R0VQLUtQSGNnNU0xUnIxS3d0?oc=5\" target=",
+   "source": "Fussball Transfers",
+   "date": "2026-11-25T17:54:47.000Z",
    "fee": null,
    "clubs": [
-    "Bayern",
-    "BVB",
-    "Leipzig"
+    "Eintracht Frankfurt",
+    "Frankfurt"
    ],
    "tags": [
     "Transfer"
@@ -350,35 +380,6 @@
    "fee": null,
    "clubs": [
     "BVB"
-   ],
-   "tags": [
-    "Transfer"
-   ]
-  },
-  {
-   "title": "30-Millionen-Transfer: BVB wartet auf den Durchbruch",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQ3ZaVEJzMHRSVTd1RFBxQUFkbFhaRzhkdzY3cVhOZ3gyR2Q5UHl0U296MWt4ZE5MV21ORlZUN1k3cklDMDZVUjNuYS0tOTZsWm9nUk55TzVaOWNCSjkxODhhYndxcUxNSFFfQlUwS3BLVWI1by1naDFiUEwwQmpJRFBOWjg5UGVEU3RjeURmVTVobDZzVjJpQ1dyNUdNeUMyM3NVbURYbGU?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQ3ZaVEJzMHRSVTd1RFBxQUFkbFhaRzhkdzY3cVhOZ3gyR2Q5UHl0U296MWt4ZE5MV21ORlZUN1k3cklDMDZVUjNuYS0tOTZsWm9nUk55TzVaOWNCSjkxODhhYndxcUxNSFFfQlUwS3BLVWI1by1naDFiUEwwQmpJRFBOWjg5UGVEU3RjeURmVTVobDZzVjJpQ1dyNUdNeUMyM3NVbURYbGU?oc",
-   "source": "Fussball Transfers",
-   "date": "2026-11-24T17:07:48.000Z",
-   "fee": null,
-   "clubs": [
-    "BVB"
-   ],
-   "tags": [
-    "Transfer"
-   ]
-  },
-  {
-   "title": "Ex-Barcelona-Spieler im Visier von PSG – mögliche Ablöse: 60 Millionen Euro",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZk92OFc2V1VVdGVXUmtsUVE0cUc0eVlMQnJPX1VJaVpzV3QwOUZvb0NFMDFBeGFkVF92ZUZsWXJWSHJzbWY5R2Z4cjdGeHB1eHNOY3F5bVlFdkxTOVZSRUV6QjNKZWpMb2YyV09XendvLXpGbHR4b2V1TThVYzdKSW91bWxlbE5vVVBELWJDRU9kT0NocXBtMFR0WXVUSUppMFdrOA?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNZk92OFc2V1VVdGVXUmtsUVE0cUc0eVlMQnJPX1VJaVpzV3QwOUZvb0NFMDFBeGFkVF92ZUZsWXJWSHJzbWY5R2Z4cjdGeHB1eHNOY3F5bVlFdkxTOVZSRUV6QjNKZWpMb2YyV09XendvLXpGbHR4b2V1TThVYzdKSW91bWxlbE5vVVBELWJDRU9kT0NocXBtMFR0WXVUSUppMFdrOA?oc=5\" t",
-   "source": "fussballdaten.de",
-   "date": "2026-11-24T12:48:00.000Z",
-   "fee": 60,
-   "clubs": [
-    "Barcelona",
-    "PSG"
    ],
    "tags": [
     "Transfer"

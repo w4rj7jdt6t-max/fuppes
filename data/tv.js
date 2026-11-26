@@ -1,6 +1,6 @@
 window.FUPPES_DATA = window.FUPPES_DATA || {};
 window.FUPPES_DATA["tv"] = {
- "updated": "2026-11-26T07:37:48.657Z",
+ "updated": "2026-11-26T09:24:14.248Z",
  "matches": [
   {
    "matchID": 83252,

@@ -1,6 +1,6 @@
 window.FUPPES_DATA = window.FUPPES_DATA || {};
 window.FUPPES_DATA["news-fc"] = {
- "updated": "2026-11-26T07:37:45.495Z",
+ "updated": "2026-11-26T09:24:11.882Z",
  "items": [
   {
    "title": "„Halten nicht immer Händchen“: So wird Sobek von Kessler eingebunden",
