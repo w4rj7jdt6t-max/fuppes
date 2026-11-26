@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T03:09:53.155Z",
+ "updated": "2026-11-26T05:24:14.123Z",
  "rules": {
   "minFeeMio": 20,
   "topClubs": [
@@ -43,6 +43,20 @@
  },
  "items": [
   {
+   "title": "Fußballtransfers: Gerüchte und News im Transferticker - Winter-Einkauf beim FC Bayern? Das sagt Freund",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWFhLOVNsQXBVemc2QzA4ZVlobmFFR1R1TUhVbVM2ZlNKXzJyTmpPZ0g2OF96Z242VEE4eVV5dnVaYTZZckIzTm9GM2xfOHpRZksxeDJtMGUzdUFjLW01MjhqZ1A1RmxtakJGY29uMXdUMkZhYlhVLTlMUXBESjJWbWpMeVp2UXE0STJFM2ZsbTRjRHRWN2dWTm9EalNRTFQ4eVRFa2pzcEo0UllxR1k4YjQxRzg5a2ZHQnVUYXNLdWE?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWFhLOVNsQXBVemc2QzA4ZVlobmFFR1R1TUhVbVM2ZlNKXzJyTmpPZ0g2OF96Z242VEE4eVV5dnVaYTZZckIzTm9GM2xfOHpRZksxeDJtMGUzdUFjLW01MjhqZ1A1RmxtakJGY29uMXdUMkZhYlhVLTlMUXBESjJWbWpMeVp2UXE0STJFM2ZsbTRjRHRWN2dWTm9EalNRTFQ4eVRFa2pzcEo0Ul",
+   "source": "SPORT1",
+   "date": "2026-11-26T05:18:04.000Z",
+   "fee": null,
+   "clubs": [
+    "Bayern"
+   ],
+   "tags": [
+    "Gerücht"
+   ]
+  },
+  {
    "title": "FC Bayern: Winter-Transfers? Das sagen Eberl und Freund",
    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWWNNVjBaVHVCT3I1NnoyMFZVRGZYc0RweTJKU1BuWnJLNlE0QXl3RmpPMXdUdEVPMU1KY3Rja2FGQVNWdE1EVTI2eWhGdVc4NDN5UjZvOXZLNDQ4UGxJMTBYZGZCWmF6MzJ3Sy1LMHpsNFNEbjI4RmtPSThpSXhTYU1HVWoxNllFZ0RHLW56a3cxSFdoWGNKaXFnU0wyMGthLUhNbVcycTlPcmRnNi1ub0ozcmphZw?oc=5",
    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOWWNNVjBaVHVCT3I1NnoyMFZVRGZYc0RweTJKU1BuWnJLNlE0QXl3RmpPMXdUdEVPMU1KY3Rja2FGQVNWdE1EVTI2eWhGdVc4NDN5UjZvOXZLNDQ4UGxJMTBYZGZCWmF6MzJ3Sy1LMHpsNFNEbjI4RmtPSThpSXhTYU1HVWoxNllFZ0RHLW56a3cxSFdoWGNKaXFnU0wyMGthLUhNbVcycTlPcm",
@@ -83,6 +97,21 @@
    "tags": [
     "Personal",
     "Verein"
+   ]
+  },
+  {
+   "title": "Eintracht Frankfurt: Doan spricht über geplatzten Deal",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPaGd2V0JnYjZNVngtaERMUDYzNFk5YlUtOGhpakZsbHZKVTdKX01tdnJzUllWSTVlZkF3Q19GRE54emhtZlR4T0s4Yk96M1FmWm1MS3puMFlaVmhXTUJXeEZFS0ZURTFFRUVUU2QwUTUzMm41MEtKUGtkYWNUdWxnUEZITkV3Ul84RzQ0LTY3R0VQLUtQSGNnNU0xUnIxS3d0?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPaGd2V0JnYjZNVngtaERMUDYzNFk5YlUtOGhpakZsbHZKVTdKX01tdnJzUllWSTVlZkF3Q19GRE54emhtZlR4T0s4Yk96M1FmWm1MS3puMFlaVmhXTUJXeEZFS0ZURTFFRUVUU2QwUTUzMm41MEtKUGtkYWNUdWxnUEZITkV3Ul84RzQ0LTY3R0VQLUtQSGNnNU0xUnIxS3d0?oc=5\" target=",
+   "source": "Fussball Transfers",
+   "date": "2026-11-25T17:54:47.000Z",
+   "fee": null,
+   "clubs": [
+    "Eintracht Frankfurt",
+    "Frankfurt"
+   ],
+   "tags": [
+    "Transfer"
    ]
   },
   {
@@ -354,36 +383,6 @@
    ],
    "tags": [
     "Transfer"
-   ]
-  },
-  {
-   "title": "FC Barcelona: 40-Millionen-Zugang für Barça?",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOeVNLbzh1UnNEbXZ2M0RGNUFxcVM3ZHV5RVh3YnFVSDd1UFpNNm5UX2prdWR2cmxWT2plRTNRY0VOMTItaWRVcENDeHVaVWV2VzlzUkREdXNldGtqdFBPdFYzS09mQXBIRXJPQjZ0SzhZWWJOMVdNU2d4X2hBeUR0T3dsZlBxSVNTczBPaEp3?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOeVNLbzh1UnNEbXZ2M0RGNUFxcVM3ZHV5RVh3YnFVSDd1UFpNNm5UX2prdWR2cmxWT2plRTNRY0VOMTItaWRVcENDeHVaVWV2VzlzUkREdXNldGtqdFBPdFYzS09mQXBIRXJPQjZ0SzhZWWJOMVdNU2d4X2hBeUR0T3dsZlBxSVNTczBPaEp3?oc=5\" target=\"_blank\">FC Barcelona: 4",
-   "source": "Fussball Transfers",
-   "date": "2026-11-24T11:37:27.000Z",
-   "fee": null,
-   "clubs": [
-    "Barcelona",
-    "Barça"
-   ],
-   "tags": [
-    "Gerücht"
-   ]
-  },
-  {
-   "title": "Bayern-Star im Visier von PSG – Kommt es zum Blitz-Transfer?",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNUpObFQyOTBMNkd3R1U1aU9yU2VraVdRUmVLa3FQeEF6RVJweEQwaTZpVlBhaVktUkh4UDNYZzZPVHJXeXRRVUFLNGpyUVg4RzlmbEZQMTFzQXZEM1JBeW40ZWd1dFpyeVJnd1lQZTdTMDNWc1k4MDVYZ3FuSW5KQVkzYVZORG40?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNUpObFQyOTBMNkd3R1U1aU9yU2VraVdRUmVLa3FQeEF6RVJweEQwaTZpVlBhaVktUkh4UDNYZzZPVHJXeXRRVUFLNGpyUVg4RzlmbEZQMTFzQXZEM1JBeW40ZWd1dFpyeVJnd1lQZTdTMDNWc1k4MDVYZ3FuSW5KQVkzYVZORG40?oc=5\" target=\"_blank\">Bayern-Star im Visier v",
-   "source": "fussballdaten.de",
-   "date": "2026-11-24T10:39:00.000Z",
-   "fee": null,
-   "clubs": [
-    "Bayern",
-    "PSG"
-   ],
-   "tags": [
-    "Gerücht"
    ]
   }
  ]
