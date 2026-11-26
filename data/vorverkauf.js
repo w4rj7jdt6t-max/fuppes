@@ -1,6 +1,6 @@
 window.FUPPES_DATA = window.FUPPES_DATA || {};
 window.FUPPES_DATA["vorverkauf"] = {
- "updated": "2026-11-26T21:05:44.977Z",
+ "updated": "2026-11-26T23:10:20.232Z",
  "source": "1. FC Köln · Vorverkaufsstarts (calovo)",
  "subscribe": "webcal://i.cal.to/ical/218/fckoeln/1-fc-koeln-vorverkaufsstarts/12345.12345-54321.ics",
  "shop": "https://www.ticket-onlineshop.com/ols/fckoeln/",

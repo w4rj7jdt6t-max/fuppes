@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T21:05:47.196Z",
+ "updated": "2026-11-26T23:10:22.311Z",
  "rules": {
   "minFeeMio": 20,
   "topClubs": [
@@ -42,6 +42,37 @@
   ]
  },
  "items": [
+  {
+   "title": "BVB buhlt um Younes Ebnoutalib: Eintracht Frankfurt setzt wohl klares Winter-Wechselverbot durch",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPYUpjRFh6UEtfb0xmb1RuNWJ6QVVFWVJnY1cxRjFCTF9qR3k0VTM3Q0xKeVVUZUpsTlFqemcxUklZUHgxNEJsXzNwLU4xbC1xSnluTEYxUHZRQk5DcHFmRHhDaENjY191MkVrcUdhanVWYWNPdm5OWHpkSDBHblNoV25fbnhZZXRxa3hHS2xnV2NzUHZrQU90Q2EwdmwtcTVLZnExamlVZmZ2RkZlNDI4SA?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPYUpjRFh6UEtfb0xmb1RuNWJ6QVVFWVJnY1cxRjFCTF9qR3k0VTM3Q0xKeVVUZUpsTlFqemcxUklZUHgxNEJsXzNwLU4xbC1xSnluTEYxUHZRQk5DcHFmRHhDaENjY191MkVrcUdhanVWYWNPdm5OWHpkSDBHblNoV25fbnhZZXRxa3hHS2xnV2NzUHZrQU90Q2EwdmwtcTVLZnExamlVZmZ2Rk",
+   "source": "Frankfurter Rundschau",
+   "date": "2026-11-26T21:44:48.000Z",
+   "fee": null,
+   "clubs": [
+    "BVB",
+    "Eintracht Frankfurt",
+    "Frankfurt"
+   ],
+   "tags": [
+    "Gerücht"
+   ]
+  },
+  {
+   "title": "Keven Schlotterbeck tippt 11. Spieltag: BVB behauptet Spitze vor FC Bayern",
+   "link": "https://www.transfermarkt.de/schlotterbeck-tippt-11-spieltag-bvb-behauptet-spitze-vor-fc-bayern-schalke-jubelt-auswarts/view/news/491273",
+   "summary": "Innenverteidiger Keven Schlotterbeck vom FC Southampton hat f&uuml;r Transfermarkt den 11. Bundesliga-Spieltag getippt und tritt gegen die TM-Community an. Der 29-J&auml;hrige ist davon...",
+   "source": "Transfermarkt",
+   "date": "2026-11-26T20:30:58.000Z",
+   "fee": null,
+   "clubs": [
+    "Bayern",
+    "BVB"
+   ],
+   "tags": [
+    "Transfer"
+   ]
+  },
   {
    "title": "DFB-Star auf BVB-Liste! 100 Mio. für Nusa? | Transfer Update Fan Club",
    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUmpFb1BJMHhrOHZzVG9FOFBlbkJkdjRlLThsc1E5ZEx4QnNRVkVZTjVkbUFCSl9yRXl6ZmhWZHkxWFBBZ0d1aHdYQkdfeHpXS29mNnJzb1pqWThFSzVRMjF4N3hncnJrNXF2TXBJOExSYVUycmhUenozOWl3UkM3ZWFLXzZ3d0x1M0liOUhjNklJZlltblp5MGk1S1ZmRE9OZjl5RDBDcktzU3BEOHVOeVBpZjR2YzBsaGc?oc=5",
@@ -115,6 +146,20 @@
    ]
   },
   {
+   "title": "Kane-Ersatz: Transfer-Ratschlag an den FC Bayern",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaUFUT05WNm9tOEYtWUdiMnpLdHgzNDlCell4TmJ0N2ZfZjVqenFIQnQ5UnpacHZSbEtjQWFiaVF4LWsyc1IwS1VQT3V0Y29FNnJCYkRKQUlObHR2aGJkRGo0V0V0aFEzeUpfTHN1YVNHM2NTeWpPYnliZ0JzNFJnb1RhVXhlZ2VYaV9xNUpfWjFCbURmSG9HRw?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPaUFUT05WNm9tOEYtWUdiMnpLdHgzNDlCell4TmJ0N2ZfZjVqenFIQnQ5UnpacHZSbEtjQWFiaVF4LWsyc1IwS1VQT3V0Y29FNnJCYkRKQUlObHR2aGJkRGo0V0V0aFEzeUpfTHN1YVNHM2NTeWpPYnliZ0JzNFJnb1RhVXhlZ2VYaV9xNUpfWjFCbURmSG9HRw?oc=5\" target=\"_blank\">K",
+   "source": "Fussball Transfers",
+   "date": "2026-11-26T13:03:57.000Z",
+   "fee": null,
+   "clubs": [
+    "Bayern"
+   ],
+   "tags": [
+    "Transfer"
+   ]
+  },
+  {
    "title": "BVB-Transfer geplatzt? Trainer von Marcel Regula gibt Wechsel-Hinweis",
    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOc2hWaTExbzVzSTJMWmpJNzRrcFRhRDJZNEpncFNldmdESXVubmpkU1hrVkNnQ3JpMkRlYlJnb0NjOWpybUNrdWlfY1ZJODNpbmlIYU42czlSemJkRHhfUkZjeVZDZlpnRk1RZWlNcGRpN3ZnUlJkMURYbDhlTVh3YllvZlFlVWpxanZ2d1pGQ05zc1JoeEhxOUc2VENsQzI2?oc=5",
    "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOc2hWaTExbzVzSTJMWmpJNzRrcFRhRDJZNEpncFNldmdESXVubmpkU1hrVkNnQ3JpMkRlYlJnb0NjOWpybUNrdWlfY1ZJODNpbmlIYU42czlSemJkRHhfUkZjeVZDZlpnRk1RZWlNcGRpN3ZnUlJkMURYbDhlTVh3YllvZlFlVWpxanZ2d1pGQ05zc1JoeEhxOUc2VENsQzI2?oc=5\" target=",
@@ -141,20 +186,6 @@
    ],
    "tags": [
     "Gerücht"
-   ]
-  },
-  {
-   "title": "Tottenham: Richarlison will Saudi-Transfer – Kein Kontakt zu Trabzonspor",
-   "link": "https://www.transfermarkt.de/berater-bestatigt-richarlison-wartet-auf-saudi-angebot-ihm-gefallt-die-idee-sehr-gut-quot-/view/news/491300",
-   "summary": "Mit einer R&uuml;ckkehr zum FC Everton wurde es am Sommer-Deadline-Day nichts und seitdem ist der einst 58 Millionen Euro teure Richarlison bei Tottenham Hotspur au&szlig;en vor. Der 29 Jahre alte...",
-   "source": "Transfermarkt",
-   "date": "2026-11-26T12:17:51.000Z",
-   "fee": 58,
-   "clubs": [
-    "Tottenham"
-   ],
-   "tags": [
-    "Transfer"
    ]
   },
   {
@@ -202,17 +233,18 @@
    ]
   },
   {
-   "title": "FC Bayern: Eberl stellt Transfer in Aussicht",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOR2g5TFlCQ2hkTmZBMHpiQmgxZXN4a00yMXdobmpjVWpSNlRoN1JPTUg1Q3kyVmJCTXFtOXd5YTIxNnpncXljVmZYcVVpYjhTMTlOSjVGNXd3V2VUNU1uMG4xVExEUklTamcxQV9CR3B1MlVzMXhTckxTLXNqUkc0UHlTSWdFMTYzRWZFZ0xWRVlFdEExQU9FZE92eUF5NUU?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOR2g5TFlCQ2hkTmZBMHpiQmgxZXN4a00yMXdobmpjVWpSNlRoN1JPTUg1Q3kyVmJCTXFtOXd5YTIxNnpncXljVmZYcVVpYjhTMTlOSjVGNXd3V2VUNU1uMG4xVExEUklTamcxQV9CR3B1MlVzMXhTckxTLXNqUkc0UHlTSWdFMTYzRWZFZ0xWRVlFdEExQU9FZE92eUF5NUU?oc=5\" target=\"",
+   "title": "Eintracht Frankfurt will Transferflop verleihen",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxONU1oRUxkTE5OOG53ZmRxRm5NZkt0RUhiaWZVVF9OT0JZR0ZyWmxoOEMwY0RYQnVyMlZYUl9VYkZQNjFnMmduV2pCdU84LXpidVhOeFZFMVZtVFNEaHpZQXFEb3ZKbk91VzBFWjlRVkxsVFZwMGNjUy1QWlFMeGNyTGpIYV8tbDYwMktvME9HaDhKMGtER1c0?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxONU1oRUxkTE5OOG53ZmRxRm5NZkt0RUhiaWZVVF9OT0JZR0ZyWmxoOEMwY0RYQnVyMlZYUl9VYkZQNjFnMmduV2pCdU84LXpidVhOeFZFMVZtVFNEaHpZQXFEb3ZKbk91VzBFWjlRVkxsVFZwMGNjUy1QWlFMeGNyTGpIYV8tbDYwMktvME9HaDhKMGtER1c0?oc=5\" target=\"_blank\">Ein",
    "source": "Fussball Transfers",
-   "date": "2026-11-26T07:28:24.000Z",
+   "date": "2026-11-26T06:58:01.000Z",
    "fee": null,
    "clubs": [
-    "Bayern"
+    "Eintracht Frankfurt",
+    "Frankfurt"
    ],
    "tags": [
-    "Transfer"
+    "Leihe"
    ]
   },
   {
@@ -260,16 +292,17 @@
   },
   {
    "title": "Freund bekräftigt: Bayern planen keine Transfers im Winter",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTXVHOWtfdFBIZjdmS202cl9JZGIwbTVVU19CVHFsc1g3a0tPVkt4V2VMMTdMVjJBb2NpVnotU0huZmZzTVFxTDBMZzhZTEM4VWRLcVZsYkE2WWgtYUo3bUxQb1JKZE1pczhyQTI4WHJjMnBiSEVfaXN5ZFhwbzJ5MHFQTFZHd0ZwTWFidmNsLTQzLXdadHgtX09VMm0?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOTXVHOWtfdFBIZjdmS202cl9JZGIwbTVVU19CVHFsc1g3a0tPVkt4V2VMMTdMVjJBb2NpVnotU0huZmZzTVFxTDBMZzhZTEM4VWRLcVZsYkE2WWgtYUo3bUxQb1JKZE1pczhyQTI4WHJjMnBiSEVfaXN5ZFhwbzJ5MHFQTFZHd0ZwTWFidmNsLTQzLXdadHgtX09VMm0?oc=5\" target=\"_bla",
-   "source": "Kicker",
+   "link": "https://www.kicker.de/freund-bekraeftigt-bayern-planen-keine-transfers-im-winter-1275073/artikel#omrss",
+   "summary": "Der FC Bayern ist aktuell schwer von Verletzungen gebeutelt. Im Winter nachbessern will der Rekordmeister trotzdem nicht, das bekräftigte Sportdirektor Christoph Freund am Mittwoch vor der Partie in Lille.",
+   "source": "kicker",
    "date": "2026-11-25T20:47:08.000Z",
    "fee": null,
    "clubs": [
     "Bayern"
    ],
    "tags": [
-    "Transfer"
+    "Personal",
+    "Verein"
    ]
   },
   {
@@ -354,34 +387,6 @@
    ],
    "tags": [
     "Gerücht"
-   ]
-  },
-  {
-   "title": "Neuer Transferplan bei BVB-Flirt Marcel Regula enthüllt",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVE5FUXlRWldZZHJEd18zYlB5MFREWk9RT1FrRVp4SXRzVDdxczh1VzRRMkR6N1E1WDEyRzZCZzdUZUtIbXRJWlBmMlBMMFlXY1U0dk1Fc0pZTFJRQXB2dzZCQ3NGajh3b3MyNnhkTkVtREgwbHZsakFwU3htRXpwVDQ5S2IwWjhnQlVuTE11Wnc?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNVE5FUXlRWldZZHJEd18zYlB5MFREWk9RT1FrRVp4SXRzVDdxczh1VzRRMkR6N1E1WDEyRzZCZzdUZUtIbXRJWlBmMlBMMFlXY1U0dk1Fc0pZTFJRQXB2dzZCQ3NGajh3b3MyNnhkTkVtREgwbHZsakFwU3htRXpwVDQ5S2IwWjhnQlVuTE11Wnc?oc=5\" target=\"_blank\">Neuer Transf",
-   "source": "fussballdaten.de",
-   "date": "2026-11-25T09:33:00.000Z",
-   "fee": null,
-   "clubs": [
-    "BVB"
-   ],
-   "tags": [
-    "Transfer"
-   ]
-  },
-  {
-   "title": "\"Die Ablöse war indiskutabel\": Transfer von Bayern-Star Michael Olise scheiterte am Geld",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPdGNaTDZHUVZSZGszS2tVOHIzV05BZ05zMGZseUFUdEc0ckljZWhmRGlwYzFiUUxjaE5xTUtwYkxnYUtOdWwwbFhnT3BMWlF2LWJoNWV1S2RQV21RRXJJc3VMVXBtbzZlM0cxWkl3czJycThCVEFRRUtESnRsNWl2aGxSeXRwdDFoem9MZ2pHemwwcXBOMUhRM3lQUFhFbWc1UzVJTmNjMERvWlRCMUhWcng5MFlQcFJnTTUtSW9fZFVvZTQwa2dRdGJsVGl4cDVBbDF2elN1dmc?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxPdGNaTDZHUVZSZGszS2tVOHIzV05BZ05zMGZseUFUdEc0ckljZWhmRGlwYzFiUUxjaE5xTUtwYkxnYUtOdWwwbFhnT3BMWlF2LWJoNWV1S2RQV21RRXJJc3VMVXBtbzZlM0cxWkl3czJycThCVEFRRUtESnRsNWl2aGxSeXRwdDFoem9MZ2pHemwwcXBOMUhRM3lQUFhFbWc1UzVJTmNjMERvWl",
-   "source": "SPOX.com",
-   "date": "2026-11-25T09:23:36.000Z",
-   "fee": null,
-   "clubs": [
-    "Bayern"
-   ],
-   "tags": [
-    "Transfer"
    ]
   }
  ]
