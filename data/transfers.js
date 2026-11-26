@@ -1,6 +1,6 @@
 window.FUPPES_DATA = window.FUPPES_DATA || {};
 window.FUPPES_DATA["transfers"] = {
- "updated": "2026-11-26T13:35:52.130Z",
+ "updated": "2026-11-26T15:17:27.385Z",
  "rules": {
   "minFeeMio": 20,
   "topClubs": [
@@ -43,6 +43,21 @@ window.FUPPES_DATA["transfers"] = {
   ]
  },
  "items": [
+  {
+   "title": "Eintracht Frankfurt erwägt Otávio-Ausleihe – Welche Rolle Collins spielt",
+   "link": "https://www.transfermarkt.de/eintracht-frankfurt-erwagt-otavio-ausleihe-im-winter-fur-uns-nicht-zufriedenstellend-quot-/view/news/491269",
+   "summary": "Ver&ouml;ffentlicht am 26.11.2026 um 09:34, aktualisiert um 15:36 Uhr. 4,5 Millionen Euro exklusive m&ouml;glicher Boni &uuml;berwies Eintracht Frankfurt Ende Juli f&uuml;r Innenverteidiger...",
+   "source": "Transfermarkt",
+   "date": "2026-11-26T14:36:48.000Z",
+   "fee": 4.5,
+   "clubs": [
+    "Eintracht Frankfurt",
+    "Frankfurt"
+   ],
+   "tags": [
+    "Leihe"
+   ]
+  },
   {
    "title": "Kane-Ersatz: Transfer-Ratschlag an den FC Bayern",
    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaUFUT05WNm9tOEYtWUdiMnpLdHgzNDlCell4TmJ0N2ZfZjVqenFIQnQ5UnpacHZSbEtjQWFiaVF4LWsyc1IwS1VQT3V0Y29FNnJCYkRKQUlObHR2aGJkRGo0V0V0aFEzeUpfTHN1YVNHM2NTeWpPYnliZ0JzNFJnb1RhVXhlZ2VYaV9xNUpfWjFCbURmSG9HRw?oc=5",
@@ -129,20 +144,6 @@ window.FUPPES_DATA["transfers"] = {
    ]
   },
   {
-   "title": "Fußballtransfers: Gerüchte und News im Transferticker - Winter-Einkauf beim FC Bayern? Das sagt Freund",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWFhLOVNsQXBVemc2QzA4ZVlobmFFR1R1TUhVbVM2ZlNKXzJyTmpPZ0g2OF96Z242VEE4eVV5dnVaYTZZckIzTm9GM2xfOHpRZksxeDJtMGUzdUFjLW01MjhqZ1A1RmxtakJGY29uMXdUMkZhYlhVLTlMUXBESjJWbWpMeVp2UXE0STJFM2ZsbTRjRHRWN2dWTm9EalNRTFQ4eVRFa2pzcEo0UllxR1k4YjQxRzg5a2ZHQnVUYXNLdWE?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWFhLOVNsQXBVemc2QzA4ZVlobmFFR1R1TUhVbVM2ZlNKXzJyTmpPZ0g2OF96Z242VEE4eVV5dnVaYTZZckIzTm9GM2xfOHpRZksxeDJtMGUzdUFjLW01MjhqZ1A1RmxtakJGY29uMXdUMkZhYlhVLTlMUXBESjJWbWpMeVp2UXE0STJFM2ZsbTRjRHRWN2dWTm9EalNRTFQ4eVRFa2pzcEo0Ul",
-   "source": "SPORT1",
-   "date": "2026-11-26T10:50:48.000Z",
-   "fee": null,
-   "clubs": [
-    "Bayern"
-   ],
-   "tags": [
-    "Gerücht"
-   ]
-  },
-  {
    "title": "Enthüllt: Haaland will Transfer zu Real Madrid",
    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONzdXOXhxNGNpMDU5YlpWeXhYU3FBMjFvM1pOYWhIakI1QmtkaDNEWFZ1V2syaHlRbmgxLUdCRXpaeTRZV1Y2cGNSNXRNUmdFRTJZcTJyNjE4V18xdzFlUHM5eF9CS0hDNGJOQmFRbzVEc3c5bE9PRThVVTFHc3B5R0oyNU42YVVk?oc=5",
    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxONzdXOXhxNGNpMDU5YlpWeXhYU3FBMjFvM1pOYWhIakI1QmtkaDNEWFZ1V2syaHlRbmgxLUdCRXpaeTRZV1Y2cGNSNXRNUmdFRTJZcTJyNjE4V18xdzFlUHM5eF9CS0hDNGJOQmFRbzVEc3c5bE9PRThVVTFHc3B5R0oyNU42YVVk?oc=5\" target=\"_blank\">Enthüllt: Haaland will ",
@@ -170,21 +171,6 @@ window.FUPPES_DATA["transfers"] = {
    "tags": [
     "Gerücht",
     "Personal"
-   ]
-  },
-  {
-   "title": "Eintracht Frankfurt erwägt Otávio-Ausleihe – Welche Rolle Collins spielt",
-   "link": "https://www.transfermarkt.de/eintracht-frankfurt-erwagt-otavio-ausleihe-im-winter-welche-rolle-collins-spielt/view/news/491269",
-   "summary": "4,5 Millionen Euro exklusive m&ouml;glicher Boni zahlte Eintracht Frankfurt Ende Juli f&uuml;r Innenverteidiger Ot&aacute;vio an den portugiesischen Erstligisten Estrela Amadora. Ausgezahlt hat...",
-   "source": "Transfermarkt",
-   "date": "2026-11-26T08:34:45.000Z",
-   "fee": 4.5,
-   "clubs": [
-    "Eintracht Frankfurt",
-    "Frankfurt"
-   ],
-   "tags": [
-    "Leihe"
    ]
   },
   {
@@ -228,21 +214,6 @@ window.FUPPES_DATA["transfers"] = {
    "tags": [
     "Personal",
     "Verein"
-   ]
-  },
-  {
-   "title": "Eintracht Frankfurt: Doan spricht über geplatzten Deal",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPaGd2V0JnYjZNVngtaERMUDYzNFk5YlUtOGhpakZsbHZKVTdKX01tdnJzUllWSTVlZkF3Q19GRE54emhtZlR4T0s4Yk96M1FmWm1MS3puMFlaVmhXTUJXeEZFS0ZURTFFRUVUU2QwUTUzMm41MEtKUGtkYWNUdWxnUEZITkV3Ul84RzQ0LTY3R0VQLUtQSGNnNU0xUnIxS3d0?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPaGd2V0JnYjZNVngtaERMUDYzNFk5YlUtOGhpakZsbHZKVTdKX01tdnJzUllWSTVlZkF3Q19GRE54emhtZlR4T0s4Yk96M1FmWm1MS3puMFlaVmhXTUJXeEZFS0ZURTFFRUVUU2QwUTUzMm41MEtKUGtkYWNUdWxnUEZITkV3Ul84RzQ0LTY3R0VQLUtQSGNnNU0xUnIxS3d0?oc=5\" target=",
-   "source": "Fussball Transfers",
-   "date": "2026-11-25T17:54:47.000Z",
-   "fee": null,
-   "clubs": [
-    "Eintracht Frankfurt",
-    "Frankfurt"
-   ],
-   "tags": [
-    "Transfer"
    ]
   },
   {
@@ -330,20 +301,6 @@ window.FUPPES_DATA["transfers"] = {
    ]
   },
   {
-   "title": "FC Bayern äußert sich zu Gerüchten um Musiala",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVFR0bEdYaDJVS2llbDlNcW9PbXlzbFFsY0haaGUxS1FEM1cyME80V05BX0h2Z0QwVERDOHJjUFRlbllOLVhpVWQ0ajd4WW9GNzFFOV9Bd2JtbjNoTEFjZGtGbjAzaVlIcjdlZVJlMDJLeFdPdmVBY1hrbmdqeDM5a1hzbFo2MU5lMDhQemFRYzBGNDFyX2wtME9vM1JpMkt1V3pMck9wek1RMEVHOENtVUFTQQ?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQVFR0bEdYaDJVS2llbDlNcW9PbXlzbFFsY0haaGUxS1FEM1cyME80V05BX0h2Z0QwVERDOHJjUFRlbllOLVhpVWQ0ajd4WW9GNzFFOV9Bd2JtbjNoTEFjZGtGbjAzaVlIcjdlZVJlMDJLeFdPdmVBY1hrbmdqeDM5a1hzbFo2MU5lMDhQemFRYzBGNDFyX2wtME9vM1JpMkt1V3pMck9wek1RME",
-   "source": "WEB.DE",
-   "date": "2026-11-25T10:28:50.000Z",
-   "fee": null,
-   "clubs": [
-    "Bayern"
-   ],
-   "tags": [
-    "Gerücht"
-   ]
-  },
-  {
    "title": "Neuer Transferplan bei BVB-Flirt Marcel Regula enthüllt",
    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVE5FUXlRWldZZHJEd18zYlB5MFREWk9RT1FrRVp4SXRzVDdxczh1VzRRMkR6N1E1WDEyRzZCZzdUZUtIbXRJWlBmMlBMMFlXY1U0dk1Fc0pZTFJRQXB2dzZCQ3NGajh3b3MyNnhkTkVtREgwbHZsakFwU3htRXpwVDQ5S2IwWjhnQlVuTE11Wnc?oc=5",
    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNVE5FUXlRWldZZHJEd18zYlB5MFREWk9RT1FrRVp4SXRzVDdxczh1VzRRMkR6N1E1WDEyRzZCZzdUZUtIbXRJWlBmMlBMMFlXY1U0dk1Fc0pZTFJRQXB2dzZCQ3NGajh3b3MyNnhkTkVtREgwbHZsakFwU3htRXpwVDQ5S2IwWjhnQlVuTE11Wnc?oc=5\" target=\"_blank\">Neuer Transf",
@@ -381,6 +338,49 @@ window.FUPPES_DATA["transfers"] = {
    "clubs": [
     "BVB",
     "Barça"
+   ],
+   "tags": [
+    "Gerücht"
+   ]
+  },
+  {
+   "title": "BVB zeigt Interesse an DFB-Star – Dortmund hat großen Vorteil",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPekNHX1JFSTlSdXprS2pfZVlTRnRlOS14aHE5U2VmUDZKaHYwZVFlWS1OekdTRE0xQjU1cldOVjV1NGY5YWljejVQMXlRYzBsZ3FSTUZtcVZWdWtzUzRaT0xXTmdEQkl0WTFZM1BROUxTS3lOTlRuS0l5RlNCR1VSVXBjYnBuOUxkTzhOSklnV2lkQQ?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPekNHX1JFSTlSdXprS2pfZVlTRnRlOS14aHE5U2VmUDZKaHYwZVFlWS1OekdTRE0xQjU1cldOVjV1NGY5YWljejVQMXlRYzBsZ3FSTUZtcVZWdWtzUzRaT0xXTmdEQkl0WTFZM1BROUxTS3lOTlRuS0l5RlNCR1VSVXBjYnBuOUxkTzhOSklnV2lkQQ?oc=5\" target=\"_blank\">BVB zeigt",
+   "source": "fussballdaten.de",
+   "date": "2026-11-25T08:10:00.000Z",
+   "fee": null,
+   "clubs": [
+    "Dortmund",
+    "BVB"
+   ],
+   "tags": [
+    "Gerücht"
+   ]
+  },
+  {
+   "title": "Fußballtransfers: Gerüchte und News im Transferticker - Winter-Einkauf beim FC Bayern? Das sagt Freund",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWFhLOVNsQXBVemc2QzA4ZVlobmFFR1R1TUhVbVM2ZlNKXzJyTmpPZ0g2OF96Z242VEE4eVV5dnVaYTZZckIzTm9GM2xfOHpRZksxeDJtMGUzdUFjLW01MjhqZ1A1RmxtakJGY29uMXdUMkZhYlhVLTlMUXBESjJWbWpMeVp2UXE0STJFM2ZsbTRjRHRWN2dWTm9EalNRTFQ4eVRFa2pzcEo0UllxR1k4YjQxRzg5a2ZHQnVUYXNLdWE?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWFhLOVNsQXBVemc2QzA4ZVlobmFFR1R1TUhVbVM2ZlNKXzJyTmpPZ0g2OF96Z242VEE4eVV5dnVaYTZZckIzTm9GM2xfOHpRZksxeDJtMGUzdUFjLW01MjhqZ1A1RmxtakJGY29uMXdUMkZhYlhVLTlMUXBESjJWbWpMeVp2UXE0STJFM2ZsbTRjRHRWN2dWTm9EalNRTFQ4eVRFa2pzcEo0Ul",
+   "source": "SPORT1",
+   "date": "2026-11-25T08:00:00.000Z",
+   "fee": null,
+   "clubs": [
+    "Bayern"
+   ],
+   "tags": [
+    "Gerücht"
+   ]
+  },
+  {
+   "title": "Für bis zu 40 Millionen Euro! BVB plant offenbar Transfercoup mit deutschem Nationalspieler",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNYlU5aWs5dkVvX01vYWlFaXNiTWk5LW5tdm8tM0xsNENCYnZpcEh3UkdJcFdoTUtkNE81ZHp1TzA1dHk4YzA0Uy1UZGdfQnFYcTk2d1o5ay1kcnd2aTk4bmZDcUZyZTR4dUNXcjBTSUg1WUw3cEhuRzh3QmtNRGNJdDFha0ZFdWMzcmI4VTZvSzFKZmtSTVd1MkdpNm4tNFpuTXhjM2ZoaU1RZUJsQzRYZGhVbVZvNmUxUnVQTVkxRXR3MHpuMlBOaEtRbm1qUXQ3TG1QM2RjMDR2R09lUE9Z?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxNYlU5aWs5dkVvX01vYWlFaXNiTWk5LW5tdm8tM0xsNENCYnZpcEh3UkdJcFdoTUtkNE81ZHp1TzA1dHk4YzA0Uy1UZGdfQnFYcTk2d1o5ay1kcnd2aTk4bmZDcUZyZTR4dUNXcjBTSUg1WUw3cEhuRzh3QmtNRGNJdDFha0ZFdWMzcmI4VTZvSzFKZmtSTVd1MkdpNm4tNFpuTXhjM2ZoaU1RZU",
+   "source": "SPOX.com",
+   "date": "2026-11-25T06:54:15.000Z",
+   "fee": 40,
+   "clubs": [
+    "BVB"
    ],
    "tags": [
     "Gerücht"

@@ -1,7 +1,17 @@
 window.FUPPES_DATA = window.FUPPES_DATA || {};
 window.FUPPES_DATA["news-fc"] = {
- "updated": "2026-11-26T13:35:50.724Z",
+ "updated": "2026-11-26T15:17:25.901Z",
  "items": [
+  {
+   "title": "FC-Keeper Schwäbe fraglich - Zieler winkt Comeback",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdkoxcmhoRlpLNFFQc1ZVLXEwc3NNXzNpb2kwMDFxT3NDWWY0RDdJbS1yUmJhUzJ1NUoyVkZFWTdKb1laeC1hNEpSQmhwQ3JKM2d1ZkszTzgyY0xkVExSeVFDbjBQUHBVZHVnY0NyZlI1VmRxam9hYlhzckktVFUzSFNpSk54enc0MXZfUmY2Y0xTTVZmZzdnb3lfVUdyd1FaU1ZaUDRMOC11cDQ?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdkoxcmhoRlpLNFFQc1ZVLXEwc3NNXzNpb2kwMDFxT3NDWWY0RDdJbS1yUmJhUzJ1NUoyVkZFWTdKb1laeC1hNEpSQmhwQ3JKM2d1ZkszTzgyY0xkVExSeVFDbjBQUHBVZHVnY0NyZlI1VmRxam9hYlhzckktVFUzSFNpSk54enc0MXZfUmY2Y0xTTVZmZzdnb3lfVUdyd1FaU1ZaUDRMOC11cD",
+   "source": "Haller Kreisblatt",
+   "date": "2026-11-26T13:47:06.000Z",
+   "tags": [
+    "Personal"
+   ]
+  },
   {
    "title": "Schwäbe wackelt! Muss Zieler gegen Elversberg sein Können beweisen?",
    "link": "https://geissblog.koeln/2026/11/schwaebe-wackelt-muss-zieler-gegen-elversberg-sein-koennen-beweisen/",
@@ -86,16 +96,6 @@ window.FUPPES_DATA["news-fc"] = {
    ]
   },
   {
-   "title": "„An den Tisch kommen“: Kessler kündigt Gespräche mit Transfer-Kandidat an",
-   "link": "https://geissblog.koeln/2026/11/an-den-tisch-kommen-kessler-kuendigt-gespraeche-mit-transfer-kandidat-an/",
-   "summary": "Verlässt Rav van den Berg den 1. FC Köln im Januar? Aktuell kann sich der Innenverteidiger, der die Bundesliga als Sprungbrett für die Premier League... Der Beitrag „An den Tisch kommen“: Kessler kündigt Gespräche mit Transfer-Kandidat an erschien zuerst auf GEISSBLOG .",
-   "source": "GEISSBLOG",
-   "date": "2026-11-24T23:01:00.000Z",
-   "tags": [
-    "Transfer"
-   ]
-  },
-  {
    "title": "„Express“: Waldschmidt erwägt Abgang vom 1. FC Köln – Nur 44 Minuten Spielzeit",
    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOYmZBYjl4MVJ6U1NnY05BTGFsRTNydzFObi1Vc1FmSjhWRXhzcGNuTllSNmprYUFVTG9ZM05OY3J0YWh2Y2U3VFJlN3hvY2JaVTNfYnpLb1pXb3dmRXpaUVc3aGloMmZwMWVYOW1VVm55cHJWZzVycFNGWTZuYWRuaDllaUZZWmNPMFF3ZmNMbDJSelR5dkhQTS1kdVBZSUpiWFpXczd5TTVELWRObXV6aUF3My1sQWR0YlVvb2U0RzE0UQ?oc=5",
    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOYmZBYjl4MVJ6U1NnY05BTGFsRTNydzFObi1Vc1FmSjhWRXhzcGNuTllSNmprYUFVTG9ZM05OY3J0YWh2Y2U3VFJlN3hvY2JaVTNfYnpLb1pXb3dmRXpaUVc3aGloMmZwMWVYOW1VVm55cHJWZzVycFNGWTZuYWRuaDllaUZZWmNPMFF3ZmNMbDJSelR5dkhQTS1kdVBZSUpiWFpXczd5TTVELW",
@@ -123,6 +123,16 @@ window.FUPPES_DATA["news-fc"] = {
    "date": "2026-11-24T08:46:29.000Z",
    "tags": [
     "Personal"
+   ]
+  },
+  {
+   "title": "Köln öffnet die Tür: Waldschmidt kann schon im Winter ablösefrei gehen",
+   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPUERHdnpUeE9YRENRa2xESEhsT3k0SzJMVmxMY3NRYXlWMC1sZGF0OVg2bUc4bGVVcW12bkF1OW00ZGZMNHpIMWVOSVdwbHJQWS1oN2ZEZ2lSQnZXb1FTSWJwcXpYWVRWMmFuNWRyQkJucHdQZ2NmUkxXX19uYWxkQURFN2ZJVWtGTVZIckdWS1hMZWprUDFqQzFqNVcyVExmc1prLVAxV2NSeVhDM0FKQTYwV24tQUJnb2tzNHNpTjZhVklDNGdvX1JpUFRpNy1uQUlFUFFoQWJ0V2ljRXRZY0Vlb2tuNHF4dndaejBn?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxPUERHdnpUeE9YRENRa2xESEhsT3k0SzJMVmxMY3NRYXlWMC1sZGF0OVg2bUc4bGVVcW12bkF1OW00ZGZMNHpIMWVOSVdwbHJQWS1oN2ZEZ2lSQnZXb1FTSWJwcXpYWVRWMmFuNWRyQkJucHdQZ2NmUkxXX19uYWxkQURFN2ZJVWtGTVZIckdWS1hMZWprUDFqQzFqNVcyVExmc1prLVAxV2NSeV",
+   "source": "n-tv.de",
+   "date": "2026-11-23T17:45:00.000Z",
+   "tags": [
+    "Transfer"
    ]
   },
   {
@@ -194,17 +204,6 @@ window.FUPPES_DATA["news-fc"] = {
    "date": "2026-11-18T18:52:00.000Z",
    "tags": [
     "Personal",
-    "Verein"
-   ]
-  },
-  {
-   "title": "1. FC Köln: Wagner reagiert auf Trainer-Gerüchte",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOREFsYWY2TVc4Z3FrWDdpWlRYWFlQd1NnOUktb2R1eVloOERLSTBXQVZPQ1FOTEhIamltc0JRZEtzVnloaERPYmtTLUw1Q0ZTMXVTZlZGRWN1T0JMODdhZmRvaWJvNHM3dHo4d1h4TTRhZXpQNHZDcmIxOUtEamZuTFg3a2dPMDBCNHZQUElEUGlveGEwOWRj?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOREFsYWY2TVc4Z3FrWDdpWlRYWFlQd1NnOUktb2R1eVloOERLSTBXQVZPQ1FOTEhIamltc0JRZEtzVnloaERPYmtTLUw1Q0ZTMXVTZlZGRWN1T0JMODdhZmRvaWJvNHM3dHo4d1h4TTRhZXpQNHZDcmIxOUtEamZuTFg3a2dPMDBCNHZQUElEUGlveGEwOWRj?oc=5\" target=\"_blank\">1. ",
-   "source": "Fussball Transfers",
-   "date": "2026-11-18T15:51:41.000Z",
-   "tags": [
-    "Gerücht",
     "Verein"
    ]
   }
