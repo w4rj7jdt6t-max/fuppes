@@ -1,6 +1,6 @@
 window.FUPPES_DATA = window.FUPPES_DATA || {};
 window.FUPPES_DATA["transfers"] = {
- "updated": "2026-11-26T05:24:14.123Z",
+ "updated": "2026-11-26T07:37:47.015Z",
  "rules": {
   "minFeeMio": 20,
   "topClubs": [
@@ -48,13 +48,41 @@ window.FUPPES_DATA["transfers"] = {
    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWFhLOVNsQXBVemc2QzA4ZVlobmFFR1R1TUhVbVM2ZlNKXzJyTmpPZ0g2OF96Z242VEE4eVV5dnVaYTZZckIzTm9GM2xfOHpRZksxeDJtMGUzdUFjLW01MjhqZ1A1RmxtakJGY29uMXdUMkZhYlhVLTlMUXBESjJWbWpMeVp2UXE0STJFM2ZsbTRjRHRWN2dWTm9EalNRTFQ4eVRFa2pzcEo0UllxR1k4YjQxRzg5a2ZHQnVUYXNLdWE?oc=5",
    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWFhLOVNsQXBVemc2QzA4ZVlobmFFR1R1TUhVbVM2ZlNKXzJyTmpPZ0g2OF96Z242VEE4eVV5dnVaYTZZckIzTm9GM2xfOHpRZksxeDJtMGUzdUFjLW01MjhqZ1A1RmxtakJGY29uMXdUMkZhYlhVLTlMUXBESjJWbWpMeVp2UXE0STJFM2ZsbTRjRHRWN2dWTm9EalNRTFQ4eVRFa2pzcEo0Ul",
    "source": "SPORT1",
-   "date": "2026-11-26T05:18:04.000Z",
+   "date": "2026-11-26T07:30:31.000Z",
    "fee": null,
    "clubs": [
     "Bayern"
    ],
    "tags": [
     "Gerücht"
+   ]
+  },
+  {
+   "title": "Iraola über Harmonie zwischen Isak und Wirtz: \"Sind in einer guten Phase\"",
+   "link": "https://www.kicker.de/iraola-ueber-harmonie-zwischen-isak-und-wirtz-sind-in-einer-guten-phase-1275149/video#omrss",
+   "summary": "Alexander Isak und Florian Wirtz beginnen so langsam, die großen Versprechen bei ihrer Verpflichtung einzulösen. Liverpool-Coach Andoni Iraola ist dementsprechend zufrieden mit seinem Offensivduo.",
+   "source": "kicker",
+   "date": "2026-11-26T06:51:39.000Z",
+   "fee": null,
+   "clubs": [
+    "Liverpool"
+   ],
+   "tags": [
+    "Fix"
+   ]
+  },
+  {
+   "title": "\"Ich dachte mir einfach: Versuch's mal\": Wirtz' längste Torserie seit Liverpool-Wechsel",
+   "link": "https://www.kicker.de/ich-dachte-mir-einfach-versuch-s-mal-wirtz-laengste-torserie-seit-liverpool-wechsel-1275137/artikel#omrss",
+   "summary": "Auch am dritten Sieg in Folge des FC Liverpool hat Florian Wirtz entscheidenden Anteil gehabt. Der Nationalspieler bestätigte in der Champions League seine starke Form.",
+   "source": "kicker",
+   "date": "2026-11-26T06:25:09.000Z",
+   "fee": null,
+   "clubs": [
+    "Liverpool"
+   ],
+   "tags": [
+    "Transfer"
    ]
   },
   {
@@ -101,15 +129,16 @@ window.FUPPES_DATA["transfers"] = {
    ]
   },
   {
-   "title": "Eintracht Frankfurt: Doan spricht über geplatzten Deal",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPaGd2V0JnYjZNVngtaERMUDYzNFk5YlUtOGhpakZsbHZKVTdKX01tdnJzUllWSTVlZkF3Q19GRE54emhtZlR4T0s4Yk96M1FmWm1MS3puMFlaVmhXTUJXeEZFS0ZURTFFRUVUU2QwUTUzMm41MEtKUGtkYWNUdWxnUEZITkV3Ul84RzQ0LTY3R0VQLUtQSGNnNU0xUnIxS3d0?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPaGd2V0JnYjZNVngtaERMUDYzNFk5YlUtOGhpakZsbHZKVTdKX01tdnJzUllWSTVlZkF3Q19GRE54emhtZlR4T0s4Yk96M1FmWm1MS3puMFlaVmhXTUJXeEZFS0ZURTFFRUVUU2QwUTUzMm41MEtKUGtkYWNUdWxnUEZITkV3Ul84RzQ0LTY3R0VQLUtQSGNnNU0xUnIxS3d0?oc=5\" target=",
-   "source": "Fussball Transfers",
-   "date": "2026-11-25T17:54:47.000Z",
+   "title": "Top-Talent ist heiß begehrt: Bayern, BVB und Leipzig liefern sich Transfer-Kampf",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSGtJVm1MbGFZaXdZbWItdGJFaWJKUzJoWXJIQ0VWdmJCYlNMQjFjdnhrSWdYRnNoZVgwaEVfVkhTblV1RGx6WUF1NU9SMVlNeWZVS3lvVE83QzVRbG9MMGE5T0QxSkozRG1JcHhSal9QMjByVkw2Yzg0SEpzQUQ3amxjUXU1RnlHa0xMeTdYc011TTFubU0yVmdVMmx1bVNwUXlUVQ?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPSGtJVm1MbGFZaXdZbWItdGJFaWJKUzJoWXJIQ0VWdmJCYlNMQjFjdnhrSWdYRnNoZVgwaEVfVkhTblV1RGx6WUF1NU9SMVlNeWZVS3lvVE83QzVRbG9MMGE5T0QxSkozRG1JcHhSal9QMjByVkw2Yzg0SEpzQUQ3amxjUXU1RnlHa0xMeTdYc011TTFubU0yVmdVMmx1bVNwUXlUVQ?oc=5\" t",
+   "source": "FCBinside",
+   "date": "2026-11-25T15:30:57.000Z",
    "fee": null,
    "clubs": [
-    "Eintracht Frankfurt",
-    "Frankfurt"
+    "Bayern",
+    "BVB",
+    "Leipzig"
    ],
    "tags": [
     "Transfer"
@@ -169,22 +198,6 @@ window.FUPPES_DATA["transfers"] = {
    ],
    "tags": [
     "Transfer"
-   ]
-  },
-  {
-   "title": "VfB Stuttgart: Catovic-Kaufoption für FC Barcelona nach Verletzung vom Tisch",
-   "link": "https://www.transfermarkt.de/vfb-talent-schwer-verletzt-barcas-kaufoption-fur-catovic-schon-vom-tisch/view/news/491218",
-   "summary": "Nach der schweren Verletzung von Stuttgart-Leihgabe Mirza Catovic (19) ist ein sicherer Wechsel zum FC Barcelona wohl vom Tisch. Der Bild&ldquo; zufolge ist es dem defensiven Mittelfeldspieler in...",
-   "source": "Transfermarkt",
-   "date": "2026-11-25T12:15:36.000Z",
-   "fee": null,
-   "clubs": [
-    "Stuttgart",
-    "VfB",
-    "Barcelona"
-   ],
-   "tags": [
-    "Personal"
    ]
   },
   {
@@ -366,20 +379,6 @@ window.FUPPES_DATA["transfers"] = {
    "fee": 60,
    "clubs": [
     "Barcelona",
-    "PSG"
-   ],
-   "tags": [
-    "Transfer"
-   ]
-  },
-  {
-   "title": "PSG-Haltung zu Vinícius-Transfer durchgesickert",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNnJiazNPM0xPeGlGd0d6OGk2SHZRQk5EVF9TZmw5N0pYamdSSGkyTDQxVllRYWZRZHlwdGM5N2xfRHhtV0hJYTc1V3h2MWFDclNuODdpOU9WdTBwUkhqbHUycjVxSHE2TzlKVWtMcFdld2d5UC0wcnFwLTdMSGJEUGJpZXY1T1ZvbFE?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNNnJiazNPM0xPeGlGd0d6OGk2SHZRQk5EVF9TZmw5N0pYamdSSGkyTDQxVllRYWZRZHlwdGM5N2xfRHhtV0hJYTc1V3h2MWFDclNuODdpOU9WdTBwUkhqbHUycjVxSHE2TzlKVWtMcFdld2d5UC0wcnFwLTdMSGJEUGJpZXY1T1ZvbFE?oc=5\" target=\"_blank\">PSG-Haltung zu Viníc",
-   "source": "fussballdaten.de",
-   "date": "2026-11-24T12:38:00.000Z",
-   "fee": null,
-   "clubs": [
     "PSG"
    ],
    "tags": [

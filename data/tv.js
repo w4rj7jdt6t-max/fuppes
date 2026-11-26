@@ -1,6 +1,6 @@
 window.FUPPES_DATA = window.FUPPES_DATA || {};
 window.FUPPES_DATA["tv"] = {
- "updated": "2026-11-26T05:24:15.240Z",
+ "updated": "2026-11-26T07:37:48.657Z",
  "matches": [
   {
    "matchID": 83252,
@@ -114,7 +114,7 @@ window.FUPPES_DATA["tv"] = {
    "team2": "Bayer 04 Leverkusen",
    "channels": [],
    "evidence": [],
-   "kicker": null
+   "kicker": "https://www.kicker.de/wer-uebertraegt-dinamo-zagreb-gegen-bayer-04-leverkusen-heute-live-im-tv-stream-1274236/artikel"
   },
   {
    "matchID": 87754,
@@ -123,7 +123,7 @@ window.FUPPES_DATA["tv"] = {
    "team2": "SK Puntigamer Sturm Graz",
    "channels": [],
    "evidence": [],
-   "kicker": null
+   "kicker": "https://www.kicker.de/wer-uebertraegt-tsg-hoffenheim-gegen-sturm-graz-heute-live-im-tv-stream-1274496/artikel"
   },
   {
    "matchID": 88350,
