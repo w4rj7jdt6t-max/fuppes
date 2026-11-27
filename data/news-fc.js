@@ -1,7 +1,17 @@
 window.FUPPES_DATA = window.FUPPES_DATA || {};
 window.FUPPES_DATA["news-fc"] = {
- "updated": "2026-11-27T15:11:46.319Z",
+ "updated": "2026-11-27T17:21:47.868Z",
  "items": [
+  {
+   "title": "1. FC Köln: Sonst geht das Theater wieder los... Sieg-Pflicht für Köln-Trainer René Wagner",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPT3RxQnlSRXVJUkF4NFdqckFGelY3ck54VzQzZTBzdHVfa3lRdVQ0WXVJUE05U1hHeGQydklYQkVYdmRPVl9kbTQtNVJIa1p5NmxqWFpXT0wzeXpmSTJicnlXZlViTlA3ZV80UTRkUHJKbHBIZkdnS2xYdU5SRnl5eFdCZHVNUVJZR3M4b1pvMnVSTkRwd2VqTDNfc2dLQlRfVnhEMGJNamt5akplb2pHZEhyWTNLcjFsMmNrLTN4LWpUbUd3Sm9hY2gyTmt5M1ZaSlVmRWdSYzRfajB1WGNVcFJn?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxPT3RxQnlSRXVJUkF4NFdqckFGelY3ck54VzQzZTBzdHVfa3lRdVQ0WXVJUE05U1hHeGQydklYQkVYdmRPVl9kbTQtNVJIa1p5NmxqWFpXT0wzeXpmSTJicnlXZlViTlA3ZV80UTRkUHJKbHBIZkdnS2xYdU5SRnl5eFdCZHVNUVJZR3M4b1pvMnVSTkRwd2VqTDNfc2dLQlRfVnhEMGJNamt5ak",
+   "source": "BILD",
+   "date": "2026-11-27T16:39:11.000Z",
+   "tags": [
+    "Verein"
+   ]
+  },
   {
    "title": "El Mala offen: Was er über FC-Trainer Wagner und seinen Köln-Verbleib denkt",
    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPd3gxTER5eHRBdllXa2UzZWZxUE9GOWU4SkJqdURtVTZpb3hNTjVfaEVSbTItaFpuY19XTHdRTVB0X1gxNVY4dVZXc2VkeXZjdTRyVE1OeC1rTWF0RzN6dnlmSkZVOUp5eUs3U0RfQS1WZzRHMEpMSjRORXZzeXZ0NmZGNW1yMld3WDRsUFZBZUVyQWlaUHFkVklQMA?oc=5",
@@ -85,11 +95,11 @@ window.FUPPES_DATA["news-fc"] = {
    ]
   },
   {
-   "title": "FC Bayern News: Kölns Joel Schmied entschuldigt sich bei Harry Kane. Was er zur Verletzung sagt",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOM2MybWRWQUNVTTJKV0Fqa2ZRYWhHTUQxOXRLdXlHR2VPVjhkMDFfZWZQelFmRDg5b0UzbTdyZFl5NzlZUVNTajNTcXlJenR6REUtSlNpMURudmpjaEdkc3JoOXl3T2dpalQ2U1ZKc3A2V2NUV1ROTThYMzY0MTBFYy1QemxaNVRTQVFIbUV3T0lONks0aGp6NmlEclV2SHI3RXNsN3NlRWE0enJ2dC1XU1pxS2pNN3dpR0J5dmRsbw?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOM2MybWRWQUNVTTJKV0Fqa2ZRYWhHTUQxOXRLdXlHR2VPVjhkMDFfZWZQelFmRDg5b0UzbTdyZFl5NzlZUVNTajNTcXlJenR6REUtSlNpMURudmpjaEdkc3JoOXl3T2dpalQ2U1ZKc3A2V2NUV1ROTThYMzY0MTBFYy1QemxaNVRTQVFIbUV3T0lONks0aGp6NmlEclV2SHI3RXNsN3NlRWE0en",
-   "source": "News zur deutschen Nationalmannschaft",
-   "date": "2026-11-26T15:53:00.000Z",
+   "title": "Nach Kane-Verletzung: Kölns Schmied meldet sich zu Wort und entschuldigt sich",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPaWN6QmI3aFlCRi1hdXlOMGQzT3ZST0tDSi1NQTlpRHh2V1NRRmtJWk92dDg1RGNSSE1IQWpBTUdWeEdCUWNZSGp2TDFnV2wxTVVzOVNmLXlyWDhFTVEyODlRNnZibFowbDljNG02dUxEOFp0RmNpV0JneEtUMEpZaHhXaXVjNmR3d0htYjZGM2lJOFpLZnBlaXdpUElOZkhvLXp2NVJYV0NPN1AwOTBxV3NmazlmTmUyTUM5N0s1RzJzb0x2LWw3RVdB?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxPaWN6QmI3aFlCRi1hdXlOMGQzT3ZST0tDSi1NQTlpRHh2V1NRRmtJWk92dDg1RGNSSE1IQWpBTUdWeEdCUWNZSGp2TDFnV2wxTVVzOVNmLXlyWDhFTVEyODlRNnZibFowbDljNG02dUxEOFp0RmNpV0JneEtUMEpZaHhXaXVjNmR3d0htYjZGM2lJOFpLZnBlaXdpUElOZkhvLXp2NVJYV0NPN1",
+   "source": "Sky.de",
+   "date": "2026-11-26T16:08:00.000Z",
    "tags": [
     "Personal"
    ]
@@ -191,16 +201,6 @@ window.FUPPES_DATA["news-fc"] = {
    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPZ3E3STlteHU5WGNnbGtCcmxKMmFzY09wYk5ERDBuVUZSZ0U5SmJJbTgzWXM4cXdmbE5ORjBCT05WOFNPOEYzQUs5TE1nclRuWUJ1MzJEQ1NVMzNXR19BNkhpWTBHX3c0eVEtVjRpZHA1MVdyZGpCT09hMjN3MnZoT25rSVFzR2gzekV0dXF0OC1MRHFSMjB6Ng?oc=5\" target=\"_blank\">1",
    "source": "sportschau.de",
    "date": "2026-11-19T09:15:14.000Z",
-   "tags": [
-    "Verein"
-   ]
-  },
-  {
-   "title": "Trainer Vincent Kompany gegen Köln wieder auf der Bayern-Bank",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOX1dBTjdMOS12UkNJWjhxeHpxWUJDVlduamZobHZUWS0zcVp2eUV3bndyNHhvU0c2cWV1dVQ2ZzZYTWFDVENUR3k4NXloS3RBYXNGbU9YODZ2aEMxVVJzQzNET0lBajlmSmxZZVQydmRGd0xYWFNjdDRrbzNZZ0FwamRoVEk1ajZ2cDhNWXRRc004TnhwMHZBbThKODVSVmFwTklra0pPRzR5WWsxRy16STk3cjltTDlBbGVXSVotdi1yOE5oR1Ew?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxOX1dBTjdMOS12UkNJWjhxeHpxWUJDVlduamZobHZUWS0zcVp2eUV3bndyNHhvU0c2cWV1dVQ2ZzZYTWFDVENUR3k4NXloS3RBYXNGbU9YODZ2aEMxVVJzQzNET0lBajlmSmxZZVQydmRGd0xYWFNjdDRrbzNZZ0FwamRoVEk1ajZ2cDhNWXRRc004TnhwMHZBbThKODVSVmFwTklra0pPRzR5WW",
-   "source": "RND.de",
-   "date": "2026-11-18T19:06:47.000Z",
    "tags": [
     "Verein"
    ]

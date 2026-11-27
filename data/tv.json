@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T15:11:48.627Z",
+ "updated": "2026-11-27T17:21:50.250Z",
  "matches": [
   {
    "matchID": 83252,
@@ -33,8 +33,16 @@
    "kick": "2026-11-24T20:00:00Z",
    "team1": "FC Arsenal",
    "team2": "Borussia Dortmund",
-   "channels": [],
-   "evidence": [],
+   "channels": [
+    "Prime Video"
+   ],
+   "evidence": [
+    {
+     "title": "Arsenal Dortmund live streamen: Heute Champions League live bei Amazon Prime",
+     "source": "dslweb",
+     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTUhMUEo4U0lIb1ZIb2VwZkd0dkhQOGdFNWd4clB3b1lUSlloZmU3ekg2MUtuYzh6VmhXMk5RTC00VXhMZ0gyMHpkZUJ0MzltbmJ3NEl5WFJWSHJXWWJwcVJEby1iLUN6QlV4TTB2UHNMUndUTUdQN1JESHliNC1lMGxFYThFQVJ0NWRFRHU2YU5DaGY4bHltVlZEbklRek9pcDIzekZZSU1vVXByaFE?oc=5"
+    }
+   ],
    "kicker": null
   },
   {
@@ -69,21 +77,8 @@
    "kick": "2026-11-25T20:00:00Z",
    "team1": "Inter Mailand",
    "team2": "VfB Stuttgart",
-   "channels": [
-    "DAZN"
-   ],
-   "evidence": [
-    {
-     "title": "Inter Mailand - VfB Stuttgart live ► Die Übertragung der Champions League auf DAZN ✅",
-     "source": "DAZN",
-     "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNWkxVNkh2RHdnYkVOclZFZmVQZEJSX1pQMWtJYlEwa0laSWcxVUxBclhrbkFFLUE1dXJpMEQ1a0tYTkZmUGpZOW1uQlZUMEp4eE5kYl9aRG1IWGZ6eEFfM19XWXV5QTV3cFNtX3VnQ0h4OEF2QzE4UUNsU3pKaEZkbHFLR3VRVDR5LTFLMU5YeXdVWkx6MjNtT0lRd3BWYzlvdExKcWY3alAwSzEwOEVIQUFTeGxZaVV5MVF0LWFMN0g1X0tsWkxkck91ZFEzZkNma01yQjhtdzhiQQ?oc=5"
-    },
-    {
-     "title": "Inter - VfB Stuttgart Live Stream | Jetzt Anmelden | DAZN DE",
-     "source": "DAZN",
-     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOS3JFbGIzRy1NOFVSbWY2d1B1N0x1OFB3Y3FPTFFfa2pEVDFuVHJYOGZDejRKZjA2aWFmMnV5UF9Va1Y3bFB3R1FaNkMzLWp6am5FaTR5dS1yakVoSXg3ZGtsZUNLQl9vcUhaMWY2SUhOQ1BMc1Z6ek9ScmVKcVNMQWV1c0N3dVVRUHRvZw?oc=5"
-    }
-   ],
+   "channels": [],
+   "evidence": [],
    "kicker": null
   },
   {
@@ -91,8 +86,16 @@
    "kick": "2026-11-25T20:00:00Z",
    "team1": "Lille OSC",
    "team2": "FC Bayern München",
-   "channels": [],
-   "evidence": [],
+   "channels": [
+    "DAZN"
+   ],
+   "evidence": [
+    {
+     "title": "OSC Lille - FC Bayern München live ► Die Übertragung der Champions League auf DAZN ✅",
+     "source": "DAZN",
+     "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQRl9sQkZmaFZTYks2MTdyb0t0SHNnWFIwNkZSdVlyU3lybE5mZWZiUlF2N0hZVVktWDVmREdncGpoUjMyOE94MjhISlc5WXRLaVdabTRxb2FqWGFKVkJtdGk4MmM3Rkt2Z2xvTmxkM2pRMVFKMVJPb1FaMGxtVDk2b2d6YTB0RExWYzlwM2lxTkJUb3ZxMHBRTW5hTnp4Y2J4enRHMVpBdDdpOUhyWWtqem9XN0Z3eW9CSlpzMVRxSGVubFd3R2hNdnpXR2E0YmFTOVBzYnpKdVRfS3YwMDBGVA?oc=5"
+    }
+   ],
    "kicker": null
   },
   {
