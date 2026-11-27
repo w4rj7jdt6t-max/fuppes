@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T11:05:50.461Z",
+ "updated": "2026-11-27T13:30:24.037Z",
  "fc": [
   {
    "start": "2025-11-29T14:30:00.000Z",
@@ -1841,6 +1841,15 @@
  "press": [
   {
    "who": "fc",
+   "id": "6KvmBNCVrPA",
+   "title": "Pressekonferenz vor Kiel | 1. FC Köln",
+   "date": "2026-11-27T13:09:03+00:00",
+   "url": "https://www.youtube.com/watch?v=6KvmBNCVrPA",
+   "summary": "Der 1. FC Köln trifft im DFB-Pokal-Achtelfinale auf Holstein Kiel. Das Spiel findet am Dienstag, 01. Dezember 2026, um 18.00 Uhr im Holstein Stadion statt. Im Vorfeld der Partie beantwortet Cheftrainer René Wagner in der Pressekonferenz am Montag, 30. November 2026, um 10.00 Uhr die Fragen der Presse. Der PK-Livestream",
+   "quotes": []
+  },
+  {
+   "who": "fc",
    "id": "wYtdB3friYA",
    "title": "Pressekonferenz vor Elversberg | 1. FC Köln",
    "date": "2026-11-26T12:53:30+00:00",
@@ -1896,13 +1905,6 @@
    "source": "Bundesliga | official website",
    "date": "2026-11-19T08:00:00.000Z",
    "matchday": 10
-  },
-  {
-   "title": "Die Schiedsrichter-Ansetzungen am 11. Spieltag",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPOG1KVnAzSFJwVTdJTHFCbEFsUWZrQmtkZXh3UUJNWm1nNW81dXF1NGFrNWN0bkdMLVkxSHJaaHZDeFRPcG11M2xveGNzS2F3T3Z2UXI5cnBhWjBvU3RNcXlReHNrYjJYWkZXek1FVDVJb2pxRG1hQ2FzVTVMQTFGTktGUXFOdS1CbVRFZ3NoSzVObnNpcVhXRGVCNA?oc=5",
-   "source": "Bundesliga | official website",
-   "date": "2018-12-22T14:42:03.000Z",
-   "matchday": 11
   }
  ]
 }

@@ -1,7 +1,37 @@
 window.FUPPES_DATA = window.FUPPES_DATA || {};
 window.FUPPES_DATA["news-fc"] = {
- "updated": "2026-11-27T11:05:48.500Z",
+ "updated": "2026-11-27T13:30:22.233Z",
  "items": [
+  {
+   "title": "\"Keine Gründe für Kritik\": El Mala stärkt Kölns Trainer Wagner",
+   "link": "https://www.kicker.de/keine-gruende-fuer-kritik-el-mala-staerkt-koelns-trainer-wagner-1275615/artikel#omrss",
+   "summary": "Mit zehn Punkten nach zehn Spieltagen absolviert der 1. FC Köln bislang eine durchwachsene Saison. Doch Nationalspieler Said El Mala sieht keinerlei Gründe, Trainer René Wagner infrage zu stellen.",
+   "source": "kicker",
+   "date": "2026-11-27T13:00:53.000Z",
+   "tags": [
+    "Verein"
+   ]
+  },
+  {
+   "title": "Newsticker 1. FC Köln: Spielabsage! Gefrorener Rasen sorgt für Ausfall",
+   "link": "https://geissblog.koeln/2026/11/newsticker-1-fc-koeln-alle-nachrichten-zum-effzeh-im-newsticker-4/",
+   "summary": "Hier gibt es alle News zum 1. FC Köln: Bundesliga, Frauen-Bundesliga, die U21 in der Regionalliga West, die U19 und die U17 in den DFB-Nachwuchsligen.... Der Beitrag Newsticker 1. FC Köln: Spielabsage! Gefrorener Rasen sorgt für Ausfall erschien zuerst auf GEISSBLOG .",
+   "source": "GEISSBLOG",
+   "date": "2026-11-27T12:10:00.000Z",
+   "tags": [
+    "Personal"
+   ]
+  },
+  {
+   "title": "Vierte Verletzung in 2026: FC-Profi wirft Fragen auf: „Jedes Steinchen umdrehen“",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNeUpaS1Y1VjhNakhkWHFJU2ZoVFNHUjNVZ08xSXlYT1NBVXR3a1NfdHpTSV9uNlJwZFJFbzVQYTcyaTVmRjMyaWVtbE9RcmstOV8wV2ZSdm5yX3lkT0VPeDJsR3M3T3A2MHZHbnZiUGx1eGxFa3hRUjc4UVFYZzM3cDdmNFdNWVlDMjlFSmFxV0NIUnpDMHowXzBnUEd0a0xXUkVxRU0tX3UzaVdlZTdFUzVJUkVZWjJVM1E?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNeUpaS1Y1VjhNakhkWHFJU2ZoVFNHUjNVZ08xSXlYT1NBVXR3a1NfdHpTSV9uNlJwZFJFbzVQYTcyaTVmRjMyaWVtbE9RcmstOV8wV2ZSdm5yX3lkT0VPeDJsR3M3T3A2MHZHbnZiUGx1eGxFa3hRUjc4UVFYZzM3cDdmNFdNWVlDMjlFSmFxV0NIUnpDMHowXzBnUEd0a0xXUkVxRU0tX3UzaV",
+   "source": "Express",
+   "date": "2026-11-27T11:30:25.000Z",
+   "tags": [
+    "Personal"
+   ]
+  },
   {
    "title": "Schuld an schwerer Kane-Verletzung? Köln-Verteidiger Joël Schmied reagiert auf Attacke der FCB-Bosse",
    "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNS2I1NnlOd21ndXZyYmVid1dVckZCZ0ppSnVWcHpMRlE3SDh0QkpfTlQ4cDhSLTV5c3Nqekg0WWs0WGJzTWZnN3dwWHdHVlVOYkl5SkRWMmZPekY4VmtVQUstalVrdERKM0RJSFR2clZ0VGVEdEpNZ0N5TjdlbWZYWk1BRkdnbDlHVFRxLWx5VU1MelJra1dXOVJzcWZxRy03amREUmF1d0JOZncwdDJhTEs1WldGTFFUM04tblpJZEx6aEdjclRocm9zMDVhdTBPeGJLR21Kemp5QnE4a1RfZ0pvZjRCeHVsSVVuSURZMk9ERkVT?oc=5",
@@ -147,16 +177,6 @@ window.FUPPES_DATA["news-fc"] = {
    ]
   },
   {
-   "title": "Schnäppchen statt Millionen-Gebühr: So wird Moore zum doppelten Glücksgriff",
-   "link": "https://geissblog.koeln/2026/11/schnaeppchen-statt-millionen-gebuehr-so-wird-moore-zum-doppelten-gluecksgriff/",
-   "summary": "Mikey Moore ist seit seinem Tor beim FC Bayern München in aller Munde. Der Star-Transfer des 1. FC Köln könnte sich in doppeltem Sinne zum... Der Beitrag Schnäppchen statt Millionen-Gebühr: So wird Moore zum doppelten Glücksgriff erschien zuerst auf GEISSBLOG .",
-   "source": "GEISSBLOG",
-   "date": "2026-11-25T18:48:00.000Z",
-   "tags": [
-    "Transfer"
-   ]
-  },
-  {
    "title": "Wucht und Risiko? Fleiß und Stabilität? Kölns Stürmer-Frage vor dem Elversberg-Spiel",
    "link": "https://www.kicker.de/wucht-und-risiko-fleiss-und-stabilitaet-koelns-stuermer-frage-vor-dem-elversberg-spiel-1274807/artikel#omrss",
    "summary": "In der Liga ist der 1. FC Köln seit fünf Spielen sieglos und erzielte nur drei Tore. Mit Ragnar Ache steht Trainer René Wagner eine verlässliche Alternative im Angriff zur Verfügung - doch die Rangordnung im Sturm ist längst nicht in Stein gemeißelt.",
@@ -185,26 +205,6 @@ window.FUPPES_DATA["news-fc"] = {
    "date": "2026-11-24T08:46:29.000Z",
    "tags": [
     "Personal"
-   ]
-  },
-  {
-   "title": "1. FC Köln: Trainer Wagner trauert Sieg nach – „Froh über den Punkt, aber...“",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQalpJUnBycVE5MGRfY19sMXluRlBwSlFKTWlLUW16ZG9SSXpRZFBEYUVwaDRPZy13NWVGRmlEeG83OXdFTjhwLTFmRkIwNWdXSmxjd2FBeEU4LWtIZmdBM1c5TDlaNTZNQzB1NGRWNDg3UXFWZ0NBNXpPdFc3RHZKMmppTVl2d25ycFd4QWFPbGs1Y09IN1dqWnZKMVhRZXBJTGw1aTdtWkpNckpOMkNCZk5rbl91eXh1b3BxM2ZuUFhfWHl2ZHZGbGR3?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQalpJUnBycVE5MGRfY19sMXluRlBwSlFKTWlLUW16ZG9SSXpRZFBEYUVwaDRPZy13NWVGRmlEeG83OXdFTjhwLTFmRkIwNWdXSmxjd2FBeEU4LWtIZmdBM1c5TDlaNTZNQzB1NGRWNDg3UXFWZ0NBNXpPdFc3RHZKMmppTVl2d25ycFd4QWFPbGs1Y09IN1dqWnZKMVhRZXBJTGw1aTdtWkpNck",
-   "source": "Joyn",
-   "date": "2026-11-21T17:08:09.000Z",
-   "tags": [
-    "Verein"
-   ]
-  },
-  {
-   "title": "Moore besiegt die Angst und zerstreut alle Gerüchte",
-   "link": "https://www.kicker.de/moore-besiegt-die-angst-und-zerstreut-alle-geruechte-1273429/artikel#omrss",
-   "summary": "Mikey Moore stand beim 1. FC Köln zuletzt stark in der Kritik. Nun bewies der 19-Jährige beim 1:1 in München, weshalb er große Fantasien weckt. Kann Moore das wiederholen?",
-   "source": "kicker",
-   "date": "2026-11-21T09:59:32.000Z",
-   "tags": [
-    "Gerücht"
    ]
   }
  ]
