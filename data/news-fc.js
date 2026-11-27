@@ -1,16 +1,15 @@
 window.FUPPES_DATA = window.FUPPES_DATA || {};
 window.FUPPES_DATA["news-fc"] = {
- "updated": "2026-11-27T05:23:27.700Z",
+ "updated": "2026-11-27T07:36:31.747Z",
  "items": [
   {
-   "title": "1. FC Köln – Trainerdiskussion um Wagner beendet?",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5WZlVpc0hEMm84RDc3aXRTblowdC1EQ2hHNkxmcGFxMW0wTFV3R2RjLXAzT3lWNWRwRTZXMFdHeDVaTXFNVTVHQXBJY19PTm5UMXJDNnctVXNXSUhISTV6SkFiSkFpYUNzUjI5Rk51Mkl3cjBOVlRSTG5QUmhkZw?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE5WZlVpc0hEMm84RDc3aXRTblowdC1EQ2hHNkxmcGFxMW0wTFV3R2RjLXAzT3lWNWRwRTZXMFdHeDVaTXFNVTVHQXBJY19PTm5UMXJDNnctVXNXSUhISTV6SkFiSkFpYUNzUjI5Rk51Mkl3cjBOVlRSTG5QUmhkZw?oc=5\" target=\"_blank\">1. FC Köln – Trainerdiskussion um Wag",
-   "source": "www.lindweiler.de",
-   "date": "2026-11-27T00:06:59.000Z",
+   "title": "1. FC Köln: Die kuriose Klausel bei Hoffnungsträger Mikey Moore",
+   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQWmdoWnRnNzNPM09BVkZWYndVLThoZUR0LUJNbjlqNmxrZG9wOE9tdkVVUVJiRzdOR3E4MHhKZ1RPdVNHekVxYWtrN2Y5S2hTRGl2YUUtNzBtQmlyRHFuTEZ1OUJxUjJxem5JRngyRVU4aXlMcUFYQTRlblNPU2pzWW5tLXZYX2VnT1RJQkFuS05KdFR3SjZJOU5aR01ycExFbEZ1TGd3Q3FNdGtSdmRlLTVKVndzdU9XTEdwMGhhQmhVSkJqOWRLMGRSV3VqeTgxVnY0eGR1bkYwME5iWkItRi1lc1JGNk03QlRIeHVn?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxQWmdoWnRnNzNPM09BVkZWYndVLThoZUR0LUJNbjlqNmxrZG9wOE9tdkVVUVJiRzdOR3E4MHhKZ1RPdVNHekVxYWtrN2Y5S2hTRGl2YUUtNzBtQmlyRHFuTEZ1OUJxUjJxem5JRngyRVU4aXlMcUFYQTRlblNPU2pzWW5tLXZYX2VnT1RJQkFuS05KdFR3SjZJOU5aR01ycExFbEZ1TGd3Q3FNdG",
+   "source": "WELT",
+   "date": "2026-11-27T06:17:35.000Z",
    "tags": [
-    "Gerücht",
-    "Verein"
+    "Vertrag"
    ]
   },
   {
@@ -80,6 +79,16 @@ window.FUPPES_DATA["news-fc"] = {
    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOM2MybWRWQUNVTTJKV0Fqa2ZRYWhHTUQxOXRLdXlHR2VPVjhkMDFfZWZQelFmRDg5b0UzbTdyZFl5NzlZUVNTajNTcXlJenR6REUtSlNpMURudmpjaEdkc3JoOXl3T2dpalQ2U1ZKc3A2V2NUV1ROTThYMzY0MTBFYy1QemxaNVRTQVFIbUV3T0lONks0aGp6NmlEclV2SHI3RXNsN3NlRWE0en",
    "source": "News zur deutschen Nationalmannschaft",
    "date": "2026-11-26T15:53:00.000Z",
+   "tags": [
+    "Personal"
+   ]
+  },
+  {
+   "title": "Entschuldigung beim FC Bayern-Torjäger! 1. FC Köln-Profi Schmied über Harry-Kane-Verletzung: \"Tut mir leid\"",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPczdkNXRkdjU0YzV3ZGJyRGRVZXJ0QjR3akJSMFVNakQwVmxqWTZObUkwNm91eFdEaTdPMnVYM3VzWkZxWTFxUHR0RFVvUGU0ekYwQTVlM19hODhQNFZLS3RCMVhJcy1XcUZEWi1FaVJPNGxaeF8zaXFfZ2VFbmdWbUhWa1Z6SllVRGN0OUNUeDJYeEp1X3dmN25ranVnY3hUdE14amZCclRxcXc5?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPczdkNXRkdjU0YzV3ZGJyRGRVZXJ0QjR3akJSMFVNakQwVmxqWTZObUkwNm91eFdEaTdPMnVYM3VzWkZxWTFxUHR0RFVvUGU0ekYwQTVlM19hODhQNFZLS3RCMVhJcy1XcUZEWi1FaVJPNGxaeF8zaXFfZ2VFbmdWbUhWa1Z6SllVRGN0OUNUeDJYeEp1X3dmN25ranVnY3hUdE14amZCclRxcX",
+   "source": "Ligaportal",
+   "date": "2026-11-26T15:45:05.000Z",
    "tags": [
     "Personal"
    ]
@@ -194,16 +203,6 @@ window.FUPPES_DATA["news-fc"] = {
    "date": "2026-11-21T17:08:09.000Z",
    "tags": [
     "Verein"
-   ]
-  },
-  {
-   "title": "Moore besiegt die Angst und zerstreut alle Gerüchte",
-   "link": "https://www.kicker.de/moore-besiegt-die-angst-und-zerstreut-alle-geruechte-1273429/artikel#omrss",
-   "summary": "Mikey Moore stand beim 1. FC Köln zuletzt stark in der Kritik. Nun bewies der 19-Jährige beim 1:1 in München, weshalb er große Fantasien weckt. Kann Moore das wiederholen?",
-   "source": "kicker",
-   "date": "2026-11-21T09:59:32.000Z",
-   "tags": [
-    "Gerücht"
    ]
   }
  ]

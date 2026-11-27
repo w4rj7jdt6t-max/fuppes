@@ -1,6 +1,6 @@
 window.FUPPES_DATA = window.FUPPES_DATA || {};
 window.FUPPES_DATA["transfers"] = {
- "updated": "2026-11-27T05:23:28.937Z",
+ "updated": "2026-11-27T07:36:33.221Z",
  "rules": {
   "minFeeMio": 20,
   "topClubs": [
@@ -43,6 +43,20 @@ window.FUPPES_DATA["transfers"] = {
   ]
  },
  "items": [
+  {
+   "title": "Transfer-Ticker: Haaland-Dämpfer für den FC Bayern",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNd0FsUEZSTl9nRDhCWURBOEJBQ0J3cUl5NlpRVmNkYVpDVWhJWmFCUWhUcHNZemx1LUVjcmduVVRUR0pvc0IteGNvZEt3X19BblhldTZ2ODV3Rlp1MFhVenYwRy1yNmNnMjNlLTdwdHhUSEFJakNQZG5jdFdSRnhpZUlqRkFNQ3JLSGQwQmJJdnp0c2JzTDFCMkFtT3JiMlJJaFpUVjlJNHVQd2VSM1U3emJZVjJSTzhuZkVOSg?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNd0FsUEZSTl9nRDhCWURBOEJBQ0J3cUl5NlpRVmNkYVpDVWhJWmFCUWhUcHNZemx1LUVjcmduVVRUR0pvc0IteGNvZEt3X19BblhldTZ2ODV3Rlp1MFhVenYwRy1yNmNnMjNlLTdwdHhUSEFJakNQZG5jdFdSRnhpZUlqRkFNQ3JLSGQwQmJJdnp0c2JzTDFCMkFtT3JiMlJJaFpUVjlJNHVQd2",
+   "source": "sport.de",
+   "date": "2026-11-27T06:37:00.000Z",
+   "fee": null,
+   "clubs": [
+    "Bayern"
+   ],
+   "tags": [
+    "Transfer"
+   ]
+  },
   {
    "title": "BVB buhlt um Younes Ebnoutalib: Eintracht Frankfurt setzt wohl klares Winter-Wechselverbot durch",
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPYUpjRFh6UEtfb0xmb1RuNWJ6QVVFWVJnY1cxRjFCTF9qR3k0VTM3Q0xKeVVUZUpsTlFqemcxUklZUHgxNEJsXzNwLU4xbC1xSnluTEYxUHZRQk5DcHFmRHhDaENjY191MkVrcUdhanVWYWNPdm5OWHpkSDBHblNoV25fbnhZZXRxa3hHS2xnV2NzUHZrQU90Q2EwdmwtcTVLZnExamlVZmZ2RkZlNDI4SA?oc=5",
@@ -115,21 +129,6 @@ window.FUPPES_DATA["transfers"] = {
    ],
    "tags": [
     "Transfer"
-   ]
-  },
-  {
-   "title": "Eintracht Frankfurt erwägt Otávio-Ausleihe – Welche Rolle Collins spielt",
-   "link": "https://www.transfermarkt.de/eintracht-frankfurt-erwagt-otavio-ausleihe-im-winter-fur-uns-nicht-zufriedenstellend-quot-/view/news/491269",
-   "summary": "Ver&ouml;ffentlicht am 26.11.2026 um 09:34, aktualisiert um 15:36 Uhr. 4,5 Millionen Euro exklusive m&ouml;glicher Boni &uuml;berwies Eintracht Frankfurt Ende Juli f&uuml;r Innenverteidiger...",
-   "source": "Transfermarkt",
-   "date": "2026-11-26T14:36:48.000Z",
-   "fee": 4.5,
-   "clubs": [
-    "Eintracht Frankfurt",
-    "Frankfurt"
-   ],
-   "tags": [
-    "Leihe"
    ]
   },
   {
