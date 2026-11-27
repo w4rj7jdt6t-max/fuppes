@@ -1,6 +1,6 @@
 window.FUPPES_DATA = window.FUPPES_DATA || {};
 window.FUPPES_DATA["transfers"] = {
- "updated": "2026-11-27T09:24:32.362Z",
+ "updated": "2026-11-27T11:05:49.782Z",
  "rules": {
   "minFeeMio": 20,
   "topClubs": [
@@ -44,6 +44,49 @@ window.FUPPES_DATA["transfers"] = {
  },
  "items": [
   {
+   "title": "Transfer im Winter? Matthäus rät Bayern von Kane-Ersatz ab",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORmlTbHJvVU1uZkE5NEhhZ2VnbVdDQlFqcFh6WmZwZmJNZFhzZGcyeXhnNjlnT04yemxVczE4SWF2ZnM0WEFZdnFKcTllNVh1anA1clRCQ05BbWFwTVFVeENZa0g3U0FRamFYMWdwUk1EY3dLN3M3UnlLRVpBbFFic1pfWlpRcW5RUGxSbGZGeXNjV1B1MVBHSmdtSWFKamVUbFVKdlNySG93VURnZkhqb1lFRWo?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxORmlTbHJvVU1uZkE5NEhhZ2VnbVdDQlFqcFh6WmZwZmJNZFhzZGcyeXhnNjlnT04yemxVczE4SWF2ZnM0WEFZdnFKcTllNVh1anA1clRCQ05BbWFwTVFVeENZa0g3U0FRamFYMWdwUk1EY3dLN3M3UnlLRVpBbFFic1pfWlpRcW5RUGxSbGZGeXNjV1B1MVBHSmdtSWFKamVUbFVKdlNySG93VU",
+   "source": "SPORT1",
+   "date": "2026-11-27T10:38:00.000Z",
+   "fee": null,
+   "clubs": [
+    "Bayern"
+   ],
+   "tags": [
+    "Gerücht"
+   ]
+  },
+  {
+   "title": "Gerücht: FC Bayern beschäftigt sich mit Derry Scherhant vom SC Freiburg",
+   "link": "https://www.transfermarkt.de/fc-bayern-beschaftigt-sich-mit-scherhant-vor-marktwert-update-noch-15-munchner-wertvoller/view/news/491347",
+   "summary": "Seine rasante Entwicklung bef&ouml;rdert Derry Scherhant offenbar ins Blickfeld des FC Bayern. Wie zun&auml;chst die &bdquo;tz&ldquo; meldete und im Anschluss im &bdquo;Bild&ldquo;-Podcast...",
+   "source": "Transfermarkt",
+   "date": "2026-11-27T09:23:47.000Z",
+   "fee": null,
+   "clubs": [
+    "Bayern"
+   ],
+   "tags": [
+    "Gerücht"
+   ]
+  },
+  {
+   "title": "Wintertransfers bei Bayern? \"Ich teile die Meinung der Verantwortlichen nicht\"",
+   "link": "https://www.kicker.de/wintertransfers-bei-bayern-ich-teile-die-meinung-der-verantwortlichen-nicht-1275551/video#omrss",
+   "summary": "Die erste Niederlage der Saison in Lille, Verletzungen, ein dünner Kader. Der FC Bayern schlittert in den Winter und es stellt sich die Frage: Müssen die Verantwortlichen auf dem Transfermarkt nachlegen?",
+   "source": "kicker",
+   "date": "2026-11-27T09:04:58.000Z",
+   "fee": null,
+   "clubs": [
+    "Bayern"
+   ],
+   "tags": [
+    "Gerücht",
+    "Personal"
+   ]
+  },
+  {
    "title": "VfB Stuttgart: Herwerth lehnt Angebot ab – Interesse im In- und Ausland",
    "link": "https://www.transfermarkt.de/vertrag-lauft-aus-herwerth-lehnt-vfb-angebot-ab-interesse-im-in-und-ausland/view/news/491346",
    "summary": "Innenverteidiger Maximilian Herwerth, deutscher U17-Weltmeister von 2023, wird den VfB Stuttgart sp&auml;testens im Sommer 2027 verlassen &ndash; wom&ouml;glich aber schon im Januar. Wie &bdquo;Sky...",
@@ -70,20 +113,6 @@ window.FUPPES_DATA["transfers"] = {
    ],
    "tags": [
     "Transfer"
-   ]
-  },
-  {
-   "title": "Abgang aus München? Gwinn lässt Zukunft beim FC Bayern offen",
-   "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQNHlLUGVtTlVITlhGZU1oeWZEYWtKWjJTMUIwb2tTeXFvMllYcmdVVHppZ0k0MnZ4N3R3a2JpdWZCNXJFYlZ3bXIyWFFneThMTFI1R01hUlRFTGFqYkhHYWxsM1Iwb3l6a3plaFNVQTFBYlZOa3M4UEh2SjNlOWRVRERBWHlmaXdoTlhVcy1yQ0V2cmpUOWlGSHozZERwNm94a1lZalBCeXZUUWZLQTRrd3M3V1R6VGhSWmtiWjFPWEZZMnkwMG1YckRmWTg0UnBjLWx0NlNxNXlZbkFvLW8yRllYd3lRM0xkZVBOX1MxUGs2dFBLUU82Qmpn?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-gFBVV95cUxQNHlLUGVtTlVITlhGZU1oeWZEYWtKWjJTMUIwb2tTeXFvMllYcmdVVHppZ0k0MnZ4N3R3a2JpdWZCNXJFYlZ3bXIyWFFneThMTFI1R01hUlRFTGFqYkhHYWxsM1Iwb3l6a3plaFNVQTFBYlZOa3M4UEh2SjNlOWRVRERBWHlmaXdoTlhVcy1yQ0V2cmpUOWlGSHozZERwNm94a1lZalBCeXZUUW",
-   "source": "T-Online",
-   "date": "2026-11-27T07:47:25.000Z",
-   "fee": null,
-   "clubs": [
-    "Bayern"
-   ],
-   "tags": [
-    "Gerücht"
    ]
   },
   {
@@ -129,21 +158,6 @@ window.FUPPES_DATA["transfers"] = {
    ],
    "tags": [
     "Transfer"
-   ]
-  },
-  {
-   "title": "HSV-Vertrag von Vuskovic verlängert – Wie Bruder Luka erstmals gegen Bayern in Startelf?",
-   "link": "https://www.transfermarkt.de/hsv-vertrag-von-vuskovic-verlangert-wie-bruder-luka-erstmals-gegen-bayern-in-startelf-/view/news/491333",
-   "summary": "Mario Vuskovic wird &uuml;ber die laufende Saison beim HSV gebunden sein. Was vor einigen Wochen publik wurde, best&auml;tigte nun das &bdquo;Hamburger Abendblatt&ldquo;: Durch die erste...",
-   "source": "Transfermarkt",
-   "date": "2026-11-26T19:12:50.000Z",
-   "fee": null,
-   "clubs": [
-    "Bayern"
-   ],
-   "tags": [
-    "Gerücht",
-    "Vertrag"
    ]
   },
   {
@@ -276,6 +290,21 @@ window.FUPPES_DATA["transfers"] = {
    ]
   },
   {
+   "title": "Eintracht Frankfurt will Transferflop verleihen",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxONU1oRUxkTE5OOG53ZmRxRm5NZkt0RUhiaWZVVF9OT0JZR0ZyWmxoOEMwY0RYQnVyMlZYUl9VYkZQNjFnMmduV2pCdU84LXpidVhOeFZFMVZtVFNEaHpZQXFEb3ZKbk91VzBFWjlRVkxsVFZwMGNjUy1QWlFMeGNyTGpIYV8tbDYwMktvME9HaDhKMGtER1c0?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxONU1oRUxkTE5OOG53ZmRxRm5NZkt0RUhiaWZVVF9OT0JZR0ZyWmxoOEMwY0RYQnVyMlZYUl9VYkZQNjFnMmduV2pCdU84LXpidVhOeFZFMVZtVFNEaHpZQXFEb3ZKbk91VzBFWjlRVkxsVFZwMGNjUy1QWlFMeGNyTGpIYV8tbDYwMktvME9HaDhKMGtER1c0?oc=5\" target=\"_blank\">Ein",
+   "source": "Fussball Transfers",
+   "date": "2026-11-26T06:58:01.000Z",
+   "fee": null,
+   "clubs": [
+    "Eintracht Frankfurt",
+    "Frankfurt"
+   ],
+   "tags": [
+    "Leihe"
+   ]
+  },
+  {
    "title": "Transfer-Ticker: BVB vor Winter-Coup? Kane-Ersatz zum FC Bayern?",
    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObTJSRmJNRzZ6SVMzTER0cXNadWZuY19Dc05aUnV1cXUyVGQxSmw5T3dNeUd5SjhYZ3FNejl3RDc1Vm9EXzhMbDBGNUtXYWgtdUdmWURQVE9qT1djVjNoOEZ0U1RiUFBUN29DUTZ0djdxSS0wbTdEQmEzRnpNVEY0Y0g0OWNSRjBzS0t0dlY4UWdUWDJoYUFDa0Z0dGc3Zjc4?oc=5",
    "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxObTJSRmJNRzZ6SVMzTER0cXNadWZuY19Dc05aUnV1cXUyVGQxSmw5T3dNeUd5SjhYZ3FNejl3RDc1Vm9EXzhMbDBGNUtXYWgtdUdmWURQVE9qT1djVjNoOEZ0U1RiUFBUN29DUTZ0djdxSS0wbTdEQmEzRnpNVEY0Y0g0OWNSRjBzS0t0dlY4UWdUWDJoYUFDa0Z0dGc3Zjc4?oc=5\" target=",
@@ -355,34 +384,6 @@ window.FUPPES_DATA["transfers"] = {
    "fee": null,
    "clubs": [
     "Bayern"
-   ],
-   "tags": [
-    "Transfer"
-   ]
-  },
-  {
-   "title": "Scharfe Kritik an Goretzka-Wechsel vom FC Bayern zu Aston Villa",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1fY2ZpWVBrZnlkR09DWk9xREk4ZHkzR19jY1JsTndqMTgzQkpNamZMa1JUWENZd1YzWlAzd3I2NFdJdkxtNGgySmtJRkRwaG5zOHNMbE9IZTJhV19VMmZTaEd5OW82elU1U3hvQ3dmQUdxV2ZvaW1tUThldHF3dw?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE1fY2ZpWVBrZnlkR09DWk9xREk4ZHkzR19jY1JsTndqMTgzQkpNamZMa1JUWENZd1YzWlAzd3I2NFdJdkxtNGgySmtJRkRwaG5zOHNMbE9IZTJhV19VMmZTaEd5OW82elU1U3hvQ3dmQUdxV2ZvaW1tUThldHF3dw?oc=5\" target=\"_blank\">Scharfe Kritik an Goretzka-Wechsel vo",
-   "source": "fussballdaten.de",
-   "date": "2026-11-25T12:56:00.000Z",
-   "fee": null,
-   "clubs": [
-    "Bayern"
-   ],
-   "tags": [
-    "Transfer"
-   ]
-  },
-  {
-   "title": "Transfer-Tipp für den BVB – der ideale Kovac-Spieler für die Meisterschaft",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQelBvMVBNX05DNjFrNVBLOUxsYjQ0YjlqUnNYSkRuZDBTYVEtN1FoVlR2N19HX2hkakVPRzdRaW9pRzdxeTBHV1VMMWZIelRhRy0wTjl2RmlNVm1aSnhMYmVtaUpQRmFFYXZ4Y0VQem5feE1EdDlTN3VWdGtTM3JUdkw2WTVEaXNVZ0tEQWlOT0Q?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQelBvMVBNX05DNjFrNVBLOUxsYjQ0YjlqUnNYSkRuZDBTYVEtN1FoVlR2N19HX2hkakVPRzdRaW9pRzdxeTBHV1VMMWZIelRhRy0wTjl2RmlNVm1aSnhMYmVtaUpQRmFFYXZ4Y0VQem5feE1EdDlTN3VWdGtTM3JUdkw2WTVEaXNVZ0tEQWlOT0Q?oc=5\" target=\"_blank\">Transfer-Tip",
-   "source": "fussballdaten.de",
-   "date": "2026-11-25T12:54:00.000Z",
-   "fee": null,
-   "clubs": [
-    "BVB"
    ],
    "tags": [
     "Transfer"

@@ -1,6 +1,6 @@
 window.FUPPES_DATA = window.FUPPES_DATA || {};
 window.FUPPES_DATA["news-fc"] = {
- "updated": "2026-11-27T09:24:30.984Z",
+ "updated": "2026-11-27T11:05:48.500Z",
  "items": [
   {
    "title": "Schuld an schwerer Kane-Verletzung? Köln-Verteidiger Joël Schmied reagiert auf Attacke der FCB-Bosse",
@@ -55,21 +55,22 @@ window.FUPPES_DATA["news-fc"] = {
    ]
   },
   {
+   "title": "Ist die Trainerdiskussion um René Wagner beim 1. FC Köln beendet?",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPamUyV294el9IZlotbV8yYXg4UWNmQ0Vrc3IySGdJb0VLUmVFak5lTDAtbWJ6MDFwRGNjZjBmZXlHclFNM25aVnkydlNoVXppSHgtb2MzVWxzU0hFRFFlempnTGx4Z090YlhtejBsX3JYMmZRcFhwWkR2cUc2eTFadkxOb1ZzX0hMODVfMEhHbnpqUnhsWlVaX0VoTHEya0RFdExEeVA0YnRmaDBZWnlzaFFZaXFxTWJROHFYQ29nTlBuUzlKSWZ5WGh6NkVBRDIxWWdn?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxPamUyV294el9IZlotbV8yYXg4UWNmQ0Vrc3IySGdJb0VLUmVFak5lTDAtbWJ6MDFwRGNjZjBmZXlHclFNM25aVnkydlNoVXppSHgtb2MzVWxzU0hFRFFlempnTGx4Z090YlhtejBsX3JYMmZRcFhwWkR2cUc2eTFadkxOb1ZzX0hMODVfMEhHbnpqUnhsWlVaX0VoTHEya0RFdExEeVA0YnRmaD",
+   "source": "tagesschau.de",
+   "date": "2026-11-26T21:51:40.000Z",
+   "tags": [
+    "Gerücht",
+    "Verein"
+   ]
+  },
+  {
    "title": "„Tut mir leid“: FC-Profi verrät Aktion nach Kane-Verletzung",
    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQjhUeHgzNk9iOWptZ2tqZG1HZExIOUtLQ0FGSkE1SnlzNUVtdUFLdnlJQ3gybDYzckZjQlc1NkdyWUdxeGhBVGJPSnM2M3JZODZDeVJ6MDlYQ195VXVnSkRUbFJPS2hHQ2JYYVlpM1YtS3hMNy1JUVhpN0RMSXhNcHpITjZydkFsbnlCVjZfejBianZzd3lTX3dMQjd6RkNXU2FLbWNZM2gxTmFndXZ2d2l5T3k?oc=5",
    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQQjhUeHgzNk9iOWptZ2tqZG1HZExIOUtLQ0FGSkE1SnlzNUVtdUFLdnlJQ3gybDYzckZjQlc1NkdyWUdxeGhBVGJPSnM2M3JZODZDeVJ6MDlYQ195VXVnSkRUbFJPS2hHQ2JYYVlpM1YtS3hMNy1JUVhpN0RMSXhNcHpITjZydkFsbnlCVjZfejBianZzd3lTX3dMQjd6RkNXU2FLbWNZM2gxTm",
    "source": "Express",
    "date": "2026-11-26T17:50:08.000Z",
-   "tags": [
-    "Personal"
-   ]
-  },
-  {
-   "title": "\"Tut mir enorm leid\": Nach Horror-Verletzung: Köln-Verteidiger wendet sich an Harry Kane",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZm9HdjlTT0FQQkl4Z1llWnZSUHdaQ0g2U3NPUmlLcHJrYXp1aTVlMUFLOG9OVUF2RXhiTW1Fc3FCVUFoR0l4Z3VucjF0QTdmOEdzVjVvWUxyems4YVh1WElIdWRyYlVvTmVfR2dCWlp1Q2FwNnlWRnU3ZGdOWnFiSE1Md09WcUdCSWRFazI3RDd3dlZZbHQ1Y19JRzQxelMxVGpFOG1DWndVRFVHcUY4cndqTzdpYnU0OENud0dybmZ1T1Q2TGsyQVRTVQ?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxNZm9HdjlTT0FQQkl4Z1llWnZSUHdaQ0g2U3NPUmlLcHJrYXp1aTVlMUFLOG9OVUF2RXhiTW1Fc3FCVUFoR0l4Z3VucjF0QTdmOEdzVjVvWUxyems4YVh1WElIdWRyYlVvTmVfR2dCWlp1Q2FwNnlWRnU3ZGdOWnFiSE1Md09WcUdCSWRFazI3RDd3dlZZbHQ1Y19JRzQxelMxVGpFOG1DWndVRF",
-   "source": "n-tv.de",
-   "date": "2026-11-26T17:32:55.000Z",
    "tags": [
     "Personal"
    ]
