@@ -1,6 +1,6 @@
 window.FUPPES_DATA = window.FUPPES_DATA || {};
 window.FUPPES_DATA["transfers"] = {
- "updated": "2026-11-26T23:10:22.311Z",
+ "updated": "2026-11-27T01:34:41.276Z",
  "rules": {
   "minFeeMio": 20,
   "topClubs": [
@@ -75,20 +75,6 @@ window.FUPPES_DATA["transfers"] = {
    ]
   },
   {
-   "title": "DFB-Star auf BVB-Liste! 100 Mio. für Nusa? | Transfer Update Fan Club",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUmpFb1BJMHhrOHZzVG9FOFBlbkJkdjRlLThsc1E5ZEx4QnNRVkVZTjVkbUFCSl9yRXl6ZmhWZHkxWFBBZ0d1aHdYQkdfeHpXS29mNnJzb1pqWThFSzVRMjF4N3hncnJrNXF2TXBJOExSYVUycmhUenozOWl3UkM3ZWFLXzZ3d0x1M0liOUhjNklJZlltblp5MGk1S1ZmRE9OZjl5RDBDcktzU3BEOHVOeVBpZjR2YzBsaGc?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNUmpFb1BJMHhrOHZzVG9FOFBlbkJkdjRlLThsc1E5ZEx4QnNRVkVZTjVkbUFCSl9yRXl6ZmhWZHkxWFBBZ0d1aHdYQkdfeHpXS29mNnJzb1pqWThFSzVRMjF4N3hncnJrNXF2TXBJOExSYVUycmhUenozOWl3UkM3ZWFLXzZ3d0x1M0liOUhjNklJZlltblp5MGk1S1ZmRE9OZjl5RDBDcktzU3",
-   "source": "Sky.de",
-   "date": "2026-11-26T19:34:00.000Z",
-   "fee": 100,
-   "clubs": [
-    "BVB"
-   ],
-   "tags": [
-    "Gerücht"
-   ]
-  },
-  {
    "title": "HSV-Vertrag von Vuskovic verlängert – Wie Bruder Luka erstmals gegen Bayern in Startelf?",
    "link": "https://www.transfermarkt.de/hsv-vertrag-von-vuskovic-verlangert-wie-bruder-luka-erstmals-gegen-bayern-in-startelf-/view/news/491333",
    "summary": "Mario Vuskovic wird &uuml;ber die laufende Saison beim HSV gebunden sein. Was vor einigen Wochen publik wurde, best&auml;tigte nun das &bdquo;Hamburger Abendblatt&ldquo;: Durch die erste...",
@@ -144,20 +130,6 @@ window.FUPPES_DATA["transfers"] = {
    ],
    "tags": [
     "Leihe"
-   ]
-  },
-  {
-   "title": "Kane-Ersatz: Transfer-Ratschlag an den FC Bayern",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaUFUT05WNm9tOEYtWUdiMnpLdHgzNDlCell4TmJ0N2ZfZjVqenFIQnQ5UnpacHZSbEtjQWFiaVF4LWsyc1IwS1VQT3V0Y29FNnJCYkRKQUlObHR2aGJkRGo0V0V0aFEzeUpfTHN1YVNHM2NTeWpPYnliZ0JzNFJnb1RhVXhlZ2VYaV9xNUpfWjFCbURmSG9HRw?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPaUFUT05WNm9tOEYtWUdiMnpLdHgzNDlCell4TmJ0N2ZfZjVqenFIQnQ5UnpacHZSbEtjQWFiaVF4LWsyc1IwS1VQT3V0Y29FNnJCYkRKQUlObHR2aGJkRGo0V0V0aFEzeUpfTHN1YVNHM2NTeWpPYnliZ0JzNFJnb1RhVXhlZ2VYaV9xNUpfWjFCbURmSG9HRw?oc=5\" target=\"_blank\">K",
-   "source": "Fussball Transfers",
-   "date": "2026-11-26T13:03:57.000Z",
-   "fee": null,
-   "clubs": [
-    "Bayern"
-   ],
-   "tags": [
-    "Transfer"
    ]
   },
   {
@@ -388,6 +360,34 @@ window.FUPPES_DATA["transfers"] = {
    ],
    "tags": [
     "Gerücht"
+   ]
+  },
+  {
+   "title": "Neuer Transferplan bei BVB-Flirt Marcel Regula enthüllt",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVE5FUXlRWldZZHJEd18zYlB5MFREWk9RT1FrRVp4SXRzVDdxczh1VzRRMkR6N1E1WDEyRzZCZzdUZUtIbXRJWlBmMlBMMFlXY1U0dk1Fc0pZTFJRQXB2dzZCQ3NGajh3b3MyNnhkTkVtREgwbHZsakFwU3htRXpwVDQ5S2IwWjhnQlVuTE11Wnc?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNVE5FUXlRWldZZHJEd18zYlB5MFREWk9RT1FrRVp4SXRzVDdxczh1VzRRMkR6N1E1WDEyRzZCZzdUZUtIbXRJWlBmMlBMMFlXY1U0dk1Fc0pZTFJRQXB2dzZCQ3NGajh3b3MyNnhkTkVtREgwbHZsakFwU3htRXpwVDQ5S2IwWjhnQlVuTE11Wnc?oc=5\" target=\"_blank\">Neuer Transf",
+   "source": "fussballdaten.de",
+   "date": "2026-11-25T09:33:00.000Z",
+   "fee": null,
+   "clubs": [
+    "BVB"
+   ],
+   "tags": [
+    "Transfer"
+   ]
+  },
+  {
+   "title": "\"Die Ablöse war indiskutabel\": Transfer von Bayern-Star Michael Olise scheiterte am Geld",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPdGNaTDZHUVZSZGszS2tVOHIzV05BZ05zMGZseUFUdEc0ckljZWhmRGlwYzFiUUxjaE5xTUtwYkxnYUtOdWwwbFhnT3BMWlF2LWJoNWV1S2RQV21RRXJJc3VMVXBtbzZlM0cxWkl3czJycThCVEFRRUtESnRsNWl2aGxSeXRwdDFoem9MZ2pHemwwcXBOMUhRM3lQUFhFbWc1UzVJTmNjMERvWlRCMUhWcng5MFlQcFJnTTUtSW9fZFVvZTQwa2dRdGJsVGl4cDVBbDF2elN1dmc?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxPdGNaTDZHUVZSZGszS2tVOHIzV05BZ05zMGZseUFUdEc0ckljZWhmRGlwYzFiUUxjaE5xTUtwYkxnYUtOdWwwbFhnT3BMWlF2LWJoNWV1S2RQV21RRXJJc3VMVXBtbzZlM0cxWkl3czJycThCVEFRRUtESnRsNWl2aGxSeXRwdDFoem9MZ2pHemwwcXBOMUhRM3lQUFhFbWc1UzVJTmNjMERvWl",
+   "source": "SPOX.com",
+   "date": "2026-11-25T09:23:36.000Z",
+   "fee": null,
+   "clubs": [
+    "Bayern"
+   ],
+   "tags": [
+    "Transfer"
    ]
   }
  ]

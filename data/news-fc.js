@@ -1,26 +1,16 @@
 window.FUPPES_DATA = window.FUPPES_DATA || {};
 window.FUPPES_DATA["news-fc"] = {
- "updated": "2026-11-26T23:10:20.978Z",
+ "updated": "2026-11-27T01:34:40.158Z",
  "items": [
   {
-   "title": "Vierte Verletzung in 2026: Was ist bei Castro-Montes aus dem Gleichgewicht?",
-   "link": "https://geissblog.koeln/2026/11/vierte-verletzung-in-2026-was-ist-bei-castro-montes-aus-dem-gleichgewicht/",
-   "summary": "Er ist einer der Kreativspieler des 1. FC Köln. Doch Alessio Castro-Montes ist auch verletzungsanfällig. Der rechte Schienenspieler fällt nur schon zum vierten Mal in... Der Beitrag Vierte Verletzung in 2026: Was ist bei Castro-Montes aus dem Gleichgewicht? erschien zuerst auf GE",
-   "source": "GEISSBLOG",
-   "date": "2026-11-26T23:01:00.000Z",
+   "title": "Ist die Trainerdiskussion um René Wagner beim 1. FC Köln beendet?",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPamUyV294el9IZlotbV8yYXg4UWNmQ0Vrc3IySGdJb0VLUmVFak5lTDAtbWJ6MDFwRGNjZjBmZXlHclFNM25aVnkydlNoVXppSHgtb2MzVWxzU0hFRFFlempnTGx4Z090YlhtejBsX3JYMmZRcFhwWkR2cUc2eTFadkxOb1ZzX0hMODVfMEhHbnpqUnhsWlVaX0VoTHEya0RFdExEeVA0YnRmaDBZWnlzaFFZaXFxTWJROHFYQ29nTlBuUzlKSWZ5WGh6NkVBRDIxWWdn?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxPamUyV294el9IZlotbV8yYXg4UWNmQ0Vrc3IySGdJb0VLUmVFak5lTDAtbWJ6MDFwRGNjZjBmZXlHclFNM25aVnkydlNoVXppSHgtb2MzVWxzU0hFRFFlempnTGx4Z090YlhtejBsX3JYMmZRcFhwWkR2cUc2eTFadkxOb1ZzX0hMODVfMEhHbnpqUnhsWlVaX0VoTHEya0RFdExEeVA0YnRmaD",
+   "source": "tagesschau.de",
+   "date": "2026-11-26T21:51:40.000Z",
    "tags": [
     "Gerücht",
-    "Personal"
-   ]
-  },
-  {
-   "title": "Nach mehr als 6 Jahren! Hammer-Comeback beim 1. FC Köln steht bevor",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNN2hpVndMcDA1ZGdiOEpfMVFNN3ZaUUpsbDFtM1hIdzV3c1hpb1YzYzJUaS03akNPX3Z0YThLWHRBbjJhUHo1QWV5UXBkdXEwX3dUd09oQi1ieldxQTZDU0NZTWJ4WTNwVTlLS1plc1VHc0pQenRXbHk5MU9FZzVxNzVZVWhfajNwZUJFdVJHZDRfQjQ?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNN2hpVndMcDA1ZGdiOEpfMVFNN3ZaUUpsbDFtM1hIdzV3c1hpb1YzYzJUaS03akNPX3Z0YThLWHRBbjJhUHo1QWV5UXBkdXEwX3dUd09oQi1ieldxQTZDU0NZTWJ4WTNwVTlLS1plc1VHc0pQenRXbHk5MU9FZzVxNzVZVWhfajNwZUJFdVJHZDRfQjQ?oc=5\" target=\"_blank\">Nach meh",
-   "source": "DerWesten",
-   "date": "2026-11-26T21:56:16.000Z",
-   "tags": [
-    "Personal"
+    "Verein"
    ]
   },
   {
@@ -54,54 +44,13 @@ window.FUPPES_DATA["news-fc"] = {
    ]
   },
   {
-   "title": "„Ist kein Testspiel!“ Warum bei Ache und El Mala Geduld gefragt ist",
-   "link": "https://geissblog.koeln/2026/11/ist-kein-testspiel-warum-es-fuer-ache-und-el-mala-nichts-mit-der-startelf-wird/",
-   "summary": "Wer stürmt für den 1. FC Köln gegen die SV Elversberg? Kommt es zur Rückkehr von Ragnar Ache? Oder zur Startelf-Premiere von Malek El Mala?... Der Beitrag „Ist kein Testspiel!“ Warum bei Ache und El Mala Geduld gefragt ist erschien zuerst auf GEISSBLOG .",
-   "source": "GEISSBLOG",
-   "date": "2026-11-26T16:30:00.000Z",
+   "title": "Nach Kane-Verletzung: Kölns Schmied meldet sich zu Wort und entschuldigt sich",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPaWN6QmI3aFlCRi1hdXlOMGQzT3ZST0tDSi1NQTlpRHh2V1NRRmtJWk92dDg1RGNSSE1IQWpBTUdWeEdCUWNZSGp2TDFnV2wxTVVzOVNmLXlyWDhFTVEyODlRNnZibFowbDljNG02dUxEOFp0RmNpV0JneEtUMEpZaHhXaXVjNmR3d0htYjZGM2lJOFpLZnBlaXdpUElOZkhvLXp2NVJYV0NPN1AwOTBxV3NmazlmTmUyTUM5N0s1RzJzb0x2LWw3RVdB?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxPaWN6QmI3aFlCRi1hdXlOMGQzT3ZST0tDSi1NQTlpRHh2V1NRRmtJWk92dDg1RGNSSE1IQWpBTUdWeEdCUWNZSGp2TDFnV2wxTVVzOVNmLXlyWDhFTVEyODlRNnZibFowbDljNG02dUxEOFp0RmNpV0JneEtUMEpZaHhXaXVjNmR3d0htYjZGM2lJOFpLZnBlaXdpUElOZkhvLXp2NVJYV0NPN1",
+   "source": "Sky.de",
+   "date": "2026-11-26T16:08:00.000Z",
    "tags": [
     "Personal"
-   ]
-  },
-  {
-   "title": "FC Bayern News: Kölns Joel Schmied entschuldigt sich bei Harry Kane. Was er zur Verletzung sagt",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOM2MybWRWQUNVTTJKV0Fqa2ZRYWhHTUQxOXRLdXlHR2VPVjhkMDFfZWZQelFmRDg5b0UzbTdyZFl5NzlZUVNTajNTcXlJenR6REUtSlNpMURudmpjaEdkc3JoOXl3T2dpalQ2U1ZKc3A2V2NUV1ROTThYMzY0MTBFYy1QemxaNVRTQVFIbUV3T0lONks0aGp6NmlEclV2SHI3RXNsN3NlRWE0enJ2dC1XU1pxS2pNN3dpR0J5dmRsbw?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOM2MybWRWQUNVTTJKV0Fqa2ZRYWhHTUQxOXRLdXlHR2VPVjhkMDFfZWZQelFmRDg5b0UzbTdyZFl5NzlZUVNTajNTcXlJenR6REUtSlNpMURudmpjaEdkc3JoOXl3T2dpalQ2U1ZKc3A2V2NUV1ROTThYMzY0MTBFYy1QemxaNVRTQVFIbUV3T0lONks0aGp6NmlEclV2SHI3RXNsN3NlRWE0en",
-   "source": "News zur deutschen Nationalmannschaft",
-   "date": "2026-11-26T15:53:00.000Z",
-   "tags": [
-    "Personal"
-   ]
-  },
-  {
-   "title": "Schwäbe wackelt, Ache gibt Rätsel auf: FC-Trainer Wagner gibt Personalupdate",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNW90WkpLM3BtdEFPVlRvcVo3Q1BwTzROcldqWVd0aEpXRHMwcS1oVnBtVTZJdV9JcjFSZW1xRWhybFhFZHhBNE12RTVmV2R4RjZMQUhsNFMwb1ZGVFpSUFRwSGJkMk9oV0dDZDJmSXhKeEJZNk5sMkFZRklELU1Cd2dvWndtOHd6Qmd1M05qYXVLTDdsUTl3cjZZQQ?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNNW90WkpLM3BtdEFPVlRvcVo3Q1BwTzROcldqWVd0aEpXRHMwcS1oVnBtVTZJdV9JcjFSZW1xRWhybFhFZHhBNE12RTVmV2R4RjZMQUhsNFMwb1ZGVFpSUFRwSGJkMk9oV0dDZDJmSXhKeEJZNk5sMkFZRklELU1Cd2dvWndtOHd6Qmd1M05qYXVLTDdsUTl3cjZZQQ?oc=5\" target=\"_blan",
-   "source": "90min.de",
-   "date": "2026-11-26T14:57:19.000Z",
-   "tags": [
-    "Verein"
-   ]
-  },
-  {
-   "title": "FC-Keeper Schwäbe fraglich - Zieler winkt Comeback",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdkoxcmhoRlpLNFFQc1ZVLXEwc3NNXzNpb2kwMDFxT3NDWWY0RDdJbS1yUmJhUzJ1NUoyVkZFWTdKb1laeC1hNEpSQmhwQ3JKM2d1ZkszTzgyY0xkVExSeVFDbjBQUHBVZHVnY0NyZlI1VmRxam9hYlhzckktVFUzSFNpSk54enc0MXZfUmY2Y0xTTVZmZzdnb3lfVUdyd1FaU1ZaUDRMOC11cDQ?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdkoxcmhoRlpLNFFQc1ZVLXEwc3NNXzNpb2kwMDFxT3NDWWY0RDdJbS1yUmJhUzJ1NUoyVkZFWTdKb1laeC1hNEpSQmhwQ3JKM2d1ZkszTzgyY0xkVExSeVFDbjBQUHBVZHVnY0NyZlI1VmRxam9hYlhzckktVFUzSFNpSk54enc0MXZfUmY2Y0xTTVZmZzdnb3lfVUdyd1FaU1ZaUDRMOC11cD",
-   "source": "Haller Kreisblatt",
-   "date": "2026-11-26T13:47:06.000Z",
-   "tags": [
-    "Personal"
-   ]
-  },
-  {
-   "title": "Schwäbe wackelt! Muss Zieler gegen Elversberg sein Können beweisen?",
-   "link": "https://geissblog.koeln/2026/11/schwaebe-wackelt-muss-zieler-gegen-elversberg-sein-koennen-beweisen/",
-   "summary": "Der 1. FC Köln steht vor dem nächsten richtungsweisenden Heimspiel gegen die SV Elversberg. Personelle Sorgen gibt es für Trainer René Wagner vor allem in... Der Beitrag Schwäbe wackelt! Muss Zieler gegen Elversberg sein Können beweisen? erschien zuerst auf GEISSBLOG .",
-   "source": "GEISSBLOG",
-   "date": "2026-11-26T12:54:26.000Z",
-   "tags": [
-    "Gerücht",
-    "Verein"
    ]
   },
   {
@@ -115,46 +64,6 @@ window.FUPPES_DATA["news-fc"] = {
    ]
   },
   {
-   "title": "Kane-Verletzung: Köln-Verteidiger kontert Kritik vom FC Bayern",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbFRyMVRkdGRfbHY1T0s2SDh1N1ZkOGJXVDUwbVcwcFA5ZDNYQTVpdkdqZjFSREhKRmtYWkdSbDJ1ckRaRlhuLUVud3RuTWtaMWZoQ0VlMzdKck4zZXVybkFmQXV2WDBqakxEdHcyaEFTRlZJWDhKejJTY3JpblFudHFtS3hlM2d2RV9BVm1icTZTVVJhdGdaRGNFMA?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPbFRyMVRkdGRfbHY1T0s2SDh1N1ZkOGJXVDUwbVcwcFA5ZDNYQTVpdkdqZjFSREhKRmtYWkdSbDJ1ckRaRlhuLUVud3RuTWtaMWZoQ0VlMzdKck4zZXVybkFmQXV2WDBqakxEdHcyaEFTRlZJWDhKejJTY3JpblFudHFtS3hlM2d2RV9BVm1icTZTVVJhdGdaRGNFMA?oc=5\" target=\"_blan",
-   "source": "FCBinside",
-   "date": "2026-11-26T09:00:43.000Z",
-   "tags": [
-    "Personal"
-   ]
-  },
-  {
-   "title": "„Halten nicht immer Händchen“: So wird Sobek von Kessler eingebunden",
-   "link": "https://geissblog.koeln/2026/11/halten-nicht-immer-haendchen-so-wird-sobek-von-kessler-eingebunden/",
-   "summary": "Wie gut ist das Verhältnis zwischen Thomas Kessler und Ulf Sobek? Der Sportchef und der Vizepräsident des 1. FC Köln bilden eine bislang ungewohnte Konstellation... Der Beitrag „Halten nicht immer Händchen“: So wird Sobek von Kessler eingebunden erschien zuerst auf GEISSBLOG .",
-   "source": "GEISSBLOG",
-   "date": "2026-11-25T23:01:00.000Z",
-   "tags": [
-    "Verein"
-   ]
-  },
-  {
-   "title": "Schnäppchen statt Millionen-Gebühr: So wird Moore zum doppelten Glücksgriff",
-   "link": "https://geissblog.koeln/2026/11/schnaeppchen-statt-millionen-gebuehr-so-wird-moore-zum-doppelten-gluecksgriff/",
-   "summary": "Mikey Moore ist seit seinem Tor beim FC Bayern München in aller Munde. Der Star-Transfer des 1. FC Köln könnte sich in doppeltem Sinne zum... Der Beitrag Schnäppchen statt Millionen-Gebühr: So wird Moore zum doppelten Glücksgriff erschien zuerst auf GEISSBLOG .",
-   "source": "GEISSBLOG",
-   "date": "2026-11-25T18:48:00.000Z",
-   "tags": [
-    "Transfer"
-   ]
-  },
-  {
-   "title": "Kritik an Trainingsplätzen: Schon vor dem Winter hat der FC ein Problem",
-   "link": "https://geissblog.koeln/2026/11/kritik-an-trainingsplaetzen-schon-vor-dem-winter-hat-der-fc-ein-problem/",
-   "summary": "René Wagner ist genervt. Der Cheftrainer des 1. FC Köln muss schon vor dem echten Wintereinbruch am Geißbockheim umplanen. Der Grund: Der Haupt-Trainingsplatz ist schon... Der Beitrag Kritik an Trainingsplätzen: Schon vor dem Winter hat der FC ein Problem erschien zuerst auf GEIS",
-   "source": "GEISSBLOG",
-   "date": "2026-11-25T17:30:00.000Z",
-   "tags": [
-    "Verein"
-   ]
-  },
-  {
    "title": "Wucht und Risiko? Fleiß und Stabilität? Kölns Stürmer-Frage vor dem Elversberg-Spiel",
    "link": "https://www.kicker.de/wucht-und-risiko-fleiss-und-stabilitaet-koelns-stuermer-frage-vor-dem-elversberg-spiel-1274807/artikel#omrss",
    "summary": "In der Liga ist der 1. FC Köln seit fünf Spielen sieglos und erzielte nur drei Tore. Mit Ragnar Ache steht Trainer René Wagner eine verlässliche Alternative im Angriff zur Verfügung - doch die Rangordnung im Sturm ist längst nicht in Stein gemeißelt.",
@@ -163,6 +72,27 @@ window.FUPPES_DATA["news-fc"] = {
    "tags": [
     "Gerücht",
     "Verein"
+   ]
+  },
+  {
+   "title": "Nur 44 Minuten gespielt: Dieser 30-jährige Offensivprofi des 1. FC Köln denkt an einen Wechsel",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZWU5YjRzdlFJdjFrM1RqSVlNSlFlUV9fUFFfc2R0clBETjdWNkVKQTZ5ZkJuZVJlNmQxa25kOENnNW1YdXo0X3gzZWZHRkI0U0wzV2R2c3JXakt1ZGxoNTlqN0FZOEktdkFYR3lFZmgtOWZHM3pGeFNlcURnWXYtaFB2ejhERHNtS2FfYkstMWI5bDlSOUZEMXJSTjJTTEMzQTFTTTVxdWVxOFBLa3Z4V0x3?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQZWU5YjRzdlFJdjFrM1RqSVlNSlFlUV9fUFFfc2R0clBETjdWNkVKQTZ5ZkJuZVJlNmQxa25kOENnNW1YdXo0X3gzZWZHRkI0U0wzV2R2c3JXakt1ZGxoNTlqN0FZOEktdkFYR3lFZmgtOWZHM3pGeFNlcURnWXYtaFB2ejhERHNtS2FfYkstMWI5bDlSOUZEMXJSTjJTTEMzQTFTTTVxdWVxOF",
+   "source": "Merkur",
+   "date": "2026-11-25T10:41:07.000Z",
+   "tags": [
+    "Transfer"
+   ]
+  },
+  {
+   "title": "FC-Lazarett: Stürmer vor Comeback – Verteidiger nie mehr für Köln?",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNeGY4Q0Vnc0QxTnBjXzlKSWhEWkZvYjJYUmltdHM0Wmh6TGc3WkI2NTlPRC1TRWJrVTRfNXpmLWJNOW92ejJCbW5NWl9tS0dlS19vN1RfMVIxR2p6S3hvYTl1VFRfWWptVHIycksweUk3QW1iYnVKZko3cmtnZHpIWUxzVjkxaVdUSTFoRnZCbDBtQlZ1M1l1cm10OFBvQ0ZESW9TNnkwbEhqanY2R1dGamxoVjJDbi1EWTNkZVprMEM?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNeGY4Q0Vnc0QxTnBjXzlKSWhEWkZvYjJYUmltdHM0Wmh6TGc3WkI2NTlPRC1TRWJrVTRfNXpmLWJNOW92ejJCbW5NWl9tS0dlS19vN1RfMVIxR2p6S3hvYTl1VFRfWWptVHIycksweUk3QW1iYnVKZko3cmtnZHpIWUxzVjkxaVdUSTFoRnZCbDBtQlZ1M1l1cm10OFBvQ0ZESW9TNnkwbEhqan",
+   "source": "Express",
+   "date": "2026-11-25T08:39:00.000Z",
+   "tags": [
+    "Gerücht",
+    "Personal"
    ]
   },
   {
@@ -186,6 +116,16 @@ window.FUPPES_DATA["news-fc"] = {
    ]
   },
   {
+   "title": "Alessio Castro-Montes fällt beim 1. FC Köln erneut verletzt aus",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTkZ0UWJSQnpFTXFRYXd5ZkpQbkIyVVA2a3JXR3N1c2JubGxCYmFOSUhDdUdpNnM0ckdHTzNVbmFDWlFZZnRveW5VZzB4VU9IanJwLWtjZEtCSnpkREg3VUE0WUZwdjR3TDRKcTNTR0N5Q3VZQVpDUXdXMDZzb25MUFVGOWNaeW01ZHlET1hnb3ZlVzdFVnhUbmxaNFRNZWVsaG9pWWhpMHZ2MW1G?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQTkZ0UWJSQnpFTXFRYXd5ZkpQbkIyVVA2a3JXR3N1c2JubGxCYmFOSUhDdUdpNnM0ckdHTzNVbmFDWlFZZnRveW5VZzB4VU9IanJwLWtjZEtCSnpkREg3VUE0WUZwdjR3TDRKcTNTR0N5Q3VZQVpDUXdXMDZzb25MUFVGOWNaeW01ZHlET1hnb3ZlVzdFVnhUbmxaNFRNZWVsaG9pWWhpMHZ2MW",
+   "source": "Tu Futbolero",
+   "date": "2026-11-24T09:30:22.000Z",
+   "tags": [
+    "Personal"
+   ]
+  },
+  {
    "title": "Von der Jokerrolle in den Verletztenstatus: Castro-Montes fehlt Köln erneut",
    "link": "https://www.kicker.de/von-der-jokerrolle-in-den-verletztenstatus-castro-montes-fehlt-koeln-erneut-1274501/artikel#omrss",
    "summary": "Erst Ende September musste Alessio Castro-Montes eine Zwangspause einlegen, nun steht der Abwehrspieler dem 1. FC Köln verletzungsbedingt erneut nicht zur Verfügung.",
@@ -196,6 +136,47 @@ window.FUPPES_DATA["news-fc"] = {
    ]
   },
   {
+   "title": "1. FC Köln: Winter-Angebote für Luca Waldschmidt",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNGtHNHE5UUNPTHBHcU9MQ3UzNG9MbGJCWmVUUEtxZHdjZWZ4cVBpMTI4T0xiTUltY2hWdDdTdzRKRmpjNGdKX05BQjFTZEhsRzFfdkhLajI4OHZ2SlByeHZFM1g4YmV6aE90RWtINndBRC11MU1lS3FiYkVPYXZVMHdoSm1kVWpVRl9Wc2xlcWI?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQNGtHNHE5UUNPTHBHcU9MQ3UzNG9MbGJCWmVUUEtxZHdjZWZ4cVBpMTI4T0xiTUltY2hWdDdTdzRKRmpjNGdKX05BQjFTZEhsRzFfdkhLajI4OHZ2SlByeHZFM1g4YmV6aE90RWtINndBRC11MU1lS3FiYkVPYXZVMHdoSm1kVWpVRl9Wc2xlcWI?oc=5\" target=\"_blank\">1. FC Köln: ",
+   "source": "Fussball Transfers",
+   "date": "2026-11-23T20:21:27.000Z",
+   "tags": [
+    "Transfer"
+   ]
+  },
+  {
+   "title": "Köln öffnet die Tür: Waldschmidt kann schon im Winter ablösefrei gehen",
+   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPUERHdnpUeE9YRENRa2xESEhsT3k0SzJMVmxMY3NRYXlWMC1sZGF0OVg2bUc4bGVVcW12bkF1OW00ZGZMNHpIMWVOSVdwbHJQWS1oN2ZEZ2lSQnZXb1FTSWJwcXpYWVRWMmFuNWRyQkJucHdQZ2NmUkxXX19uYWxkQURFN2ZJVWtGTVZIckdWS1hMZWprUDFqQzFqNVcyVExmc1prLVAxV2NSeVhDM0FKQTYwV24tQUJnb2tzNHNpTjZhVklDNGdvX1JpUFRpNy1uQUlFUFFoQWJ0V2ljRXRZY0Vlb2tuNHF4dndaejBn?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxPUERHdnpUeE9YRENRa2xESEhsT3k0SzJMVmxMY3NRYXlWMC1sZGF0OVg2bUc4bGVVcW12bkF1OW00ZGZMNHpIMWVOSVdwbHJQWS1oN2ZEZ2lSQnZXb1FTSWJwcXpYWVRWMmFuNWRyQkJucHdQZ2NmUkxXX19uYWxkQURFN2ZJVWtGTVZIckdWS1hMZWprUDFqQzFqNVcyVExmc1prLVAxV2NSeV",
+   "source": "n-tv.de",
+   "date": "2026-11-23T17:45:00.000Z",
+   "tags": [
+    "Transfer"
+   ]
+  },
+  {
+   "title": "Bei Remis gegen Köln: Bayerns Kane und Olise verletzt ausgewechselt",
+   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPVGhwUENVSVlibXlNdE5wVVVKODJpT21rNHlNZFk3VmFzRWdRU2Rob0c2bVNzMDZqcEN3OFhvLUczQ1p4RVNnVnRBZTNnMWs5RWEwektIQnQ1R3F5VG91bGl4RGtGZDA0dkl2THhsaGZWNnJHWWF4VzZKRWUzR2x5R2FtajQ2SG04UzloZnJzWVlTM0lkRHBrTFFaVHdiWHQwRldfNmxZc2VhZ21MUUJ4RkMxaVNIb1B0b2ItYUFxbkt1QmtBbVdsd1pfSm1qZVZ5UzNWWVc1aVRiWTBiWlNORlNaRWRnR2REUmRQMW9n?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxPVGhwUENVSVlibXlNdE5wVVVKODJpT21rNHlNZFk3VmFzRWdRU2Rob0c2bVNzMDZqcEN3OFhvLUczQ1p4RVNnVnRBZTNnMWs5RWEwektIQnQ1R3F5VG91bGl4RGtGZDA0dkl2THhsaGZWNnJHWWF4VzZKRWUzR2x5R2FtajQ2SG04UzloZnJzWVlTM0lkRHBrTFFaVHdiWHQwRldfNmxZc2VhZ2",
+   "source": "sportschau.de",
+   "date": "2026-11-23T08:00:00.000Z",
+   "tags": [
+    "Fix",
+    "Personal"
+   ]
+  },
+  {
+   "title": "Nordrhein-Westfalen: Sportchef Kessler stellt sich hinter Köln-Trainer Wagner",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSEIyR00xLTE1Z05EWmtXUDE2eXkxZU1QVU1acFF0ekdyUU0tVVQ4cXFuMzZBWDNPMHRyMEk0eUxlVXdmRFNxeERCUFpqNk5WSDU4YlM4elcyQ2dQZ01QRDV1UnpHTDk2MzFrZnI4dThOdVl4R2NHSDk0MktOUU5qUG4wdldrcGtBMWhnNFNzOWMzdzYwXzJuLXo3Q3pOX01kWkRPekdfUW9xb0ltd0JMcGZfZGdHQ3ZRdFBDZHBhNHFZQQ?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSEIyR00xLTE1Z05EWmtXUDE2eXkxZU1QVU1acFF0ekdyUU0tVVQ4cXFuMzZBWDNPMHRyMEk0eUxlVXdmRFNxeERCUFpqNk5WSDU4YlM4elcyQ2dQZ01QRDV1UnpHTDk2MzFrZnI4dThOdVl4R2NHSDk0MktOUU5qUG4wdldrcGtBMWhnNFNzOWMzdzYwXzJuLXo3Q3pOX01kWkRPekdfUW9xb0",
+   "source": "n-tv.de",
+   "date": "2026-11-22T15:07:00.000Z",
+   "tags": [
+    "Verein"
+   ]
+  },
+  {
    "title": "1. FC Köln: Trainer Wagner trauert Sieg nach – „Froh über den Punkt, aber...“",
    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQalpJUnBycVE5MGRfY19sMXluRlBwSlFKTWlLUW16ZG9SSXpRZFBEYUVwaDRPZy13NWVGRmlEeG83OXdFTjhwLTFmRkIwNWdXSmxjd2FBeEU4LWtIZmdBM1c5TDlaNTZNQzB1NGRWNDg3UXFWZ0NBNXpPdFc3RHZKMmppTVl2d25ycFd4QWFPbGs1Y09IN1dqWnZKMVhRZXBJTGw1aTdtWkpNckpOMkNCZk5rbl91eXh1b3BxM2ZuUFhfWHl2ZHZGbGR3?oc=5",
    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQalpJUnBycVE5MGRfY19sMXluRlBwSlFKTWlLUW16ZG9SSXpRZFBEYUVwaDRPZy13NWVGRmlEeG83OXdFTjhwLTFmRkIwNWdXSmxjd2FBeEU4LWtIZmdBM1c5TDlaNTZNQzB1NGRWNDg3UXFWZ0NBNXpPdFc3RHZKMmppTVl2d25ycFd4QWFPbGs1Y09IN1dqWnZKMVhRZXBJTGw1aTdtWkpNck",
@@ -203,6 +184,26 @@ window.FUPPES_DATA["news-fc"] = {
    "date": "2026-11-21T17:08:09.000Z",
    "tags": [
     "Verein"
+   ]
+  },
+  {
+   "title": "Moore besiegt die Angst und zerstreut alle Gerüchte",
+   "link": "https://www.kicker.de/moore-besiegt-die-angst-und-zerstreut-alle-geruechte-1273429/artikel#omrss",
+   "summary": "Mikey Moore stand beim 1. FC Köln zuletzt stark in der Kritik. Nun bewies der 19-Jährige beim 1:1 in München, weshalb er große Fantasien weckt. Kann Moore das wiederholen?",
+   "source": "kicker",
+   "date": "2026-11-21T09:59:32.000Z",
+   "tags": [
+    "Gerücht"
+   ]
+  },
+  {
+   "title": "FC Bayern spielt 1:1 gegen Köln: Kane und Olise verletzt - Sport - SZ.de",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOY0J6cFA4U19YX3BobEFaSzR1VmhEbUdQN0tTalBWZGp5bjBld2VoclRpS1JtTlZRRkhabklndGJKQURud1VsdjRjdngtRExRTlR2Q1FGc21XTXdfbWFpeHNWb1RGdUtaeGROS1FLbC1KbHllYmNKNU40UHlEUnk4dy1peWF6UQ?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxOY0J6cFA4U19YX3BobEFaSzR1VmhEbUdQN0tTalBWZGp5bjBld2VoclRpS1JtTlZRRkhabklndGJKQURud1VsdjRjdngtRExRTlR2Q1FGc21XTXdfbWFpeHNWb1RGdUtaeGROS1FLbC1KbHllYmNKNU40UHlEUnk4dy1peWF6UQ?oc=5\" target=\"_blank\">FC Bayern spielt 1:1 gege",
+   "source": "SZ.de",
+   "date": "2026-11-20T23:30:30.000Z",
+   "tags": [
+    "Personal"
    ]
   }
  ]
