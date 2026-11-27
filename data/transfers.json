@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T13:30:23.483Z",
+ "updated": "2026-11-27T15:11:46.989Z",
  "rules": {
   "minFeeMio": 20,
   "topClubs": [
@@ -43,18 +43,59 @@
  },
  "items": [
   {
-   "title": "Offiziell: Real Madrid verkündet nächsten Vertragscoup – folgt jetzt Bellingham?",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxON2doamxOX1VwbFhkVVVaNjBGVTRTbW9fa3c1RGYxbmFlRWwzQVd1bTJjeXFFQ0hlNEhfSGdTNWRRSS14SVNkUndLcmZpeDhsS3U3T2RIaE4xZDhGZ2VESDJLeHl0QWlCLXk0NFNXc19KazJET1pLMWJLTFNRVVVFVF9RZmlsOU00cksybnJvYXBxU0c2UjNhbmgxRURwZVF1Wjd4YQ?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxON2doamxOX1VwbFhkVVVaNjBGVTRTbW9fa3c1RGYxbmFlRWwzQVd1bTJjeXFFQ0hlNEhfSGdTNWRRSS14SVNkUndLcmZpeDhsS3U3T2RIaE4xZDhGZ2VESDJLeHl0QWlCLXk0NFNXc19KazJET1pLMWJLTFNRVVVFVF9RZmlsOU00cksybnJvYXBxU0c2UjNhbmgxRURwZVF1Wjd4YQ?oc=5\" t",
-   "source": "fussballdaten.de",
-   "date": "2026-11-27T13:21:00.000Z",
+   "title": "Pochettinos Einfluss: So plant Manchester United – Klarheit bei Fernandes",
+   "link": "https://www.transfermarkt.de/so-plant-das-strauchelnde-man-united-fulhams-bassey-im-fokus-klarheit-bei-fernandes/view/news/491367",
+   "summary": "Das in Schlingern geratene Manchester United besch&auml;ftigt sich mit einer Verpflichtung von Calvin Bassey. Wie &bdquo;The Athletic&ldquo; berichtet, steht der Innenverteidiger des FC Fulham weit...",
+   "source": "Transfermarkt",
+   "date": "2026-11-27T14:52:07.000Z",
+   "fee": null,
+   "clubs": [
+    "Manchester United"
+   ],
+   "tags": [
+    "Fix"
+   ]
+  },
+  {
+   "title": "Real Madrid verlängert mit Brahim Díaz bis 2031",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVF9aalVXbXRWMG9INUgxcEE3SVlfNjJfVjg0X1BHcFNNRG8ta1AwNFhnRUVSX3BmLThLUUNGcHQ4TVBsZi1jM2hRY1doc2xkcmkwOExKeFd0U2gwWURidkxUZXZWVTB1NWJtTlpRSkw5RWNvekdLaDlWU0JYRjdGRUFBa3U2MnVCTVI5Mnc5cG5uZ1FNRVd2R0RIRWV3YmtFTnpR?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQVF9aalVXbXRWMG9INUgxcEE3SVlfNjJfVjg0X1BHcFNNRG8ta1AwNFhnRUVSX3BmLThLUUNGcHQ4TVBsZi1jM2hRY1doc2xkcmkwOExKeFd0U2gwWURidkxUZXZWVTB1NWJtTlpRSkw5RWNvekdLaDlWU0JYRjdGRUFBa3U2MnVCTVI5Mnc5cG5uZ1FNRVd2R0RIRWV3YmtFTnpR?oc=5\" tar",
+   "source": "Sky.de",
+   "date": "2026-11-27T14:29:00.000Z",
    "fee": null,
    "clubs": [
     "Real Madrid"
    ],
    "tags": [
-    "Gerücht",
     "Vertrag"
+   ]
+  },
+  {
+   "title": "FC Bayern in \"internen\" Transfer-Diskussionen",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOYVl6TEV6QjRMbF9CV0ZYbEx1VVNqYnJFcDFGVVRVVEoyaDM5WVpROTJQbGg3V2tKcWVzMlN3eGJ2TXloY1JubFE1TlEwdk1HOU9fUnhmdTZLYjlFclRmVW9hV0FIa2JrNWZtTkxCdzBGd2dRWFFpN3pnb2ZpWVIyaTJuMzNpb2l1?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOYVl6TEV6QjRMbF9CV0ZYbEx1VVNqYnJFcDFGVVRVVEoyaDM5WVpROTJQbGg3V2tKcWVzMlN3eGJ2TXloY1JubFE1TlEwdk1HOU9fUnhmdTZLYjlFclRmVW9hV0FIa2JrNWZtTkxCdzBGd2dRWFFpN3pnb2ZpWVIyaTJuMzNpb2l1?oc=5\" target=\"_blank\">FC Bayern in \"internen\"",
+   "source": "sport.de",
+   "date": "2026-11-27T13:43:00.000Z",
+   "fee": null,
+   "clubs": [
+    "Bayern"
+   ],
+   "tags": [
+    "Transfer"
+   ]
+  },
+  {
+   "title": "Transfergerücht: Havertz als Kane-Ersatz beim FC Bayern",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPd2FNQ0pyc2VUS3RmVEVVem5EZGZvVW96TzMwSWM5clZ6Mi1lMUdZbC1XNld3eTFqZmRVaXNtdGpWMnR2c3J3R1RhMG1KZmJ6d0tGZTR1ZTFteFZIXzU0cGdpd0VWa1JQcjduS2FiWFZmLUE2akQ3cG1WNlcxT3lxUVhXbVVYRTl5?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPd2FNQ0pyc2VUS3RmVEVVem5EZGZvVW96TzMwSWM5clZ6Mi1lMUdZbC1XNld3eTFqZmRVaXNtdGpWMnR2c3J3R1RhMG1KZmJ6d0tGZTR1ZTFteFZIXzU0cGdpd0VWa1JQcjduS2FiWFZmLUE2akQ3cG1WNlcxT3lxUVhXbVVYRTl5?oc=5\" target=\"_blank\">Transfergerücht: Havert",
+   "source": "fussballdaten.de",
+   "date": "2026-11-27T13:43:00.000Z",
+   "fee": null,
+   "clubs": [
+    "Bayern"
+   ],
+   "tags": [
+    "Gerücht"
    ]
   },
   {
@@ -86,18 +127,18 @@
    ]
   },
   {
-   "title": "Mario Vuskovic verlängert beim HSV bis 2028 – Bayern-Spiel könnte Pflichtspiel-Comeback bringen",
-   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNcldqOGpNQl93bThIZU9EbGVnTGFwckd3Zk9UUlRfTl9uaUhoYl9pS1dubDV1cjBKM1Jocmx0aG5MSjJsMWVGSnNpRmQ5Qm1lNEJiaWFHNzE1R2xVQV9FWTdRR25oUjBvS19qcWE4bnNObEtfYkpueFZsdzNJaXpxMjYtZ3VzNnJYMF9pLVVwVGVWWWJ0UlQ0NkdEU1R5a2tMRVVQaGRGTG1XYjZpUkRiNUVrM3ZvakZVdFM5bnNCcmpVQ3J5aHpuc3V6Q3RjRTIxLWdNb1A5UUhSeWt0MDJ4dDBB?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxNcldqOGpNQl93bThIZU9EbGVnTGFwckd3Zk9UUlRfTl9uaUhoYl9pS1dubDV1cjBKM1Jocmx0aG5MSjJsMWVGSnNpRmQ5Qm1lNEJiaWFHNzE1R2xVQV9FWTdRR25oUjBvS19qcWE4bnNObEtfYkpueFZsdzNJaXpxMjYtZ3VzNnJYMF9pLVVwVGVWWWJ0UlQ0NkdEU1R5a2tMRVVQaGRGTG1XYj",
-   "source": "Sky.de",
-   "date": "2026-11-27T12:05:00.000Z",
+   "title": "Brahim Diaz verlängert bei Real - ManUnited zieht Option bei Bruno Fernandes",
+   "link": "https://www.kicker.de/transferticker-953155/artikel#omrss",
+   "summary": "Wer wechselt wohin? Wer ist wo im Gespräch? Wer verlängert? In unserem Transferticker bleibst du auf dem Laufenden.",
+   "source": "kicker",
+   "date": "2026-11-27T11:59:21.000Z",
    "fee": null,
    "clubs": [
-    "Bayern"
+    "ManUnited"
    ],
    "tags": [
     "Vertrag",
-    "Personal"
+    "Fix"
    ]
   },
   {
@@ -141,21 +182,6 @@
    "tags": [
     "Gerücht",
     "Personal"
-   ]
-  },
-  {
-   "title": "VfB Stuttgart: Herwerth lehnt Angebot ab – Interesse im In- und Ausland",
-   "link": "https://www.transfermarkt.de/vertrag-lauft-aus-herwerth-lehnt-vfb-angebot-ab-interesse-im-in-und-ausland/view/news/491346",
-   "summary": "Innenverteidiger Maximilian Herwerth, deutscher U17-Weltmeister von 2023, wird den VfB Stuttgart sp&auml;testens im Sommer 2027 verlassen &ndash; wom&ouml;glich aber schon im Januar. Wie &bdquo;Sky...",
-   "source": "Transfermarkt",
-   "date": "2026-11-27T08:27:00.000Z",
-   "fee": null,
-   "clubs": [
-    "Stuttgart",
-    "VfB"
-   ],
-   "tags": [
-    "Gerücht"
    ]
   },
   {
@@ -357,34 +383,6 @@
    ],
    "tags": [
     "Gerücht"
-   ]
-  },
-  {
-   "title": "Kane-Ersatz beim FC Bayern? Kalajdzic reagiert auf Transferidee",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbzM3a09BdGl0aU1VcmhZUm8wbXp1R3FfSWFRMk1qc3gtNFUtd083TjlCMEx2ekJyc2xhejhUYlJWd0VHTlN1LS1IcnM1THBhdjRCMU5xbS1saHdqelMxVlI5U282SThta2JKTmFkUzVhSm53cFk0eDAzbVAybHBfY2xPd0hBbWV1YWhSZ280aWZKZw?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNbzM3a09BdGl0aU1VcmhZUm8wbXp1R3FfSWFRMk1qc3gtNFUtd083TjlCMEx2ekJyc2xhejhUYlJWd0VHTlN1LS1IcnM1THBhdjRCMU5xbS1saHdqelMxVlI5U282SThta2JKTmFkUzVhSm53cFk0eDAzbVAybHBfY2xPd0hBbWV1YWhSZ280aWZKZw?oc=5\" target=\"_blank\">Kane-Ersa",
-   "source": "fussballdaten.de",
-   "date": "2026-11-25T15:05:00.000Z",
-   "fee": null,
-   "clubs": [
-    "Bayern"
-   ],
-   "tags": [
-    "Gerücht"
-   ]
-  },
-  {
-   "title": "Kane-Ersatz für Bayern: Überraschende Transfer-Empfehlung von Hamann",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNXdXUEYzYkV0cmcxVEVJRzRUWlVmMTg1WTR1SExZVXU1U1ZKZ2NaSzNoM0FvUDJOaWNmOVhlRzVfZGNnWnlMcEx5di1XZ0tEWWdvam5MUU9uWDJZbFFvRnB3Y3FpQXdDRFg5cVRfRXpMYmdZUkhVTlFhV3hINWJoRm5jVDNmd19qeC1QWlpZVWtVd3E0bHVzcUtwNkhoQUxmLXpIUHFJc054VVpCMlFWVGZ4WEw4SVg1cEE?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPNXdXUEYzYkV0cmcxVEVJRzRUWlVmMTg1WTR1SExZVXU1U1ZKZ2NaSzNoM0FvUDJOaWNmOVhlRzVfZGNnWnlMcEx5di1XZ0tEWWdvam5MUU9uWDJZbFFvRnB3Y3FpQXdDRFg5cVRfRXpMYmdZUkhVTlFhV3hINWJoRm5jVDNmd19qeC1QWlpZVWtVd3E0bHVzcUtwNkhoQUxmLXpIUHFJc054VV",
-   "source": "SPORT1",
-   "date": "2026-11-25T14:18:00.000Z",
-   "fee": null,
-   "clubs": [
-    "Bayern"
-   ],
-   "tags": [
-    "Transfer"
    ]
   }
  ]

@@ -1,6 +1,6 @@
 window.FUPPES_DATA = window.FUPPES_DATA || {};
 window.FUPPES_DATA["tv"] = {
- "updated": "2026-11-27T13:30:25.070Z",
+ "updated": "2026-11-27T15:11:48.627Z",
  "matches": [
   {
    "matchID": 83252,
@@ -34,16 +34,8 @@ window.FUPPES_DATA["tv"] = {
    "kick": "2026-11-24T20:00:00Z",
    "team1": "FC Arsenal",
    "team2": "Borussia Dortmund",
-   "channels": [
-    "Prime Video"
-   ],
-   "evidence": [
-    {
-     "title": "Arsenal Dortmund live streamen: Heute Champions League live bei Amazon Prime",
-     "source": "dslweb",
-     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTUhMUEo4U0lIb1ZIb2VwZkd0dkhQOGdFNWd4clB3b1lUSlloZmU3ekg2MUtuYzh6VmhXMk5RTC00VXhMZ0gyMHpkZUJ0MzltbmJ3NEl5WFJWSHJXWWJwcVJEby1iLUN6QlV4TTB2UHNMUndUTUdQN1JESHliNC1lMGxFYThFQVJ0NWRFRHU2YU5DaGY4bHltVlZEbklRek9pcDIzekZZSU1vVXByaFE?oc=5"
-    }
-   ],
+   "channels": [],
+   "evidence": [],
    "kicker": null
   },
   {
@@ -100,16 +92,8 @@ window.FUPPES_DATA["tv"] = {
    "kick": "2026-11-25T20:00:00Z",
    "team1": "Lille OSC",
    "team2": "FC Bayern München",
-   "channels": [
-    "DAZN"
-   ],
-   "evidence": [
-    {
-     "title": "OSC Lille - FC Bayern München live ► Die Übertragung der Champions League auf DAZN ✅",
-     "source": "DAZN",
-     "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQRl9sQkZmaFZTYks2MTdyb0t0SHNnWFIwNkZSdVlyU3lybE5mZWZiUlF2N0hZVVktWDVmREdncGpoUjMyOE94MjhISlc5WXRLaVdabTRxb2FqWGFKVkJtdGk4MmM3Rkt2Z2xvTmxkM2pRMVFKMVJPb1FaMGxtVDk2b2d6YTB0RExWYzlwM2lxTkJUb3ZxMHBRTW5hTnp4Y2J4enRHMVpBdDdpOUhyWWtqem9XN0Z3eW9CSlpzMVRxSGVubFd3R2hNdnpXR2E0YmFTOVBzYnpKdVRfS3YwMDBGVA?oc=5"
-    }
-   ],
+   "channels": [],
+   "evidence": [],
    "kicker": null
   },
   {
