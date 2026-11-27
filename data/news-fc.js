@@ -1,7 +1,18 @@
 window.FUPPES_DATA = window.FUPPES_DATA || {};
 window.FUPPES_DATA["news-fc"] = {
- "updated": "2026-11-27T03:12:38.516Z",
+ "updated": "2026-11-27T05:23:27.700Z",
  "items": [
+  {
+   "title": "1. FC Köln – Trainerdiskussion um Wagner beendet?",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5WZlVpc0hEMm84RDc3aXRTblowdC1EQ2hHNkxmcGFxMW0wTFV3R2RjLXAzT3lWNWRwRTZXMFdHeDVaTXFNVTVHQXBJY19PTm5UMXJDNnctVXNXSUhISTV6SkFiSkFpYUNzUjI5Rk51Mkl3cjBOVlRSTG5QUmhkZw?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE5WZlVpc0hEMm84RDc3aXRTblowdC1EQ2hHNkxmcGFxMW0wTFV3R2RjLXAzT3lWNWRwRTZXMFdHeDVaTXFNVTVHQXBJY19PTm5UMXJDNnctVXNXSUhISTV6SkFiSkFpYUNzUjI5Rk51Mkl3cjBOVlRSTG5QUmhkZw?oc=5\" target=\"_blank\">1. FC Köln – Trainerdiskussion um Wag",
+   "source": "www.lindweiler.de",
+   "date": "2026-11-27T00:06:59.000Z",
+   "tags": [
+    "Gerücht",
+    "Verein"
+   ]
+  },
   {
    "title": "Vierte Verletzung in 2026: Was ist bei Castro-Montes aus dem Gleichgewicht?",
    "link": "https://geissblog.koeln/2026/11/vierte-verletzung-in-2026-was-ist-bei-castro-montes-aus-dem-gleichgewicht/",
@@ -14,14 +25,13 @@ window.FUPPES_DATA["news-fc"] = {
    ]
   },
   {
-   "title": "Ist die Trainerdiskussion um René Wagner beim 1. FC Köln beendet?",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPamUyV294el9IZlotbV8yYXg4UWNmQ0Vrc3IySGdJb0VLUmVFak5lTDAtbWJ6MDFwRGNjZjBmZXlHclFNM25aVnkydlNoVXppSHgtb2MzVWxzU0hFRFFlempnTGx4Z090YlhtejBsX3JYMmZRcFhwWkR2cUc2eTFadkxOb1ZzX0hMODVfMEhHbnpqUnhsWlVaX0VoTHEya0RFdExEeVA0YnRmaDBZWnlzaFFZaXFxTWJROHFYQ29nTlBuUzlKSWZ5WGh6NkVBRDIxWWdn?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxPamUyV294el9IZlotbV8yYXg4UWNmQ0Vrc3IySGdJb0VLUmVFak5lTDAtbWJ6MDFwRGNjZjBmZXlHclFNM25aVnkydlNoVXppSHgtb2MzVWxzU0hFRFFlempnTGx4Z090YlhtejBsX3JYMmZRcFhwWkR2cUc2eTFadkxOb1ZzX0hMODVfMEhHbnpqUnhsWlVaX0VoTHEya0RFdExEeVA0YnRmaD",
-   "source": "tagesschau.de",
-   "date": "2026-11-26T21:51:40.000Z",
+   "title": "Nach mehr als 6 Jahren! Hammer-Comeback beim 1. FC Köln steht bevor",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNN2hpVndMcDA1ZGdiOEpfMVFNN3ZaUUpsbDFtM1hIdzV3c1hpb1YzYzJUaS03akNPX3Z0YThLWHRBbjJhUHo1QWV5UXBkdXEwX3dUd09oQi1ieldxQTZDU0NZTWJ4WTNwVTlLS1plc1VHc0pQenRXbHk5MU9FZzVxNzVZVWhfajNwZUJFdVJHZDRfQjQ?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNN2hpVndMcDA1ZGdiOEpfMVFNN3ZaUUpsbDFtM1hIdzV3c1hpb1YzYzJUaS03akNPX3Z0YThLWHRBbjJhUHo1QWV5UXBkdXEwX3dUd09oQi1ieldxQTZDU0NZTWJ4WTNwVTlLS1plc1VHc0pQenRXbHk5MU9FZzVxNzVZVWhfajNwZUJFdVJHZDRfQjQ?oc=5\" target=\"_blank\">Nach meh",
+   "source": "DerWesten",
+   "date": "2026-11-26T21:56:16.000Z",
    "tags": [
-    "Gerücht",
-    "Verein"
+    "Personal"
    ]
   },
   {
@@ -65,13 +75,23 @@ window.FUPPES_DATA["news-fc"] = {
    ]
   },
   {
-   "title": "Nach Kane-Verletzung: Kölns Schmied meldet sich zu Wort und entschuldigt sich",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPaWN6QmI3aFlCRi1hdXlOMGQzT3ZST0tDSi1NQTlpRHh2V1NRRmtJWk92dDg1RGNSSE1IQWpBTUdWeEdCUWNZSGp2TDFnV2wxTVVzOVNmLXlyWDhFTVEyODlRNnZibFowbDljNG02dUxEOFp0RmNpV0JneEtUMEpZaHhXaXVjNmR3d0htYjZGM2lJOFpLZnBlaXdpUElOZkhvLXp2NVJYV0NPN1AwOTBxV3NmazlmTmUyTUM5N0s1RzJzb0x2LWw3RVdB?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxPaWN6QmI3aFlCRi1hdXlOMGQzT3ZST0tDSi1NQTlpRHh2V1NRRmtJWk92dDg1RGNSSE1IQWpBTUdWeEdCUWNZSGp2TDFnV2wxTVVzOVNmLXlyWDhFTVEyODlRNnZibFowbDljNG02dUxEOFp0RmNpV0JneEtUMEpZaHhXaXVjNmR3d0htYjZGM2lJOFpLZnBlaXdpUElOZkhvLXp2NVJYV0NPN1",
-   "source": "Sky.de",
-   "date": "2026-11-26T16:08:00.000Z",
+   "title": "FC Bayern News: Kölns Joel Schmied entschuldigt sich bei Harry Kane. Was er zur Verletzung sagt",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOM2MybWRWQUNVTTJKV0Fqa2ZRYWhHTUQxOXRLdXlHR2VPVjhkMDFfZWZQelFmRDg5b0UzbTdyZFl5NzlZUVNTajNTcXlJenR6REUtSlNpMURudmpjaEdkc3JoOXl3T2dpalQ2U1ZKc3A2V2NUV1ROTThYMzY0MTBFYy1QemxaNVRTQVFIbUV3T0lONks0aGp6NmlEclV2SHI3RXNsN3NlRWE0enJ2dC1XU1pxS2pNN3dpR0J5dmRsbw?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOM2MybWRWQUNVTTJKV0Fqa2ZRYWhHTUQxOXRLdXlHR2VPVjhkMDFfZWZQelFmRDg5b0UzbTdyZFl5NzlZUVNTajNTcXlJenR6REUtSlNpMURudmpjaEdkc3JoOXl3T2dpalQ2U1ZKc3A2V2NUV1ROTThYMzY0MTBFYy1QemxaNVRTQVFIbUV3T0lONks0aGp6NmlEclV2SHI3RXNsN3NlRWE0en",
+   "source": "News zur deutschen Nationalmannschaft",
+   "date": "2026-11-26T15:53:00.000Z",
    "tags": [
     "Personal"
+   ]
+  },
+  {
+   "title": "Schwäbe wackelt, Ache gibt Rätsel auf: FC-Trainer Wagner gibt Personalupdate",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNW90WkpLM3BtdEFPVlRvcVo3Q1BwTzROcldqWVd0aEpXRHMwcS1oVnBtVTZJdV9JcjFSZW1xRWhybFhFZHhBNE12RTVmV2R4RjZMQUhsNFMwb1ZGVFpSUFRwSGJkMk9oV0dDZDJmSXhKeEJZNk5sMkFZRklELU1Cd2dvWndtOHd6Qmd1M05qYXVLTDdsUTl3cjZZQQ?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNNW90WkpLM3BtdEFPVlRvcVo3Q1BwTzROcldqWVd0aEpXRHMwcS1oVnBtVTZJdV9JcjFSZW1xRWhybFhFZHhBNE12RTVmV2R4RjZMQUhsNFMwb1ZGVFpSUFRwSGJkMk9oV0dDZDJmSXhKeEJZNk5sMkFZRklELU1Cd2dvWndtOHd6Qmd1M05qYXVLTDdsUTl3cjZZQQ?oc=5\" target=\"_blan",
+   "source": "90min.de",
+   "date": "2026-11-26T14:57:19.000Z",
+   "tags": [
+    "Verein"
    ]
   },
   {
@@ -91,6 +111,16 @@ window.FUPPES_DATA["news-fc"] = {
    "summary": "Schlussmann Marvin Schwäbe ist beim 1. FC Köln eine verlässliche Konstante. Nun droht der 31-Jährige beim Heimspiel gegen die SV Elversberg auszufallen.",
    "source": "kicker",
    "date": "2026-11-26T12:52:46.000Z",
+   "tags": [
+    "Personal"
+   ]
+  },
+  {
+   "title": "Kane-Verletzung: Köln-Verteidiger kontert Kritik vom FC Bayern",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbFRyMVRkdGRfbHY1T0s2SDh1N1ZkOGJXVDUwbVcwcFA5ZDNYQTVpdkdqZjFSREhKRmtYWkdSbDJ1ckRaRlhuLUVud3RuTWtaMWZoQ0VlMzdKck4zZXVybkFmQXV2WDBqakxEdHcyaEFTRlZJWDhKejJTY3JpblFudHFtS3hlM2d2RV9BVm1icTZTVVJhdGdaRGNFMA?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPbFRyMVRkdGRfbHY1T0s2SDh1N1ZkOGJXVDUwbVcwcFA5ZDNYQTVpdkdqZjFSREhKRmtYWkdSbDJ1ckRaRlhuLUVud3RuTWtaMWZoQ0VlMzdKck4zZXVybkFmQXV2WDBqakxEdHcyaEFTRlZJWDhKejJTY3JpblFudHFtS3hlM2d2RV9BVm1icTZTVVJhdGdaRGNFMA?oc=5\" target=\"_blan",
+   "source": "FCBinside",
+   "date": "2026-11-26T09:00:43.000Z",
    "tags": [
     "Personal"
    ]
@@ -137,27 +167,6 @@ window.FUPPES_DATA["news-fc"] = {
    ]
   },
   {
-   "title": "Nur 44 Minuten gespielt: Dieser 30-jährige Offensivprofi des 1. FC Köln denkt an einen Wechsel",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZWU5YjRzdlFJdjFrM1RqSVlNSlFlUV9fUFFfc2R0clBETjdWNkVKQTZ5ZkJuZVJlNmQxa25kOENnNW1YdXo0X3gzZWZHRkI0U0wzV2R2c3JXakt1ZGxoNTlqN0FZOEktdkFYR3lFZmgtOWZHM3pGeFNlcURnWXYtaFB2ejhERHNtS2FfYkstMWI5bDlSOUZEMXJSTjJTTEMzQTFTTTVxdWVxOFBLa3Z4V0x3?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQZWU5YjRzdlFJdjFrM1RqSVlNSlFlUV9fUFFfc2R0clBETjdWNkVKQTZ5ZkJuZVJlNmQxa25kOENnNW1YdXo0X3gzZWZHRkI0U0wzV2R2c3JXakt1ZGxoNTlqN0FZOEktdkFYR3lFZmgtOWZHM3pGeFNlcURnWXYtaFB2ejhERHNtS2FfYkstMWI5bDlSOUZEMXJSTjJTTEMzQTFTTTVxdWVxOF",
-   "source": "Merkur",
-   "date": "2026-11-25T10:41:07.000Z",
-   "tags": [
-    "Transfer"
-   ]
-  },
-  {
-   "title": "FC-Lazarett: Stürmer vor Comeback – Verteidiger nie mehr für Köln?",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNeGY4Q0Vnc0QxTnBjXzlKSWhEWkZvYjJYUmltdHM0Wmh6TGc3WkI2NTlPRC1TRWJrVTRfNXpmLWJNOW92ejJCbW5NWl9tS0dlS19vN1RfMVIxR2p6S3hvYTl1VFRfWWptVHIycksweUk3QW1iYnVKZko3cmtnZHpIWUxzVjkxaVdUSTFoRnZCbDBtQlZ1M1l1cm10OFBvQ0ZESW9TNnkwbEhqanY2R1dGamxoVjJDbi1EWTNkZVprMEM?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNeGY4Q0Vnc0QxTnBjXzlKSWhEWkZvYjJYUmltdHM0Wmh6TGc3WkI2NTlPRC1TRWJrVTRfNXpmLWJNOW92ejJCbW5NWl9tS0dlS19vN1RfMVIxR2p6S3hvYTl1VFRfWWptVHIycksweUk3QW1iYnVKZko3cmtnZHpIWUxzVjkxaVdUSTFoRnZCbDBtQlZ1M1l1cm10OFBvQ0ZESW9TNnkwbEhqan",
-   "source": "Express",
-   "date": "2026-11-25T08:39:00.000Z",
-   "tags": [
-    "Gerücht",
-    "Personal"
-   ]
-  },
-  {
    "title": "Ablösefrei statt Millionen-Gebühr: So wird Tottenhams Moore für Köln zum Schnäppchen",
    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNclMtMS1xTzl3U3ZkQjEzZTFXSVV6Qm9lTkNDSGhULTJMcWJINjZnZE9QUk96dkhRVjdDdUJYZjJ6c0wzb2ZobE5MQ0NRTnllX2p5SEFxWmdRYmJVRXRSVVpmaUwtc29GWTlrWVh4dkRGLXItZUZESzloM05TVVQwbTNHZldyUi1vWjZIRnRMVW9Va3Q3Z3kyR3FyX0dZRDVlRGFJN1B2c0trRFo4cEp5X251UUVHbC1zYVVIYVZ5MWUtZVptTVZNRA?oc=5",
    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxNclMtMS1xTzl3U3ZkQjEzZTFXSVV6Qm9lTkNDSGhULTJMcWJINjZnZE9QUk96dkhRVjdDdUJYZjJ6c0wzb2ZobE5MQ0NRTnllX2p5SEFxWmdRYmJVRXRSVVpmaUwtc29GWTlrWVh4dkRGLXItZUZESzloM05TVVQwbTNHZldyUi1vWjZIRnRMVW9Va3Q3Z3kyR3FyX0dZRDVlRGFJN1B2c0trRF",
@@ -165,16 +174,6 @@ window.FUPPES_DATA["news-fc"] = {
    "date": "2026-11-25T07:29:00.000Z",
    "tags": [
     "Transfer"
-   ]
-  },
-  {
-   "title": "Alessio Castro-Montes fällt beim 1. FC Köln erneut verletzt aus",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTkZ0UWJSQnpFTXFRYXd5ZkpQbkIyVVA2a3JXR3N1c2JubGxCYmFOSUhDdUdpNnM0ckdHTzNVbmFDWlFZZnRveW5VZzB4VU9IanJwLWtjZEtCSnpkREg3VUE0WUZwdjR3TDRKcTNTR0N5Q3VZQVpDUXdXMDZzb25MUFVGOWNaeW01ZHlET1hnb3ZlVzdFVnhUbmxaNFRNZWVsaG9pWWhpMHZ2MW1G?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQTkZ0UWJSQnpFTXFRYXd5ZkpQbkIyVVA2a3JXR3N1c2JubGxCYmFOSUhDdUdpNnM0ckdHTzNVbmFDWlFZZnRveW5VZzB4VU9IanJwLWtjZEtCSnpkREg3VUE0WUZwdjR3TDRKcTNTR0N5Q3VZQVpDUXdXMDZzb25MUFVGOWNaeW01ZHlET1hnb3ZlVzdFVnhUbmxaNFRNZWVsaG9pWWhpMHZ2MW",
-   "source": "Tu Futbolero",
-   "date": "2026-11-24T09:30:22.000Z",
-   "tags": [
-    "Personal"
    ]
   },
   {
@@ -188,23 +187,23 @@ window.FUPPES_DATA["news-fc"] = {
    ]
   },
   {
-   "title": "1. FC Köln: Winter-Angebote für Luca Waldschmidt",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNGtHNHE5UUNPTHBHcU9MQ3UzNG9MbGJCWmVUUEtxZHdjZWZ4cVBpMTI4T0xiTUltY2hWdDdTdzRKRmpjNGdKX05BQjFTZEhsRzFfdkhLajI4OHZ2SlByeHZFM1g4YmV6aE90RWtINndBRC11MU1lS3FiYkVPYXZVMHdoSm1kVWpVRl9Wc2xlcWI?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQNGtHNHE5UUNPTHBHcU9MQ3UzNG9MbGJCWmVUUEtxZHdjZWZ4cVBpMTI4T0xiTUltY2hWdDdTdzRKRmpjNGdKX05BQjFTZEhsRzFfdkhLajI4OHZ2SlByeHZFM1g4YmV6aE90RWtINndBRC11MU1lS3FiYkVPYXZVMHdoSm1kVWpVRl9Wc2xlcWI?oc=5\" target=\"_blank\">1. FC Köln: ",
-   "source": "Fussball Transfers",
-   "date": "2026-11-23T20:21:27.000Z",
+   "title": "1. FC Köln: Trainer Wagner trauert Sieg nach – „Froh über den Punkt, aber...“",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQalpJUnBycVE5MGRfY19sMXluRlBwSlFKTWlLUW16ZG9SSXpRZFBEYUVwaDRPZy13NWVGRmlEeG83OXdFTjhwLTFmRkIwNWdXSmxjd2FBeEU4LWtIZmdBM1c5TDlaNTZNQzB1NGRWNDg3UXFWZ0NBNXpPdFc3RHZKMmppTVl2d25ycFd4QWFPbGs1Y09IN1dqWnZKMVhRZXBJTGw1aTdtWkpNckpOMkNCZk5rbl91eXh1b3BxM2ZuUFhfWHl2ZHZGbGR3?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQalpJUnBycVE5MGRfY19sMXluRlBwSlFKTWlLUW16ZG9SSXpRZFBEYUVwaDRPZy13NWVGRmlEeG83OXdFTjhwLTFmRkIwNWdXSmxjd2FBeEU4LWtIZmdBM1c5TDlaNTZNQzB1NGRWNDg3UXFWZ0NBNXpPdFc3RHZKMmppTVl2d25ycFd4QWFPbGs1Y09IN1dqWnZKMVhRZXBJTGw1aTdtWkpNck",
+   "source": "Joyn",
+   "date": "2026-11-21T17:08:09.000Z",
    "tags": [
-    "Transfer"
+    "Verein"
    ]
   },
   {
-   "title": "Köln öffnet die Tür: Waldschmidt kann schon im Winter ablösefrei gehen",
-   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPUERHdnpUeE9YRENRa2xESEhsT3k0SzJMVmxMY3NRYXlWMC1sZGF0OVg2bUc4bGVVcW12bkF1OW00ZGZMNHpIMWVOSVdwbHJQWS1oN2ZEZ2lSQnZXb1FTSWJwcXpYWVRWMmFuNWRyQkJucHdQZ2NmUkxXX19uYWxkQURFN2ZJVWtGTVZIckdWS1hMZWprUDFqQzFqNVcyVExmc1prLVAxV2NSeVhDM0FKQTYwV24tQUJnb2tzNHNpTjZhVklDNGdvX1JpUFRpNy1uQUlFUFFoQWJ0V2ljRXRZY0Vlb2tuNHF4dndaejBn?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxPUERHdnpUeE9YRENRa2xESEhsT3k0SzJMVmxMY3NRYXlWMC1sZGF0OVg2bUc4bGVVcW12bkF1OW00ZGZMNHpIMWVOSVdwbHJQWS1oN2ZEZ2lSQnZXb1FTSWJwcXpYWVRWMmFuNWRyQkJucHdQZ2NmUkxXX19uYWxkQURFN2ZJVWtGTVZIckdWS1hMZWprUDFqQzFqNVcyVExmc1prLVAxV2NSeV",
-   "source": "n-tv.de",
-   "date": "2026-11-23T17:45:00.000Z",
+   "title": "Moore besiegt die Angst und zerstreut alle Gerüchte",
+   "link": "https://www.kicker.de/moore-besiegt-die-angst-und-zerstreut-alle-geruechte-1273429/artikel#omrss",
+   "summary": "Mikey Moore stand beim 1. FC Köln zuletzt stark in der Kritik. Nun bewies der 19-Jährige beim 1:1 in München, weshalb er große Fantasien weckt. Kann Moore das wiederholen?",
+   "source": "kicker",
+   "date": "2026-11-21T09:59:32.000Z",
    "tags": [
-    "Transfer"
+    "Gerücht"
    ]
   }
  ]
