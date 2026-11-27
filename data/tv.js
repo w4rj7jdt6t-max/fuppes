@@ -1,6 +1,6 @@
 window.FUPPES_DATA = window.FUPPES_DATA || {};
 window.FUPPES_DATA["tv"] = {
- "updated": "2026-11-27T17:21:50.250Z",
+ "updated": "2026-11-27T19:12:34.081Z",
  "matches": [
   {
    "matchID": 83252,
@@ -78,8 +78,21 @@ window.FUPPES_DATA["tv"] = {
    "kick": "2026-11-25T20:00:00Z",
    "team1": "Inter Mailand",
    "team2": "VfB Stuttgart",
-   "channels": [],
-   "evidence": [],
+   "channels": [
+    "DAZN"
+   ],
+   "evidence": [
+    {
+     "title": "Inter Mailand - VfB Stuttgart live ► Die Übertragung der Champions League auf DAZN ✅",
+     "source": "DAZN",
+     "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNWkxVNkh2RHdnYkVOclZFZmVQZEJSX1pQMWtJYlEwa0laSWcxVUxBclhrbkFFLUE1dXJpMEQ1a0tYTkZmUGpZOW1uQlZUMEp4eE5kYl9aRG1IWGZ6eEFfM19XWXV5QTV3cFNtX3VnQ0h4OEF2QzE4UUNsU3pKaEZkbHFLR3VRVDR5LTFLMU5YeXdVWkx6MjNtT0lRd3BWYzlvdExKcWY3alAwSzEwOEVIQUFTeGxZaVV5MVF0LWFMN0g1X0tsWkxkck91ZFEzZkNma01yQjhtdzhiQQ?oc=5"
+    },
+    {
+     "title": "Inter - VfB Stuttgart Live Stream | Jetzt Anmelden | DAZN DE",
+     "source": "DAZN",
+     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOS3JFbGIzRy1NOFVSbWY2d1B1N0x1OFB3Y3FPTFFfa2pEVDFuVHJYOGZDejRKZjA2aWFmMnV5UF9Va1Y3bFB3R1FaNkMzLWp6am5FaTR5dS1yakVoSXg3ZGtsZUNLQl9vcUhaMWY2SUhOQ1BMc1Z6ek9ScmVKcVNMQWV1c0N3dVVRUHRvZw?oc=5"
+    }
+   ],
    "kicker": null
   },
   {
@@ -148,6 +161,11 @@ window.FUPPES_DATA["tv"] = {
      "title": "Freiburg Enschede heute live: Conference League kostenlos live bei RTL",
      "source": "dslweb",
      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNOHRuc2ZVZU9GZmhUQm04MlBESXZNOTRxRWlESVBsTGRiSHNjWDFwSXJaam9oRUZQSWNpWUM0WnhNTk82ZFlzaUd4VHRnbC1rQ19CdFlIdmsyUVMwZVA2MnlXbjJQeU9HX0FFcDcyazZ2cmFFdU9taWJjeGliaFBGbkpvcmx4NHE1eF9fZFR4c0E3NmlZTlo2NGxLZkkzQjRKTzJ2M2p3?oc=5"
+    },
+    {
+     "title": "RTL Einschaltquoten gestern: Wie viele sahen Freiburg gegen Twente? Saisonbestwert im Europacup",
+     "source": "News zur deutschen Nationalmannschaft",
+     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMktTRVAteXdCUUtqWkZ6dFJEZl9TT0VzNE9lNV9za0U3Yk96ME5QRllWbldHTFZnazBqaUh2OVR5ZVRvTW5COElRMEp4UFBjLUwzYjYyU1kwX2t6ckVhN01va1dCbVg0Nk5NRGdXS2RFQ21mbEE4U2VUYnYtMmFGUnFoN1BqRFBjWDNGT0ZoWURVdDA2R3Vqc2l0RG9YYklmXzlpWU51YjRZMDVuU0Q0Y3hwUGRIQnVhQ3Vr?oc=5"
     }
    ],
    "kicker": null
