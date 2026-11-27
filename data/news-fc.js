@@ -1,7 +1,28 @@
 window.FUPPES_DATA = window.FUPPES_DATA || {};
 window.FUPPES_DATA["news-fc"] = {
- "updated": "2026-11-27T07:36:31.747Z",
+ "updated": "2026-11-27T09:24:30.984Z",
  "items": [
+  {
+   "title": "Schuld an schwerer Kane-Verletzung? Köln-Verteidiger Joël Schmied reagiert auf Attacke der FCB-Bosse",
+   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNS2I1NnlOd21ndXZyYmVid1dVckZCZ0ppSnVWcHpMRlE3SDh0QkpfTlQ4cDhSLTV5c3Nqekg0WWs0WGJzTWZnN3dwWHdHVlVOYkl5SkRWMmZPekY4VmtVQUstalVrdERKM0RJSFR2clZ0VGVEdEpNZ0N5TjdlbWZYWk1BRkdnbDlHVFRxLWx5VU1MelJra1dXOVJzcWZxRy03amREUmF1d0JOZncwdDJhTEs1WldGTFFUM04tblpJZEx6aEdjclRocm9zMDVhdTBPeGJLR21Kemp5QnE4a1RfZ0pvZjRCeHVsSVVuSURZMk9ERkVT?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxNS2I1NnlOd21ndXZyYmVid1dVckZCZ0ppSnVWcHpMRlE3SDh0QkpfTlQ4cDhSLTV5c3Nqekg0WWs0WGJzTWZnN3dwWHdHVlVOYkl5SkRWMmZPekY4VmtVQUstalVrdERKM0RJSFR2clZ0VGVEdEpNZ0N5TjdlbWZYWk1BRkdnbDlHVFRxLWx5VU1MelJra1dXOVJzcWZxRy03amREUmF1d0JOZn",
+   "source": "TAG24",
+   "date": "2026-11-27T08:52:00.000Z",
+   "tags": [
+    "Gerücht",
+    "Personal"
+   ]
+  },
+  {
+   "title": "Wintertransfer: Steht dieser Flügelspieler beim FC auf dem Zettel?",
+   "link": "https://geissblog.koeln/2026/11/wintertransfer-steht-dieser-fluegelspieler-beim-fc-auf-dem-zettel/",
+   "summary": "Der 1. FC Köln sucht im Winter Verstärkung für die Offensive. Nun berichtet Sky, dass der FC an Tristan Degreef vom RSC Anderlecht interessiert sein... Der Beitrag Wintertransfer: Steht dieser Flügelspieler beim FC auf dem Zettel? erschien zuerst auf GEISSBLOG .",
+   "source": "GEISSBLOG",
+   "date": "2026-11-27T07:48:27.000Z",
+   "tags": [
+    "Gerücht"
+   ]
+  },
   {
    "title": "1. FC Köln: Die kuriose Klausel bei Hoffnungsträger Mikey Moore",
    "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQWmdoWnRnNzNPM09BVkZWYndVLThoZUR0LUJNbjlqNmxrZG9wOE9tdkVVUVJiRzdOR3E4MHhKZ1RPdVNHekVxYWtrN2Y5S2hTRGl2YUUtNzBtQmlyRHFuTEZ1OUJxUjJxem5JRngyRVU4aXlMcUFYQTRlblNPU2pzWW5tLXZYX2VnT1RJQkFuS05KdFR3SjZJOU5aR01ycExFbEZ1TGd3Q3FNdGtSdmRlLTVKVndzdU9XTEdwMGhhQmhVSkJqOWRLMGRSV3VqeTgxVnY0eGR1bkYwME5iWkItRi1lc1JGNk03QlRIeHVn?oc=5",
@@ -29,16 +50,6 @@ window.FUPPES_DATA["news-fc"] = {
    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNN2hpVndMcDA1ZGdiOEpfMVFNN3ZaUUpsbDFtM1hIdzV3c1hpb1YzYzJUaS03akNPX3Z0YThLWHRBbjJhUHo1QWV5UXBkdXEwX3dUd09oQi1ieldxQTZDU0NZTWJ4WTNwVTlLS1plc1VHc0pQenRXbHk5MU9FZzVxNzVZVWhfajNwZUJFdVJHZDRfQjQ?oc=5\" target=\"_blank\">Nach meh",
    "source": "DerWesten",
    "date": "2026-11-26T21:56:16.000Z",
-   "tags": [
-    "Personal"
-   ]
-  },
-  {
-   "title": "Nach schlimmer Verletzung: Köln-Profi entschuldigt sich bei Harry Kane und wehrt sich gegen Vorwürfe",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNaHU5VDAxZ0I1cUdHcGd4aEp4Mm1HSW5VTFQyRlVHZFhpaUZNblVuTUFZX1RGS21YaWQ4eEc0WHZfQTEwM19ocGpwOWJkVzBSWTBpMkpzTFhQby1wT3UxQkZnVWtSM1VRZXk3YUJPQ0FPSERvU1UxaVVrdDFMb2x5X3V2ZVF2enJUNmJJLXRCYWV5QkVLWVM2bjNmZldQb3RmeC1HUzhmVEFqWmxyXzgyQmptN3lQYVNmbzM0SFU1am56X1RU?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNaHU5VDAxZ0I1cUdHcGd4aEp4Mm1HSW5VTFQyRlVHZFhpaUZNblVuTUFZX1RGS21YaWQ4eEc0WHZfQTEwM19ocGpwOWJkVzBSWTBpMkpzTFhQby1wT3UxQkZnVWtSM1VRZXk3YUJPQ0FPSERvU1UxaVVrdDFMb2x5X3V2ZVF2enJUNmJJLXRCYWV5QkVLWVM2bjNmZldQb3RmeC1HUzhmVEFqWm",
-   "source": "n-tv.de",
-   "date": "2026-11-26T19:30:00.000Z",
    "tags": [
     "Personal"
    ]
@@ -79,16 +90,6 @@ window.FUPPES_DATA["news-fc"] = {
    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOM2MybWRWQUNVTTJKV0Fqa2ZRYWhHTUQxOXRLdXlHR2VPVjhkMDFfZWZQelFmRDg5b0UzbTdyZFl5NzlZUVNTajNTcXlJenR6REUtSlNpMURudmpjaEdkc3JoOXl3T2dpalQ2U1ZKc3A2V2NUV1ROTThYMzY0MTBFYy1QemxaNVRTQVFIbUV3T0lONks0aGp6NmlEclV2SHI3RXNsN3NlRWE0en",
    "source": "News zur deutschen Nationalmannschaft",
    "date": "2026-11-26T15:53:00.000Z",
-   "tags": [
-    "Personal"
-   ]
-  },
-  {
-   "title": "Entschuldigung beim FC Bayern-Torjäger! 1. FC Köln-Profi Schmied über Harry-Kane-Verletzung: \"Tut mir leid\"",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPczdkNXRkdjU0YzV3ZGJyRGRVZXJ0QjR3akJSMFVNakQwVmxqWTZObUkwNm91eFdEaTdPMnVYM3VzWkZxWTFxUHR0RFVvUGU0ekYwQTVlM19hODhQNFZLS3RCMVhJcy1XcUZEWi1FaVJPNGxaeF8zaXFfZ2VFbmdWbUhWa1Z6SllVRGN0OUNUeDJYeEp1X3dmN25ranVnY3hUdE14amZCclRxcXc5?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPczdkNXRkdjU0YzV3ZGJyRGRVZXJ0QjR3akJSMFVNakQwVmxqWTZObUkwNm91eFdEaTdPMnVYM3VzWkZxWTFxUHR0RFVvUGU0ekYwQTVlM19hODhQNFZLS3RCMVhJcy1XcUZEWi1FaVJPNGxaeF8zaXFfZ2VFbmdWbUhWa1Z6SllVRGN0OUNUeDJYeEp1X3dmN25ranVnY3hUdE14amZCclRxcX",
-   "source": "Ligaportal",
-   "date": "2026-11-26T15:45:05.000Z",
    "tags": [
     "Personal"
    ]
@@ -155,16 +156,6 @@ window.FUPPES_DATA["news-fc"] = {
    ]
   },
   {
-   "title": "Kritik an Trainingsplätzen: Schon vor dem Winter hat der FC ein Problem",
-   "link": "https://geissblog.koeln/2026/11/kritik-an-trainingsplaetzen-schon-vor-dem-winter-hat-der-fc-ein-problem/",
-   "summary": "René Wagner ist genervt. Der Cheftrainer des 1. FC Köln muss schon vor dem echten Wintereinbruch am Geißbockheim umplanen. Der Grund: Der Haupt-Trainingsplatz ist schon... Der Beitrag Kritik an Trainingsplätzen: Schon vor dem Winter hat der FC ein Problem erschien zuerst auf GEIS",
-   "source": "GEISSBLOG",
-   "date": "2026-11-25T17:30:00.000Z",
-   "tags": [
-    "Verein"
-   ]
-  },
-  {
    "title": "Wucht und Risiko? Fleiß und Stabilität? Kölns Stürmer-Frage vor dem Elversberg-Spiel",
    "link": "https://www.kicker.de/wucht-und-risiko-fleiss-und-stabilitaet-koelns-stuermer-frage-vor-dem-elversberg-spiel-1274807/artikel#omrss",
    "summary": "In der Liga ist der 1. FC Köln seit fünf Spielen sieglos und erzielte nur drei Tore. Mit Ragnar Ache steht Trainer René Wagner eine verlässliche Alternative im Angriff zur Verfügung - doch die Rangordnung im Sturm ist längst nicht in Stein gemeißelt.",
@@ -203,6 +194,16 @@ window.FUPPES_DATA["news-fc"] = {
    "date": "2026-11-21T17:08:09.000Z",
    "tags": [
     "Verein"
+   ]
+  },
+  {
+   "title": "Moore besiegt die Angst und zerstreut alle Gerüchte",
+   "link": "https://www.kicker.de/moore-besiegt-die-angst-und-zerstreut-alle-geruechte-1273429/artikel#omrss",
+   "summary": "Mikey Moore stand beim 1. FC Köln zuletzt stark in der Kritik. Nun bewies der 19-Jährige beim 1:1 in München, weshalb er große Fantasien weckt. Kann Moore das wiederholen?",
+   "source": "kicker",
+   "date": "2026-11-21T09:59:32.000Z",
+   "tags": [
+    "Gerücht"
    ]
   }
  ]

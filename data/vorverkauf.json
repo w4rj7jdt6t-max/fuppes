@@ -1,21 +1,9 @@
 {
- "updated": "2026-11-27T07:36:30.930Z",
+ "updated": "2026-11-27T09:24:30.069Z",
  "source": "1. FC Köln · Vorverkaufsstarts (calovo)",
  "subscribe": "webcal://i.cal.to/ical/218/fckoeln/1-fc-koeln-vorverkaufsstarts/12345.12345-54321.ics",
  "shop": "https://www.ticket-onlineshop.com/ols/fckoeln/",
  "items": [
-  {
-   "id": "6a61e5cd12db3@218.calovo",
-   "start": "2026-07-30T08:00:00.000Z",
-   "match": "VfB Stuttgart - 1. FC Köln",
-   "competition": "1. Bundesliga",
-   "round": "2. Spieltag",
-   "phase": "Mitgliederverkauf",
-   "limit": "Die Begegnung ist auf zwei Karten pro Mitglied begrenzt, davon maximal ein Stehplatz.",
-   "note": null,
-   "location": "MHPArena",
-   "extraPhases": []
-  },
   {
    "id": "6a56317b9a7da@218.calovo",
    "start": "2026-08-04T08:00:00.000Z",

@@ -1,6 +1,6 @@
 window.FUPPES_DATA = window.FUPPES_DATA || {};
 window.FUPPES_DATA["transfers"] = {
- "updated": "2026-11-27T07:36:33.221Z",
+ "updated": "2026-11-27T09:24:32.362Z",
  "rules": {
   "minFeeMio": 20,
   "topClubs": [
@@ -43,6 +43,49 @@ window.FUPPES_DATA["transfers"] = {
   ]
  },
  "items": [
+  {
+   "title": "VfB Stuttgart: Herwerth lehnt Angebot ab – Interesse im In- und Ausland",
+   "link": "https://www.transfermarkt.de/vertrag-lauft-aus-herwerth-lehnt-vfb-angebot-ab-interesse-im-in-und-ausland/view/news/491346",
+   "summary": "Innenverteidiger Maximilian Herwerth, deutscher U17-Weltmeister von 2023, wird den VfB Stuttgart sp&auml;testens im Sommer 2027 verlassen &ndash; wom&ouml;glich aber schon im Januar. Wie &bdquo;Sky...",
+   "source": "Transfermarkt",
+   "date": "2026-11-27T08:27:00.000Z",
+   "fee": null,
+   "clubs": [
+    "Stuttgart",
+    "VfB"
+   ],
+   "tags": [
+    "Gerücht"
+   ]
+  },
+  {
+   "title": "Topklub strebt Musiala-Transfer für 2027 an – FC Bayern unter Druck",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNYUxnM0hVYUQ5aGRseHh1NVd3bnlucGQtODRHTElGLVQ1emdwVW51LXFETFF1OW83ZEpwSnA5VWlacEZXSTJtaUpObVNQWVR3Ny1uOFRwOERPOWljcnZaQkRfMXlKRmhUV1NlaUlXT1lEUmtfcFh2NnVTS0YzaVJjSkMxOE1ZTElZUUdyWkZER1pJUXpSdC1xMA?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNYUxnM0hVYUQ5aGRseHh1NVd3bnlucGQtODRHTElGLVQ1emdwVW51LXFETFF1OW83ZEpwSnA5VWlacEZXSTJtaUpObVNQWVR3Ny1uOFRwOERPOWljcnZaQkRfMXlKRmhUV1NlaUlXT1lEUmtfcFh2NnVTS0YzaVJjSkMxOE1ZTElZUUdyWkZER1pJUXpSdC1xMA?oc=5\" target=\"_blank\">T",
+   "source": "fussballdaten.de",
+   "date": "2026-11-27T07:57:00.000Z",
+   "fee": null,
+   "clubs": [
+    "Bayern"
+   ],
+   "tags": [
+    "Transfer"
+   ]
+  },
+  {
+   "title": "Abgang aus München? Gwinn lässt Zukunft beim FC Bayern offen",
+   "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQNHlLUGVtTlVITlhGZU1oeWZEYWtKWjJTMUIwb2tTeXFvMllYcmdVVHppZ0k0MnZ4N3R3a2JpdWZCNXJFYlZ3bXIyWFFneThMTFI1R01hUlRFTGFqYkhHYWxsM1Iwb3l6a3plaFNVQTFBYlZOa3M4UEh2SjNlOWRVRERBWHlmaXdoTlhVcy1yQ0V2cmpUOWlGSHozZERwNm94a1lZalBCeXZUUWZLQTRrd3M3V1R6VGhSWmtiWjFPWEZZMnkwMG1YckRmWTg0UnBjLWx0NlNxNXlZbkFvLW8yRllYd3lRM0xkZVBOX1MxUGs2dFBLUU82Qmpn?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-gFBVV95cUxQNHlLUGVtTlVITlhGZU1oeWZEYWtKWjJTMUIwb2tTeXFvMllYcmdVVHppZ0k0MnZ4N3R3a2JpdWZCNXJFYlZ3bXIyWFFneThMTFI1R01hUlRFTGFqYkhHYWxsM1Iwb3l6a3plaFNVQTFBYlZOa3M4UEh2SjNlOWRVRERBWHlmaXdoTlhVcy1yQ0V2cmpUOWlGSHozZERwNm94a1lZalBCeXZUUW",
+   "source": "T-Online",
+   "date": "2026-11-27T07:47:25.000Z",
+   "fee": null,
+   "clubs": [
+    "Bayern"
+   ],
+   "tags": [
+    "Gerücht"
+   ]
+  },
   {
    "title": "Transfer-Ticker: Haaland-Dämpfer für den FC Bayern",
    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNd0FsUEZSTl9nRDhCWURBOEJBQ0J3cUl5NlpRVmNkYVpDVWhJWmFCUWhUcHNZemx1LUVjcmduVVRUR0pvc0IteGNvZEt3X19BblhldTZ2ODV3Rlp1MFhVenYwRy1yNmNnMjNlLTdwdHhUSEFJakNQZG5jdFdSRnhpZUlqRkFNQ3JLSGQwQmJJdnp0c2JzTDFCMkFtT3JiMlJJaFpUVjlJNHVQd2VSM1U3emJZVjJSTzhuZkVOSg?oc=5",
@@ -233,21 +276,6 @@ window.FUPPES_DATA["transfers"] = {
    ]
   },
   {
-   "title": "Eintracht Frankfurt will Transferflop verleihen",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxONU1oRUxkTE5OOG53ZmRxRm5NZkt0RUhiaWZVVF9OT0JZR0ZyWmxoOEMwY0RYQnVyMlZYUl9VYkZQNjFnMmduV2pCdU84LXpidVhOeFZFMVZtVFNEaHpZQXFEb3ZKbk91VzBFWjlRVkxsVFZwMGNjUy1QWlFMeGNyTGpIYV8tbDYwMktvME9HaDhKMGtER1c0?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxONU1oRUxkTE5OOG53ZmRxRm5NZkt0RUhiaWZVVF9OT0JZR0ZyWmxoOEMwY0RYQnVyMlZYUl9VYkZQNjFnMmduV2pCdU84LXpidVhOeFZFMVZtVFNEaHpZQXFEb3ZKbk91VzBFWjlRVkxsVFZwMGNjUy1QWlFMeGNyTGpIYV8tbDYwMktvME9HaDhKMGtER1c0?oc=5\" target=\"_blank\">Ein",
-   "source": "Fussball Transfers",
-   "date": "2026-11-26T06:58:01.000Z",
-   "fee": null,
-   "clubs": [
-    "Eintracht Frankfurt",
-    "Frankfurt"
-   ],
-   "tags": [
-    "Leihe"
-   ]
-  },
-  {
    "title": "Transfer-Ticker: BVB vor Winter-Coup? Kane-Ersatz zum FC Bayern?",
    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObTJSRmJNRzZ6SVMzTER0cXNadWZuY19Dc05aUnV1cXUyVGQxSmw5T3dNeUd5SjhYZ3FNejl3RDc1Vm9EXzhMbDBGNUtXYWgtdUdmWURQVE9qT1djVjNoOEZ0U1RiUFBUN29DUTZ0djdxSS0wbTdEQmEzRnpNVEY0Y0g0OWNSRjBzS0t0dlY4UWdUWDJoYUFDa0Z0dGc3Zjc4?oc=5",
    "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxObTJSRmJNRzZ6SVMzTER0cXNadWZuY19Dc05aUnV1cXUyVGQxSmw5T3dNeUd5SjhYZ3FNejl3RDc1Vm9EXzhMbDBGNUtXYWgtdUdmWURQVE9qT1djVjNoOEZ0U1RiUFBUN29DUTZ0djdxSS0wbTdEQmEzRnpNVEY0Y0g0OWNSRjBzS0t0dlY4UWdUWDJoYUFDa0Z0dGc3Zjc4?oc=5\" target=",
@@ -358,34 +386,6 @@ window.FUPPES_DATA["transfers"] = {
    ],
    "tags": [
     "Transfer"
-   ]
-  },
-  {
-   "title": "Transfer-Umdenken beim FC Bayern: Holt Max Eberl einen deutschen Nationalspieler?",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQYU1ma2pLZU84RzNDd0NBMElPRmVHbW1PRVRrVEZSWTJoTWY3VE0xNnhxakF5VjBLb2tCZmFaU3lqQXBLU3lkbFQ4SzBaYmxSUHFSaVBsQUZXa1dSa3JIX3pWa1hQUGZJSlNJeFFzbGdIZWhRSndSb3J0VVlvbzlJRHRoVE5vYTZsWkVVWGxsUFlDdTFzb3hrTTN5VFV2a245dm1LS1pLOFQyejBVbWd0OUlxN3QyenlwRUtqQm54VXgxTUlRRE9yLW1lZkRjZkE?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxQYU1ma2pLZU84RzNDd0NBMElPRmVHbW1PRVRrVEZSWTJoTWY3VE0xNnhxakF5VjBLb2tCZmFaU3lqQXBLU3lkbFQ4SzBaYmxSUHFSaVBsQUZXa1dSa3JIX3pWa1hQUGZJSlNJeFFzbGdIZWhRSndSb3J0VVlvbzlJRHRoVE5vYTZsWkVVWGxsUFlDdTFzb3hrTTN5VFV2a245dm1LS1pLOFQyej",
-   "source": "SPOX.com",
-   "date": "2026-11-25T11:47:16.000Z",
-   "fee": null,
-   "clubs": [
-    "Bayern"
-   ],
-   "tags": [
-    "Gerücht"
-   ]
-  },
-  {
-   "title": "FC Bayern äußert sich zu Gerüchten um Musiala",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVFR0bEdYaDJVS2llbDlNcW9PbXlzbFFsY0haaGUxS1FEM1cyME80V05BX0h2Z0QwVERDOHJjUFRlbllOLVhpVWQ0ajd4WW9GNzFFOV9Bd2JtbjNoTEFjZGtGbjAzaVlIcjdlZVJlMDJLeFdPdmVBY1hrbmdqeDM5a1hzbFo2MU5lMDhQemFRYzBGNDFyX2wtME9vM1JpMkt1V3pMck9wek1RMEVHOENtVUFTQQ?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQVFR0bEdYaDJVS2llbDlNcW9PbXlzbFFsY0haaGUxS1FEM1cyME80V05BX0h2Z0QwVERDOHJjUFRlbllOLVhpVWQ0ajd4WW9GNzFFOV9Bd2JtbjNoTEFjZGtGbjAzaVlIcjdlZVJlMDJLeFdPdmVBY1hrbmdqeDM5a1hzbFo2MU5lMDhQemFRYzBGNDFyX2wtME9vM1JpMkt1V3pMck9wek1RME",
-   "source": "WEB.DE",
-   "date": "2026-11-25T10:28:50.000Z",
-   "fee": null,
-   "clubs": [
-    "Bayern"
-   ],
-   "tags": [
-    "Gerücht"
    ]
   }
  ]
