@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T01:34:41.276Z",
+ "updated": "2026-11-27T03:12:39.666Z",
  "rules": {
   "minFeeMio": 20,
   "topClubs": [
@@ -205,21 +205,6 @@
    ]
   },
   {
-   "title": "Eintracht Frankfurt will Transferflop verleihen",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxONU1oRUxkTE5OOG53ZmRxRm5NZkt0RUhiaWZVVF9OT0JZR0ZyWmxoOEMwY0RYQnVyMlZYUl9VYkZQNjFnMmduV2pCdU84LXpidVhOeFZFMVZtVFNEaHpZQXFEb3ZKbk91VzBFWjlRVkxsVFZwMGNjUy1QWlFMeGNyTGpIYV8tbDYwMktvME9HaDhKMGtER1c0?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxONU1oRUxkTE5OOG53ZmRxRm5NZkt0RUhiaWZVVF9OT0JZR0ZyWmxoOEMwY0RYQnVyMlZYUl9VYkZQNjFnMmduV2pCdU84LXpidVhOeFZFMVZtVFNEaHpZQXFEb3ZKbk91VzBFWjlRVkxsVFZwMGNjUy1QWlFMeGNyTGpIYV8tbDYwMktvME9HaDhKMGtER1c0?oc=5\" target=\"_blank\">Ein",
-   "source": "Fussball Transfers",
-   "date": "2026-11-26T06:58:01.000Z",
-   "fee": null,
-   "clubs": [
-    "Eintracht Frankfurt",
-    "Frankfurt"
-   ],
-   "tags": [
-    "Leihe"
-   ]
-  },
-  {
    "title": "Transfer-Ticker: BVB vor Winter-Coup? Kane-Ersatz zum FC Bayern?",
    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObTJSRmJNRzZ6SVMzTER0cXNadWZuY19Dc05aUnV1cXUyVGQxSmw5T3dNeUd5SjhYZ3FNejl3RDc1Vm9EXzhMbDBGNUtXYWgtdUdmWURQVE9qT1djVjNoOEZ0U1RiUFBUN29DUTZ0djdxSS0wbTdEQmEzRnpNVEY0Y0g0OWNSRjBzS0t0dlY4UWdUWDJoYUFDa0Z0dGc3Zjc4?oc=5",
    "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxObTJSRmJNRzZ6SVMzTER0cXNadWZuY19Dc05aUnV1cXUyVGQxSmw5T3dNeUd5SjhYZ3FNejl3RDc1Vm9EXzhMbDBGNUtXYWgtdUdmWURQVE9qT1djVjNoOEZ0U1RiUFBUN29DUTZ0djdxSS0wbTdEQmEzRnpNVEY0Y0g0OWNSRjBzS0t0dlY4UWdUWDJoYUFDa0Z0dGc3Zjc4?oc=5\" target=",
@@ -387,6 +372,21 @@
    ],
    "tags": [
     "Transfer"
+   ]
+  },
+  {
+   "title": "BVB zeigt Interesse an DFB-Star – Dortmund hat großen Vorteil",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPekNHX1JFSTlSdXprS2pfZVlTRnRlOS14aHE5U2VmUDZKaHYwZVFlWS1OekdTRE0xQjU1cldOVjV1NGY5YWljejVQMXlRYzBsZ3FSTUZtcVZWdWtzUzRaT0xXTmdEQkl0WTFZM1BROUxTS3lOTlRuS0l5RlNCR1VSVXBjYnBuOUxkTzhOSklnV2lkQQ?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPekNHX1JFSTlSdXprS2pfZVlTRnRlOS14aHE5U2VmUDZKaHYwZVFlWS1OekdTRE0xQjU1cldOVjV1NGY5YWljejVQMXlRYzBsZ3FSTUZtcVZWdWtzUzRaT0xXTmdEQkl0WTFZM1BROUxTS3lOTlRuS0l5RlNCR1VSVXBjYnBuOUxkTzhOSklnV2lkQQ?oc=5\" target=\"_blank\">BVB zeigt",
+   "source": "fussballdaten.de",
+   "date": "2026-11-25T08:10:00.000Z",
+   "fee": null,
+   "clubs": [
+    "Dortmund",
+    "BVB"
+   ],
+   "tags": [
+    "Gerücht"
    ]
   }
  ]

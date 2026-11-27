@@ -1,6 +1,6 @@
 window.FUPPES_DATA = window.FUPPES_DATA || {};
 window.FUPPES_DATA["tv"] = {
- "updated": "2026-11-27T01:34:42.463Z",
+ "updated": "2026-11-27T03:12:40.745Z",
  "matches": [
   {
    "matchID": 83252,
@@ -86,6 +86,11 @@ window.FUPPES_DATA["tv"] = {
      "title": "Inter Mailand - VfB Stuttgart live ► Die Übertragung der Champions League auf DAZN ✅",
      "source": "DAZN",
      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNWkxVNkh2RHdnYkVOclZFZmVQZEJSX1pQMWtJYlEwa0laSWcxVUxBclhrbkFFLUE1dXJpMEQ1a0tYTkZmUGpZOW1uQlZUMEp4eE5kYl9aRG1IWGZ6eEFfM19XWXV5QTV3cFNtX3VnQ0h4OEF2QzE4UUNsU3pKaEZkbHFLR3VRVDR5LTFLMU5YeXdVWkx6MjNtT0lRd3BWYzlvdExKcWY3alAwSzEwOEVIQUFTeGxZaVV5MVF0LWFMN0g1X0tsWkxkck91ZFEzZkNma01yQjhtdzhiQQ?oc=5"
+    },
+    {
+     "title": "Inter - VfB Stuttgart Live Stream | Jetzt Anmelden | DAZN DE",
+     "source": "DAZN",
+     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOS3JFbGIzRy1NOFVSbWY2d1B1N0x1OFB3Y3FPTFFfa2pEVDFuVHJYOGZDejRKZjA2aWFmMnV5UF9Va1Y3bFB3R1FaNkMzLWp6am5FaTR5dS1yakVoSXg3ZGtsZUNLQl9vcUhaMWY2SUhOQ1BMc1Z6ek9ScmVKcVNMQWV1c0N3dVVRUHRvZw?oc=5"
     }
    ],
    "kicker": null
