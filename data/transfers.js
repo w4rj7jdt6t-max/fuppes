@@ -1,6 +1,6 @@
 window.FUPPES_DATA = window.FUPPES_DATA || {};
 window.FUPPES_DATA["transfers"] = {
- "updated": "2026-11-27T21:09:46.143Z",
+ "updated": "2026-11-27T23:09:31.551Z",
  "rules": {
   "minFeeMio": 20,
   "topClubs": [
@@ -43,6 +43,50 @@ window.FUPPES_DATA["transfers"] = {
   ]
  },
  "items": [
+  {
+   "title": "Verlässt Nwaneri den BVB im Winter? Neue Details zur Arsenal-Klausel",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVEh3ZkRGeDRwcjR1aXBqbEpsOWVtU09TSENPenZXMVJvT1lUNVJlbHk3US02a2dudERLTjhMTEpVck8yNUFuaVJUWDdPZlRzQldTd1FuLS1PS3RTTlRrSk9LeXpzcjVvTDVVNjdaQ0RmVnNWTWYyLUNHLUtqQWY5R05xRnk5N0hNQWRpS013Y3FNcXha?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNVEh3ZkRGeDRwcjR1aXBqbEpsOWVtU09TSENPenZXMVJvT1lUNVJlbHk3US02a2dudERLTjhMTEpVck8yNUFuaVJUWDdPZlRzQldTd1FuLS1PS3RTTlRrSk9LeXpzcjVvTDVVNjdaQ0RmVnNWTWYyLUNHLUtqQWY5R05xRnk5N0hNQWRpS013Y3FNcXha?oc=5\" target=\"_blank\">Verläss",
+   "source": "fussballdaten.de",
+   "date": "2026-11-27T17:35:00.000Z",
+   "fee": null,
+   "clubs": [
+    "BVB",
+    "Arsenal"
+   ],
+   "tags": [
+    "Gerücht",
+    "Vertrag"
+   ]
+  },
+  {
+   "title": "Younes Ebnoutalib: SGE reagiert auf BVB-Interesse",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPOTVQV1dZVmxiV3JPbnp3MXVRa09mQmU0ZWpNOHhxaWduZHowS29tOUlZcTBGUmt4eTA3Y3djQWpocmRKV2x0bVc0WlZKSHJTb1pDUDBHQVoxMFRWUWU4OE5LZUY5OFdhX2FCOVk3NWYwZzcyTnEyVUZ4WDJMT2EwVUpVbEZscUR1ZXBNeWZvYTR4WS1pbDVHMlZsei1paWIwWUxlSQ?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPOTVQV1dZVmxiV3JPbnp3MXVRa09mQmU0ZWpNOHhxaWduZHowS29tOUlZcTBGUmt4eTA3Y3djQWpocmRKV2x0bVc0WlZKSHJTb1pDUDBHQVoxMFRWUWU4OE5LZUY5OFdhX2FCOVk3NWYwZzcyTnEyVUZ4WDJMT2EwVUpVbEZscUR1ZXBNeWZvYTR4WS1pbDVHMlZsei1paWIwWUxlSQ?oc=5\" t",
+   "source": "Fussball Transfers",
+   "date": "2026-11-27T17:04:28.000Z",
+   "fee": null,
+   "clubs": [
+    "BVB"
+   ],
+   "tags": [
+    "Gerücht"
+   ]
+  },
+  {
+   "title": "El Mala lässt wegen geplatztem BVB-Transfer aufhorchen",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQb3FPUDFoOUNOeG1tX3ktSTBZZ01ZSkJycjFnT2ctN2FSWEJDeFJiZzk2N3BwcUs1eUlKaWFaMk9MSW5EU0RlN3Vsd05IZEpNYUFpNzFYbExtOVBsaFVzRGVIOWl6WTVqQ0h5MnN4Nm5UNlFjRFRnQjdxeE81MF8tcENsN0FQMlJWN3U5amo1RG9xc3dROEU4UlB2YzFnSnc?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQb3FPUDFoOUNOeG1tX3ktSTBZZ01ZSkJycjFnT2ctN2FSWEJDeFJiZzk2N3BwcUs1eUlKaWFaMk9MSW5EU0RlN3Vsd05IZEpNYUFpNzFYbExtOVBsaFVzRGVIOWl6WTVqQ0h5MnN4Nm5UNlFjRFRnQjdxeE81MF8tcENsN0FQMlJWN3U5amo1RG9xc3dROEU4UlB2YzFnSnc?oc=5\" target=\"",
+   "source": "Fussball Europa",
+   "date": "2026-11-27T16:51:01.000Z",
+   "fee": null,
+   "clubs": [
+    "BVB"
+   ],
+   "tags": [
+    "Transfer"
+   ]
+  },
   {
    "title": "\"Es ist kompliziert\": Ben Seghirs Chancen in Leverkusen schwinden",
    "link": "https://www.kicker.de/es-ist-kompliziert-ben-seghirs-chancen-in-leverkusen-schwinden-1275684/artikel#omrss",
@@ -125,6 +169,21 @@ window.FUPPES_DATA["transfers"] = {
    ],
    "tags": [
     "Gerücht"
+   ]
+  },
+  {
+   "title": "Offiziell: Real Madrid verkündet nächsten Vertragscoup – folgt jetzt Bellingham?",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxON2doamxOX1VwbFhkVVVaNjBGVTRTbW9fa3c1RGYxbmFlRWwzQVd1bTJjeXFFQ0hlNEhfSGdTNWRRSS14SVNkUndLcmZpeDhsS3U3T2RIaE4xZDhGZ2VESDJLeHl0QWlCLXk0NFNXc19KazJET1pLMWJLTFNRVVVFVF9RZmlsOU00cksybnJvYXBxU0c2UjNhbmgxRURwZVF1Wjd4YQ?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxON2doamxOX1VwbFhkVVVaNjBGVTRTbW9fa3c1RGYxbmFlRWwzQVd1bTJjeXFFQ0hlNEhfSGdTNWRRSS14SVNkUndLcmZpeDhsS3U3T2RIaE4xZDhGZ2VESDJLeHl0QWlCLXk0NFNXc19KazJET1pLMWJLTFNRVVVFVF9RZmlsOU00cksybnJvYXBxU0c2UjNhbmgxRURwZVF1Wjd4YQ?oc=5\" t",
+   "source": "fussballdaten.de",
+   "date": "2026-11-27T13:21:00.000Z",
+   "fee": null,
+   "clubs": [
+    "Real Madrid"
+   ],
+   "tags": [
+    "Gerücht",
+    "Vertrag"
    ]
   },
   {
@@ -227,6 +286,36 @@ window.FUPPES_DATA["transfers"] = {
    ]
   },
   {
+   "title": "BVB buhlt um Younes Ebnoutalib: Eintracht Frankfurt setzt wohl klares Winter-Wechselverbot durch",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPYUpjRFh6UEtfb0xmb1RuNWJ6QVVFWVJnY1cxRjFCTF9qR3k0VTM3Q0xKeVVUZUpsTlFqemcxUklZUHgxNEJsXzNwLU4xbC1xSnluTEYxUHZRQk5DcHFmRHhDaENjY191MkVrcUdhanVWYWNPdm5OWHpkSDBHblNoV25fbnhZZXRxa3hHS2xnV2NzUHZrQU90Q2EwdmwtcTVLZnExamlVZmZ2RkZlNDI4SA?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPYUpjRFh6UEtfb0xmb1RuNWJ6QVVFWVJnY1cxRjFCTF9qR3k0VTM3Q0xKeVVUZUpsTlFqemcxUklZUHgxNEJsXzNwLU4xbC1xSnluTEYxUHZRQk5DcHFmRHhDaENjY191MkVrcUdhanVWYWNPdm5OWHpkSDBHblNoV25fbnhZZXRxa3hHS2xnV2NzUHZrQU90Q2EwdmwtcTVLZnExamlVZmZ2Rk",
+   "source": "Frankfurter Rundschau",
+   "date": "2026-11-26T21:44:48.000Z",
+   "fee": null,
+   "clubs": [
+    "BVB",
+    "Eintracht Frankfurt",
+    "Frankfurt"
+   ],
+   "tags": [
+    "Gerücht"
+   ]
+  },
+  {
+   "title": "DFB-Star auf BVB-Liste! 100 Mio. für Nusa? | Transfer Update Fan Club",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUmpFb1BJMHhrOHZzVG9FOFBlbkJkdjRlLThsc1E5ZEx4QnNRVkVZTjVkbUFCSl9yRXl6ZmhWZHkxWFBBZ0d1aHdYQkdfeHpXS29mNnJzb1pqWThFSzVRMjF4N3hncnJrNXF2TXBJOExSYVUycmhUenozOWl3UkM3ZWFLXzZ3d0x1M0liOUhjNklJZlltblp5MGk1S1ZmRE9OZjl5RDBDcktzU3BEOHVOeVBpZjR2YzBsaGc?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNUmpFb1BJMHhrOHZzVG9FOFBlbkJkdjRlLThsc1E5ZEx4QnNRVkVZTjVkbUFCSl9yRXl6ZmhWZHkxWFBBZ0d1aHdYQkdfeHpXS29mNnJzb1pqWThFSzVRMjF4N3hncnJrNXF2TXBJOExSYVUycmhUenozOWl3UkM3ZWFLXzZ3d0x1M0liOUhjNklJZlltblp5MGk1S1ZmRE9OZjl5RDBDcktzU3",
+   "source": "Sky.de",
+   "date": "2026-11-26T19:34:00.000Z",
+   "fee": 100,
+   "clubs": [
+    "BVB"
+   ],
+   "tags": [
+    "Gerücht"
+   ]
+  },
+  {
    "title": "Gadou hat keine Ausstiegsklausel – der BVB kann die Ablöse frei verhandeln",
    "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxOR21FblNBYW1KQlVjSTljN1I1SXZqVWE1TGdNZzJUR2tQZWtSaGZFN3ZrNGZXWDdPMm1icExxZ1pvRkJnVUM0X0FlVnZjeDVYN0VEZEVhLVkzQU5xMWM4ZVNCYndoTkZoX3VGYW9hemxIbzQwUFJuWC1ER1dXWlBaVDBiY3NxcW5paEpxQzZvRllHT0FNZ0lSN3RITWlYdWs3cDZFekZ3THFXYTJlaF9PRVl1OGVmTEZMczQ5LXRBdVRlX1VReFhrY0pKT1JsR0I2ejB1YnY2V0FzQjdncDhzNzRXRmU1MGVWVHVsQVA3ZVNMdlhtVnFRUWkwNG1QZFBXTWt4UldnNFBnSi1BQ1ZVOFIyWV9rNnFkdWtUUFRxT0kxdGNVTU12X0NYX19NQTA?oc=5",
    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwJBVV95cUxOR21FblNBYW1KQlVjSTljN1I1SXZqVWE1TGdNZzJUR2tQZWtSaGZFN3ZrNGZXWDdPMm1icExxZ1pvRkJnVUM0X0FlVnZjeDVYN0VEZEVhLVkzQU5xMWM4ZVNCYndoTkZoX3VGYW9hemxIbzQwUFJuWC1ER1dXWlBaVDBiY3NxcW5paEpxQzZvRllHT0FNZ0lSN3RITWlYdWs3cDZFekZ3THFXYT",
@@ -255,7 +344,7 @@ window.FUPPES_DATA["transfers"] = {
    ]
   },
   {
-   "title": "Kane-Ersatz: Transfer-Ratschlag an Bayern",
+   "title": "Kane-Ersatz: Transfer-Ratschlag an den FC Bayern",
    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaUFUT05WNm9tOEYtWUdiMnpLdHgzNDlCell4TmJ0N2ZfZjVqenFIQnQ5UnpacHZSbEtjQWFiaVF4LWsyc1IwS1VQT3V0Y29FNnJCYkRKQUlObHR2aGJkRGo0V0V0aFEzeUpfTHN1YVNHM2NTeWpPYnliZ0JzNFJnb1RhVXhlZ2VYaV9xNUpfWjFCbURmSG9HRw?oc=5",
    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPaUFUT05WNm9tOEYtWUdiMnpLdHgzNDlCell4TmJ0N2ZfZjVqenFIQnQ5UnpacHZSbEtjQWFiaVF4LWsyc1IwS1VQT3V0Y29FNnJCYkRKQUlObHR2aGJkRGo0V0V0aFEzeUpfTHN1YVNHM2NTeWpPYnliZ0JzNFJnb1RhVXhlZ2VYaV9xNUpfWjFCbURmSG9HRw?oc=5\" target=\"_blank\">K",
    "source": "Fussball Transfers",
@@ -295,93 +384,6 @@ window.FUPPES_DATA["transfers"] = {
    ],
    "tags": [
     "Gerücht"
-   ]
-  },
-  {
-   "title": "FC Bayern aufgepasst: Transfer-Flirt könnte bald vom Markt sein",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQOHFOQW5ocWpqWmNDZDVmVVNNYnJkN1FTM1VEa2o5T1VBWGdLM0tndTBtRnpwaVdlQVJTa0tKTk5RQnJKTzZwdzMzSnFISlUzZzZsTEFzQV9rbWJhakQwZHdJX2twLXRaUTJ2MmExX0V3YjhZMjZrRFZNMFpkM3ZsMXA4WjVjd3VLM1pSaHpocDB2MGFKU3pHZkFn?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQOHFOQW5ocWpqWmNDZDVmVVNNYnJkN1FTM1VEa2o5T1VBWGdLM0tndTBtRnpwaVdlQVJTa0tKTk5RQnJKTzZwdzMzSnFISlUzZzZsTEFzQV9rbWJhakQwZHdJX2twLXRaUTJ2MmExX0V3YjhZMjZrRFZNMFpkM3ZsMXA4WjVjd3VLM1pSaHpocDB2MGFKU3pHZkFn?oc=5\" target=\"_blank\"",
-   "source": "fussballdaten.de",
-   "date": "2026-11-26T10:54:00.000Z",
-   "fee": null,
-   "clubs": [
-    "Bayern"
-   ],
-   "tags": [
-    "Transfer"
-   ]
-  },
-  {
-   "title": "Enthüllt: Haaland will Transfer zu Real Madrid",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONzdXOXhxNGNpMDU5YlpWeXhYU3FBMjFvM1pOYWhIakI1QmtkaDNEWFZ1V2syaHlRbmgxLUdCRXpaeTRZV1Y2cGNSNXRNUmdFRTJZcTJyNjE4V18xdzFlUHM5eF9CS0hDNGJOQmFRbzVEc3c5bE9PRThVVTFHc3B5R0oyNU42YVVk?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxONzdXOXhxNGNpMDU5YlpWeXhYU3FBMjFvM1pOYWhIakI1QmtkaDNEWFZ1V2syaHlRbmgxLUdCRXpaeTRZV1Y2cGNSNXRNUmdFRTJZcTJyNjE4V18xdzFlUHM5eF9CS0hDNGJOQmFRbzVEc3c5bE9PRThVVTFHc3B5R0oyNU42YVVk?oc=5\" target=\"_blank\">Enthüllt: Haaland will ",
-   "source": "fussballdaten.de",
-   "date": "2026-11-26T09:10:00.000Z",
-   "fee": null,
-   "clubs": [
-    "Real Madrid"
-   ],
-   "tags": [
-    "Transfer"
-   ]
-  },
-  {
-   "title": "Fußball-Transfergerüchte heute: Leverkusen-Star vor Insel-Rückkehr? Real Madrid steigt bei Gladbach-Juwel ein",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBPUVlwdGw2Zm85VmhkY2NtVzItcHMzb2l0RGpmRE9CZExxNHA5Sy11RUx0cUliNmdEaVgzbExHcHh0ZjIxMW1MZEZLRzZCa0tvdWhISktkMU16T215RllSZ2J1WTRRN25PeFhHV2dEZDA?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFBPUVlwdGw2Zm85VmhkY2NtVzItcHMzb2l0RGpmRE9CZExxNHA5Sy11RUx0cUliNmdEaVgzbExHcHh0ZjIxMW1MZEZLRzZCa0tvdWhISktkMU16T215RllSZ2J1WTRRN25PeFhHV2dEZDA?oc=5\" target=\"_blank\">Fußball-Transfergerüchte heute: Leverkusen-Star vor Inse",
-   "source": "90min.de",
-   "date": "2026-11-26T08:54:04.000Z",
-   "fee": null,
-   "clubs": [
-    "Leverkusen",
-    "Real Madrid"
-   ],
-   "tags": [
-    "Gerücht",
-    "Personal"
-   ]
-  },
-  {
-   "title": "FC Bayern: Max Eberl stellt Transfer in Aussicht",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOR2g5TFlCQ2hkTmZBMHpiQmgxZXN4a00yMXdobmpjVWpSNlRoN1JPTUg1Q3kyVmJCTXFtOXd5YTIxNnpncXljVmZYcVVpYjhTMTlOSjVGNXd3V2VUNU1uMG4xVExEUklTamcxQV9CR3B1MlVzMXhTckxTLXNqUkc0UHlTSWdFMTYzRWZFZ0xWRVlFdEExQU9FZE92eUF5NUU?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOR2g5TFlCQ2hkTmZBMHpiQmgxZXN4a00yMXdobmpjVWpSNlRoN1JPTUg1Q3kyVmJCTXFtOXd5YTIxNnpncXljVmZYcVVpYjhTMTlOSjVGNXd3V2VUNU1uMG4xVExEUklTamcxQV9CR3B1MlVzMXhTckxTLXNqUkc0UHlTSWdFMTYzRWZFZ0xWRVlFdEExQU9FZE92eUF5NUU?oc=5\" target=\"",
-   "source": "Fussball Transfers",
-   "date": "2026-11-26T07:28:24.000Z",
-   "fee": null,
-   "clubs": [
-    "Bayern"
-   ],
-   "tags": [
-    "Transfer"
-   ]
-  },
-  {
-   "title": "Eintracht Frankfurt will Transferflop verleihen",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxONU1oRUxkTE5OOG53ZmRxRm5NZkt0RUhiaWZVVF9OT0JZR0ZyWmxoOEMwY0RYQnVyMlZYUl9VYkZQNjFnMmduV2pCdU84LXpidVhOeFZFMVZtVFNEaHpZQXFEb3ZKbk91VzBFWjlRVkxsVFZwMGNjUy1QWlFMeGNyTGpIYV8tbDYwMktvME9HaDhKMGtER1c0?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxONU1oRUxkTE5OOG53ZmRxRm5NZkt0RUhiaWZVVF9OT0JZR0ZyWmxoOEMwY0RYQnVyMlZYUl9VYkZQNjFnMmduV2pCdU84LXpidVhOeFZFMVZtVFNEaHpZQXFEb3ZKbk91VzBFWjlRVkxsVFZwMGNjUy1QWlFMeGNyTGpIYV8tbDYwMktvME9HaDhKMGtER1c0?oc=5\" target=\"_blank\">Ein",
-   "source": "Fussball Transfers",
-   "date": "2026-11-26T06:58:01.000Z",
-   "fee": null,
-   "clubs": [
-    "Eintracht Frankfurt",
-    "Frankfurt"
-   ],
-   "tags": [
-    "Leihe"
-   ]
-  },
-  {
-   "title": "\"Ich dachte mir einfach: Versuch's mal\": Wirtz' längste Torserie seit Liverpool-Wechsel",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOc25EUjluTEF1a3lGRGRkUkVReFprSjZtRHd6d0ZJZzZsRTRlSDhuUFN5Y2kwQVhJVjFyRWZtdUhoMDN0MDU1Q3RsQmdMLWZHQW9CazFCeWJjZWZ2dVIyTEd5cU9rYkhXaXlNRnJLVkRYdFRiRmZQTTdzbFdFRkl4RGpLXzlncjU4Q0Uxd3NrYUMwaVJtb185MXY1cW9wUlZOeFhEbGtTajF1X2ZWR1JzdzdhZ1M3YXZUZ1lySG9R?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxOc25EUjluTEF1a3lGRGRkUkVReFprSjZtRHd6d0ZJZzZsRTRlSDhuUFN5Y2kwQVhJVjFyRWZtdUhoMDN0MDU1Q3RsQmdMLWZHQW9CazFCeWJjZWZ2dVIyTEd5cU9rYkhXaXlNRnJLVkRYdFRiRmZQTTdzbFdFRkl4RGpLXzlncjU4Q0Uxd3NrYUMwaVJtb185MXY1cW9wUlZOeFhEbGtTajF1X2",
-   "source": "Kicker",
-   "date": "2026-11-26T06:25:09.000Z",
-   "fee": null,
-   "clubs": [
-    "Liverpool"
-   ],
-   "tags": [
-    "Transfer"
    ]
   }
  ]
