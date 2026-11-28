@@ -1,6 +1,6 @@
 window.FUPPES_DATA = window.FUPPES_DATA || {};
 window.FUPPES_DATA["spielinfo"] = {
- "updated": "2026-11-28T14:59:48.134Z",
+ "updated": "2026-11-28T17:00:30.973Z",
  "fc": [
   {
    "start": "2025-11-29T14:30:00.000Z",
@@ -1615,7 +1615,7 @@ window.FUPPES_DATA["spielinfo"] = {
   },
   {
    "start": "2026-11-28T14:30:00.000Z",
-   "title": "1. FC Köln - SV 07 Elversberg",
+   "title": "1. FC Köln 5:0 SV 07 Elversberg",
    "result": null,
    "stadium": "RheinEnergieStadion",
    "city": "Köln",
