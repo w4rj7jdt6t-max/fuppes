@@ -1,6 +1,6 @@
 window.FUPPES_DATA = window.FUPPES_DATA || {};
 window.FUPPES_DATA["news-fc"] = {
- "updated": "2026-11-28T03:05:42.631Z",
+ "updated": "2026-11-28T05:15:16.215Z",
  "items": [
   {
    "title": "Wird die Extremismus-Klausel auf dem Transfermarkt zum Hindernis?",
@@ -187,16 +187,6 @@ window.FUPPES_DATA["news-fc"] = {
    ]
   },
   {
-   "title": "FC Bayern News: Kölns Joel Schmied entschuldigt sich bei Harry Kane. Was er zur Verletzung sagt",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOM2MybWRWQUNVTTJKV0Fqa2ZRYWhHTUQxOXRLdXlHR2VPVjhkMDFfZWZQelFmRDg5b0UzbTdyZFl5NzlZUVNTajNTcXlJenR6REUtSlNpMURudmpjaEdkc3JoOXl3T2dpalQ2U1ZKc3A2V2NUV1ROTThYMzY0MTBFYy1QemxaNVRTQVFIbUV3T0lONks0aGp6NmlEclV2SHI3RXNsN3NlRWE0enJ2dC1XU1pxS2pNN3dpR0J5dmRsbw?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOM2MybWRWQUNVTTJKV0Fqa2ZRYWhHTUQxOXRLdXlHR2VPVjhkMDFfZWZQelFmRDg5b0UzbTdyZFl5NzlZUVNTajNTcXlJenR6REUtSlNpMURudmpjaEdkc3JoOXl3T2dpalQ2U1ZKc3A2V2NUV1ROTThYMzY0MTBFYy1QemxaNVRTQVFIbUV3T0lONks0aGp6NmlEclV2SHI3RXNsN3NlRWE0en",
-   "source": "News zur deutschen Nationalmannschaft",
-   "date": "2026-11-26T15:53:00.000Z",
-   "tags": [
-    "Personal"
-   ]
-  },
-  {
    "title": "Schwäbe wackelt, Ache gibt Rätsel auf: FC-Trainer Wagner gibt Personalupdate",
    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNW90WkpLM3BtdEFPVlRvcVo3Q1BwTzROcldqWVd0aEpXRHMwcS1oVnBtVTZJdV9JcjFSZW1xRWhybFhFZHhBNE12RTVmV2R4RjZMQUhsNFMwb1ZGVFpSUFRwSGJkMk9oV0dDZDJmSXhKeEJZNk5sMkFZRklELU1Cd2dvWndtOHd6Qmd1M05qYXVLTDdsUTl3cjZZQQ?oc=5",
    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNNW90WkpLM3BtdEFPVlRvcVo3Q1BwTzROcldqWVd0aEpXRHMwcS1oVnBtVTZJdV9JcjFSZW1xRWhybFhFZHhBNE12RTVmV2R4RjZMQUhsNFMwb1ZGVFpSUFRwSGJkMk9oV0dDZDJmSXhKeEJZNk5sMkFZRklELU1Cd2dvWndtOHd6Qmd1M05qYXVLTDdsUTl3cjZZQQ?oc=5\" target=\"_blan",
@@ -204,6 +194,16 @@ window.FUPPES_DATA["news-fc"] = {
    "date": "2026-11-26T14:57:19.000Z",
    "tags": [
     "Verein"
+   ]
+  },
+  {
+   "title": "Rückenprobleme: Köln bangt um Torhüter und Kapitän Schwäbe",
+   "link": "https://www.kicker.de/rueckenprobleme-koeln-bangt-um-torhueter-und-kapitaen-schwaebe-1275308/artikel#omrss",
+   "summary": "Schlussmann Marvin Schwäbe ist beim 1. FC Köln eine verlässliche Konstante. Nun droht der 31-Jährige beim Heimspiel gegen die SV Elversberg auszufallen.",
+   "source": "kicker",
+   "date": "2026-11-26T12:52:46.000Z",
+   "tags": [
+    "Personal"
    ]
   }
  ]

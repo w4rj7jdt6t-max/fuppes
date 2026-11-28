@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T03:05:43.985Z",
+ "updated": "2026-11-28T05:15:17.431Z",
  "rules": {
   "minFeeMio": 20,
   "topClubs": [
@@ -271,14 +271,30 @@
    ]
   },
   {
-   "title": "DFB-Star auf BVB-Liste! 100 Mio. für Nusa? | Transfer Update Fan Club",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUmpFb1BJMHhrOHZzVG9FOFBlbkJkdjRlLThsc1E5ZEx4QnNRVkVZTjVkbUFCSl9yRXl6ZmhWZHkxWFBBZ0d1aHdYQkdfeHpXS29mNnJzb1pqWThFSzVRMjF4N3hncnJrNXF2TXBJOExSYVUycmhUenozOWl3UkM3ZWFLXzZ3d0x1M0liOUhjNklJZlltblp5MGk1S1ZmRE9OZjl5RDBDcktzU3BEOHVOeVBpZjR2YzBsaGc?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNUmpFb1BJMHhrOHZzVG9FOFBlbkJkdjRlLThsc1E5ZEx4QnNRVkVZTjVkbUFCSl9yRXl6ZmhWZHkxWFBBZ0d1aHdYQkdfeHpXS29mNnJzb1pqWThFSzVRMjF4N3hncnJrNXF2TXBJOExSYVUycmhUenozOWl3UkM3ZWFLXzZ3d0x1M0liOUhjNklJZlltblp5MGk1S1ZmRE9OZjl5RDBDcktzU3",
-   "source": "Sky.de",
-   "date": "2026-11-26T19:34:00.000Z",
-   "fee": 100,
+   "title": "Abgang aus München? Gwinn lässt Zukunft beim FC Bayern offen",
+   "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQNHlLUGVtTlVITlhGZU1oeWZEYWtKWjJTMUIwb2tTeXFvMllYcmdVVHppZ0k0MnZ4N3R3a2JpdWZCNXJFYlZ3bXIyWFFneThMTFI1R01hUlRFTGFqYkhHYWxsM1Iwb3l6a3plaFNVQTFBYlZOa3M4UEh2SjNlOWRVRERBWHlmaXdoTlhVcy1yQ0V2cmpUOWlGSHozZERwNm94a1lZalBCeXZUUWZLQTRrd3M3V1R6VGhSWmtiWjFPWEZZMnkwMG1YckRmWTg0UnBjLWx0NlNxNXlZbkFvLW8yRllYd3lRM0xkZVBOX1MxUGs2dFBLUU82Qmpn?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-gFBVV95cUxQNHlLUGVtTlVITlhGZU1oeWZEYWtKWjJTMUIwb2tTeXFvMllYcmdVVHppZ0k0MnZ4N3R3a2JpdWZCNXJFYlZ3bXIyWFFneThMTFI1R01hUlRFTGFqYkhHYWxsM1Iwb3l6a3plaFNVQTFBYlZOa3M4UEh2SjNlOWRVRERBWHlmaXdoTlhVcy1yQ0V2cmpUOWlGSHozZERwNm94a1lZalBCeXZUUW",
+   "source": "T-Online",
+   "date": "2026-11-27T07:47:25.000Z",
+   "fee": null,
    "clubs": [
-    "BVB"
+    "Bayern"
+   ],
+   "tags": [
+    "Gerücht"
+   ]
+  },
+  {
+   "title": "BVB buhlt um Younes Ebnoutalib: Eintracht Frankfurt setzt wohl klares Winter-Wechselverbot durch",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPYUpjRFh6UEtfb0xmb1RuNWJ6QVVFWVJnY1cxRjFCTF9qR3k0VTM3Q0xKeVVUZUpsTlFqemcxUklZUHgxNEJsXzNwLU4xbC1xSnluTEYxUHZRQk5DcHFmRHhDaENjY191MkVrcUdhanVWYWNPdm5OWHpkSDBHblNoV25fbnhZZXRxa3hHS2xnV2NzUHZrQU90Q2EwdmwtcTVLZnExamlVZmZ2RkZlNDI4SA?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPYUpjRFh6UEtfb0xmb1RuNWJ6QVVFWVJnY1cxRjFCTF9qR3k0VTM3Q0xKeVVUZUpsTlFqemcxUklZUHgxNEJsXzNwLU4xbC1xSnluTEYxUHZRQk5DcHFmRHhDaENjY191MkVrcUdhanVWYWNPdm5OWHpkSDBHblNoV25fbnhZZXRxa3hHS2xnV2NzUHZrQU90Q2EwdmwtcTVLZnExamlVZmZ2Rk",
+   "source": "Frankfurter Rundschau",
+   "date": "2026-11-26T21:44:48.000Z",
+   "fee": null,
+   "clubs": [
+    "BVB",
+    "Eintracht Frankfurt",
+    "Frankfurt"
    ],
    "tags": [
     "Gerücht"
@@ -353,20 +369,6 @@
    ],
    "tags": [
     "Gerücht"
-   ]
-  },
-  {
-   "title": "FC Bayern aufgepasst: Transfer-Flirt könnte bald vom Markt sein",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQOHFOQW5ocWpqWmNDZDVmVVNNYnJkN1FTM1VEa2o5T1VBWGdLM0tndTBtRnpwaVdlQVJTa0tKTk5RQnJKTzZwdzMzSnFISlUzZzZsTEFzQV9rbWJhakQwZHdJX2twLXRaUTJ2MmExX0V3YjhZMjZrRFZNMFpkM3ZsMXA4WjVjd3VLM1pSaHpocDB2MGFKU3pHZkFn?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQOHFOQW5ocWpqWmNDZDVmVVNNYnJkN1FTM1VEa2o5T1VBWGdLM0tndTBtRnpwaVdlQVJTa0tKTk5RQnJKTzZwdzMzSnFISlUzZzZsTEFzQV9rbWJhakQwZHdJX2twLXRaUTJ2MmExX0V3YjhZMjZrRFZNMFpkM3ZsMXA4WjVjd3VLM1pSaHpocDB2MGFKU3pHZkFn?oc=5\" target=\"_blank\"",
-   "source": "fussballdaten.de",
-   "date": "2026-11-26T10:54:00.000Z",
-   "fee": null,
-   "clubs": [
-    "Bayern"
-   ],
-   "tags": [
-    "Transfer"
    ]
   },
   {
