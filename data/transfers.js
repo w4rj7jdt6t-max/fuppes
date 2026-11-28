@@ -1,6 +1,6 @@
 window.FUPPES_DATA = window.FUPPES_DATA || {};
 window.FUPPES_DATA["transfers"] = {
- "updated": "2026-11-28T13:14:52.258Z",
+ "updated": "2026-11-28T14:59:47.373Z",
  "rules": {
   "minFeeMio": 20,
   "topClubs": [
@@ -43,6 +43,37 @@ window.FUPPES_DATA["transfers"] = {
   ]
  },
  "items": [
+  {
+   "title": "LIVE! Holt ManUnited mit Pochettino den ersten Dreier?",
+   "link": "https://www.kicker.de/manunited-gegen-brentford-2026-premier-league-5213387/spielbericht#omrss",
+   "summary": "Neu-Trainer Mauricio Pochettino wartet noch auf sein erstes Erfolgserlebnis an der Seitenlinie von Manchester United. In Liverpool setzte es ein deutliches 0:4, bei Sporting Lissabon stand ein 2:2 auf der Anzeigetafel. Zu Hause gegen Brentford bietet sich die nächste Chance.",
+   "source": "kicker",
+   "date": "2026-11-28T14:18:33.000Z",
+   "fee": null,
+   "clubs": [
+    "Manchester United",
+    "ManUnited",
+    "Liverpool"
+   ],
+   "tags": [
+    "Gerücht",
+    "Verein"
+   ]
+  },
+  {
+   "title": "Mario Vuskovic gibt Startelf-Debüt gegen den FC Bayern – Vertrag verlängert",
+   "link": "https://www.transfermarkt.de/wie-einst-bruder-luka-mario-vuskovic-gibt-startelf-debut-gegen-den-fc-bayern/view/news/491333",
+   "summary": "Erstmals ver&ouml;ffentlicht am 26.11.2026 um 20:12, aktualisiert am 28.11.2026 um 15 Uhr. Mario Vuskovic ist zur&uuml;ck in der HSV-Elf. Im Heimspiel gegen den FC Bayern l&auml;uft der mit einer...",
+   "source": "Transfermarkt",
+   "date": "2026-11-28T14:00:09.000Z",
+   "fee": null,
+   "clubs": [
+    "Bayern"
+   ],
+   "tags": [
+    "Vertrag"
+   ]
+  },
   {
    "title": "Mikel Arteta liebäugelt wohl mit Winter-Transfer: FC Arsenal intensiviert offenbar Bemühungen um Bundesliga-Shootingstar",
    "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNa01MdGJWelROWlNQZzZzSThneHRGMy1rZHM0cUNncG9uYUh1UzFjZFB4S1BPOFpNUUF0VTVvNlJiSFpnWUJBV24yRlJvU1IxTlBydXMwdVFNWU1nRjdNTEpKU2lVV1VoWlJGYnRCaS1tcGRXR0dKWlVLT0J4cDNhMUdvWVZwWDJtQ0VVTUZCQ0c3Y2tESFlZbElLVWJJVExJbC1yaGRjMTV3TFo1U1dNaS1JXzZuVTRQUXViblNwc3dHWWlwbDczdWtSU1ozV1V2Y1lpc0wwMjBnZWI5OU5CaDVaMlhHRzVCQ1B1dS1uS0RUQURRblZVTFd5SEJmVzBfb2tEcGk1aw?oc=5",
@@ -214,21 +245,6 @@ window.FUPPES_DATA["transfers"] = {
    ]
   },
   {
-   "title": "Offiziell: Real Madrid verkündet nächsten Vertragscoup – folgt jetzt Bellingham?",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxON2doamxOX1VwbFhkVVVaNjBGVTRTbW9fa3c1RGYxbmFlRWwzQVd1bTJjeXFFQ0hlNEhfSGdTNWRRSS14SVNkUndLcmZpeDhsS3U3T2RIaE4xZDhGZ2VESDJLeHl0QWlCLXk0NFNXc19KazJET1pLMWJLTFNRVVVFVF9RZmlsOU00cksybnJvYXBxU0c2UjNhbmgxRURwZVF1Wjd4YQ?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxON2doamxOX1VwbFhkVVVaNjBGVTRTbW9fa3c1RGYxbmFlRWwzQVd1bTJjeXFFQ0hlNEhfSGdTNWRRSS14SVNkUndLcmZpeDhsS3U3T2RIaE4xZDhGZ2VESDJLeHl0QWlCLXk0NFNXc19KazJET1pLMWJLTFNRVVVFVF9RZmlsOU00cksybnJvYXBxU0c2UjNhbmgxRURwZVF1Wjd4YQ?oc=5\" t",
-   "source": "fussballdaten.de",
-   "date": "2026-11-27T13:21:00.000Z",
-   "fee": null,
-   "clubs": [
-    "Real Madrid"
-   ],
-   "tags": [
-    "Gerücht",
-    "Vertrag"
-   ]
-  },
-  {
    "title": "Düstere Transferprognose für den FC Bayern",
    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOTk5ISGwwd0o0XzNycjhpZHpDOUUzYkRGM21udTFEVV8ydmo1QWJZRjRvZnd0b3JSSGo1R25QQnl1cHdzS18tMWxTZldmb29ZdkpucU5HbFhqakRySi00Z2E1TU9pZlpqZk15OTlLdE9UV3AxVzVRQkE5eV91QmlxSUZMdGhPdnR6RUE?oc=5",
    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxOTk5ISGwwd0o0XzNycjhpZHpDOUUzYkRGM21udTFEVV8ydmo1QWJZRjRvZnd0b3JSSGo1R25QQnl1cHdzS18tMWxTZldmb29ZdkpucU5HbFhqakRySi00Z2E1TU9pZlpqZk15OTlLdE9UV3AxVzVRQkE5eV91QmlxSUZMdGhPdnR6RUE?oc=5\" target=\"_blank\">Düstere Transferprog",
@@ -279,6 +295,20 @@ window.FUPPES_DATA["transfers"] = {
    "fee": null,
    "clubs": [
     "Bayern"
+   ],
+   "tags": [
+    "Transfer"
+   ]
+  },
+  {
+   "title": "Italien-Legende Cannavaro traut Van Dijk einen Wechsel zum AC Mailand zu",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUXRsMVZUTWgwdTRqdTlCQkthRGlMZWlDLVRaNTBZNVBtYzZBS2o3ZnVfRDlmZ3Q4TnptOVJjbExnbGdIWnZ6b0xHOFZpZWdQajJ5Umx5a0Zsd0tNQmxubXpaaS1CblJaM2h5SmhHS1lCZmNNUlc4WUlYSFd3X29GQUdFRXNNTTB1TDdRbWRzaFFabzRnbXhwaFF1SFRIMVY4RGFhRktSelIwRUFsS3o3WEZKWlg5UdIBtgFBVV95cUxPUXRsMVZUTWgwdTRqdTlCQkthRGlMZWlDLVRaNTBZNVBtYzZBS2o3ZnVfRDlmZ3Q4TnptOVJjbExnbGdIWnZ6b0xHOFZpZWdQajJ5Umx5a0Zsd0tNQmxubXpaaS1CblJaM2h5SmhHS1lCZmNNUlc4WUlYSFd3X29GQUdFRXNNTTB1TDdRbWRzaFFabzRnbXhwaFF1SFRIMVY4RGFhRktSelIwRUFsS3o3WEZKWlg5UQ?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPUXRsMVZUTWgwdTRqdTlCQkthRGlMZWlDLVRaNTBZNVBtYzZBS2o3ZnVfRDlmZ3Q4TnptOVJjbExnbGdIWnZ6b0xHOFZpZWdQajJ5Umx5a0Zsd0tNQmxubXpaaS1CblJaM2h5SmhHS1lCZmNNUlc4WUlYSFd3X29GQUdFRXNNTTB1TDdRbWRzaFFabzRnbXhwaFF1SFRIMVY4RGFhRktSelIwRU",
+   "source": "Tribuna.com",
+   "date": "2026-11-27T06:53:17.000Z",
+   "fee": null,
+   "clubs": [
+    "AC Mailand"
    ],
    "tags": [
     "Transfer"
@@ -355,34 +385,6 @@ window.FUPPES_DATA["transfers"] = {
    "tags": [
     "Gerücht",
     "Verein"
-   ]
-  },
-  {
-   "title": "BVB: Vier spannende Transfer-Gerüchte im Umlauf",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQ2JIQkR2M3E1MzV3NkxybUhpZlp3MjU0RURBQ0hrVm9lVFl3S1d4OUVBZGZiajBPMXhldWgxQ1hBYXQtX1oxQ1ZqSXJDQTN3U1JqU3E3TnJnakVsWDIya3lnVkFCTVVfUEdQR2xGbTk0NGJabHpxSFlvTEE3S3J4UC1RRTZtbXRQWThfRDFGakxaRkNyTzRtMHozbnlhR0VCTkpZZQ?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQQ2JIQkR2M3E1MzV3NkxybUhpZlp3MjU0RURBQ0hrVm9lVFl3S1d4OUVBZGZiajBPMXhldWgxQ1hBYXQtX1oxQ1ZqSXJDQTN3U1JqU3E3TnJnakVsWDIya3lnVkFCTVVfUEdQR2xGbTk0NGJabHpxSFlvTEE3S3J4UC1RRTZtbXRQWThfRDFGakxaRkNyTzRtMHozbnlhR0VCTkpZZQ?oc=5\" t",
-   "source": "Fussball Transfers",
-   "date": "2026-11-26T12:44:00.000Z",
-   "fee": null,
-   "clubs": [
-    "BVB"
-   ],
-   "tags": [
-    "Gerücht"
-   ]
-  },
-  {
-   "title": "FC Bayern aufgepasst: Transfer-Flirt könnte bald vom Markt sein",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQOHFOQW5ocWpqWmNDZDVmVVNNYnJkN1FTM1VEa2o5T1VBWGdLM0tndTBtRnpwaVdlQVJTa0tKTk5RQnJKTzZwdzMzSnFISlUzZzZsTEFzQV9rbWJhakQwZHdJX2twLXRaUTJ2MmExX0V3YjhZMjZrRFZNMFpkM3ZsMXA4WjVjd3VLM1pSaHpocDB2MGFKU3pHZkFn?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQOHFOQW5ocWpqWmNDZDVmVVNNYnJkN1FTM1VEa2o5T1VBWGdLM0tndTBtRnpwaVdlQVJTa0tKTk5RQnJKTzZwdzMzSnFISlUzZzZsTEFzQV9rbWJhakQwZHdJX2twLXRaUTJ2MmExX0V3YjhZMjZrRFZNMFpkM3ZsMXA4WjVjd3VLM1pSaHpocDB2MGFKU3pHZkFn?oc=5\" target=\"_blank\"",
-   "source": "fussballdaten.de",
-   "date": "2026-11-26T10:54:00.000Z",
-   "fee": null,
-   "clubs": [
-    "Bayern"
-   ],
-   "tags": [
-    "Transfer"
    ]
   }
  ]
