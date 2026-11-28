@@ -1,6 +1,6 @@
 window.FUPPES_DATA = window.FUPPES_DATA || {};
 window.FUPPES_DATA["transfers"] = {
- "updated": "2026-11-28T09:04:07.868Z",
+ "updated": "2026-11-28T11:00:21.252Z",
  "rules": {
   "minFeeMio": 20,
   "topClubs": [
@@ -90,20 +90,6 @@ window.FUPPES_DATA["transfers"] = {
    ]
   },
   {
-   "title": "Younes Ebnoutalib: SGE reagiert auf BVB-Interesse",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPOTVQV1dZVmxiV3JPbnp3MXVRa09mQmU0ZWpNOHhxaWduZHowS29tOUlZcTBGUmt4eTA3Y3djQWpocmRKV2x0bVc0WlZKSHJTb1pDUDBHQVoxMFRWUWU4OE5LZUY5OFdhX2FCOVk3NWYwZzcyTnEyVUZ4WDJMT2EwVUpVbEZscUR1ZXBNeWZvYTR4WS1pbDVHMlZsei1paWIwWUxlSQ?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPOTVQV1dZVmxiV3JPbnp3MXVRa09mQmU0ZWpNOHhxaWduZHowS29tOUlZcTBGUmt4eTA3Y3djQWpocmRKV2x0bVc0WlZKSHJTb1pDUDBHQVoxMFRWUWU4OE5LZUY5OFdhX2FCOVk3NWYwZzcyTnEyVUZ4WDJMT2EwVUpVbEZscUR1ZXBNeWZvYTR4WS1pbDVHMlZsei1paWIwWUxlSQ?oc=5\" t",
-   "source": "Fussball Transfers",
-   "date": "2026-11-27T17:04:28.000Z",
-   "fee": null,
-   "clubs": [
-    "BVB"
-   ],
-   "tags": [
-    "Gerücht"
-   ]
-  },
-  {
    "title": "El Mala lässt wegen geplatztem BVB-Transfer aufhorchen",
    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQb3FPUDFoOUNOeG1tX3ktSTBZZ01ZSkJycjFnT2ctN2FSWEJDeFJiZzk2N3BwcUs1eUlKaWFaMk9MSW5EU0RlN3Vsd05IZEpNYUFpNzFYbExtOVBsaFVzRGVIOWl6WTVqQ0h5MnN4Nm5UNlFjRFRnQjdxeE81MF8tcENsN0FQMlJWN3U5amo1RG9xc3dROEU4UlB2YzFnSnc?oc=5",
    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQb3FPUDFoOUNOeG1tX3ktSTBZZ01ZSkJycjFnT2ctN2FSWEJDeFJiZzk2N3BwcUs1eUlKaWFaMk9MSW5EU0RlN3Vsd05IZEpNYUFpNzFYbExtOVBsaFVzRGVIOWl6WTVqQ0h5MnN4Nm5UNlFjRFRnQjdxeE81MF8tcENsN0FQMlJWN3U5amo1RG9xc3dROEU4UlB2YzFnSnc?oc=5\" target=\"",
@@ -160,20 +146,6 @@ window.FUPPES_DATA["transfers"] = {
    ]
   },
   {
-   "title": "Pochettinos Einfluss: So plant Manchester United – Klarheit bei Fernandes",
-   "link": "https://www.transfermarkt.de/so-plant-das-strauchelnde-man-united-fulhams-bassey-im-fokus-klarheit-bei-fernandes/view/news/491367",
-   "summary": "Das in Schlingern geratene Manchester United besch&auml;ftigt sich mit einer Verpflichtung von Calvin Bassey. Wie &bdquo;The Athletic&ldquo; berichtet, steht der Innenverteidiger des FC Fulham weit...",
-   "source": "Transfermarkt",
-   "date": "2026-11-27T14:52:07.000Z",
-   "fee": null,
-   "clubs": [
-    "Manchester United"
-   ],
-   "tags": [
-    "Fix"
-   ]
-  },
-  {
    "title": "Real Madrid verlängert mit Brahim Díaz bis 2031",
    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVF9aalVXbXRWMG9INUgxcEE3SVlfNjJfVjg0X1BHcFNNRG8ta1AwNFhnRUVSX3BmLThLUUNGcHQ4TVBsZi1jM2hRY1doc2xkcmkwOExKeFd0U2gwWURidkxUZXZWVTB1NWJtTlpRSkw5RWNvekdLaDlWU0JYRjdGRUFBa3U2MnVCTVI5Mnc5cG5uZ1FNRVd2R0RIRWV3YmtFTnpR?oc=5",
    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQVF9aalVXbXRWMG9INUgxcEE3SVlfNjJfVjg0X1BHcFNNRG8ta1AwNFhnRUVSX3BmLThLUUNGcHQ4TVBsZi1jM2hRY1doc2xkcmkwOExKeFd0U2gwWURidkxUZXZWVTB1NWJtTlpRSkw5RWNvekdLaDlWU0JYRjdGRUFBa3U2MnVCTVI5Mnc5cG5uZ1FNRVd2R0RIRWV3YmtFTnpR?oc=5\" tar",
@@ -217,14 +189,14 @@ window.FUPPES_DATA["transfers"] = {
    ]
   },
   {
-   "title": "Düstere Transferprognose für den FC Bayern",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOTk5ISGwwd0o0XzNycjhpZHpDOUUzYkRGM21udTFEVV8ydmo1QWJZRjRvZnd0b3JSSGo1R25QQnl1cHdzS18tMWxTZldmb29ZdkpucU5HbFhqakRySi00Z2E1TU9pZlpqZk15OTlLdE9UV3AxVzVRQkE5eV91QmlxSUZMdGhPdnR6RUE?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxOTk5ISGwwd0o0XzNycjhpZHpDOUUzYkRGM21udTFEVV8ydmo1QWJZRjRvZnd0b3JSSGo1R25QQnl1cHdzS18tMWxTZldmb29ZdkpucU5HbFhqakRySi00Z2E1TU9pZlpqZk15OTlLdE9UV3AxVzVRQkE5eV91QmlxSUZMdGhPdnR6RUE?oc=5\" target=\"_blank\">Düstere Transferprog",
+   "title": "Book verrät Winter-Transferplan des BVB",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQb0Nuem1pYzFBdWF3ZjJWS3RlS1d6ai1YNDZkYmJqejJQQkVpbWVzVW9aOERQSGl3bGpVeGtHY2ppOWc4NmtjSmtYT3Q4QkxPWmd3dkxfOXlXbFNUTElUaUttM2FiOUhQbFpTd3J0MTkza0gyTE5ZU0hNN2RCek84S0g3QlFCeGk4QW1mSmJ0SnJFNHRUcjBDeDlJS3lNaWswTTFwZzBLTjN4Q3ZtNG1qWklnWENWOXp1dmV5TQ?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQb0Nuem1pYzFBdWF3ZjJWS3RlS1d6ai1YNDZkYmJqejJQQkVpbWVzVW9aOERQSGl3bGpVeGtHY2ppOWc4NmtjSmtYT3Q4QkxPWmd3dkxfOXlXbFNUTElUaUttM2FiOUhQbFpTd3J0MTkza0gyTE5ZU0hNN2RCek84S0g3QlFCeGk4QW1mSmJ0SnJFNHRUcjBDeDlJS3lNaWswTTFwZzBLTjN4Q3",
    "source": "sport.de",
-   "date": "2026-11-27T12:41:00.000Z",
+   "date": "2026-11-27T12:56:00.000Z",
    "fee": null,
    "clubs": [
-    "Bayern"
+    "BVB"
    ],
    "tags": [
     "Transfer"
@@ -273,19 +245,17 @@ window.FUPPES_DATA["transfers"] = {
    ]
   },
   {
-   "title": "BVB buhlt um Younes Ebnoutalib: Eintracht Frankfurt setzt wohl klares Winter-Wechselverbot durch",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPYUpjRFh6UEtfb0xmb1RuNWJ6QVVFWVJnY1cxRjFCTF9qR3k0VTM3Q0xKeVVUZUpsTlFqemcxUklZUHgxNEJsXzNwLU4xbC1xSnluTEYxUHZRQk5DcHFmRHhDaENjY191MkVrcUdhanVWYWNPdm5OWHpkSDBHblNoV25fbnhZZXRxa3hHS2xnV2NzUHZrQU90Q2EwdmwtcTVLZnExamlVZmZ2RkZlNDI4SA?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPYUpjRFh6UEtfb0xmb1RuNWJ6QVVFWVJnY1cxRjFCTF9qR3k0VTM3Q0xKeVVUZUpsTlFqemcxUklZUHgxNEJsXzNwLU4xbC1xSnluTEYxUHZRQk5DcHFmRHhDaENjY191MkVrcUdhanVWYWNPdm5OWHpkSDBHblNoV25fbnhZZXRxa3hHS2xnV2NzUHZrQU90Q2EwdmwtcTVLZnExamlVZmZ2Rk",
-   "source": "Frankfurter Rundschau",
-   "date": "2026-11-26T21:44:48.000Z",
+   "title": "Italien-Legende Cannavaro traut Van Dijk einen Wechsel zum AC Mailand zu",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUXRsMVZUTWgwdTRqdTlCQkthRGlMZWlDLVRaNTBZNVBtYzZBS2o3ZnVfRDlmZ3Q4TnptOVJjbExnbGdIWnZ6b0xHOFZpZWdQajJ5Umx5a0Zsd0tNQmxubXpaaS1CblJaM2h5SmhHS1lCZmNNUlc4WUlYSFd3X29GQUdFRXNNTTB1TDdRbWRzaFFabzRnbXhwaFF1SFRIMVY4RGFhRktSelIwRUFsS3o3WEZKWlg5UdIBtgFBVV95cUxPUXRsMVZUTWgwdTRqdTlCQkthRGlMZWlDLVRaNTBZNVBtYzZBS2o3ZnVfRDlmZ3Q4TnptOVJjbExnbGdIWnZ6b0xHOFZpZWdQajJ5Umx5a0Zsd0tNQmxubXpaaS1CblJaM2h5SmhHS1lCZmNNUlc4WUlYSFd3X29GQUdFRXNNTTB1TDdRbWRzaFFabzRnbXhwaFF1SFRIMVY4RGFhRktSelIwRUFsS3o3WEZKWlg5UQ?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPUXRsMVZUTWgwdTRqdTlCQkthRGlMZWlDLVRaNTBZNVBtYzZBS2o3ZnVfRDlmZ3Q4TnptOVJjbExnbGdIWnZ6b0xHOFZpZWdQajJ5Umx5a0Zsd0tNQmxubXpaaS1CblJaM2h5SmhHS1lCZmNNUlc4WUlYSFd3X29GQUdFRXNNTTB1TDdRbWRzaFFabzRnbXhwaFF1SFRIMVY4RGFhRktSelIwRU",
+   "source": "Tribuna.com",
+   "date": "2026-11-27T06:53:17.000Z",
    "fee": null,
    "clubs": [
-    "BVB",
-    "Eintracht Frankfurt",
-    "Frankfurt"
+    "AC Mailand"
    ],
    "tags": [
-    "Gerücht"
+    "Transfer"
    ]
   },
   {
@@ -360,6 +330,20 @@ window.FUPPES_DATA["transfers"] = {
    ]
   },
   {
+   "title": "FC Bayern aufgepasst: Transfer-Flirt könnte bald vom Markt sein",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQOHFOQW5ocWpqWmNDZDVmVVNNYnJkN1FTM1VEa2o5T1VBWGdLM0tndTBtRnpwaVdlQVJTa0tKTk5RQnJKTzZwdzMzSnFISlUzZzZsTEFzQV9rbWJhakQwZHdJX2twLXRaUTJ2MmExX0V3YjhZMjZrRFZNMFpkM3ZsMXA4WjVjd3VLM1pSaHpocDB2MGFKU3pHZkFn?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQOHFOQW5ocWpqWmNDZDVmVVNNYnJkN1FTM1VEa2o5T1VBWGdLM0tndTBtRnpwaVdlQVJTa0tKTk5RQnJKTzZwdzMzSnFISlUzZzZsTEFzQV9rbWJhakQwZHdJX2twLXRaUTJ2MmExX0V3YjhZMjZrRFZNMFpkM3ZsMXA4WjVjd3VLM1pSaHpocDB2MGFKU3pHZkFn?oc=5\" target=\"_blank\"",
+   "source": "fussballdaten.de",
+   "date": "2026-11-26T10:54:00.000Z",
+   "fee": null,
+   "clubs": [
+    "Bayern"
+   ],
+   "tags": [
+    "Transfer"
+   ]
+  },
+  {
    "title": "Enthüllt: Haaland will Transfer zu Real Madrid",
    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONzdXOXhxNGNpMDU5YlpWeXhYU3FBMjFvM1pOYWhIakI1QmtkaDNEWFZ1V2syaHlRbmgxLUdCRXpaeTRZV1Y2cGNSNXRNUmdFRTJZcTJyNjE4V18xdzFlUHM5eF9CS0hDNGJOQmFRbzVEc3c5bE9PRThVVTFHc3B5R0oyNU42YVVk?oc=5",
    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxONzdXOXhxNGNpMDU5YlpWeXhYU3FBMjFvM1pOYWhIakI1QmtkaDNEWFZ1V2syaHlRbmgxLUdCRXpaeTRZV1Y2cGNSNXRNUmdFRTJZcTJyNjE4V18xdzFlUHM5eF9CS0hDNGJOQmFRbzVEc3c5bE9PRThVVTFHc3B5R0oyNU42YVVk?oc=5\" target=\"_blank\">Enthüllt: Haaland will ",
@@ -387,6 +371,20 @@ window.FUPPES_DATA["transfers"] = {
    "tags": [
     "Gerücht",
     "Personal"
+   ]
+  },
+  {
+   "title": "FC Bayern: Max Eberl stellt Transfer in Aussicht",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOR2g5TFlCQ2hkTmZBMHpiQmgxZXN4a00yMXdobmpjVWpSNlRoN1JPTUg1Q3kyVmJCTXFtOXd5YTIxNnpncXljVmZYcVVpYjhTMTlOSjVGNXd3V2VUNU1uMG4xVExEUklTamcxQV9CR3B1MlVzMXhTckxTLXNqUkc0UHlTSWdFMTYzRWZFZ0xWRVlFdEExQU9FZE92eUF5NUU?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOR2g5TFlCQ2hkTmZBMHpiQmgxZXN4a00yMXdobmpjVWpSNlRoN1JPTUg1Q3kyVmJCTXFtOXd5YTIxNnpncXljVmZYcVVpYjhTMTlOSjVGNXd3V2VUNU1uMG4xVExEUklTamcxQV9CR3B1MlVzMXhTckxTLXNqUkc0UHlTSWdFMTYzRWZFZ0xWRVlFdEExQU9FZE92eUF5NUU?oc=5\" target=\"",
+   "source": "Fussball Transfers",
+   "date": "2026-11-26T07:28:24.000Z",
+   "fee": null,
+   "clubs": [
+    "Bayern"
+   ],
+   "tags": [
+    "Transfer"
    ]
   }
  ]

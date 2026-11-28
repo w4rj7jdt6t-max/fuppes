@@ -1,18 +1,7 @@
 window.FUPPES_DATA = window.FUPPES_DATA || {};
 window.FUPPES_DATA["news-fc"] = {
- "updated": "2026-11-28T09:04:06.393Z",
+ "updated": "2026-11-28T11:00:20.517Z",
  "items": [
-  {
-   "title": "Wird die Extremismus-Klausel auf dem Transfermarkt zum Hindernis?",
-   "link": "https://geissblog.koeln/2026/11/wird-die-extremismus-klausel-auf-dem-transfermarkt-zum-hindernis/",
-   "summary": "Der 1. FC Köln hat in seiner neuen Satzung eine Extremismus-Klausel verankert. Diese gilt für Mitglieder. Doch könnte dieses gesellschaftlich wichtige Zeichen zur Hürde auf... Der Beitrag Wird die Extremismus-Klausel auf dem Transfermarkt zum Hindernis? erschien zuerst auf GEISSB",
-   "source": "GEISSBLOG",
-   "date": "2026-11-27T23:01:00.000Z",
-   "tags": [
-    "Gerücht",
-    "Vertrag"
-   ]
-  },
   {
    "title": "1. FC Köln: Diskussion um Trainer Wagner hält an",
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNlNhOTBtYXhvdXRjbVktb2pxeGZ5aXpFMWc4SmdIdGlYR29fV0hSMHJkb2c0Q3pQOHhiaTl6b1oxU1dmNGV3VFIyN3U1UXpDenF0cVVtSFR5bUl6LWMzWV9Cdi1ERW16OC1rNHEtdjlnMmFvQ3Z6eGQwYXlFbnJiSA?oc=5",
@@ -21,16 +10,6 @@ window.FUPPES_DATA["news-fc"] = {
    "date": "2026-11-27T18:07:25.000Z",
    "tags": [
     "Verein"
-   ]
-  },
-  {
-   "title": "Schwäbe-Fragezeichen vor Heimspiel: Torwart-Neuzugang braucht noch Zeit",
-   "link": "https://geissblog.koeln/2026/11/schwaebe-fragezeichen-vor-heimspiel-torwart-neuzugang-braucht-noch-zeit/",
-   "summary": "Marvin Schwäbe will den 1. FC Köln am Samstag gegen die SV Elversberg auf den Rasen führen. Ein Einsatz ist aber noch nicht zu 100... Der Beitrag Schwäbe-Fragezeichen vor Heimspiel: Torwart-Neuzugang braucht noch Zeit erschien zuerst auf GEISSBLOG .",
-   "source": "GEISSBLOG",
-   "date": "2026-11-27T17:30:00.000Z",
-   "tags": [
-    "Fix"
    ]
   },
   {
@@ -74,16 +53,6 @@ window.FUPPES_DATA["news-fc"] = {
    ]
   },
   {
-   "title": "Tränen nach Gladbach-Aus! El Mala: „Jetzt bin ich genau am richtigen Ort“",
-   "link": "https://geissblog.koeln/2026/11/traenen-nach-gladbach-aus-el-mala-jetzt-bin-ich-genau-am-richtigen-ort/",
-   "summary": "Sein Verbleib beim 1. FC Köln war die große Überraschung im Transfersommer 2026: Jetzt ist Said El Mala der Star beim FC und bekräftigt, dass... Der Beitrag Tränen nach Gladbach-Aus! El Mala: „Jetzt bin ich genau am richtigen Ort“ erschien zuerst auf GEISSBLOG .",
-   "source": "GEISSBLOG",
-   "date": "2026-11-27T13:38:39.000Z",
-   "tags": [
-    "Transfer"
-   ]
-  },
-  {
    "title": "\"Keine Gründe für Kritik\": El Mala stärkt Kölns Trainer Wagner",
    "link": "https://www.kicker.de/keine-gruende-fuer-kritik-el-mala-staerkt-koelns-trainer-wagner-1275615/artikel#omrss",
    "summary": "Mit zehn Punkten nach zehn Spieltagen absolviert der 1. FC Köln bislang eine durchwachsene Saison. Doch Nationalspieler Said El Mala sieht keinerlei Gründe, Trainer René Wagner infrage zu stellen.",
@@ -91,16 +60,6 @@ window.FUPPES_DATA["news-fc"] = {
    "date": "2026-11-27T13:00:53.000Z",
    "tags": [
     "Verein"
-   ]
-  },
-  {
-   "title": "Newsticker 1. FC Köln: Spielabsage! Gefrorener Rasen sorgt für Ausfall",
-   "link": "https://geissblog.koeln/2026/11/newsticker-1-fc-koeln-alle-nachrichten-zum-effzeh-im-newsticker-4/",
-   "summary": "Hier gibt es alle News zum 1. FC Köln: Bundesliga, Frauen-Bundesliga, die U21 in der Regionalliga West, die U19 und die U17 in den DFB-Nachwuchsligen.... Der Beitrag Newsticker 1. FC Köln: Spielabsage! Gefrorener Rasen sorgt für Ausfall erschien zuerst auf GEISSBLOG .",
-   "source": "GEISSBLOG",
-   "date": "2026-11-27T12:10:00.000Z",
-   "tags": [
-    "Personal"
    ]
   },
   {
@@ -125,16 +84,6 @@ window.FUPPES_DATA["news-fc"] = {
    ]
   },
   {
-   "title": "Wintertransfer: Steht dieser Flügelspieler beim FC auf dem Zettel?",
-   "link": "https://geissblog.koeln/2026/11/wintertransfer-steht-dieser-fluegelspieler-beim-fc-auf-dem-zettel/",
-   "summary": "Der 1. FC Köln sucht im Winter Verstärkung für die Offensive. Nun berichtet Sky, dass der FC an Tristan Degreef vom RSC Anderlecht interessiert sein... Der Beitrag Wintertransfer: Steht dieser Flügelspieler beim FC auf dem Zettel? erschien zuerst auf GEISSBLOG .",
-   "source": "GEISSBLOG",
-   "date": "2026-11-27T07:48:27.000Z",
-   "tags": [
-    "Gerücht"
-   ]
-  },
-  {
    "title": "1. FC Köln: Die kuriose Klausel bei Hoffnungsträger Mikey Moore",
    "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQWmdoWnRnNzNPM09BVkZWYndVLThoZUR0LUJNbjlqNmxrZG9wOE9tdkVVUVJiRzdOR3E4MHhKZ1RPdVNHekVxYWtrN2Y5S2hTRGl2YUUtNzBtQmlyRHFuTEZ1OUJxUjJxem5JRngyRVU4aXlMcUFYQTRlblNPU2pzWW5tLXZYX2VnT1RJQkFuS05KdFR3SjZJOU5aR01ycExFbEZ1TGd3Q3FNdGtSdmRlLTVKVndzdU9XTEdwMGhhQmhVSkJqOWRLMGRSV3VqeTgxVnY0eGR1bkYwME5iWkItRi1lc1JGNk03QlRIeHVn?oc=5",
    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxQWmdoWnRnNzNPM09BVkZWYndVLThoZUR0LUJNbjlqNmxrZG9wOE9tdkVVUVJiRzdOR3E4MHhKZ1RPdVNHekVxYWtrN2Y5S2hTRGl2YUUtNzBtQmlyRHFuTEZ1OUJxUjJxem5JRngyRVU4aXlMcUFYQTRlblNPU2pzWW5tLXZYX2VnT1RJQkFuS05KdFR3SjZJOU5aR01ycExFbEZ1TGd3Q3FNdG",
@@ -142,17 +91,6 @@ window.FUPPES_DATA["news-fc"] = {
    "date": "2026-11-27T06:17:35.000Z",
    "tags": [
     "Vertrag"
-   ]
-  },
-  {
-   "title": "Vierte Verletzung in 2026: Was ist bei Castro-Montes aus dem Gleichgewicht?",
-   "link": "https://geissblog.koeln/2026/11/vierte-verletzung-in-2026-was-ist-bei-castro-montes-aus-dem-gleichgewicht/",
-   "summary": "Er ist einer der Kreativspieler des 1. FC Köln. Doch Alessio Castro-Montes ist auch verletzungsanfällig. Der rechte Schienenspieler fällt nur schon zum vierten Mal in... Der Beitrag Vierte Verletzung in 2026: Was ist bei Castro-Montes aus dem Gleichgewicht? erschien zuerst auf GE",
-   "source": "GEISSBLOG",
-   "date": "2026-11-26T23:01:00.000Z",
-   "tags": [
-    "Gerücht",
-    "Personal"
    ]
   },
   {
@@ -177,16 +115,6 @@ window.FUPPES_DATA["news-fc"] = {
    ]
   },
   {
-   "title": "„Ist kein Testspiel!“ Warum bei Ache und El Mala Geduld gefragt ist",
-   "link": "https://geissblog.koeln/2026/11/ist-kein-testspiel-warum-es-fuer-ache-und-el-mala-nichts-mit-der-startelf-wird/",
-   "summary": "Wer stürmt für den 1. FC Köln gegen die SV Elversberg? Kommt es zur Rückkehr von Ragnar Ache? Oder zur Startelf-Premiere von Malek El Mala?... Der Beitrag „Ist kein Testspiel!“ Warum bei Ache und El Mala Geduld gefragt ist erschien zuerst auf GEISSBLOG .",
-   "source": "GEISSBLOG",
-   "date": "2026-11-26T16:30:00.000Z",
-   "tags": [
-    "Personal"
-   ]
-  },
-  {
    "title": "Rückenprobleme: Köln bangt um Torhüter und Kapitän Schwäbe",
    "link": "https://www.kicker.de/rueckenprobleme-koeln-bangt-um-torhueter-und-kapitaen-schwaebe-1275308/artikel#omrss",
    "summary": "Schlussmann Marvin Schwäbe ist beim 1. FC Köln eine verlässliche Konstante. Nun droht der 31-Jährige beim Heimspiel gegen die SV Elversberg auszufallen.",
@@ -202,6 +130,77 @@ window.FUPPES_DATA["news-fc"] = {
    "summary": "In der Liga ist der 1. FC Köln seit fünf Spielen sieglos und erzielte nur drei Tore. Mit Ragnar Ache steht Trainer René Wagner eine verlässliche Alternative im Angriff zur Verfügung - doch die Rangordnung im Sturm ist längst nicht in Stein gemeißelt.",
    "source": "kicker",
    "date": "2026-11-25T13:05:47.000Z",
+   "tags": [
+    "Gerücht",
+    "Verein"
+   ]
+  },
+  {
+   "title": "Ablösefrei statt Millionen-Gebühr: So wird Tottenhams Moore für Köln zum Schnäppchen",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNclMtMS1xTzl3U3ZkQjEzZTFXSVV6Qm9lTkNDSGhULTJMcWJINjZnZE9QUk96dkhRVjdDdUJYZjJ6c0wzb2ZobE5MQ0NRTnllX2p5SEFxWmdRYmJVRXRSVVpmaUwtc29GWTlrWVh4dkRGLXItZUZESzloM05TVVQwbTNHZldyUi1vWjZIRnRMVW9Va3Q3Z3kyR3FyX0dZRDVlRGFJN1B2c0trRFo4cEp5X251UUVHbC1zYVVIYVZ5MWUtZVptTVZNRA?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxNclMtMS1xTzl3U3ZkQjEzZTFXSVV6Qm9lTkNDSGhULTJMcWJINjZnZE9QUk96dkhRVjdDdUJYZjJ6c0wzb2ZobE5MQ0NRTnllX2p5SEFxWmdRYmJVRXRSVVpmaUwtc29GWTlrWVh4dkRGLXItZUZESzloM05TVVQwbTNHZldyUi1vWjZIRnRMVW9Va3Q3Z3kyR3FyX0dZRDVlRGFJN1B2c0trRF",
+   "source": "Transfermarkt",
+   "date": "2026-11-25T07:29:00.000Z",
+   "tags": [
+    "Transfer"
+   ]
+  },
+  {
+   "title": "Von der Jokerrolle in den Verletztenstatus: Castro-Montes fehlt Köln erneut",
+   "link": "https://www.kicker.de/von-der-jokerrolle-in-den-verletztenstatus-castro-montes-fehlt-koeln-erneut-1274501/artikel#omrss",
+   "summary": "Erst Ende September musste Alessio Castro-Montes eine Zwangspause einlegen, nun steht der Abwehrspieler dem 1. FC Köln verletzungsbedingt erneut nicht zur Verfügung.",
+   "source": "kicker",
+   "date": "2026-11-24T08:46:29.000Z",
+   "tags": [
+    "Personal"
+   ]
+  },
+  {
+   "title": "1. FC Köln: Trainer Wagner trauert Sieg nach – „Froh über den Punkt, aber...“",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQalpJUnBycVE5MGRfY19sMXluRlBwSlFKTWlLUW16ZG9SSXpRZFBEYUVwaDRPZy13NWVGRmlEeG83OXdFTjhwLTFmRkIwNWdXSmxjd2FBeEU4LWtIZmdBM1c5TDlaNTZNQzB1NGRWNDg3UXFWZ0NBNXpPdFc3RHZKMmppTVl2d25ycFd4QWFPbGs1Y09IN1dqWnZKMVhRZXBJTGw1aTdtWkpNckpOMkNCZk5rbl91eXh1b3BxM2ZuUFhfWHl2ZHZGbGR3?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQalpJUnBycVE5MGRfY19sMXluRlBwSlFKTWlLUW16ZG9SSXpRZFBEYUVwaDRPZy13NWVGRmlEeG83OXdFTjhwLTFmRkIwNWdXSmxjd2FBeEU4LWtIZmdBM1c5TDlaNTZNQzB1NGRWNDg3UXFWZ0NBNXpPdFc3RHZKMmppTVl2d25ycFd4QWFPbGs1Y09IN1dqWnZKMVhRZXBJTGw1aTdtWkpNck",
+   "source": "Joyn",
+   "date": "2026-11-21T17:08:09.000Z",
+   "tags": [
+    "Verein"
+   ]
+  },
+  {
+   "title": "Moore besiegt die Angst und zerstreut alle Gerüchte",
+   "link": "https://www.kicker.de/moore-besiegt-die-angst-und-zerstreut-alle-geruechte-1273429/artikel#omrss",
+   "summary": "Mikey Moore stand beim 1. FC Köln zuletzt stark in der Kritik. Nun bewies der 19-Jährige beim 1:1 in München, weshalb er große Fantasien weckt. Kann Moore das wiederholen?",
+   "source": "kicker",
+   "date": "2026-11-21T09:59:32.000Z",
+   "tags": [
+    "Gerücht"
+   ]
+  },
+  {
+   "title": "Vincent Kompany: FC-Bayern-München-Trainer auf Bank gegen 1. FC Köln",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPdGJ6UGVPck9TNHlkc056bWtNaTJUcEdteTdCYnZCclNjNmVTQlJraDQ3NWNsTG5hb0pobG5VaU5PbElCX0hibkE0WDk2OWFNNHFlRFFubElxbDVhWTRjWDF6dE5OVFhic291R1NrRU5aMG4zX29DTExUeEcwOTBpYTNkemdMalo5cDBnY0ZLMlhuc1o0ZmNvcjNVcVpKZ2hCdnJ4TVBjbGo5WlVkXzVtdUlOSEhNNG1jTk03Y3ZDb21DTUpJSjl6eXRKbS1HLUwwQlVsRzA4cVVwZw?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxPdGJ6UGVPck9TNHlkc056bWtNaTJUcEdteTdCYnZCclNjNmVTQlJraDQ3NWNsTG5hb0pobG5VaU5PbElCX0hibkE0WDk2OWFNNHFlRFFubElxbDVhWTRjWDF6dE5OVFhic291R1NrRU5aMG4zX29DTExUeEcwOTBpYTNkemdMalo5cDBnY0ZLMlhuc1o0ZmNvcjNVcVpKZ2hCdnJ4TVBjbGo5Wl",
+   "source": "FAZ",
+   "date": "2026-11-19T08:00:00.000Z",
+   "tags": [
+    "Verein"
+   ]
+  },
+  {
+   "title": "1. FC Köln beim FC Bayern: Trainer Wagner spürt keinen Druck vom FC",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZ3E3STlteHU5WGNnbGtCcmxKMmFzY09wYk5ERDBuVUZSZ0U5SmJJbTgzWXM4cXdmbE5ORjBCT05WOFNPOEYzQUs5TE1nclRuWUJ1MzJEQ1NVMzNXR19BNkhpWTBHX3c0eVEtVjRpZHA1MVdyZGpCT09hMjN3MnZoT25rSVFzR2gzekV0dXF0OC1MRHFSMjB6Ng?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPZ3E3STlteHU5WGNnbGtCcmxKMmFzY09wYk5ERDBuVUZSZ0U5SmJJbTgzWXM4cXdmbE5ORjBCT05WOFNPOEYzQUs5TE1nclRuWUJ1MzJEQ1NVMzNXR19BNkhpWTBHX3c0eVEtVjRpZHA1MVdyZGpCT09hMjN3MnZoT25rSVFzR2gzekV0dXF0OC1MRHFSMjB6Ng?oc=5\" target=\"_blank\">1",
+   "source": "sportschau.de",
+   "date": "2026-11-19T08:00:00.000Z",
+   "tags": [
+    "Verein"
+   ]
+  },
+  {
+   "title": "1. FC Köln: Wagner reagiert auf Trainer-Gerüchte",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOREFsYWY2TVc4Z3FrWDdpWlRYWFlQd1NnOUktb2R1eVloOERLSTBXQVZPQ1FOTEhIamltc0JRZEtzVnloaERPYmtTLUw1Q0ZTMXVTZlZGRWN1T0JMODdhZmRvaWJvNHM3dHo4d1h4TTRhZXpQNHZDcmIxOUtEamZuTFg3a2dPMDBCNHZQUElEUGlveGEwOWRj?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOREFsYWY2TVc4Z3FrWDdpWlRYWFlQd1NnOUktb2R1eVloOERLSTBXQVZPQ1FOTEhIamltc0JRZEtzVnloaERPYmtTLUw1Q0ZTMXVTZlZGRWN1T0JMODdhZmRvaWJvNHM3dHo4d1h4TTRhZXpQNHZDcmIxOUtEamZuTFg3a2dPMDBCNHZQUElEUGlveGEwOWRj?oc=5\" target=\"_blank\">1. ",
+   "source": "Fussball Transfers",
+   "date": "2026-11-18T15:51:41.000Z",
    "tags": [
     "Gerücht",
     "Verein"
