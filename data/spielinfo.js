@@ -1,6 +1,6 @@
 window.FUPPES_DATA = window.FUPPES_DATA || {};
 window.FUPPES_DATA["spielinfo"] = {
- "updated": "2026-11-28T05:15:17.923Z",
+ "updated": "2026-11-28T07:29:29.542Z",
  "fc": [
   {
    "start": "2025-11-29T14:30:00.000Z",
@@ -1839,66 +1839,7 @@ window.FUPPES_DATA["spielinfo"] = {
    "goals": []
   }
  ],
- "press": [
-  {
-   "who": "fc",
-   "id": "6KvmBNCVrPA",
-   "title": "Pressekonferenz vor Kiel | 1. FC Köln",
-   "date": "2026-11-27T13:09:03+00:00",
-   "url": "https://www.youtube.com/watch?v=6KvmBNCVrPA",
-   "summary": "Der 1. FC Köln trifft im DFB-Pokal-Achtelfinale auf Holstein Kiel. Das Spiel findet am Dienstag, 01. Dezember 2026, um 18.00 Uhr im Holstein Stadion statt. Im Vorfeld der Partie beantwortet Cheftrainer René Wagner in der Pressekonferenz am Montag, 30. November 2026, um 10.00 Uhr die Fragen der Presse. Der PK-Livestream",
-   "quotes": []
-  },
-  {
-   "who": "fc",
-   "id": "wYtdB3friYA",
-   "title": "Pressekonferenz vor Elversberg | 1. FC Köln",
-   "date": "2026-11-26T12:53:30+00:00",
-   "url": "https://www.youtube.com/watch?v=wYtdB3friYA",
-   "summary": "Der 1. FC Köln trifft am 11. Spieltag der Bundesliga-Saison 2026/27 auf die SV 07 Elversberg. Das Spiel findet am Samstag, 28. November 2026, um 15.30 Uhr im RheinEnergieSTADION statt. Im Vorfeld der Partie beantwortet Cheftrainer René Wagner in der Pressekonferenz am Donnerstag, 26. November 2026, um 13.30 Uhr die Fra",
-   "quotes": []
-  },
-  {
-   "who": "fc",
-   "id": "BfVoD04xELg",
-   "title": "„Eine Top Leistung“ - Pressekonferenz nach Bayern | FC Bayern München - 1. FC Köln 1:1",
-   "date": "2026-11-21T00:23:53+00:00",
-   "url": "https://www.youtube.com/watch?v=BfVoD04xELg",
-   "summary": "Nach dem 1:1-Unentschieden im Auswärtsspiel beim FC Bayern sprechen die beiden Cheftrainer Vincent Kompay und René Wagner mit der Presse in der Allianz Arena. #effzeh #FCBKOE",
-   "quotes": [
-    "Eine Top Leistung"
-   ]
-  },
-  {
-   "who": "fc",
-   "id": "i7K0Z1myins",
-   "title": "Pressekonferenz vor FC Bayern München | 1. FC Köln",
-   "date": "2026-11-18T12:57:31+00:00",
-   "url": "https://www.youtube.com/watch?v=i7K0Z1myins",
-   "summary": "Der 1. FC Köln trifft am 10. Spieltag der Bundesliga-Saison 2026/27 auf den FC Bayern München. Das Spiel findet am Freitag, 20. November 2026, um 20.30 Uhr im Allianz Arena statt. Im Vorfeld der Partie beantwortet Cheftrainer René Wagner in der Pressekonferenz am Mittwoch, 18. November 2026, um 13.30 Uhr die Fragen der",
-   "quotes": []
-  },
-  {
-   "who": "fc",
-   "id": "GlEa1quXd04",
-   "title": "„Das muss uns Mut geben\" - Pressekonferenz nach Leverkusen | 1. FC Köln - Bayer 04 1:2",
-   "date": "2026-11-08T22:14:48+00:00",
-   "url": "https://www.youtube.com/watch?v=GlEa1quXd04",
-   "summary": "René Wagner und Carles Martínez Novell nach dem rheinischen Duell in der PK. #KOEB04 #effzeh",
-   "quotes": [
-    "Das muss uns Mut geben"
-   ]
-  },
-  {
-   "who": "fc",
-   "id": "cRrkIXhAhWE",
-   "title": "Pressekonferenz vor Leverkusen | 1. FC Köln",
-   "date": "2026-11-06T13:15:50+00:00",
-   "url": "https://www.youtube.com/watch?v=cRrkIXhAhWE",
-   "summary": "Der 1. FC Köln trifft am 9. Spieltag der Bundesliga-Saison 2026/27 auf Bayer 04 Leverkusen. Das Spiel findet am Sonntag, 08. November 2026, um 15.30 Uhr im RheinEnergieSTADION statt. Im Vorfeld der Partie beantwortet Cheftrainer René Wagner in der Pressekonferenz am Freitag, 06. November 2026, um 13.30 Uhr die Fragen d",
-   "quotes": []
-  }
- ],
+ "press": [],
  "referees": [
   {
    "title": "Die Schiedsrichter-Ansetzungen am 10. Spieltag",

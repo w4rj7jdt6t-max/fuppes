@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T05:15:17.431Z",
+ "updated": "2026-11-28T07:29:28.828Z",
  "rules": {
   "minFeeMio": 20,
   "topClubs": [
@@ -43,6 +43,35 @@
  },
  "items": [
   {
+   "title": "Transfer-Ticker: Ex-Bayern-Star offen für Rückkehr",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUjlLUFhUMFlSLXBSM1RRSjlNc1ZFY1hyZ1gyRDVHR19UMFN1ejZtbm4zcVF1dVhoendKcDNBbC11Q2lVdGdoZVVMTVh4UENaTmExTV9Rc1NwcTJIcXVoaVhua25HYWNuT3BCZmU0TzJIVms0Zjl4UFBkYWliTWZ4ckhVQ3loUEdHZEV3aXRqMGVSa3M?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOUjlLUFhUMFlSLXBSM1RRSjlNc1ZFY1hyZ1gyRDVHR19UMFN1ejZtbm4zcVF1dVhoendKcDNBbC11Q2lVdGdoZVVMTVh4UENaTmExTV9Rc1NwcTJIcXVoaVhua25HYWNuT3BCZmU0TzJIVms0Zjl4UFBkYWliTWZ4ckhVQ3loUEdHZEV3aXRqMGVSa3M?oc=5\" target=\"_blank\">Transfer",
+   "source": "sport.de",
+   "date": "2026-11-28T06:50:00.000Z",
+   "fee": null,
+   "clubs": [
+    "Bayern"
+   ],
+   "tags": [
+    "Personal"
+   ]
+  },
+  {
+   "title": "BVB, News und Gerüchte: Said El Mala wollte gar nicht zu Borussia Dortmund wechseln",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQSDFuYXM1bmJwOUFUamlXUTBIZEdRVDdDRnFRYjU1T2EwejNOT0x1VjBkSkpOWjRRQndYaWJ6WDM3WDk4d0JXS2YtT2Y4YkJOV3drQ0t2TzdSWFBUNF9mSk1NYm5CNUxnNXZRT1d2QWRFSWdhOERuMzg3bHFzbVpIUnMwMTJKbjZ2MEhsZk5CYTlYN0V1NmdxelpVUVAwTWJxM3FlTFdZVXo4bkNsZHktTWU4elF2LXZ0U1NJUmFsMWVvNGpHdDM0R0dOeUk2RmRjWHZj?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxQSDFuYXM1bmJwOUFUamlXUTBIZEdRVDdDRnFRYjU1T2EwejNOT0x1VjBkSkpOWjRRQndYaWJ6WDM3WDk4d0JXS2YtT2Y4YkJOV3drQ0t2TzdSWFBUNF9mSk1NYm5CNUxnNXZRT1d2QWRFSWdhOERuMzg3bHFzbVpIUnMwMTJKbjZ2MEhsZk5CYTlYN0V1NmdxelpVUVAwTWJxM3FlTFdZVXo4bk",
+   "source": "SPOX.com",
+   "date": "2026-11-28T06:38:58.000Z",
+   "fee": null,
+   "clubs": [
+    "Dortmund",
+    "BVB"
+   ],
+   "tags": [
+    "Gerücht"
+   ]
+  },
+  {
    "title": "Verlässt Nwaneri den BVB im Winter? Neue Details zur Arsenal-Klausel",
    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVEh3ZkRGeDRwcjR1aXBqbEpsOWVtU09TSENPenZXMVJvT1lUNVJlbHk3US02a2dudERLTjhMTEpVck8yNUFuaVJUWDdPZlRzQldTd1FuLS1PS3RTTlRrSk9LeXpzcjVvTDVVNjdaQ0RmVnNWTWYyLUNHLUtqQWY5R05xRnk5N0hNQWRpS013Y3FNcXha?oc=5",
    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNVEh3ZkRGeDRwcjR1aXBqbEpsOWVtU09TSENPenZXMVJvT1lUNVJlbHk3US02a2dudERLTjhMTEpVck8yNUFuaVJUWDdPZlRzQldTd1FuLS1PS3RTTlRrSk9LeXpzcjVvTDVVNjdaQ0RmVnNWTWYyLUNHLUtqQWY5R05xRnk5N0hNQWRpS013Y3FNcXha?oc=5\" target=\"_blank\">Verläss",
@@ -56,20 +85,6 @@
    "tags": [
     "Gerücht",
     "Vertrag"
-   ]
-  },
-  {
-   "title": "Younes Ebnoutalib: SGE reagiert auf BVB-Interesse",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPOTVQV1dZVmxiV3JPbnp3MXVRa09mQmU0ZWpNOHhxaWduZHowS29tOUlZcTBGUmt4eTA3Y3djQWpocmRKV2x0bVc0WlZKSHJTb1pDUDBHQVoxMFRWUWU4OE5LZUY5OFdhX2FCOVk3NWYwZzcyTnEyVUZ4WDJMT2EwVUpVbEZscUR1ZXBNeWZvYTR4WS1pbDVHMlZsei1paWIwWUxlSQ?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPOTVQV1dZVmxiV3JPbnp3MXVRa09mQmU0ZWpNOHhxaWduZHowS29tOUlZcTBGUmt4eTA3Y3djQWpocmRKV2x0bVc0WlZKSHJTb1pDUDBHQVoxMFRWUWU4OE5LZUY5OFdhX2FCOVk3NWYwZzcyTnEyVUZ4WDJMT2EwVUpVbEZscUR1ZXBNeWZvYTR4WS1pbDVHMlZsei1paWIwWUxlSQ?oc=5\" t",
-   "source": "Fussball Transfers",
-   "date": "2026-11-27T17:04:28.000Z",
-   "fee": null,
-   "clubs": [
-    "BVB"
-   ],
-   "tags": [
-    "Gerücht"
    ]
   },
   {
@@ -186,14 +201,14 @@
    ]
   },
   {
-   "title": "Düstere Transferprognose für den FC Bayern",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOTk5ISGwwd0o0XzNycjhpZHpDOUUzYkRGM21udTFEVV8ydmo1QWJZRjRvZnd0b3JSSGo1R25QQnl1cHdzS18tMWxTZldmb29ZdkpucU5HbFhqakRySi00Z2E1TU9pZlpqZk15OTlLdE9UV3AxVzVRQkE5eV91QmlxSUZMdGhPdnR6RUE?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxOTk5ISGwwd0o0XzNycjhpZHpDOUUzYkRGM21udTFEVV8ydmo1QWJZRjRvZnd0b3JSSGo1R25QQnl1cHdzS18tMWxTZldmb29ZdkpucU5HbFhqakRySi00Z2E1TU9pZlpqZk15OTlLdE9UV3AxVzVRQkE5eV91QmlxSUZMdGhPdnR6RUE?oc=5\" target=\"_blank\">Düstere Transferprog",
+   "title": "Book verrät Winter-Transferplan des BVB",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQb0Nuem1pYzFBdWF3ZjJWS3RlS1d6ai1YNDZkYmJqejJQQkVpbWVzVW9aOERQSGl3bGpVeGtHY2ppOWc4NmtjSmtYT3Q4QkxPWmd3dkxfOXlXbFNUTElUaUttM2FiOUhQbFpTd3J0MTkza0gyTE5ZU0hNN2RCek84S0g3QlFCeGk4QW1mSmJ0SnJFNHRUcjBDeDlJS3lNaWswTTFwZzBLTjN4Q3ZtNG1qWklnWENWOXp1dmV5TQ?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQb0Nuem1pYzFBdWF3ZjJWS3RlS1d6ai1YNDZkYmJqejJQQkVpbWVzVW9aOERQSGl3bGpVeGtHY2ppOWc4NmtjSmtYT3Q4QkxPWmd3dkxfOXlXbFNUTElUaUttM2FiOUhQbFpTd3J0MTkza0gyTE5ZU0hNN2RCek84S0g3QlFCeGk4QW1mSmJ0SnJFNHRUcjBDeDlJS3lNaWswTTFwZzBLTjN4Q3",
    "source": "sport.de",
-   "date": "2026-11-27T12:41:00.000Z",
+   "date": "2026-11-27T12:56:00.000Z",
    "fee": null,
    "clubs": [
-    "Bayern"
+    "BVB"
    ],
    "tags": [
     "Transfer"
@@ -271,36 +286,6 @@
    ]
   },
   {
-   "title": "Abgang aus München? Gwinn lässt Zukunft beim FC Bayern offen",
-   "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQNHlLUGVtTlVITlhGZU1oeWZEYWtKWjJTMUIwb2tTeXFvMllYcmdVVHppZ0k0MnZ4N3R3a2JpdWZCNXJFYlZ3bXIyWFFneThMTFI1R01hUlRFTGFqYkhHYWxsM1Iwb3l6a3plaFNVQTFBYlZOa3M4UEh2SjNlOWRVRERBWHlmaXdoTlhVcy1yQ0V2cmpUOWlGSHozZERwNm94a1lZalBCeXZUUWZLQTRrd3M3V1R6VGhSWmtiWjFPWEZZMnkwMG1YckRmWTg0UnBjLWx0NlNxNXlZbkFvLW8yRllYd3lRM0xkZVBOX1MxUGs2dFBLUU82Qmpn?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-gFBVV95cUxQNHlLUGVtTlVITlhGZU1oeWZEYWtKWjJTMUIwb2tTeXFvMllYcmdVVHppZ0k0MnZ4N3R3a2JpdWZCNXJFYlZ3bXIyWFFneThMTFI1R01hUlRFTGFqYkhHYWxsM1Iwb3l6a3plaFNVQTFBYlZOa3M4UEh2SjNlOWRVRERBWHlmaXdoTlhVcy1yQ0V2cmpUOWlGSHozZERwNm94a1lZalBCeXZUUW",
-   "source": "T-Online",
-   "date": "2026-11-27T07:47:25.000Z",
-   "fee": null,
-   "clubs": [
-    "Bayern"
-   ],
-   "tags": [
-    "Gerücht"
-   ]
-  },
-  {
-   "title": "BVB buhlt um Younes Ebnoutalib: Eintracht Frankfurt setzt wohl klares Winter-Wechselverbot durch",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPYUpjRFh6UEtfb0xmb1RuNWJ6QVVFWVJnY1cxRjFCTF9qR3k0VTM3Q0xKeVVUZUpsTlFqemcxUklZUHgxNEJsXzNwLU4xbC1xSnluTEYxUHZRQk5DcHFmRHhDaENjY191MkVrcUdhanVWYWNPdm5OWHpkSDBHblNoV25fbnhZZXRxa3hHS2xnV2NzUHZrQU90Q2EwdmwtcTVLZnExamlVZmZ2RkZlNDI4SA?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPYUpjRFh6UEtfb0xmb1RuNWJ6QVVFWVJnY1cxRjFCTF9qR3k0VTM3Q0xKeVVUZUpsTlFqemcxUklZUHgxNEJsXzNwLU4xbC1xSnluTEYxUHZRQk5DcHFmRHhDaENjY191MkVrcUdhanVWYWNPdm5OWHpkSDBHblNoV25fbnhZZXRxa3hHS2xnV2NzUHZrQU90Q2EwdmwtcTVLZnExamlVZmZ2Rk",
-   "source": "Frankfurter Rundschau",
-   "date": "2026-11-26T21:44:48.000Z",
-   "fee": null,
-   "clubs": [
-    "BVB",
-    "Eintracht Frankfurt",
-    "Frankfurt"
-   ],
-   "tags": [
-    "Gerücht"
-   ]
-  },
-  {
    "title": "Gadou hat keine Ausstiegsklausel – der BVB kann die Ablöse frei verhandeln",
    "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxOR21FblNBYW1KQlVjSTljN1I1SXZqVWE1TGdNZzJUR2tQZWtSaGZFN3ZrNGZXWDdPMm1icExxZ1pvRkJnVUM0X0FlVnZjeDVYN0VEZEVhLVkzQU5xMWM4ZVNCYndoTkZoX3VGYW9hemxIbzQwUFJuWC1ER1dXWlBaVDBiY3NxcW5paEpxQzZvRllHT0FNZ0lSN3RITWlYdWs3cDZFekZ3THFXYTJlaF9PRVl1OGVmTEZMczQ5LXRBdVRlX1VReFhrY0pKT1JsR0I2ejB1YnY2V0FzQjdncDhzNzRXRmU1MGVWVHVsQVA3ZVNMdlhtVnFRUWkwNG1QZFBXTWt4UldnNFBnSi1BQ1ZVOFIyWV9rNnFkdWtUUFRxT0kxdGNVTU12X0NYX19NQTA?oc=5",
    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwJBVV95cUxOR21FblNBYW1KQlVjSTljN1I1SXZqVWE1TGdNZzJUR2tQZWtSaGZFN3ZrNGZXWDdPMm1icExxZ1pvRkJnVUM0X0FlVnZjeDVYN0VEZEVhLVkzQU5xMWM4ZVNCYndoTkZoX3VGYW9hemxIbzQwUFJuWC1ER1dXWlBaVDBiY3NxcW5paEpxQzZvRllHT0FNZ0lSN3RITWlYdWs3cDZFekZ3THFXYT",
@@ -369,6 +354,20 @@
    ],
    "tags": [
     "Gerücht"
+   ]
+  },
+  {
+   "title": "FC Bayern aufgepasst: Transfer-Flirt könnte bald vom Markt sein",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQOHFOQW5ocWpqWmNDZDVmVVNNYnJkN1FTM1VEa2o5T1VBWGdLM0tndTBtRnpwaVdlQVJTa0tKTk5RQnJKTzZwdzMzSnFISlUzZzZsTEFzQV9rbWJhakQwZHdJX2twLXRaUTJ2MmExX0V3YjhZMjZrRFZNMFpkM3ZsMXA4WjVjd3VLM1pSaHpocDB2MGFKU3pHZkFn?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQOHFOQW5ocWpqWmNDZDVmVVNNYnJkN1FTM1VEa2o5T1VBWGdLM0tndTBtRnpwaVdlQVJTa0tKTk5RQnJKTzZwdzMzSnFISlUzZzZsTEFzQV9rbWJhakQwZHdJX2twLXRaUTJ2MmExX0V3YjhZMjZrRFZNMFpkM3ZsMXA4WjVjd3VLM1pSaHpocDB2MGFKU3pHZkFn?oc=5\" target=\"_blank\"",
+   "source": "fussballdaten.de",
+   "date": "2026-11-26T10:54:00.000Z",
+   "fee": null,
+   "clubs": [
+    "Bayern"
+   ],
+   "tags": [
+    "Transfer"
    ]
   },
   {
